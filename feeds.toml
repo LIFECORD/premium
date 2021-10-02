@@ -1,5 +1,5 @@
 [publy]
-title = "PUBLY ─ ALL"
+title = "PUBLY ─ 전체보기"
 url = "https://publy.co/topic/all"
 entrySelector = "div.col-4.mb-4"
 titleSelector = "div > a > h6"
@@ -7,3 +7,13 @@ linkSelector = "a.d-block.position-relative"
 contentSelector = "p.font-size-xsmall.text-gray-600"
 waitForSelector = ".col-4.mb-4"
 timeout = 120
+
+[careet]
+title = "캐릿 ─ 전체보기"
+url = "https://www.careet.net/Content/All"
+entrySelector = "ul.list-wrap.gly-list.col3 li"
+titleSelector = "p.list-tit"
+linkSelector = "a"
+contentSelector = "p.txt-elp.list-desc"
+imageSelector = "div.list-thumb img.thumb-img"
+waitUntil = "networkidle"
