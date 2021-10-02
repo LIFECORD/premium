@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.longblack.co/</id>
+    <title>LongBlack</title>
+    <updated>2021-10-02T19:15:18.150Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.longblack.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에디 슬리먼 : 스키니 열풍의 창시자, 생 로랑과 셀린을 부활시키다]]></title>
+        <id>https://www.longblack.co/note/36</id>
+        <link href="https://www.longblack.co/note/36"/>
+        <updated>2021-10-02T19:15:17.475Z</updated>
+        <content type="html"><![CDATA[어릴 적 말랐다는 이유로 괴롭힘을 당한 소년이 있었어. 남들은 약점이라고 생각했을 텐데 그는 그 ‘스키니함’을 버젓이 하나의 새로운 스타일로 만들어 냈지. 남들이 욕을 하든 저주를<span class="circle-punctuation"></span>]]></content>
+    </entry>
+</feed>

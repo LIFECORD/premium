@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Oct 2021 19:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Oct 2021 19:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -6415,6 +6415,13 @@
             <pubDate>Sat, 02 Oct 2021 19:00:12 GMT</pubDate>
             <content:encoded><![CDATA[틱톡과 유튜브를 휩쓴 웹드라마의 주인공 대공개!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202108/0262c371-1b88-48b5-821a-0918675de5da_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[에디 슬리먼 : 스키니 열풍의 창시자, 생 로랑과 셀린을 부활시키다 (LongBlack)]]></title>
+            <link>https://www.longblack.co/note/36</link>
+            <guid>https://www.longblack.co/note/36</guid>
+            <pubDate>Sat, 02 Oct 2021 19:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[어릴 적 말랐다는 이유로 괴롭힘을 당한 소년이 있었어. 남들은 약점이라고 생각했을 텐데 그는 그 ‘스키니함’을 버젓이 하나의 새로운 스타일로 만들어 냈지. 남들이 욕을 하든 저주를<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
     </channel>
 </rss>
