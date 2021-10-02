@@ -1,8 +1,0 @@
-[publy]
-title = "PUBLY ─ ALL"
-url = "https://publy.co/topic/all"
-entrySelector = "div.col-4.mb-4"
-titleSelector = "div > a > h6"
-linkSelector = "a.d-block.position-relative"
-contentSelector = "p.font-size-xsmall.text-gray-600"
-waitUntil = "networkidle"
