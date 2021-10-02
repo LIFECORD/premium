@@ -17,3 +17,13 @@ linkSelector = "a"
 contentSelector = "p.txt-elp.list-desc"
 imageSelector = "div.list-thumb img.thumb-img"
 waitUntil = "networkidle"
+
+[longblack]
+title = "LongBlack"
+url = "https://www.longblack.co/"
+entrySelector = "div[id='main-today-note']"
+titleSelector = "h2.today-note-title"
+linkSelector = "a"
+contentSelector = "p.today-note-desc"
+imageSelector = "div.bg-img.ratio-4-3"
+waitUntil = "networkidle"
