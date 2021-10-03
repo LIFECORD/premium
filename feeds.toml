@@ -27,3 +27,12 @@ linkSelector = "a"
 contentSelector = "p.today-note-desc"
 imageSelector = "div.bg-img.ratio-4-3"
 waitUntil = "networkidle"
+
+[folin]
+title = "폴인"
+url = "https://www.folin.co/story"
+entrySelector = "ul.component-grid4.story-list-contain li a:nth-child(1):not(.activity-like)"
+titleSelector = "h3.item-title.line-clamp"
+linkSelector = "a"
+contentSelector = "ul.category-type"
+waitUntil = "networkidle"
