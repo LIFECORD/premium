@@ -1,5 +1,5 @@
 [publy]
-title = "PUBLY ─ 전체보기"
+title = "퍼블리"
 url = "https://publy.co/topic/all"
 entrySelector = "div.col-4.mb-4"
 titleSelector = "div > a > h6"
@@ -9,7 +9,7 @@ waitForSelector = ".col-4.mb-4"
 timeout = 120
 
 [careet]
-title = "캐릿 ─ 전체보기"
+title = "캐릿"
 url = "https://www.careet.net/Content/All"
 entrySelector = "ul.list-wrap.gly-list.col3 li"
 titleSelector = "p.list-tit"
@@ -19,7 +19,7 @@ imageSelector = "div.list-thumb img.thumb-img"
 waitUntil = "networkidle"
 
 [longblack]
-title = "LongBlack"
+title = "롱블랙"
 url = "https://www.longblack.co/"
 entrySelector = "div[id='main-today-note']"
 titleSelector = "h2.today-note-title"
@@ -31,10 +31,10 @@ waitUntil = "networkidle"
 [folin]
 title = "폴인"
 url = "https://www.folin.co/story"
-entrySelector = "ul.component-grid4.story-list-contain li a:nth-child(1):not(.activity-like)"
-titleSelector = "h3.item-title.line-clamp"
-linkSelector = "a"
-contentSelector = "ul.category-type"
+entrySelector = "//html/body/div[1]/div/article/section[2]/div/div/div[1]/ul/li"
+titleSelector = "//a/div/h3"
+linkSelector = "//a"
+contentSelector = "//a/div[2]/ul[1]"
 waitUntil = "networkidle"
 
 [bookjournalism]
