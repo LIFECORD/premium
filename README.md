@@ -1,7 +1,5 @@
-# Article
-https://lifecord.github.io/article/all.xml
-
-## Premium
-- https://lifecord.github.io/article/publy.xml
-- https://lifecord.github.io/article/careet.xml
-- https://lifecord.github.io/article/longblack.xml
+# Premium
+https://lifecord.github.io/premium/all.xml
+- https://lifecord.github.io/premium/publy.xml
+- https://lifecord.github.io/premium/careet.xml
+- https://lifecord.github.io/premium/longblack.xml
