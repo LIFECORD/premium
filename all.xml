@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Oct 2021 22:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Oct 2021 23:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -6424,6 +6424,14 @@
             <content:encoded><![CDATA[프라다와 루이비통, 그리고 삼성 갤럭시가 선택한 모델. 글로벌 음악 서비스 스포티파이에서 음원 성적 8위를 기록한 주인공. 그렇게 올린 연 수입만 130억 원인 능력자. 누군지 감<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[미술작품의 가격을 결정하는 조건 (폴인)]]></title>
+            <link>https://www.folin.co/story/1897</link>
+            <guid>https://www.folin.co/story/1897</guid>
+            <pubDate>Sun, 03 Oct 2021 23:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>라이프스타일</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['블록체인 트렌드' 가볍게 읽어보고 싶다면 (폴인)]]></title>
             <link>https://www.folin.co/story/1896</link>
             <guid>https://www.folin.co/story/1896</guid>
@@ -6701,14 +6709,6 @@
             <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>테크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['유퀴즈'의 인사이트가 남다를 수밖에 없는 이유 (폴인)]]></title>
-            <link>https://www.folin.co/story/1847</link>
-            <guid>https://www.folin.co/story/1847</guid>
-            <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<li>워크</li>
-                                <li>조직문화</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[북저널리즘 라디오 에피소드#7에선, 메르켈 이후 독일 그리고 국제 정치를 전망하고 대통령 발언으로 촉발된 식용견 논쟁에 관한 정치적 문화적 분석을 이야기합니다. (북저널리즘)]]></title>
