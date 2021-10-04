@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2021-10-04T22:11:25.928Z</updated>
+    <updated>2021-10-04T23:12:39.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 집 콘텐츠 매니저 무과수가 자기다움을 지키는 법]]></title>
+        <id>https://www.folin.co/story/1899</id>
+        <link href="https://www.folin.co/story/1899"/>
+        <updated>2021-10-04T23:12:27.206Z</updated>
+        <content type="html"><![CDATA[<li>워크</li>
+                                <li>조직문화</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미술작품의 가격을 결정하는 조건]]></title>
         <id>https://www.folin.co/story/1897</id>
@@ -283,13 +291,5 @@
         <updated>2021-10-03T17:13:20.348Z</updated>
         <content type="html"><![CDATA[<li>워크</li>
                                 <li>조직문화</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최고 AI 인재 모은 업스테이지, 왜 노하우 공개할까?]]></title>
-        <id>https://www.folin.co/story/1845</id>
-        <link href="https://www.folin.co/story/1845"/>
-        <updated>2021-10-03T17:13:20.351Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>테크</li>]]></content>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 22:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Oct 2021 23:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -6424,6 +6424,14 @@
             <content:encoded><![CDATA[옷에 대한 고민을 또 털어놓게 되네요. 저는 사실 옷을 좋아하거든요. 특히 소재가 좋은 옷을 걸쳤을 때의 만족감이란!&nbsp;그런데 문득 모든 옷은 환경에 해로운 게 아닌가 하<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘의 집 콘텐츠 매니저 무과수가 자기다움을 지키는 법 (폴인)]]></title>
+            <link>https://www.folin.co/story/1899</link>
+            <guid>https://www.folin.co/story/1899</guid>
+            <pubDate>Mon, 04 Oct 2021 23:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[<li>워크</li>
+                                <li>조직문화</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[미술작품의 가격을 결정하는 조건 (폴인)]]></title>
             <link>https://www.folin.co/story/1897</link>
             <guid>https://www.folin.co/story/1897</guid>
@@ -6701,14 +6709,6 @@
             <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
             <content:encoded><![CDATA[<li>워크</li>
                                 <li>조직문화</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최고 AI 인재 모은 업스테이지, 왜 노하우 공개할까? (폴인)]]></title>
-            <link>https://www.folin.co/story/1845</link>
-            <guid>https://www.folin.co/story/1845</guid>
-            <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>테크</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[리셀테크가 MZ세대의 새로운 투자 방식으로 주목받고 있다. 이제 리셀은 소수 마니아만의 전유물이 아니다. (북저널리즘)]]></title>
