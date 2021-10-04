@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2021-10-04T15:12:08.033Z</updated>
+    <updated>2021-10-04T16:16:46.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/56</id>
         <link href="https://www.longblack.co/note/56"/>
         <updated>2021-10-04T15:11:48.252Z</updated>
-        <content type="html"><![CDATA[옷과 관련한 고민을 또 털어놓게 되네요. 저는 사실 옷을 좋아하거든요. 특히 소재가 좋은 옷을 걸쳤을 때의 만족감이란! 그런데 어떻게 생각하면 모든 옷은 결국 유해한 게 아닌가 하<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[옷과 관련한 고민을 또 털어놓게 되네요. 저는 사실 옷을 좋아하거든요. 특히 소재가 좋은 옷을 걸쳤을 때의 만족감이란!&nbsp;그런데 어떻게 생각하면 모든 옷은 결국 유해한 게<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
