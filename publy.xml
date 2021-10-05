@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all</id>
     <title>퍼블리</title>
-    <updated>2021-10-05T09:11:20.888Z</updated>
+    <updated>2021-10-05T10:12:06.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d1t14blt4pnnxx.cloudfront.net/static/images/favicon/android-icon-192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한두 줄로 이해시키는 보고서 핵심문구 작성법]]></title>
+        <id>https://publy.co/content/6485?fr=category</id>
+        <link href="https://publy.co/content/6485?fr=category"/>
+        <updated>2021-10-05T10:11:27.320Z</updated>
+        <content type="html"><![CDATA[아티클
+              • 13분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부담은 덜고 논리는 더하자! 회의에서 설득력 있게 말하기]]></title>
         <id>https://publy.co/content/6483?fr=category</id>
