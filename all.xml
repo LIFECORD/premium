@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 07:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 08:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부담은 덜고 논리는 더하자! 회의에서 설득력 있게 말하기 (퍼블리)]]></title>
+            <link>https://publy.co/content/6483?fr=category</link>
+            <guid>https://publy.co/content/6483?fr=category</guid>
+            <pubDate>Tue, 05 Oct 2021 08:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[아티클
+              • 12분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[초기 팔로워는 어떻게 늘리지? 21만 팔로워의 인스타그램 성장 전략 (퍼블리)]]></title>
             <link>https://publy.co/content/6415?fr=category</link>
