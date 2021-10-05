@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 23:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 01:56:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -6200,6 +6200,22 @@
             <content:encoded><![CDATA[웹북]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[코로나19 이후 MZ세대 여행 트렌드 총정리 (캐릿)]]></title>
+            <link>https://www.careet.net/506</link>
+            <guid>https://www.careet.net/506</guid>
+            <pubDate>Tue, 05 Oct 2021 01:55:54 GMT</pubDate>
+            <content:encoded><![CDATA[여행에서 빼놓을 수 없는 숙소! MZ세대 픽은?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/b3b8959f-faf4-488c-a402-faa99635057f_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[MZ 입맛에 딱 맞는 패러디, 이벤트, 콜라보의 비밀! (캐릿)]]></title>
+            <link>https://www.careet.net/514</link>
+            <guid>https://www.careet.net/514</guid>
+            <pubDate>Tue, 05 Oct 2021 01:55:54 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 농심이 ‘열일한다’고 칭찬받는 3가지 이유 분석해드림]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/3512504c-cdbd-43b4-afcf-142de6ef7671_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[넷플릭스 <오징어 게임>이 MZ세대에게 미친 영향력은?! (캐릿)]]></title>
             <link>https://www.careet.net/513</link>
             <guid>https://www.careet.net/513</guid>
@@ -6424,7 +6440,7 @@
             <content:encoded><![CDATA[옷에 대한 고민을 또 털어놓게 되네요. 저는 사실 옷을 좋아하거든요. 특히 소재가 좋은 옷을 걸쳤을 때의 만족감이란!&nbsp;그런데 문득 모든 옷은 환경에 해로운 게 아닌가 하<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오늘의 집 콘텐츠 매니저 무과수가 자기다움을 지키는 법 (폴인)]]></title>
+            <title><![CDATA['오늘의 집' 콘텐츠 매니저는 B면을 어떻게 키웠나 (폴인)]]></title>
             <link>https://www.folin.co/story/1899</link>
             <guid>https://www.folin.co/story/1899</guid>
             <pubDate>Mon, 04 Oct 2021 23:12:27 GMT</pubDate>

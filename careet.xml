@@ -4,9 +4,25 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 23:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 01:56:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 이후 MZ세대 여행 트렌드 총정리]]></title>
+            <link>https://www.careet.net/506</link>
+            <guid>https://www.careet.net/506</guid>
+            <pubDate>Tue, 05 Oct 2021 01:55:54 GMT</pubDate>
+            <content:encoded><![CDATA[여행에서 빼놓을 수 없는 숙소! MZ세대 픽은?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/b3b8959f-faf4-488c-a402-faa99635057f_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[MZ 입맛에 딱 맞는 패러디, 이벤트, 콜라보의 비밀!]]></title>
+            <link>https://www.careet.net/514</link>
+            <guid>https://www.careet.net/514</guid>
+            <pubDate>Tue, 05 Oct 2021 01:55:54 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 농심이 ‘열일한다’고 칭찬받는 3가지 이유 분석해드림]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/3512504c-cdbd-43b4-afcf-142de6ef7671_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 <오징어 게임>이 MZ세대에게 미친 영향력은?!]]></title>
             <link>https://www.careet.net/513</link>
