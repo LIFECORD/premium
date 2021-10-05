@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 14:59:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 15:28:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -6449,11 +6449,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202108/0262c371-1b88-48b5-821a-0918675de5da_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[판게아 : 야생화 패딩과 포도껍질 가죽, 무해한 패션에 도전하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/56</link>
-            <guid>https://www.longblack.co/note/56</guid>
-            <pubDate>Mon, 04 Oct 2021 15:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[옷에 대한 고민을 또 털어놓게 되네요. 저는 사실 옷을 좋아하거든요. 특히 소재가 좋은 옷을 걸쳤을 때의 만족감이란!&nbsp;그런데 문득 모든 옷은 환경에 해로운 게 아닌가 하<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[에이카화이트 : 멋은 패션이 아니라 눈빛과 태도에서 나온다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/48</link>
+            <guid>https://www.longblack.co/note/48</guid>
+            <pubDate>Tue, 05 Oct 2021 15:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[혹시 좋아하는 배우 있어? 나는 윤계상을 좋아해! 그런데 어느 날 보니까 윤계상이 매번 같은 브랜드의 옷을 입는 거야. 시즌마다 200만원~300만원씩 이 브랜드의 티셔츠를 산대.<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['오늘의집' 커뮤니티 매니저는 B면을 어떻게 키웠나 (폴인)]]></title>
@@ -6743,6 +6743,13 @@
                                 <li>조직문화</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[달러구트 꿈 백화점이 성공은 하나의 현상이다. 달러구트 꿈 백화점은 어떻게 우리 시대의 베스트셀러가 됐나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/42967</link>
+            <guid>https://www.bookjournalism.com/books/42967</guid>
+            <pubDate>Tue, 05 Oct 2021 15:28:04 GMT</pubDate>
+            <content:encoded><![CDATA[꿈 속의 꿈 속의 꿈 속의 베스트셀러가 쓰여지는 법]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[리셀테크가 MZ세대의 새로운 투자 방식으로 주목받고 있다. 이제 리셀은 소수 마니아만의 전유물이 아니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/42896</link>
             <guid>https://www.bookjournalism.com/books/42896</guid>
@@ -6818,13 +6825,6 @@
             <guid>https://www.bookjournalism.com/books/42653</guid>
             <pubDate>Tue, 05 Oct 2021 06:13:37 GMT</pubDate>
             <content:encoded><![CDATA[의사들은 왜 그래?!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡플레이의  SNL 코리아가 화제다. 넷플릭스의 오징어게임도 난리다. 콘텐츠가 플랫폼을 흔들고 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/42612</link>
-            <guid>https://www.bookjournalism.com/books/42612</guid>
-            <pubDate>Tue, 05 Oct 2021 06:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[토요일! 토요일은 팡이다]]></content:encoded>
         </item>
     </channel>
 </rss>
