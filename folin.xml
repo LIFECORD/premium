@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2021-10-05T21:10:54.140Z</updated>
+    <updated>2021-10-05T22:11:00.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버·카카오가 창업 4개월 된 스타트업에 투자한 이유]]></title>
+        <id>https://www.folin.co/story/1898</id>
+        <link href="https://www.folin.co/story/1898"/>
+        <updated>2021-10-05T22:10:50.133Z</updated>
+        <content type="html"><![CDATA[<li>테크</li>
+                                <li>스타트업</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오늘의집' 커뮤니티 매니저는 B면을 어떻게 키웠나]]></title>
         <id>https://www.folin.co/story/1899</id>
@@ -283,13 +291,5 @@
         <updated>2021-10-03T17:13:20.346Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나도 회사도 성장하는 'B면' 프로젝트]]></title>
-        <id>https://www.folin.co/story/1849</id>
-        <link href="https://www.folin.co/story/1849"/>
-        <updated>2021-10-03T17:13:20.348Z</updated>
-        <content type="html"><![CDATA[<li>워크</li>
-                                <li>조직문화</li>]]></content>
     </entry>
 </feed>

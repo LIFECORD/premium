@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 21:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 22:11:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -6456,6 +6456,14 @@
             <content:encoded><![CDATA[나는 요즘 연쇄 창업가들에게 관심이 가. 한번도 어려운 창업을 두번이나 해내다니! 그것도 연달아 의미있는 성과를 낸 경우는 더 존경스럽고 말이야.&nbsp;<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[네이버·카카오가 창업 4개월 된 스타트업에 투자한 이유 (폴인)]]></title>
+            <link>https://www.folin.co/story/1898</link>
+            <guid>https://www.folin.co/story/1898</guid>
+            <pubDate>Tue, 05 Oct 2021 22:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[<li>테크</li>
+                                <li>스타트업</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['오늘의집' 커뮤니티 매니저는 B면을 어떻게 키웠나 (폴인)]]></title>
             <link>https://www.folin.co/story/1899</link>
             <guid>https://www.folin.co/story/1899</guid>
@@ -6733,14 +6741,6 @@
             <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나도 회사도 성장하는 'B면' 프로젝트 (폴인)]]></title>
-            <link>https://www.folin.co/story/1849</link>
-            <guid>https://www.folin.co/story/1849</guid>
-            <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<li>워크</li>
-                                <li>조직문화</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[달러구트 꿈 백화점이 성공은 하나의 현상이다. 달러구트 꿈 백화점은 어떻게 우리 시대의 베스트셀러가 됐나? (북저널리즘)]]></title>
