@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 09:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 10:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팀장은 다르게 써야 한다! 팀장의 글쓰기 (퍼블리)]]></title>
+            <link>https://publy.co/content/6491?fr=category</link>
+            <guid>https://publy.co/content/6491?fr=category</guid>
+            <pubDate>Wed, 06 Oct 2021 10:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[아티클
+              • 6분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[누가 요즘 지갑 들고 다녀? 페이 전쟁에 돈이 쏟아진다! (퍼블리)]]></title>
             <link>https://publy.co/content/6473?fr=category</link>

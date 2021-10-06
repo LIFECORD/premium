@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all</id>
     <title>퍼블리</title>
-    <updated>2021-10-06T09:11:51.854Z</updated>
+    <updated>2021-10-06T10:11:54.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d1t14blt4pnnxx.cloudfront.net/static/images/favicon/android-icon-192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[팀장은 다르게 써야 한다! 팀장의 글쓰기]]></title>
+        <id>https://publy.co/content/6491?fr=category</id>
+        <link href="https://publy.co/content/6491?fr=category"/>
+        <updated>2021-10-06T10:11:14.300Z</updated>
+        <content type="html"><![CDATA[아티클
+              • 6분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[누가 요즘 지갑 들고 다녀? 페이 전쟁에 돈이 쏟아진다!]]></title>
         <id>https://publy.co/content/6473?fr=category</id>
