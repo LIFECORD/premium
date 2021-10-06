@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 14:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 15:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -6481,11 +6481,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202108/0262c371-1b88-48b5-821a-0918675de5da_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[에이카화이트 : 멋은 패션이 아니라 눈빛과 태도에서 나온다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/48</link>
-            <guid>https://www.longblack.co/note/48</guid>
-            <pubDate>Tue, 05 Oct 2021 15:27:43 GMT</pubDate>
-            <content:encoded><![CDATA[나는 요즘 연쇄 창업가들에게 관심이 가. 한번도 어려운 창업을 두번이나 해내다니! 그것도 연달아 의미있는 성과를 낸 경우는 더 존경스럽고 말이야.&nbsp;<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[젠틀몬스터 : 선글라스에서 출발한 유니콘, 재무제표를 읽다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/49</link>
+            <guid>https://www.longblack.co/note/49</guid>
+            <pubDate>Wed, 06 Oct 2021 15:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[난 뒤를 파보는 걸 좋아해. 앞에서 보이는 게 다가 아니잖아. 잘 나가는 카페를 봐도 머릿 속으론 손익부터 계산해보지. 한달 매출은 얼마일지, 유지 비용은 얼마나 들지, 어림하면서<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버·카카오가 창업 4개월 된 스타트업에 투자한 이유 (폴인)]]></title>
@@ -6775,6 +6775,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[제프 베이조스는 세포의 노화 방지를 연구하는 알토스 랩스에 거액을 투자했다. 불로장생에 대한 인간의 욕망은 어디까지인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/43023</link>
+            <guid>https://www.bookjournalism.com/books/43023</guid>
+            <pubDate>Wed, 06 Oct 2021 15:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[생명 연장의 꿈]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[죽음 없는 육식의 시대다. 소고기부터 푸아그라까지 배양육 시장이 주목 받고 있다. 누가 푸드테크의 테슬라가 될 것인가. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/42970</link>
             <guid>https://www.bookjournalism.com/books/42970</guid>
@@ -6850,13 +6857,6 @@
             <guid>https://www.bookjournalism.com/books/42692</guid>
             <pubDate>Wed, 06 Oct 2021 14:10:57 GMT</pubDate>
             <content:encoded><![CDATA[포스트 메르켈]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 라디오 에피소드#6에선, 한중 빅테크 규제 비교, 2030표심을 잡는 비법, 농심의 대체육 공략법을 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/42651</link>
-            <guid>https://www.bookjournalism.com/audio/42651</guid>
-            <pubDate>Wed, 06 Oct 2021 14:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[카카오와 공동부유 그리고 2030표심과 농심]]></content:encoded>
         </item>
     </channel>
 </rss>
