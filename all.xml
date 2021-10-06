@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 00:37:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 01:57:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -6214,6 +6214,22 @@
             <guid>https://publy.co/set/15?fr=category</guid>
             <pubDate>Sat, 02 Oct 2021 12:02:00 GMT</pubDate>
             <content:encoded><![CDATA[웹북]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[별걸 다 꾸미는 Z세대의 필수템, 2021 스티커 트렌드! (캐릿)]]></title>
+            <link>https://www.careet.net/516</link>
+            <guid>https://www.careet.net/516</guid>
+            <pubDate>Wed, 06 Oct 2021 01:56:38 GMT</pubDate>
+            <content:encoded><![CDATA[해가 바뀌면 스티커 트렌드도 바뀐답니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/23c62bc9-6567-43a7-9bc2-6d3d93ca8dd8_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[반모자? 젬선? 검색으로 알 수 없는 제페토 문화·예절 알려드립니다! (캐릿)]]></title>
+            <link>https://www.careet.net/515</link>
+            <guid>https://www.careet.net/515</guid>
+            <pubDate>Wed, 06 Oct 2021 01:56:38 GMT</pubDate>
+            <content:encoded><![CDATA[제페토와 콜라보를 생각중이라면 꼭 읽어보셔야 합니다!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/c23e6618-7089-4c42-9352-cd232a0d34f4_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[코로나19 이후 MZ세대 여행 트렌드 총정리 (캐릿)]]></title>
