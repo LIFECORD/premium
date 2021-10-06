@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2021-10-06T21:10:27.653Z</updated>
+    <updated>2021-10-06T22:10:55.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프라이탁·이솝 함께 품은 제주 골목의 비밀]]></title>
+        <id>https://www.folin.co/story/1901</id>
+        <link href="https://www.folin.co/story/1901"/>
+        <updated>2021-10-06T22:10:44.295Z</updated>
+        <content type="html"><![CDATA[<li>공간</li>
+                                <li>라이프스타일</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버·카카오가 창업 4개월 된 스타트업에 투자한 이유]]></title>
         <id>https://www.folin.co/story/1898</id>
@@ -283,13 +291,5 @@
         <updated>2021-10-03T17:13:20.343Z</updated>
         <content type="html"><![CDATA[<li>라이프스타일</li>
                                 <li>커리어</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페이스북에서 24만 Z세대 사로잡은 비결, 대학생너구리]]></title>
-        <id>https://www.folin.co/story/1853</id>
-        <link href="https://www.folin.co/story/1853"/>
-        <updated>2021-10-03T17:13:20.346Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content>
     </entry>
 </feed>

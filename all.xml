@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 21:10:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 22:10:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -6488,6 +6488,14 @@
             <content:encoded><![CDATA[난 뒤를 파보는 걸 좋아해. 앞에서 보이는 게 다가 아니잖아. 잘 나가는 카페를 봐도 머릿 속으론 손익부터 계산해보지. 한달 매출은 얼마일지, 유지 비용은 얼마나 들지, 어림하면서<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[프라이탁·이솝 함께 품은 제주 골목의 비밀 (폴인)]]></title>
+            <link>https://www.folin.co/story/1901</link>
+            <guid>https://www.folin.co/story/1901</guid>
+            <pubDate>Wed, 06 Oct 2021 22:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[<li>공간</li>
+                                <li>라이프스타일</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[네이버·카카오가 창업 4개월 된 스타트업에 투자한 이유 (폴인)]]></title>
             <link>https://www.folin.co/story/1898</link>
             <guid>https://www.folin.co/story/1898</guid>
@@ -6765,14 +6773,6 @@
             <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
             <content:encoded><![CDATA[<li>라이프스타일</li>
                                 <li>커리어</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[페이스북에서 24만 Z세대 사로잡은 비결, 대학생너구리 (폴인)]]></title>
-            <link>https://www.folin.co/story/1853</link>
-            <guid>https://www.folin.co/story/1853</guid>
-            <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제프 베이조스는 세포의 노화 방지를 연구하는 알토스 랩스에 거액을 투자했다. 불로장생에 대한 인간의 욕망은 어디까지인가? (북저널리즘)]]></title>
