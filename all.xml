@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 05:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 07:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -6759,6 +6759,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[죽음 없는 육식의 시대다. 소고기부터 푸아그라까지 배양육 시장이 주목 받고 있다. 누가 푸드테크의 테슬라가 될 것인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/42970</link>
+            <guid>https://www.bookjournalism.com/books/42970</guid>
+            <pubDate>Wed, 06 Oct 2021 07:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[푸드테크의 테슬라들]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[달러구트 꿈 백화점이 성공은 하나의 현상이다. 달러구트 꿈 백화점은 어떻게 우리 시대의 베스트셀러가 됐나? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/42967</link>
             <guid>https://www.bookjournalism.com/books/42967</guid>
@@ -6834,13 +6841,6 @@
             <guid>https://www.bookjournalism.com/audio/42651</guid>
             <pubDate>Tue, 05 Oct 2021 06:13:37 GMT</pubDate>
             <content:encoded><![CDATA[카카오와 공동부유 그리고 2030표심과 농심]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[9월 넷째 주 - 시스템을 떠받치는 건 제도가 아니라 사람입니다. 우리는 그걸 한빛이라고 부릅니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/42653</link>
-            <guid>https://www.bookjournalism.com/books/42653</guid>
-            <pubDate>Tue, 05 Oct 2021 06:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[의사들은 왜 그래?!]]></content:encoded>
         </item>
     </channel>
 </rss>
