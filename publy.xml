@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all</id>
     <title>퍼블리</title>
-    <updated>2021-10-07T00:37:32.645Z</updated>
+    <updated>2021-10-07T02:00:32.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d1t14blt4pnnxx.cloudfront.net/static/images/favicon/android-icon-192.png</icon>
     <entry>
-        <title type="html"><![CDATA[팀장은 다르게 써야 한다! 팀장의 글쓰기]]></title>
+        <title type="html"><![CDATA[팀장의 글쓰기는 주니어와 달라야 한다]]></title>
         <id>https://publy.co/content/6491?fr=category</id>
         <link href="https://publy.co/content/6491?fr=category"/>
         <updated>2021-10-06T10:11:14.300Z</updated>

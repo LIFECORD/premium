@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 00:37:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 02:00:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모트모트가 직접 말하는 인스타 17만 팔로우의 비결은?]]></title>
+            <link>https://www.careet.net/511</link>
+            <guid>https://www.careet.net/511</guid>
+            <pubDate>Thu, 07 Oct 2021 02:00:03 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대가 적극 참여하는 브랜드 SNS 계정과 챌린지를 만들고 싶다면?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/41b5aefc-c3e5-44a8-81bc-f909ca99f365_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[별걸 다 꾸미는 Z세대의 필수템, 2021 스티커 트렌드!]]></title>
             <link>https://www.careet.net/516</link>

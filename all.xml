@@ -4,11 +4,11 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 00:37:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 02:00:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[팀장은 다르게 써야 한다! 팀장의 글쓰기 (퍼블리)]]></title>
+            <title><![CDATA[팀장의 글쓰기는 주니어와 달라야 한다 (퍼블리)]]></title>
             <link>https://publy.co/content/6491?fr=category</link>
             <guid>https://publy.co/content/6491?fr=category</guid>
             <pubDate>Wed, 06 Oct 2021 10:11:14 GMT</pubDate>
@@ -6232,6 +6232,14 @@
             <content:encoded><![CDATA[웹북]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[모트모트가 직접 말하는 인스타 17만 팔로우의 비결은? (캐릿)]]></title>
+            <link>https://www.careet.net/511</link>
+            <guid>https://www.careet.net/511</guid>
+            <pubDate>Thu, 07 Oct 2021 02:00:03 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대가 적극 참여하는 브랜드 SNS 계정과 챌린지를 만들고 싶다면?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/41b5aefc-c3e5-44a8-81bc-f909ca99f365_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[별걸 다 꾸미는 Z세대의 필수템, 2021 스티커 트렌드! (캐릿)]]></title>
             <link>https://www.careet.net/516</link>
             <guid>https://www.careet.net/516</guid>
@@ -6488,7 +6496,7 @@
             <content:encoded><![CDATA[난 뒤를 파보는 걸 좋아해. 앞에서 보이는 게 다가 아니잖아. 잘 나가는 카페를 봐도 머릿 속으론 손익부터 계산해보지. 한달 매출은 얼마일지, 유지 비용은 얼마나 들지, 어림하면서<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[프라이탁·이솝 함께 품은 제주 골목의 비밀 (폴인)]]></title>
+            <title><![CDATA[제주 탑동의 디앤디파트먼트, 어떻게 탄생했을까? (폴인)]]></title>
             <link>https://www.folin.co/story/1901</link>
             <guid>https://www.folin.co/story/1901</guid>
             <pubDate>Wed, 06 Oct 2021 22:10:44 GMT</pubDate>
