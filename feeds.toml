@@ -6,6 +6,7 @@ titleSelector = "h6.text-gray-900.font-weight-normal.font-size-medium.text-trunc
 linkSelector = "a.d-block.position-relative"
 contentSelector = "p.font-size-xsmall.text-gray-600"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [careet]
 title = "캐릿"
