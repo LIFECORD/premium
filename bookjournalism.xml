@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2021-10-07T06:13:44.954Z</updated>
+    <updated>2021-10-08T14:43:13.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[10월 둘째 주 - 페이스북의 미래는 어떻게 될까요?]]></title>
+        <id>https://www.bookjournalism.com/books/43100</id>
+        <link href="https://www.bookjournalism.com/books/43100"/>
+        <updated>2021-10-08T14:43:13.081Z</updated>
+        <content type="html"><![CDATA[예정된 전쟁]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[환경에 대한 경각심이 높아지면서 화학 물질로 수확량을 끌어 올리는 기존의 농업 방식은 설 자리를 잃고 있다. 한편 농업 혁명은 환경 보존과 식량 부족 문제를 동시에 해결해야 한다.]]></title>
+        <id>https://www.bookjournalism.com/books/43042</id>
+        <link href="https://www.bookjournalism.com/books/43042"/>
+        <updated>2021-10-08T14:43:13.082Z</updated>
+        <content type="html"><![CDATA[농업의 종말]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지역 기반 커뮤니티에서 ‘동네 친구’ 만드는 게 대세다. 하지만 ‘동네’의 개념은 누가 결정하나. 당신에게 ‘우리 동네’는 어디까지인가.]]></title>
+        <id>https://www.bookjournalism.com/books/43051</id>
+        <link href="https://www.bookjournalism.com/books/43051"/>
+        <updated>2021-10-08T14:43:13.083Z</updated>
+        <content type="html"><![CDATA[어디까지 당근이세요?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제프 베이조스는 세포의 노화 방지를 연구하는 알토스 랩스에 거액을 투자했다. 불로장생에 대한 인간의 욕망은 어디까지인가?]]></title>
         <id>https://www.bookjournalism.com/books/43023</id>
@@ -67,26 +88,5 @@
         <link href="https://www.bookjournalism.com/books/42796"/>
         <updated>2021-10-06T14:10:57.528Z</updated>
         <content type="html"><![CDATA[부활한 코닥, 분발할 코닥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국이 오커스로 태평양 전선에 복귀했다. 이제 미중은 제국의 군도에서 군사적으로 대치하는 사이가 됐다. 누가 태평양의 주인이 될 것인가.]]></title>
-        <id>https://www.bookjournalism.com/books/42717</id>
-        <link href="https://www.bookjournalism.com/books/42717"/>
-        <updated>2021-10-06T14:10:57.529Z</updated>
-        <content type="html"><![CDATA[신태평양 전쟁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탈(脫)실리콘밸리를 외치는 테크 기업이 늘고 있다. 실리콘밸리의 대안으로 떠오른 뉴욕은 미국 IT업계의 새 허브가 될 수 있을까.]]></title>
-        <id>https://www.bookjournalism.com/books/42749</id>
-        <link href="https://www.bookjournalism.com/books/42749"/>
-        <updated>2021-10-06T14:10:57.530Z</updated>
-        <content type="html"><![CDATA[실리콘밸리 다음의 실리콘앨리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메르켈 시대가 막을 내린다. 독일 국민은 엄마를 대신해서 로봇을 새로운 리더로 선택했다. 유럽 정치 무대에선 이미 메르켈의 공백이 크다.]]></title>
-        <id>https://www.bookjournalism.com/books/42692</id>
-        <link href="https://www.bookjournalism.com/books/42692"/>
-        <updated>2021-10-06T14:10:57.533Z</updated>
-        <content type="html"><![CDATA[포스트 메르켈]]></content>
     </entry>
 </feed>

@@ -4,9 +4,25 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 06:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 14:43:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쉿! 우리끼리 봐요. Z세대 팬 비율이 높은 아티스트 LIST]]></title>
+            <link>https://www.careet.net/518</link>
+            <guid>https://www.careet.net/518</guid>
+            <pubDate>Fri, 08 Oct 2021 14:42:41 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대 픽 아티스트를 알면 Z세대가 원하는 모든 것을 알 수 있다!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/ad2529c1-f8e1-4bd4-a5c5-febc3f439d79_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<오징어 게임> 코인 타고 떡상한 아이템 모음.zip]]></title>
+            <link>https://www.careet.net/517</link>
+            <guid>https://www.careet.net/517</guid>
+            <pubDate>Fri, 08 Oct 2021 14:42:41 GMT</pubDate>
+            <content:encoded><![CDATA[지금 SNS에서 떡상중인 오징어 게임 퀴즈, 필터, 유행어가 있다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/73ce74fa-f186-4d1c-9f70-2e43ed331fc1_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[모트모트가 직접 말하는 인스타 17만 팔로우의 비결은?]]></title>
             <link>https://www.careet.net/511</link>
