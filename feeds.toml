@@ -17,6 +17,7 @@ linkSelector = "a"
 contentSelector = "p.txt-elp.list-desc"
 imageSelector = "div.list-thumb img.thumb-img"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [longblack]
 title = "롱블랙"
@@ -27,6 +28,7 @@ linkSelector = "a"
 contentSelector = "p.today-note-desc"
 imageSelector = "div.bg-img.ratio-4-3"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [folin]
 title = "폴인"
@@ -36,6 +38,7 @@ titleSelector = "//a/div/h3"
 linkSelector = "//a"
 contentSelector = "//a/div[2]/ul[1]"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [bookjournalism]
 title = "북저널리즘"
@@ -46,3 +49,4 @@ linkSelector = "a.link-inner"
 contentSelector = "span.post-title"
 imageSelector = "span.cover"
 waitUntil = "networkidle"
+onFail = "stale"
