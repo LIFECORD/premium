@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 14:49:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 15:11:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -351,11 +351,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202108/0262c371-1b88-48b5-821a-0918675de5da_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[누데이크 : 세상 본 적 없는 ‘초현실 디저트’를 기획하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/58</link>
-            <guid>https://www.longblack.co/note/58</guid>
-            <pubDate>Fri, 08 Oct 2021 14:42:50 GMT</pubDate>
-            <content:encoded><![CDATA[지난 주말, 스타필드 하남에 다녀왔습니다. 젠틀몬스터가 이 곳에 카페를 열었다고 해서 궁금해졌거든요. 디저트 카페 누데이크NUDAKE.&nbsp;<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[콘란 : 영국인의 일상을 바꿔놓은 라이프스타일의 대부 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/51</link>
+            <guid>https://www.longblack.co/note/51</guid>
+            <pubDate>Fri, 08 Oct 2021 15:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[전 가끔 이케아 매장을 갑니다. 사러 가는 게 아니라, 구경하러 가는 거예요. 이케아를 보면, 지금의 사람들이 어떻게 살고 있는지가 보이거든요. 평범하면서도 감각을 추구하는 사람들<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[부산의 영어학원에 팬클럽이 있다? (폴인)]]></title>
