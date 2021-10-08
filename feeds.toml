@@ -5,8 +5,7 @@ entrySelector = "div.col-4.mb-4"
 titleSelector = "div > a > h6"
 linkSelector = "a.d-block.position-relative"
 contentSelector = "p.font-size-xsmall.text-gray-600"
-waitForSelector = ".col-4.mb-4"
-timeout = 120
+waitUntil = "networkidle"
 
 [careet]
 title = "캐릿"
