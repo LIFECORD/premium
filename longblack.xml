@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2021-10-09T15:10:48.144Z</updated>
+    <updated>2021-10-09T16:15:14.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/60</id>
         <link href="https://www.longblack.co/note/60"/>
         <updated>2021-10-09T15:10:17.870Z</updated>
-        <content type="html"><![CDATA[꼭 해보고 싶은 게임이 생겼습니다. 최근에 게임에서 조금 멀어지기로 마음 먹은 저였는데 말이죠.&nbsp;언제부터인가 게임 속 화려한 그래픽, 현란한 스킬이 피로해졌습니다. 그런<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[꼭 해보고 싶은 게임이 생겼어요! 게임에서 조금 멀어지기로 마음 먹은 저였는데 말이죠.&nbsp;언제부터인가 게임이 피로해지더라고요. 화려하고 현란한 화면 때문에요. 그런데 이런<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
