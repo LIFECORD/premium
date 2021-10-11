@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 21:10:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 22:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -358,6 +358,14 @@
             <content:encoded><![CDATA[계획 없이 서울을 떠도는 걸 좋아합니다. 걷다가 물을 한 병 사거나, 시원한 맥주를 마시고 싶을 땐 슈퍼마켓이나 편의점에 가죠. 하지만 가끔은 아쉬움을 느껴요.멋진 카페나 빵집은<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[N잡러의 세상에서 무과수가 크루를 찾는 법 (폴인)]]></title>
+            <link>https://www.folin.co/story/1903</link>
+            <guid>https://www.folin.co/story/1903</guid>
+            <pubDate>Mon, 11 Oct 2021 22:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[<li>워크</li>
+                                <li>조직문화</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[부산의 영어학원에 팬클럽이 있다? (폴인)]]></title>
             <link>https://www.folin.co/story/1900</link>
             <guid>https://www.folin.co/story/1900</guid>
@@ -637,12 +645,88 @@
                                 <li>조직문화</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[요시 셰피 "ESG 도입, 중소기업에도 기회 있다" (폴인)]]></title>
-            <link>https://www.folin.co/story/1852</link>
-            <guid>https://www.folin.co/story/1852</guid>
-            <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content:encoded>
+            <title><![CDATA[스우파가 연일 화제다. 쇼미더머니는 시즌 10에 돌입했다. 거대 방송플랫폼들은 스트리트 서브컬쳐에 어떻게 젠트리피케이션을 일으켰나. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/43202</link>
+            <guid>https://www.bookjournalism.com/books/43202</guid>
+            <pubDate>Mon, 11 Oct 2021 22:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[서브컬쳐 젠트리피케이션]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드#8에선, 국내 리셀 테크 시장을 전망하고 커뮤니티 플랫폼으로 확장하고 있는 당근마켓을 분석하고 항노화 바이오 테크 시장의 미래를 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/43118</link>
+            <guid>https://www.bookjournalism.com/audio/43118</guid>
+            <pubDate>Mon, 11 Oct 2021 22:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[당근을 리셀하면 생명연장이 될까?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[10월 둘째 주 - 페이스북의 미래는 어떻게 될까요? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/43100</link>
+            <guid>https://www.bookjournalism.com/books/43100</guid>
+            <pubDate>Mon, 11 Oct 2021 22:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[예정된 전쟁]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[환경에 대한 경각심이 높아지면서 화학 물질로 수확량을 끌어 올리는 기존의 농업 방식은 설 자리를 잃고 있다. 한편 농업 혁명은 환경 보존과 식량 부족 문제를 동시에 해결해야 한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/43042</link>
+            <guid>https://www.bookjournalism.com/books/43042</guid>
+            <pubDate>Mon, 11 Oct 2021 22:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[농업의 종말]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[지역 기반 커뮤니티에서 ‘동네 친구’ 만드는 게 대세다. 하지만 ‘동네’의 개념은 누가 결정하나. 당신에게 ‘우리 동네’는 어디까지인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/43051</link>
+            <guid>https://www.bookjournalism.com/books/43051</guid>
+            <pubDate>Mon, 11 Oct 2021 22:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[어디까지 당근이세요?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제프 베이조스는 세포의 노화 방지를 연구하는 알토스 랩스에 거액을 투자했다. 불로장생에 대한 인간의 욕망은 어디까지인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/43023</link>
+            <guid>https://www.bookjournalism.com/books/43023</guid>
+            <pubDate>Mon, 11 Oct 2021 22:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[생명 연장의 꿈]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[죽음 없는 육식의 시대다. 소고기부터 푸아그라까지 배양육 시장이 주목 받고 있다. 누가 푸드테크의 테슬라가 될 것인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/42970</link>
+            <guid>https://www.bookjournalism.com/books/42970</guid>
+            <pubDate>Mon, 11 Oct 2021 22:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[푸드테크의 테슬라들]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[달러구트 꿈 백화점이 성공은 하나의 현상이다. 달러구트 꿈 백화점은 어떻게 우리 시대의 베스트셀러가 됐나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/42967</link>
+            <guid>https://www.bookjournalism.com/books/42967</guid>
+            <pubDate>Mon, 11 Oct 2021 22:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[꿈 속의 꿈 속의 꿈 속의 베스트셀러가 쓰여지는 법]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[리셀테크가 MZ세대의 새로운 투자 방식으로 주목받고 있다. 이제 리셀은 소수 마니아만의 전유물이 아니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/42896</link>
+            <guid>https://www.bookjournalism.com/books/42896</guid>
+            <pubDate>Mon, 11 Oct 2021 22:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[투자의 신]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드#7에선, 메르켈 이후 독일 그리고 국제 정치를 전망하고 대통령 발언으로 촉발된 식용견 논쟁에 관한 정치적 문화적 분석을 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/42908</link>
+            <guid>https://www.bookjournalism.com/audio/42908</guid>
+            <pubDate>Mon, 11 Oct 2021 22:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[메르켈 정쟁과 식용견 논쟁]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[10월 첫째 주 - 오징어 게임에 참가해주신 여러분을 환영합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/42833</link>
+            <guid>https://www.bookjournalism.com/books/42833</guid>
+            <pubDate>Mon, 11 Oct 2021 22:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[457번 오징어]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2020년은 전에 없던 시장 중심의 글로벌 시스템의 위험성과 약점이 드러난 해였다. 이제는 전환점이 다가왔다는 인식이 지배적이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/42880</link>
+            <guid>https://www.bookjournalism.com/books/42880</guid>
+            <pubDate>Mon, 11 Oct 2021 22:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[코로나는 어떻게 신자유주의 시대를 종식시켰나]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Q. 공공분양 청약, 서울과 경기도 어느 쪽이 낫나요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
