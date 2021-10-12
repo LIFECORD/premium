@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 00:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 01:59:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6490</guid>
             <pubDate>Fri, 08 Oct 2021 14:49:18 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 11분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이제는 광고에도 할매니얼 트렌드가 대세라고?! (캐릿)]]></title>
+            <link>https://www.careet.net/519</link>
+            <guid>https://www.careet.net/519</guid>
+            <pubDate>Tue, 12 Oct 2021 01:59:22 GMT</pubDate>
+            <content:encoded><![CDATA[MZ세대 관심 싹쓸이하는 신제품 마케팅이란 이런 것!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/55614ea3-b246-4654-9b67-83ea02a5e5ff_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[쉿! 우리끼리 봐요. Z세대 팬 비율이 높은 아티스트 LIST (캐릿)]]></title>
