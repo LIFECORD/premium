@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 21:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 22:11:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,6 +374,14 @@
             <content:encoded><![CDATA[해외 여행을 할 때 전 꼭 동네 서점부터 갑니다. 책을 읽는 사람들, 조용한 발걸음, 은은한 책 냄새. 아늑한 분위기에 취해 스르르 잠들고 싶기도 해요. &nbsp; &nbsp; &nbsp; &nbsp;<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[NC·삼성 출신 개발자가 6년 전 선택한 창업 아이템 (폴인)]]></title>
+            <link>https://www.folin.co/story/1905</link>
+            <guid>https://www.folin.co/story/1905</guid>
+            <pubDate>Tue, 12 Oct 2021 22:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[<li>테크</li>
+                                <li>스타트업</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[N잡러의 세상에서 무과수가 크루를 찾는 법 (폴인)]]></title>
             <link>https://www.folin.co/story/1903</link>
             <guid>https://www.folin.co/story/1903</guid>
@@ -651,14 +659,6 @@
             <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["반응이 반반? 잘 살려서 쌓아나가야죠" 김민석 PD (폴인)]]></title>
-            <link>https://www.folin.co/story/1854</link>
-            <guid>https://www.folin.co/story/1854</guid>
-            <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<li>워크</li>
-                                <li>조직문화</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤직카우의 성장세가 가파르다.놀라운 성장에도 음악 저작권 거래 플랫폼에 대한 의구심은 아직 남아 있다. (북저널리즘)]]></title>

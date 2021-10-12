@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2021-10-12T21:10:21.157Z</updated>
+    <updated>2021-10-12T22:11:00.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NC·삼성 출신 개발자가 6년 전 선택한 창업 아이템]]></title>
+        <id>https://www.folin.co/story/1905</id>
+        <link href="https://www.folin.co/story/1905"/>
+        <updated>2021-10-12T22:10:42.666Z</updated>
+        <content type="html"><![CDATA[<li>테크</li>
+                                <li>스타트업</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[N잡러의 세상에서 무과수가 크루를 찾는 법]]></title>
         <id>https://www.folin.co/story/1903</id>
@@ -283,13 +291,5 @@
         <updated>2021-10-03T17:13:20.338Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["반응이 반반? 잘 살려서 쌓아나가야죠" 김민석 PD]]></title>
-        <id>https://www.folin.co/story/1854</id>
-        <link href="https://www.folin.co/story/1854"/>
-        <updated>2021-10-03T17:13:20.340Z</updated>
-        <content type="html"><![CDATA[<li>워크</li>
-                                <li>조직문화</li>]]></content>
     </entry>
 </feed>
