@@ -4,7 +4,7 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 05:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 06:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 12 Oct 2021 01:59:22 GMT</pubDate>
             <content:encoded><![CDATA[MZ세대 관심 싹쓸이하는 신제품 마케팅이란 이런 것!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/55614ea3-b246-4654-9b67-83ea02a5e5ff_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[스우파 댄서=Z세대 선생님? 아이돌도 아닌데 춤 배우는 요즘 1020]]></title>
+            <link>https://www.careet.net/508</link>
+            <guid>https://www.careet.net/508</guid>
+            <pubDate>Tue, 12 Oct 2021 06:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대의 새로운 학원 = 댄스 스튜디오]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/f4a6d4ec-3bbf-4887-aac9-f0d853b6d5a9_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[쉿! 우리끼리 봐요. Z세대 팬 비율이 높은 아티스트 LIST]]></title>
