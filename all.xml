@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 17:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 18:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -661,6 +661,13 @@
                                 <li>조직문화</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤직카우의 9월 회원간 거래액이 700억을 돌파했다는 보도가 나왔다. 놀라운 성장세에도 저작권 거래 플랫폼에 대한 의구심은 아직 남아 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/43216</link>
+            <guid>https://www.bookjournalism.com/books/43216</guid>
+            <pubDate>Tue, 12 Oct 2021 18:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[돈은 귀보다 빠르다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[스우파가 연일 화제다. 쇼미더머니는 시즌 10에 돌입했다. 거대 방송플랫폼들은 스트리트 서브컬쳐에 어떻게 젠트리피케이션을 일으켰나. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/43202</link>
             <guid>https://www.bookjournalism.com/books/43202</guid>
@@ -736,13 +743,6 @@
             <guid>https://www.bookjournalism.com/books/42833</guid>
             <pubDate>Mon, 11 Oct 2021 22:10:54 GMT</pubDate>
             <content:encoded><![CDATA[457번 오징어]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2020년은 전에 없던 시장 중심의 글로벌 시스템의 위험성과 약점이 드러난 해였다. 이제는 전환점이 다가왔다는 인식이 지배적이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/42880</link>
-            <guid>https://www.bookjournalism.com/books/42880</guid>
-            <pubDate>Mon, 11 Oct 2021 22:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[코로나는 어떻게 신자유주의 시대를 종식시켰나]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[절세꿀팁]청년, 구매대행, 성공적 절세법 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
