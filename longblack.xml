@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2021-10-13T14:11:04.288Z</updated>
+    <updated>2021-10-13T15:12:06.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[북앤베드 : 책 읽다 잠들 수 있는 호텔, 공간 기획의 감각]]></title>
-        <id>https://www.longblack.co/note/61</id>
-        <link href="https://www.longblack.co/note/61"/>
-        <updated>2021-10-12T15:13:10.755Z</updated>
-        <content type="html"><![CDATA[해외 여행을 할 때 전 꼭 동네 서점부터 갑니다. 책을 읽는 사람들, 조용한 발걸음, 은은한 책 냄새. 아늑한 분위기에 취해 스르르 잠들고 싶기도 해요. &nbsp; &nbsp; &nbsp; &nbsp;<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[교보문고 : 국내 최대 서점의 고민, 회계장부로 읽다]]></title>
+        <id>https://www.longblack.co/note/68</id>
+        <link href="https://www.longblack.co/note/68"/>
+        <updated>2021-10-13T15:11:36.809Z</updated>
+        <content type="html"><![CDATA[어제 B가 소개한 북앤베드 재밌더라. 책으로 경험을 파는 회사라는 거잖아. 내친 김에 책 시장 좀 더 들여다볼까? 여기 잘은 몰라도 책 좀 읽는 사람들이 모인 것 같아서 말이야.<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
