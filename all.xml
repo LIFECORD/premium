@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 06:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 07:11:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -669,6 +669,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[세계 경제가 공급 부족으로 몸살을 앓고 있다. 원자재와 에너지 가격이 오르면서 물가는 튀는데 일자리는 늘지 않고 경기 회복도 더디다. 1970년대 스태그플레이션의 망령이 부활한 것인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/43261</link>
+            <guid>https://www.bookjournalism.com/books/43261</guid>
+            <pubDate>Wed, 13 Oct 2021 07:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[스테그플레이션이란 느낌적 느낌]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤직카우의 성장세가 가파르다. 놀라운 성장에도 음악 저작권 거래 플랫폼에 대한 의구심은 아직 남아 있다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/43216</link>
             <guid>https://www.bookjournalism.com/books/43216</guid>
@@ -744,13 +751,6 @@
             <guid>https://www.bookjournalism.com/audio/42908</guid>
             <pubDate>Mon, 11 Oct 2021 22:10:54 GMT</pubDate>
             <content:encoded><![CDATA[메르켈 정쟁과 식용견 논쟁]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[10월 첫째 주 - 오징어 게임에 참가해주신 여러분을 환영합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/42833</link>
-            <guid>https://www.bookjournalism.com/books/42833</guid>
-            <pubDate>Mon, 11 Oct 2021 22:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[457번 오징어]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[절세꿀팁]청년, 구매대행, 성공적 절세법 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
