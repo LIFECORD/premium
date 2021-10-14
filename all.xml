@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 00:33:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 01:57:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6473</guid>
             <pubDate>Fri, 08 Oct 2021 14:49:18 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 8분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Z세대의 놀라운 디지털 스킬: ‘이럴’ 때 ‘이걸’ 사용한다! (캐릿)]]></title>
+            <link>https://www.careet.net/523</link>
+            <guid>https://www.careet.net/523</guid>
+            <pubDate>Thu, 14 Oct 2021 01:57:06 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대 Z식인에게 직접 물어봤습니다!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/3948e3f9-16de-4bbb-8679-d0cebf4190e6_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[당장 써먹는 짤줍] 곧 대유행 예감! 지금 놓치면 후회하는 <쇼미더머니 10> 밈 (캐릿)]]></title>
