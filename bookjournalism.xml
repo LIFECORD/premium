@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2021-10-14T17:16:36.496Z</updated>
+    <updated>2021-10-14T18:12:32.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[토스가 타다를 인수하고 모빌리티 사업에도 뛰어든다. 토스가 기꺼이 레드오션에서 카카오와 경쟁하려는 이유는 무엇일까.]]></title>
+        <id>https://www.bookjournalism.com/books/43369</id>
+        <link href="https://www.bookjournalism.com/books/43369"/>
+        <updated>2021-10-14T18:12:24.383Z</updated>
+        <content type="html"><![CDATA[토스가 쏘카를 타다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마포구 데이트 폭력 사건을 화두로 관련 기사들이 쏟아졌다. 하지만 우리 사회에서 ‘데이트 폭력’이란 말에 어떤 합의가 있었나.]]></title>
         <id>https://www.bookjournalism.com/books/43298</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/42967"/>
         <updated>2021-10-11T22:10:54.969Z</updated>
         <content type="html"><![CDATA[꿈 속의 꿈 속의 꿈 속의 베스트셀러가 쓰여지는 법]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리셀테크가 MZ세대의 새로운 투자 방식으로 주목받고 있다. 이제 리셀은 소수 마니아만의 전유물이 아니다.]]></title>
-        <id>https://www.bookjournalism.com/books/42896</id>
-        <link href="https://www.bookjournalism.com/books/42896"/>
-        <updated>2021-10-11T22:10:54.970Z</updated>
-        <content type="html"><![CDATA[투자의 신]]></content>
     </entry>
 </feed>

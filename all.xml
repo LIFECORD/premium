@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 17:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 18:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -677,6 +677,13 @@
                                 <li>조직문화</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[토스가 타다를 인수하고 모빌리티 사업에도 뛰어든다. 토스가 기꺼이 레드오션에서 카카오와 경쟁하려는 이유는 무엇일까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/43369</link>
+            <guid>https://www.bookjournalism.com/books/43369</guid>
+            <pubDate>Thu, 14 Oct 2021 18:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[토스가 쏘카를 타다]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[마포구 데이트 폭력 사건을 화두로 관련 기사들이 쏟아졌다. 하지만 우리 사회에서 ‘데이트 폭력’이란 말에 어떤 합의가 있었나. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/43298</link>
             <guid>https://www.bookjournalism.com/books/43298</guid>
@@ -752,13 +759,6 @@
             <guid>https://www.bookjournalism.com/books/42967</guid>
             <pubDate>Mon, 11 Oct 2021 22:10:54 GMT</pubDate>
             <content:encoded><![CDATA[꿈 속의 꿈 속의 꿈 속의 베스트셀러가 쓰여지는 법]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[리셀테크가 MZ세대의 새로운 투자 방식으로 주목받고 있다. 이제 리셀은 소수 마니아만의 전유물이 아니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/42896</link>
-            <guid>https://www.bookjournalism.com/books/42896</guid>
-            <pubDate>Mon, 11 Oct 2021 22:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[투자의 신]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오늘의 시사상식 문제 #93 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
