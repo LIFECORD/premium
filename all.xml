@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 21:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 22:10:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -390,6 +390,14 @@
             <content:encoded><![CDATA[어제 교보문고 회계장부 분석, 넘넘 재밌지 않았어요? 저 고태순 회계사님 팬이 돼가고 있어요! 아니 그런데, 교보문고도 IP* 사업을 미래 먹거리로 보고 있다니, 충격! 요즘 다들<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[NFT, 현실과 메타버스 잇는 새로운 경제 생태계 (폴인)]]></title>
+            <link>https://www.folin.co/story/1908</link>
+            <guid>https://www.folin.co/story/1908</guid>
+            <pubDate>Thu, 14 Oct 2021 22:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>테크</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[영도의 낡은 창고, 어떻게 크리에이터 성지가 됐을까? (폴인)]]></title>
             <link>https://www.folin.co/story/1907</link>
             <guid>https://www.folin.co/story/1907</guid>
@@ -667,14 +675,6 @@
             <guid>https://www.folin.co/story/1850</guid>
             <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
             <content:encoded><![CDATA[<li>라이프스타일</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[일본 1위 광고회사 덴츠가 B팀을 만든 이유 (폴인)]]></title>
-            <link>https://www.folin.co/story/1861</link>
-            <guid>https://www.folin.co/story/1861</guid>
-            <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<li>워크</li>
-                                <li>조직문화</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[토스가 타다를 인수하고 모빌리티 사업에도 뛰어든다. 토스가 기꺼이 레드오션에서 카카오와 경쟁하려는 이유는 무엇일까. (북저널리즘)]]></title>

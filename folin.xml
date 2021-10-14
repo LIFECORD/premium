@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2021-10-14T21:09:58.606Z</updated>
+    <updated>2021-10-14T22:10:56.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NFT, 현실과 메타버스 잇는 새로운 경제 생태계]]></title>
+        <id>https://www.folin.co/story/1908</id>
+        <link href="https://www.folin.co/story/1908"/>
+        <updated>2021-10-14T22:10:38.111Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>테크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영도의 낡은 창고, 어떻게 크리에이터 성지가 됐을까?]]></title>
         <id>https://www.folin.co/story/1907</id>
@@ -283,13 +291,5 @@
         <link href="https://www.folin.co/story/1850"/>
         <updated>2021-10-03T17:13:20.333Z</updated>
         <content type="html"><![CDATA[<li>라이프스타일</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본 1위 광고회사 덴츠가 B팀을 만든 이유]]></title>
-        <id>https://www.folin.co/story/1861</id>
-        <link href="https://www.folin.co/story/1861"/>
-        <updated>2021-10-03T17:13:20.335Z</updated>
-        <content type="html"><![CDATA[<li>워크</li>
-                                <li>조직문화</li>]]></content>
     </entry>
 </feed>
