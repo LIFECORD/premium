@@ -4,9 +4,25 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 00:35:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 01:58:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 말 모르면 Z세대랑 소통 불가! ‘킹받네’ 해석해드립니다]]></title>
+            <link>https://www.careet.net/526</link>
+            <guid>https://www.careet.net/526</guid>
+            <pubDate>Fri, 15 Oct 2021 01:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대 최애의 공통점 = 킹받는다?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/657b4247-2933-4ab3-886d-c79c9ea1633b_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이번 주 Z세대 트위터 피드에 뜬 떡상템이 궁금하다면?]]></title>
+            <link>https://www.careet.net/524</link>
+            <guid>https://www.careet.net/524</guid>
+            <pubDate>Fri, 15 Oct 2021 01:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[10월 3주차 트렌드 아이템 모음.zip]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/9120fa4b-2a70-4f81-8cab-f6ae2d28c5cf_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대의 놀라운 디지털 스킬: ‘이럴’ 때 ‘이걸’ 사용한다!]]></title>
             <link>https://www.careet.net/523</link>
