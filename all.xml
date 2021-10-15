@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 07:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 08:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -693,6 +693,13 @@
             <content:encoded><![CDATA[<li>라이프스타일</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[10월 셋째 주 - 10월 19일 화요일부터 북저널리즘 포캐스트 서비스를 시작합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/43420</link>
+            <guid>https://www.bookjournalism.com/books/43420</guid>
+            <pubDate>Fri, 15 Oct 2021 08:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[더 포캐스트]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[토스가 타다를 인수하고 모빌리티 사업에도 뛰어든다. 토스가 기꺼이 레드오션에서 카카오와 경쟁하려는 이유는 무엇일까. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/43369</link>
             <guid>https://www.bookjournalism.com/books/43369</guid>
@@ -768,13 +775,6 @@
             <guid>https://www.bookjournalism.com/books/42970</guid>
             <pubDate>Mon, 11 Oct 2021 22:10:54 GMT</pubDate>
             <content:encoded><![CDATA[푸드테크의 테슬라들]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[달러구트 꿈 백화점이 성공은 하나의 현상이다. 달러구트 꿈 백화점은 어떻게 우리 시대의 베스트셀러가 됐나? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/42967</link>
-            <guid>https://www.bookjournalism.com/books/42967</guid>
-            <pubDate>Mon, 11 Oct 2021 22:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[꿈 속의 꿈 속의 꿈 속의 베스트셀러가 쓰여지는 법]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오늘의 시사상식 문제 #93 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
