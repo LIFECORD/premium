@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2021-10-16T10:11:58.005Z</updated>
+    <updated>2021-10-16T11:09:36.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/66</id>
         <link href="https://www.longblack.co/note/66"/>
         <updated>2021-10-15T15:11:25.149Z</updated>
-        <content type="html"><![CDATA[저 얼마 전에 구찌 뽑았어요! 제페토의 구찌 가든에서요.잠깐, 구찌 가든이 제페토에 있는 거라서 실망했어요? 그럼 내가 더 실망인데!<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[저 얼마 전에 구찌 뽑았어요! 제페토의 구찌 가든에서요.잠깐, 구찌 가든이 제페토에 있는 거라서 실망했어요? 그럼 내가 더 실망인데! 지금은 D2C<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
