@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2021-10-17T21:10:59.655Z</updated>
+    <updated>2021-10-17T22:10:45.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리 회사를 '또 다른 파타고니아'로 만들고 싶다면]]></title>
+        <id>https://www.folin.co/story/1910</id>
+        <link href="https://www.folin.co/story/1910"/>
+        <updated>2021-10-17T22:10:24.944Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 시대의 생존법, ESG 해본 사람들의 노하우]]></title>
+        <id>https://www.folin.co/story/1909</id>
+        <link href="https://www.folin.co/story/1909"/>
+        <updated>2021-10-17T22:10:24.946Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFT, 현실과 메타버스 잇는 새로운 경제 생태계]]></title>
         <id>https://www.folin.co/story/1908</id>
@@ -276,20 +292,5 @@
         <updated>2021-10-03T17:13:20.330Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>조직문화</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김민석 PD "급변하는 업계에서 변하지 않는 3가지"]]></title>
-        <id>https://www.folin.co/story/1856</id>
-        <link href="https://www.folin.co/story/1856"/>
-        <updated>2021-10-03T17:13:20.332Z</updated>
-        <content type="html"><![CDATA[<li>워크</li>
-                                <li>조직문화</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["휴식도 배워야 한다" 화가가 여유를 찾는 법]]></title>
-        <id>https://www.folin.co/story/1850</id>
-        <link href="https://www.folin.co/story/1850"/>
-        <updated>2021-10-03T17:13:20.333Z</updated>
-        <content type="html"><![CDATA[<li>라이프스타일</li>]]></content>
     </entry>
 </feed>
