@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 22:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 23:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -406,6 +406,14 @@
             <content:encoded><![CDATA[롱블랙은 점핑 스테이지Jumping Stage의 직장인이 감각을 쌓기 위해서는, 비즈니스의 흐름을 앞서 내다보는 것이 중요하다고 믿습니다. 2022년의 비즈니스를 전망하는 &amp;<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[미술작품에 투자하고 리세일하는 MZ, 그들의 취향은? (폴인)]]></title>
+            <link>https://www.folin.co/story/1911</link>
+            <guid>https://www.folin.co/story/1911</guid>
+            <pubDate>Sun, 17 Oct 2021 23:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>라이프스타일</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[우리 회사를 '또 다른 파타고니아'로 만들고 싶다면 (폴인)]]></title>
             <link>https://www.folin.co/story/1910</link>
             <guid>https://www.folin.co/story/1910</guid>
@@ -681,14 +689,6 @@
             <title><![CDATA[김키미 마케터 "SNS를 글쓰기에 활용하는 방법" (폴인)]]></title>
             <link>https://www.folin.co/story/1867</link>
             <guid>https://www.folin.co/story/1867</guid>
-            <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>조직문화</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[브런치 마케터는 어떻게 퍼스널 브랜딩을 하고 있을까? (폴인)]]></title>
-            <link>https://www.folin.co/story/1866</link>
-            <guid>https://www.folin.co/story/1866</guid>
             <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>조직문화</li>]]></content:encoded>

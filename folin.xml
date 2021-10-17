@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2021-10-17T22:10:45.206Z</updated>
+    <updated>2021-10-17T23:11:10.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미술작품에 투자하고 리세일하는 MZ, 그들의 취향은?]]></title>
+        <id>https://www.folin.co/story/1911</id>
+        <link href="https://www.folin.co/story/1911"/>
+        <updated>2021-10-17T23:10:51.457Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>라이프스타일</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리 회사를 '또 다른 파타고니아'로 만들고 싶다면]]></title>
         <id>https://www.folin.co/story/1910</id>
@@ -282,14 +290,6 @@
         <id>https://www.folin.co/story/1867</id>
         <link href="https://www.folin.co/story/1867"/>
         <updated>2021-10-03T17:13:20.329Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>조직문화</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브런치 마케터는 어떻게 퍼스널 브랜딩을 하고 있을까?]]></title>
-        <id>https://www.folin.co/story/1866</id>
-        <link href="https://www.folin.co/story/1866"/>
-        <updated>2021-10-03T17:13:20.330Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>조직문화</li>]]></content>
     </entry>
