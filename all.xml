@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 08:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 09:12:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ctrl+F로 찾아 보는 엑셀 단축키 (퍼블리)]]></title>
+            <link>https://publy.co/content/6495</link>
+            <guid>https://publy.co/content/6495</guid>
+            <pubDate>Mon, 18 Oct 2021 09:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 • 5분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[오늘부터 나는 브랜드가 되기로 했다: 카카오 마케터의 자기 발견 노하우 (퍼블리)]]></title>
             <link>https://publy.co/content/6507</link>
@@ -67,13 +74,6 @@
             <title><![CDATA[<노는 언니> 방현영 PD 인터뷰: 박세리도 공감한 프로그램은 어떻게 만들어졌을까? (퍼블리)]]></title>
             <link>https://publy.co/content/6438</link>
             <guid>https://publy.co/content/6438</guid>
-            <pubDate>Tue, 12 Oct 2021 08:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 • 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[멀티태스킹, 피할 수 없다면 '제대로' 하자! (퍼블리)]]></title>
-            <link>https://publy.co/content/6498</link>
-            <guid>https://publy.co/content/6498</guid>
             <pubDate>Tue, 12 Oct 2021 08:12:56 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 10분 분량]]></content:encoded>
         </item>
