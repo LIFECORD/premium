@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2021-10-18T21:09:57.047Z</updated>
+    <updated>2021-10-18T22:11:38.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아모레퍼시픽 마케터가 밝히는 B면 활용 비법]]></title>
+        <id>https://www.folin.co/story/1914</id>
+        <link href="https://www.folin.co/story/1914"/>
+        <updated>2021-10-18T22:11:18.652Z</updated>
+        <content type="html"><![CDATA[<li>워크</li>
+                                <li>조직문화</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미술작품에 투자하고 리세일하는 MZ, 그들의 취향은?]]></title>
         <id>https://www.folin.co/story/1911</id>
@@ -284,13 +292,5 @@
         <updated>2021-10-03T17:13:20.327Z</updated>
         <content type="html"><![CDATA[<li>라이프스타일</li>
                                 <li>커리어</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김키미 마케터 "SNS를 글쓰기에 활용하는 방법"]]></title>
-        <id>https://www.folin.co/story/1867</id>
-        <link href="https://www.folin.co/story/1867"/>
-        <updated>2021-10-03T17:13:20.329Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>조직문화</li>]]></content>
     </entry>
 </feed>
