@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 02:03:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 03:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6498</guid>
             <pubDate>Tue, 12 Oct 2021 08:12:56 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 10분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[메타버스 세계관 이렇게 활용하세요! 국민은행 광고 700만 뷰의 비결은? (캐릿)]]></title>
+            <link>https://www.careet.net/527</link>
+            <guid>https://www.careet.net/527</guid>
+            <pubDate>Mon, 18 Oct 2021 03:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[세계관에 진심인 MZ세대는 이런 광고에 반응합니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/e71616b2-88cf-4aec-9303-0347dd29e7c1_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이 말 모르면 Z세대랑 소통 불가! ‘킹받네’ 해석해드립니다 (캐릿)]]></title>
