@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 15:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 16:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -710,6 +710,13 @@
                                 <li>커리어</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[키아프에서 650억원 어치 미술품을 산 사람들은 돈을 벌까? 아니면 거품일까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/43773</link>
+            <guid>https://www.bookjournalism.com/books/43773</guid>
+            <pubDate>Tue, 19 Oct 2021 16:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[아트 오브 머니]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[책 한 권 가격, 신문 구독료 수준인 월 19,000원에 지금 깊이 알아야 할 모든 주제를 이용해 보세요. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/43688</link>
             <guid>https://www.bookjournalism.com/books/43688</guid>
@@ -785,13 +792,6 @@
             <guid>https://www.bookjournalism.com/audio/43118</guid>
             <pubDate>Mon, 18 Oct 2021 07:11:30 GMT</pubDate>
             <content:encoded><![CDATA[당근을 리셀하면 생명연장이 될까?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[10월 둘째 주 - 페이스북의 미래는 어떻게 될까요? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/43100</link>
-            <guid>https://www.bookjournalism.com/books/43100</guid>
-            <pubDate>Mon, 18 Oct 2021 07:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[예정된 전쟁]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[세상의 모든 가격이 통제된다면? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
