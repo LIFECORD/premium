@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all</id>
     <title>퍼블리</title>
-    <updated>2021-10-19T07:11:44.746Z</updated>
+    <updated>2021-10-19T08:13:26.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버 상위 1% 블로거의 블로그 수익화 노하우]]></title>
+        <id>https://publy.co/content/6492</id>
+        <link href="https://publy.co/content/6492"/>
+        <updated>2021-10-19T08:12:43.811Z</updated>
+        <content type="html"><![CDATA[아티클 • 10분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ctrl+F로 찾아 보는 엑셀 단축키]]></title>
         <id>https://publy.co/content/6495</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6505"/>
         <updated>2021-10-13T09:10:24.485Z</updated>
         <content type="html"><![CDATA[아티클 • 13분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<노는 언니> 방현영 PD 인터뷰: 박세리도 공감한 프로그램은 어떻게 만들어졌을까?]]></title>
-        <id>https://publy.co/content/6438</id>
-        <link href="https://publy.co/content/6438"/>
-        <updated>2021-10-12T08:12:56.634Z</updated>
-        <content type="html"><![CDATA[아티클 • 10분 분량]]></content>
     </entry>
 </feed>
