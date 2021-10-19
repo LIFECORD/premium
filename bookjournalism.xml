@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2021-10-19T02:29:59.547Z</updated>
+    <updated>2021-10-19T03:11:48.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
@@ -10,14 +10,14 @@
         <id>https://www.bookjournalism.com/books/43688</id>
         <link href="https://www.bookjournalism.com/books/43688"/>
         <updated>2021-10-19T02:29:50.617Z</updated>
-        <content type="html"><![CDATA[북저널리즘 구독하고 미래를 먼저 만나 보세요.]]></content>
+        <content type="html"><![CDATA[북저널리즘 구독 안내]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[북저널리즘은 책처럼 깊이 있게, 뉴스처럼 빠르게 우리가 지금, 깊이 읽어야 할 주제를 다룹니다.]]></title>
         <id>https://www.bookjournalism.com/books/43682</id>
         <link href="https://www.bookjournalism.com/books/43682"/>
         <updated>2021-10-19T02:29:50.619Z</updated>
-        <content type="html"><![CDATA[북저널리즘의 미션과 편집 원칙]]></content>
+        <content type="html"><![CDATA[미션과 편집 원칙]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[디즈니 플러스가 넷플릭스를 추월할 수 있을까? 잘못된 질문인지도 모른다.]]></title>
