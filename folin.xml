@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2021-10-19T21:10:23.316Z</updated>
+    <updated>2021-10-19T22:11:05.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[목표한 혁신을 성공케 하는 '3년 단위 계획법']]></title>
+        <id>https://www.folin.co/story/1906</id>
+        <link href="https://www.folin.co/story/1906"/>
+        <updated>2021-10-19T22:10:47.276Z</updated>
+        <content type="html"><![CDATA[<li>테크</li>
+                                <li>스타트업</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아모레퍼시픽 마케터가 밝히는 B면 활용법]]></title>
         <id>https://www.folin.co/story/1914</id>
@@ -284,13 +292,5 @@
         <updated>2021-10-03T17:13:20.326Z</updated>
         <content type="html"><![CDATA[<li>워크</li>
                                 <li>조직문화</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나에도 '카페꼼마'에 입점 문의가 이어진 이유]]></title>
-        <id>https://www.folin.co/story/1865</id>
-        <link href="https://www.folin.co/story/1865"/>
-        <updated>2021-10-03T17:13:20.327Z</updated>
-        <content type="html"><![CDATA[<li>라이프스타일</li>
-                                <li>커리어</li>]]></content>
     </entry>
 </feed>
