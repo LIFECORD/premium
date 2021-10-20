@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all</id>
     <title>퍼블리</title>
-    <updated>2021-10-20T08:13:14.840Z</updated>
+    <updated>2021-10-20T09:11:21.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[빅데이터, 생활을 바꾸다: 빅데이터는 우리 생활 속에서 어떻게 활용되고 있을까?]]></title>
+        <id>https://publy.co/content/6486</id>
+        <link href="https://publy.co/content/6486"/>
+        <updated>2021-10-20T09:10:34.997Z</updated>
+        <content type="html"><![CDATA[아티클 • 10분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버 상위 1% 블로거의 블로그 수익화 노하우]]></title>
         <id>https://publy.co/content/6492</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6502"/>
         <updated>2021-10-13T09:10:24.483Z</updated>
         <content type="html"><![CDATA[아티클 • 10분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서비스의 첫 인상을 결정하는 3초: 랜딩 페이지 UX 4가지 원칙]]></title>
-        <id>https://publy.co/content/6505</id>
-        <link href="https://publy.co/content/6505"/>
-        <updated>2021-10-13T09:10:24.485Z</updated>
-        <content type="html"><![CDATA[아티클 • 13분 분량]]></content>
     </entry>
 </feed>

@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 08:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 09:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빅데이터, 생활을 바꾸다: 빅데이터는 우리 생활 속에서 어떻게 활용되고 있을까? (퍼블리)]]></title>
+            <link>https://publy.co/content/6486</link>
+            <guid>https://publy.co/content/6486</guid>
+            <pubDate>Wed, 20 Oct 2021 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 • 10분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[네이버 상위 1% 블로거의 블로그 수익화 노하우 (퍼블리)]]></title>
             <link>https://publy.co/content/6492</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6502</guid>
             <pubDate>Wed, 13 Oct 2021 09:10:24 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서비스의 첫 인상을 결정하는 3초: 랜딩 페이지 UX 4가지 원칙 (퍼블리)]]></title>
-            <link>https://publy.co/content/6505</link>
-            <guid>https://publy.co/content/6505</guid>
-            <pubDate>Wed, 13 Oct 2021 09:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 • 13분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[보정 필터만 쓰면 밀레니얼, OOO 필터까지 쓰면 Z세대 (캐릿)]]></title>
