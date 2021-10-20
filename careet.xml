@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 00:36:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 02:00:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보정 필터만 쓰면 밀레니얼, OOO 필터까지 쓰면 Z세대]]></title>
+            <link>https://www.careet.net/522</link>
+            <guid>https://www.careet.net/522</guid>
+            <pubDate>Wed, 20 Oct 2021 01:59:39 GMT</pubDate>
+            <content:encoded><![CDATA[센스 있는 홍보 방식 = 트렌디한 필터 쓰기]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/8f84e6eb-3afd-4e83-9629-462829c13206_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[데이터로 보는 Z세대, 밀레니얼, X세대, 86세대 직장인 인식 차이]]></title>
             <link>https://www.careet.net/529</link>

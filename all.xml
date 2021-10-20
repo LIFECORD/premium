@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 00:36:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 02:00:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6505</guid>
             <pubDate>Wed, 13 Oct 2021 09:10:24 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 13분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[보정 필터만 쓰면 밀레니얼, OOO 필터까지 쓰면 Z세대 (캐릿)]]></title>
+            <link>https://www.careet.net/522</link>
+            <guid>https://www.careet.net/522</guid>
+            <pubDate>Wed, 20 Oct 2021 01:59:39 GMT</pubDate>
+            <content:encoded><![CDATA[센스 있는 홍보 방식 = 트렌디한 필터 쓰기]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/8f84e6eb-3afd-4e83-9629-462829c13206_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[데이터로 보는 Z세대, 밀레니얼, X세대, 86세대 직장인 인식 차이 (캐릿)]]></title>
@@ -794,13 +802,6 @@
             <content:encoded><![CDATA[당근을 리셀하면 생명연장이 될까?]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세상의 모든 가격이 통제된다면? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/hankyungtesat/tesat/contents/211006172637480Sd</link>
-            <guid>https://contents.premium.naver.com/hankyungtesat/tesat/contents/211006172637480Sd</guid>
-            <pubDate>Tue, 19 Oct 2021 15:12:03 GMT</pubDate>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMDZfMjAy/MDAxNjMzNTA4NjE1NDc0.DYppg8QKCN_7mVTojGLTE6wpyjpcf4aN0viHcYkeM4sg.RaTZxo8Wl2DU8-o3hQJ55q7Go1KodTueNQypQYHxvEMg.JPEG/10.jpg?type=nf220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[테마주-OTT : 오징어게임 잭팟! 이제 OTT의 시대! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/usstock/stockmarket/contents/211012170605190Qh</link>
             <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/211012170605190Qh</guid>
@@ -809,12 +810,11 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTJfMjkx/MDAxNjM0MDI1MjUyMDUz.-RqvlfLKjAKPHKrv9SVkNHWRXzjHKtc5ReXgRnQpHOkg.bmRqDlT7fzbbi8JaP6TdgQ6dscrXaSkc-8BW2Sn-A98g.PNG/1.png?type=nf220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[카니지의 자식들은 누구이며 어떤 존재인가? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/superhero/hero/contents/211006233508399tB</link>
-            <guid>https://contents.premium.naver.com/superhero/hero/contents/211006233508399tB</guid>
+            <title><![CDATA[세상의 모든 가격이 통제된다면? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/hankyungtesat/tesat/contents/211006172637480Sd</link>
+            <guid>https://contents.premium.naver.com/hankyungtesat/tesat/contents/211006172637480Sd</guid>
             <pubDate>Tue, 19 Oct 2021 15:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[우주에서 온 생물 심비오트는 베놈이라는 캐릭터의 성공 이후 점점 늘어나 그 관계가 복잡해질 정도로 많아졌다. 우선, 이해하기 쉽도록 베놈과 카니지의 가계도를 만들어봤다. 가계도에 나와 있듯이, 베놈에게서 카니지가 태어난 것처럼 카니지에게서도 자손들이 태어났다. 베놈이 자신의 혈통에서 998번째 세대, 카니지가 999번째이고, 카니지의 자식인 톡신이 대망의 1000번째]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMDZfODIg/MDAxNjMzNTI5ODkxODA0.9Na6EaTFLHJi_hNsbIFn5OU2zKm9LRzPRLMJrHwtGp8g.W53oEFJylMt0-78yEGNmLjlEKvNxk967_3HVKhx3DrMg.JPEG/toxin10.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMDZfMjAy/MDAxNjMzNTA4NjE1NDc0.DYppg8QKCN_7mVTojGLTE6wpyjpcf4aN0viHcYkeM4sg.RaTZxo8Wl2DU8-o3hQJ55q7Go1KodTueNQypQYHxvEMg.JPEG/10.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코로나19 기대주 이앤에치 '상장 철회'…주관사도 개인투자가도 '씁쓸' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -825,12 +825,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTJfOSAg/MDAxNjM0MDI2MDEzNDI3.WHxytQXy2gviR1SomOX9XORCixN3XS26q6mIdyzBSskg.qqrwPCmFrUGkbzzyUrl3ojZWfCrj-IArtdu1zY9EhKcg.PNG/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2021-10-12_170635.png?type=nf220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[애플도 반도체 부족 '직격탄' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/211013081613434gA</link>
-            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/211013081613434gA</guid>
+            <title><![CDATA[카니지의 자식들은 누구이며 어떤 존재인가? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/superhero/hero/contents/211006233508399tB</link>
+            <guid>https://contents.premium.naver.com/superhero/hero/contents/211006233508399tB</guid>
             <pubDate>Tue, 19 Oct 2021 15:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[반도체 공급 부족 문제가 심상치 않습니다. 처음에는 차량용 반도체 부족 문제가 대두됐습니다. 완성차 업체들은 생산량 감축에 들어갔고, 신차 출시를 늦췄습니다. 그런데 이제는 전자 기기 업체들까지 반도체 부족 문제에 직면하게 됐습니다. 삼성전자, 애플 등의 실적에 대한 우려가 나오고 있는 상황입니다. 오늘 애프터마켓은 전자기기 업체로까지 확대된 반도체 공급 쇼크]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTNfMTMz/MDAxNjM0MDgwNDIzODE0.EdvbGcppgR6ytBP30a6Ei9g2MoH95RNKmfguejNdbHcg.xVFA0vso5ANF9G5uU9ziPzc-MadjqRCaQjQzwlSu3Jcg.JPEG/laurenz-heymann-VkfhJLz5SMQ-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[우주에서 온 생물 심비오트는 베놈이라는 캐릭터의 성공 이후 점점 늘어나 그 관계가 복잡해질 정도로 많아졌다. 우선, 이해하기 쉽도록 베놈과 카니지의 가계도를 만들어봤다. 가계도에 나와 있듯이, 베놈에게서 카니지가 태어난 것처럼 카니지에게서도 자손들이 태어났다. 베놈이 자신의 혈통에서 998번째 세대, 카니지가 999번째이고, 카니지의 자식인 톡신이 대망의 1000번째]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMDZfODIg/MDAxNjMzNTI5ODkxODA0.9Na6EaTFLHJi_hNsbIFn5OU2zKm9LRzPRLMJrHwtGp8g.W53oEFJylMt0-78yEGNmLjlEKvNxk967_3HVKhx3DrMg.JPEG/toxin10.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리금융 지분매각 '흥행 조짐'…투자자가 본 매력 포인트는 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -841,12 +841,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTJfMTcx/MDAxNjM0MDI1NTg5MzA5.CayP61HqTYlQhY6FUnXz6HrGdHdqelRwpWJkTpjDA-gg.gR3ZTq2v57XQCjAKBcMlD7U2rkvc2aUcKkUV5CPEZVUg.JPEG/%EC%9A%B0%EB%A6%AC%EA%B8%88%EC%9C%B5_%EC%9A%B0%EB%A6%AC%EC%9D%80%ED%96%89.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[브리핑] '오징어 게임', 넷플릭스 vs 디즈니+ 경쟁지형을 바꿨다! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/joongang/gmoney/contents/211013084216102wG</link>
-            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/211013084216102wG</guid>
+            <title><![CDATA[애플도 반도체 부족 '직격탄' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/211013081613434gA</link>
+            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/211013081613434gA</guid>
             <pubDate>Tue, 19 Oct 2021 15:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스에서 방영되고 있는 ‘오징어 게임’을 두고 최근 한국 국회에서 이런 질문과 대답이 오갔습니다.     KBS 양 사장은 ‘공영방송 콘텐트가 넘지 말아야 할 선이 있다’는 점을 강조했습니다. 이른바 미풍양속 등입니다. 사랑하는 장면이 너무 진하거나, 심한 욕이나 비속어가 들어간 장면을 KBS가 자체 심의 등에서 걸러냅니다.  한 마디로 미디어 안팎에서 정해진 '콘텐트]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTNfMjY1/MDAxNjM0MDgyMDkzNzg0.RelDHttm-WQvs0cfeOnNRtF445kZxHV7a19qsK4jqTYg.PgrgJspTlhSmIXzU2Te3nCbEXg7jhYyCTvAL5M10w1wg.JPEG/%EB%94%94%EC%A6%A4%EB%8B%88%EC%99%80_%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[반도체 공급 부족 문제가 심상치 않습니다. 처음에는 차량용 반도체 부족 문제가 대두됐습니다. 완성차 업체들은 생산량 감축에 들어갔고, 신차 출시를 늦췄습니다. 그런데 이제는 전자 기기 업체들까지 반도체 부족 문제에 직면하게 됐습니다. 삼성전자, 애플 등의 실적에 대한 우려가 나오고 있는 상황입니다. 오늘 애프터마켓은 전자기기 업체로까지 확대된 반도체 공급 쇼크]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTNfMTMz/MDAxNjM0MDgwNDIzODE0.EdvbGcppgR6ytBP30a6Ei9g2MoH95RNKmfguejNdbHcg.xVFA0vso5ANF9G5uU9ziPzc-MadjqRCaQjQzwlSu3Jcg.JPEG/laurenz-heymann-VkfhJLz5SMQ-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[10.13일 종목리뷰 (천보, 한화) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -857,12 +857,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTNfMjEy/MDAxNjM0MTEyODY3NjAz.4dOZPrb0dzda9b3YIueVhu8_6XVdt9xYqNomro4PrmMg.6qhVBM_rDA8JWxw6g5-cbr17fWnWRZMoAdTjoepUvgUg.JPEG/GettyImages-960809388.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[바이든도 못 막는 ‘글로벌 물류 대란’이 벌어진 이유 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/connectx/us/contents/211018172041384vV</link>
-            <guid>https://contents.premium.naver.com/connectx/us/contents/211018172041384vV</guid>
-            <pubDate>Tue, 19 Oct 2021 23:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[CHAPTER 1 한국 소비재 가격이 흔들린다 매일 아침 마시는 커피 한 잔부터 장난감까지. 모든 소비재 가격이 뛰어오를 수 있다고 한 블룸버그의 예측이 바로 눈앞에 다가온 현실이 됐습니다. 조 바이든 미국 대통령이 나서서 ‘물류 대란’ 해결에 총력을 기울이겠다고 삼성전자까지 불러 도움을 요청할 정도요. 아, 남의 나라 이야기 아니냐고요? 아뇨. 지금 이 순간 한국에서 벌어]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMThfMTE3/MDAxNjM0NTQ1MTU2NDEw.CN_NDQGUZ3Rc48fu-klOGuDVqmMbsoc83sS4LWVWNjgg.KWfNWFr_XJEnA0tqCC-ybfQtNK0Ku-fqboJDtx8rxjAg.JPEG/long_beach.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[브리핑] '오징어 게임', 넷플릭스 vs 디즈니+ 경쟁지형을 바꿨다! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/joongang/gmoney/contents/211013084216102wG</link>
+            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/211013084216102wG</guid>
+            <pubDate>Tue, 19 Oct 2021 15:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스에서 방영되고 있는 ‘오징어 게임’을 두고 최근 한국 국회에서 이런 질문과 대답이 오갔습니다.     KBS 양 사장은 ‘공영방송 콘텐트가 넘지 말아야 할 선이 있다’는 점을 강조했습니다. 이른바 미풍양속 등입니다. 사랑하는 장면이 너무 진하거나, 심한 욕이나 비속어가 들어간 장면을 KBS가 자체 심의 등에서 걸러냅니다.  한 마디로 미디어 안팎에서 정해진 '콘텐트]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTNfMjY1/MDAxNjM0MDgyMDkzNzg0.RelDHttm-WQvs0cfeOnNRtF445kZxHV7a19qsK4jqTYg.PgrgJspTlhSmIXzU2Te3nCbEXg7jhYyCTvAL5M10w1wg.JPEG/%EB%94%94%EC%A6%A4%EB%8B%88%EC%99%80_%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4.jpg?type=nf220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워렌버핏은 '테슬라' 주식을 사지 않는다, 왜? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/211013211807782SW</link>
+            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/211013211807782SW</guid>
+            <pubDate>Wed, 20 Oct 2021 02:00:14 GMT</pubDate>
+            <content:encoded><![CDATA[‘투자의 신’이라고 불리는 워렌 버핏은 테슬라 주식을 사지 않은 걸 지금쯤 후회하고 있을까요.    모두가 알다시피 버핏의 주식 포트폴리오(아래 사진 참조)에는 테슬라가 없습니다. 그리고 버핏 입장에서는 과거에도 지금도 테슬라는 투자할 만한 기업이 아닙니다. 그 이유는 무엇일까요?   버핏의 투자 원칙에 대해서는 여러 가지 분석과 해설이 있습니다. 하지만 공통적으]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTNfODQg/MDAxNjM0MTI3MDMyNTA5.N-rCt87-EUI6D3xI5acBFNLwg-KYQZzAm2hhExj2cJYg.fNGWi1kOo3YSDE3SN-ou1ANiWej8nGzs6v5dbWoiIUkg.JPEG/manny-becerra-vDloaizQO6I-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
