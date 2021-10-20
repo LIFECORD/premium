@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 15:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 16:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -423,11 +423,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202108/0262c371-1b88-48b5-821a-0918675de5da_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[트렌드 리포트 : 오늘의집·네오밸류·패스트파이브, 2022 공간을 말하다 (롱블랙)]]></title>
+            <title><![CDATA[트렌드 리포트 : 오늘의집· 네오밸류· 패스트파이브, 2022 공간을 말하다 (롱블랙)]]></title>
             <link>https://www.longblack.co/note/73</link>
             <guid>https://www.longblack.co/note/73</guid>
             <pubDate>Wed, 20 Oct 2021 15:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙은 점핑 스테이지Jumping Stage의 직장인이 감각을 쌓기 위해서는<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙은 점핑 스테이지Jumping Stage의 직장인이 감각을 쌓기 위해서는 비즈니스의 흐름을 앞서 내다보는 것이 중요하다고 믿습니다. 20<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[목표한 혁신을 성공케 하는 '3년 단위 계획법' (폴인)]]></title>
@@ -739,7 +739,7 @@
             <content:encoded><![CDATA[아트 오브 머니]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[책 한 권 가격, 신문 구독료 수준인 월 19,000원에 지금 깊이 알아야 할 모든 주제를 이용해 보세요. (북저널리즘)]]></title>
+            <title><![CDATA[책 한 권 가격, 신문 구독료 수준인 월 19,000원에 지금 깊이 알아야 할 모든 주제를 만나 보세요. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/43688</link>
             <guid>https://www.bookjournalism.com/books/43688</guid>
             <pubDate>Tue, 19 Oct 2021 02:29:50 GMT</pubDate>
