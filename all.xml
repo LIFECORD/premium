@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 09:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 10:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산만한 지메일을 내 업무 비서로 만드는 방법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6465</link>
+            <guid>https://publy.co/content/6465</guid>
+            <pubDate>Wed, 20 Oct 2021 10:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 • 6분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[빅데이터, 생활을 바꾸다: 빅데이터는 우리 생활 속에서 어떻게 활용되고 있을까? (퍼블리)]]></title>
             <link>https://publy.co/content/6486</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6487</guid>
             <pubDate>Thu, 14 Oct 2021 09:10:27 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 8분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[잔실수가 많은 나! 프로실수러에서 탈출할 수 있을까? (퍼블리)]]></title>
-            <link>https://publy.co/content/6502</link>
-            <guid>https://publy.co/content/6502</guid>
-            <pubDate>Wed, 13 Oct 2021 09:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 • 10분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[보정 필터만 쓰면 밀레니얼, OOO 필터까지 쓰면 Z세대 (캐릿)]]></title>
