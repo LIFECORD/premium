@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2021-10-20T14:11:01.441Z</updated>
+    <updated>2021-10-20T15:11:39.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[싸이월드는 다시 뜰 수 있을까? 누가 왜 자꾸 띄울까?]]></title>
+        <id>https://www.bookjournalism.com/books/43834</id>
+        <link href="https://www.bookjournalism.com/books/43834"/>
+        <updated>2021-10-20T15:11:30.967Z</updated>
+        <content type="html"><![CDATA[수상한 싸이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제로 코로나는 욕심이다. 위드 코로나가 현실이다. 백신 보급으로 코로나 사태는 판데믹에서 엔데믹으로 진화되고 있다. 코로나 엔데믹의 세계는 어떤 모습일까.]]></title>
         <id>https://www.bookjournalism.com/books/43740</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/43216"/>
         <updated>2021-10-18T07:11:30.699Z</updated>
         <content type="html"><![CDATA[돈은 귀보다 빠르다?!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스우파가 연일 화제다. 쇼미더머니는 시즌 10에 돌입했다. 거대 방송플랫폼들은 스트리트 서브컬쳐에 어떻게 젠트리피케이션을 일으켰나.]]></title>
-        <id>https://www.bookjournalism.com/books/43202</id>
-        <link href="https://www.bookjournalism.com/books/43202"/>
-        <updated>2021-10-18T07:11:30.700Z</updated>
-        <content type="html"><![CDATA[서브컬쳐 젠트리피케이션]]></content>
     </entry>
 </feed>
