@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 21:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 22:11:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -430,6 +430,14 @@
             <content:encoded><![CDATA[롱블랙은 점핑 스테이지Jumping Stage의 직장인이 감각을 쌓기 위해서는 비즈니스의 흐름을 앞서 내다보는 것이 중요하다고 믿습니다. 20<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[지속가능한 로컬에 필요한 것, '공간'일까 '시간'일까 (폴인)]]></title>
+            <link>https://www.folin.co/story/1917</link>
+            <guid>https://www.folin.co/story/1917</guid>
+            <pubDate>Wed, 20 Oct 2021 22:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[<li>공간</li>
+                                <li>라이프스타일</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[목표한 혁신을 성공케 하는 '3년 단위 계획법' (폴인)]]></title>
             <link>https://www.folin.co/story/1906</link>
             <guid>https://www.folin.co/story/1906</guid>
@@ -710,14 +718,6 @@
                                 <li>스타트업</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[힐링페이퍼가 직원들의 B면을 살리는 법 (폴인)]]></title>
-            <link>https://www.folin.co/story/1869</link>
-            <guid>https://www.folin.co/story/1869</guid>
-            <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<li>워크</li>
-                                <li>조직문화</li>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[싸이월드는 다시 뜰 수 있을까? 누가 왜 자꾸 띄울까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/43834</link>
             <guid>https://www.bookjournalism.com/books/43834</guid>
@@ -802,14 +802,6 @@
             <content:encoded><![CDATA[돈은 귀보다 빠르다?!]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[브리핑] Fed 테이퍼링 "11월 중순~12월 중순"에 시작, 매달 150억 달러씩 줄인다! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/joongang/gmoney/contents/211014080335028SR</link>
-            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/211014080335028SR</guid>
-            <pubDate>Wed, 20 Oct 2021 15:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[미국 연방준비제도(Fed)가 13일(현지시간) 의미심장한 신호를 내보냈습니다. 이날 공개된 9월 연방공개시장정책위원회(FOMC) 회의록에 따르면 양적 완화(QE) 규모를 줄이는 일(테이퍼링)이 올해 11월 중순~12월 중순 사이에 시작될 듯합니다.      회의록 내용은 제롬 파월 Fed 의장이 FOMC 회의를 마친 뒤 연 기자회견에서 “테이퍼링 과정이 11월에 시작돼 2022년 중반에 끝날 것”이라고]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTRfMjQz/MDAxNjM0MTY2MTkwNDMz.m4hwKCv1nN-SbNMYHgrcxhKYM_1alcep_48yL7BG-0Ag._tUJWD0SgdjzBepGkUdQ0Y88CFYLLUcGNoi3rfjER4Ag.JPEG/%ED%8C%8C%EC%9B%94.jpg?type=nf220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[테슬라, 대규모 '리콜' 압박 직면 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/211014082004064fs</link>
             <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/211014082004064fs</guid>
@@ -818,12 +810,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTRfMTcz/MDAxNjM0MTY3MTIwOTg0.hl7BX_2sWeGByb-pe1n2aAfalrZ6aBEcbdEV2tT62vMg.krFzchK75QvbfFEOtvA-BzRmZD3inuBObjpmTXfUQoEg.JPEG/li-xiang-wncubB-kU3o-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘줌 피로’ 시대…회의를 더 재미있게 만들 수는 없을까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/dmkglobal/technologyreview/contents/210927153827416zO</link>
-            <guid>https://contents.premium.naver.com/dmkglobal/technologyreview/contents/210927153827416zO</guid>
+            <title><![CDATA[[브리핑] Fed 테이퍼링 "11월 중순~12월 중순"에 시작, 매달 150억 달러씩 줄인다! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/joongang/gmoney/contents/211014080335028SR</link>
+            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/211014080335028SR</guid>
             <pubDate>Wed, 20 Oct 2021 15:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[3주 전에 저널리스트인 게일 킹(Gayle King)이 진행하는 ‘CBS 디스 모닝(CBS This Morning)’에 마크 저커버그(Mark Zuckerberg) 페이스북 CEO가 출연했다. 그런데 두 사람은 스튜디오에 나오거나 화상회의 앱을 사용하지 않고 가상 현실에서 만나 이야기를 나눴다. 페이스북에겐 새로 출시한 호라이즌 워크룸(Horizons Workroom) 앱을 소개할 좋은 기회였다. 이 앱은 페이스북의 무선 VR 헤드셋인 오]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA5MjdfMjMy/MDAxNjMyNzI0NDg1MTAx.Cd5H8duJmw1xfQkYe-0-3aBPFZvDzcwjAnt1fLqBHywg.pEmEp9KTPJMORZwiYZgw0_4NGMiwion9XjeRSyJIhbwg.PNG/8bit-businessman2_(1).png?type=nf220_220" length="0" type="image/png"/>
+            <content:encoded><![CDATA[미국 연방준비제도(Fed)가 13일(현지시간) 의미심장한 신호를 내보냈습니다. 이날 공개된 9월 연방공개시장정책위원회(FOMC) 회의록에 따르면 양적 완화(QE) 규모를 줄이는 일(테이퍼링)이 올해 11월 중순~12월 중순 사이에 시작될 듯합니다.      회의록 내용은 제롬 파월 Fed 의장이 FOMC 회의를 마친 뒤 연 기자회견에서 “테이퍼링 과정이 11월에 시작돼 2022년 중반에 끝날 것”이라고]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTRfMjQz/MDAxNjM0MTY2MTkwNDMz.m4hwKCv1nN-SbNMYHgrcxhKYM_1alcep_48yL7BG-0Ag._tUJWD0SgdjzBepGkUdQ0Y88CFYLLUcGNoi3rfjER4Ag.JPEG/%ED%8C%8C%EC%9B%94.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기아, 사명 바꾼 올해가 '친환경' 분기점...반등 노린다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -834,12 +826,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTNfMTE4/MDAxNjM0MTEyMDk4MzQ4.rNODlbnjVdmuZ3fKBeIA7bqfuzYtDDqYqq5Ngiim1_8g.7bR_CMbQpudyqAe-N2HIvO9VM_7Hofe9PIdVVuKbsUog.JPEG/134443839_4053146088051302_600257021267429603_n.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[페이스북, 송금서비스 '노비' 출시 주목 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/211020084833348lu</link>
-            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/211020084833348lu</guid>
+            <title><![CDATA[‘줌 피로’ 시대…회의를 더 재미있게 만들 수는 없을까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/dmkglobal/technologyreview/contents/210927153827416zO</link>
+            <guid>https://contents.premium.naver.com/dmkglobal/technologyreview/contents/210927153827416zO</guid>
             <pubDate>Wed, 20 Oct 2021 15:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[페이스북이 송금 기능을 지원하는 '월렛(가상지갑)' 서비스를 출시했습니다. 그런데 출시 발표 직후 미국 국회로부터 해당 서비스 운영 계획을 철회하라는 압박을 받고 있습니다. 인스타그램 유해성 논란 등 일련의 사건들이 터지면서 현재 페이스북은 미국 정부와 국회의 신뢰를 완전히 잃은 모습입니다.  페이스북의 노비는 향후 메타버스 플랫폼으로 전환하는 데 있어서 꼭]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjBfMjA0/MDAxNjM0Njg2ODI0OTE3.oLXIokojcfA5YPuQ7nvFGAZ6JkSyNjI6w-4uNZDCnE0g.2frqJpsxzhTQLhUMgNm18IDI2c1VW0wBY3qFhzvnql8g.JPEG/1.%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81_%EA%B4%80%EB%A0%A8.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[3주 전에 저널리스트인 게일 킹(Gayle King)이 진행하는 ‘CBS 디스 모닝(CBS This Morning)’에 마크 저커버그(Mark Zuckerberg) 페이스북 CEO가 출연했다. 그런데 두 사람은 스튜디오에 나오거나 화상회의 앱을 사용하지 않고 가상 현실에서 만나 이야기를 나눴다. 페이스북에겐 새로 출시한 호라이즌 워크룸(Horizons Workroom) 앱을 소개할 좋은 기회였다. 이 앱은 페이스북의 무선 VR 헤드셋인 오]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA5MjdfMjMy/MDAxNjMyNzI0NDg1MTAx.Cd5H8duJmw1xfQkYe-0-3aBPFZvDzcwjAnt1fLqBHywg.pEmEp9KTPJMORZwiYZgw0_4NGMiwion9XjeRSyJIhbwg.PNG/8bit-businessman2_(1).png?type=nf220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[해외IR 재시동 건 신한금융, 분기배당 카드 '꺼낼까 말까' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -850,12 +842,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTRfMTk3/MDAxNjM0MTYyMjI2NTM1.rK-S1iV7q4z1K2-_z0wyAUCT8Ly-6KLLSSMto9-yYNYg.6uYkauCvUwSp1uU_NtJVgfPtXkfJRTYQq3FkJxJ5-H0g.JPEG/%EC%8B%A0%ED%95%9C%EA%B8%88%EC%9C%B5.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[코인 투자 분석] 과거 데이터는 비트코인 추가 상승을 말한다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/coindesk/nextmoney/contents/211020091202534BA</link>
-            <guid>https://contents.premium.naver.com/coindesk/nextmoney/contents/211020091202534BA</guid>
+            <title><![CDATA[페이스북, 송금서비스 '노비' 출시 주목 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/211020084833348lu</link>
+            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/211020084833348lu</guid>
             <pubDate>Wed, 20 Oct 2021 15:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[▶비트코인 넷플로우 실시간 차트 보기 과거의 비트코인 온체인 데이터를 살펴보니, 비트코인 가격이 상승할 때마다 매번 비슷한 움직임이 나타났습니다. 이번에도 그렇습니다. 비트코인 넷플로우(NetFlow) 차트를 보면, 매번 0을 중심으로 수렴한 후 빠르게 가격 상승을 기록한 것을 관찰할 수 있습니다. 주) 넷플로우 차트는 모든 거래소에 입금된 비트코인 개수와 출금된 개수의]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjBfNTcg/MDAxNjM0Njg4NjUzNDgx.GZhC4EeeaGmRjcWe9sREkzgBxUP70HuLx1DtQhT-I3sg.3E_gV0DFe3k-RJW589uZciv2QJea0yB-KQ9E83n8MUgg.JPEG/%EC%88%98%EC%A0%95%EB%90%A8_Rtif5_8e15fee69632e2d219a9f81b62b757498a7c14d85b1a065a7687d005c93e4baa.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[페이스북이 송금 기능을 지원하는 '월렛(가상지갑)' 서비스를 출시했습니다. 그런데 출시 발표 직후 미국 국회로부터 해당 서비스 운영 계획을 철회하라는 압박을 받고 있습니다. 인스타그램 유해성 논란 등 일련의 사건들이 터지면서 현재 페이스북은 미국 정부와 국회의 신뢰를 완전히 잃은 모습입니다.  페이스북의 노비는 향후 메타버스 플랫폼으로 전환하는 데 있어서 꼭]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjBfMjA0/MDAxNjM0Njg2ODI0OTE3.oLXIokojcfA5YPuQ7nvFGAZ6JkSyNjI6w-4uNZDCnE0g.2frqJpsxzhTQLhUMgNm18IDI2c1VW0wBY3qFhzvnql8g.JPEG/1.%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81_%EA%B4%80%EB%A0%A8.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주식시장은 동물의 왕국 (Feat. 나는 무슨 타입의 동물?) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -864,6 +856,14 @@
             <pubDate>Wed, 20 Oct 2021 15:11:39 GMT</pubDate>
             <content:encoded><![CDATA[주식시장에 11마리 동물들이 놀러왔어요~ 아이엠그라운드~♬ 자기소개 하기~ 나는 개미! 그 다음 타자는..? 지금부터 시작~!  #주식시장 #동물의왕국 #나는무슨타입일까 증권 시장계의 다양한 동물! 나의 투자스타일은  어떤 타입의 동물일지 궁금하지 않나요? 내 투자 스타일을 알고 부족한 부분을 메꿔주면 무궁무진한 발전을 할 수 있어요~! 아자아자!]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTRfMTUx/MDAxNjM0MTcwNTc5MDEy.1t8k7LT9fzej_WHBIz5xgFAvzW4oXaYYfRCoK_bsvaQg.jHI2nEr054K_o7m2ESOHtBCvm1WXNlhiIDyWQzkC-fAg.PNG/1.png?type=nf220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[코인 투자 분석] 과거 데이터는 비트코인 추가 상승을 말한다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/coindesk/nextmoney/contents/211020091202534BA</link>
+            <guid>https://contents.premium.naver.com/coindesk/nextmoney/contents/211020091202534BA</guid>
+            <pubDate>Wed, 20 Oct 2021 15:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[▶비트코인 넷플로우 실시간 차트 보기 과거의 비트코인 온체인 데이터를 살펴보니, 비트코인 가격이 상승할 때마다 매번 비슷한 움직임이 나타났습니다. 이번에도 그렇습니다. 비트코인 넷플로우(NetFlow) 차트를 보면, 매번 0을 중심으로 수렴한 후 빠르게 가격 상승을 기록한 것을 관찰할 수 있습니다. 주) 넷플로우 차트는 모든 거래소에 입금된 비트코인 개수와 출금된 개수의]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjBfNTcg/MDAxNjM0Njg4NjUzNDgx.GZhC4EeeaGmRjcWe9sREkzgBxUP70HuLx1DtQhT-I3sg.3E_gV0DFe3k-RJW589uZciv2QJea0yB-KQ9E83n8MUgg.JPEG/%EC%88%98%EC%A0%95%EB%90%A8_Rtif5_8e15fee69632e2d219a9f81b62b757498a7c14d85b1a065a7687d005c93e4baa.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[브리핑] 올해 크리스마스엔 美 디폴트에 애태워야 할 듯 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>

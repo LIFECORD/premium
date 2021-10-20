@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2021-10-20T21:10:10.724Z</updated>
+    <updated>2021-10-20T22:11:00.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지속가능한 로컬에 필요한 것, '공간'일까 '시간'일까]]></title>
+        <id>https://www.folin.co/story/1917</id>
+        <link href="https://www.folin.co/story/1917"/>
+        <updated>2021-10-20T22:10:42.024Z</updated>
+        <content type="html"><![CDATA[<li>공간</li>
+                                <li>라이프스타일</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[목표한 혁신을 성공케 하는 '3년 단위 계획법']]></title>
         <id>https://www.folin.co/story/1906</id>
@@ -284,13 +292,5 @@
         <updated>2021-10-03T17:13:20.325Z</updated>
         <content type="html"><![CDATA[<li>테크</li>
                                 <li>스타트업</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[힐링페이퍼가 직원들의 B면을 살리는 법]]></title>
-        <id>https://www.folin.co/story/1869</id>
-        <link href="https://www.folin.co/story/1869"/>
-        <updated>2021-10-03T17:13:20.326Z</updated>
-        <content type="html"><![CDATA[<li>워크</li>
-                                <li>조직문화</li>]]></content>
     </entry>
 </feed>
