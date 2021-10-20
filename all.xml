@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 06:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 07:11:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -718,6 +718,13 @@
                                 <li>조직문화</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[제로 코로나는 욕심이다. 위드 코로나가 현실이다. 백신 보급으로 코로나 사태는 판데믹에서 엔데믹으로 진화되고 있다. 코로나 엔데믹의 세계는 어떤 모습일까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/43740</link>
+            <guid>https://www.bookjournalism.com/books/43740</guid>
+            <pubDate>Wed, 20 Oct 2021 07:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[웰컴 투 위드 코로나 월드]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[키아프에서 650억 원어치 미술품을 산 사람들은 돈을 벌까? 아니면 거품일까. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/43773</link>
             <guid>https://www.bookjournalism.com/books/43773</guid>
@@ -793,13 +800,6 @@
             <guid>https://www.bookjournalism.com/books/43202</guid>
             <pubDate>Mon, 18 Oct 2021 07:11:30 GMT</pubDate>
             <content:encoded><![CDATA[서브컬쳐 젠트리피케이션]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 라디오 에피소드#8에선, 국내 리셀 테크 시장을 전망하고 커뮤니티 플랫폼으로 확장하고 있는 당근마켓을 분석하고 항노화 바이오 테크 시장의 미래를 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/43118</link>
-            <guid>https://www.bookjournalism.com/audio/43118</guid>
-            <pubDate>Mon, 18 Oct 2021 07:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[당근을 리셀하면 생명연장이 될까?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[테마주-OTT : 오징어게임 잭팟! 이제 OTT의 시대! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
