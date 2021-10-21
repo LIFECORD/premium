@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2021-10-21T02:08:28.072Z</updated>
+    <updated>2021-10-21T03:11:45.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
@@ -20,7 +20,7 @@
         <content type="html"><![CDATA[웰컴 투 위드 코로나 월드]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[키아프에서 650억 원어치 미술품을 산 사람들은 돈을 벌까? 아니면 거품일까.]]></title>
+        <title type="html"><![CDATA[키아프에서 650억 원어치 미술품을 산 사람들은 돈을 벌까? 거품일까.]]></title>
         <id>https://www.bookjournalism.com/books/43773</id>
         <link href="https://www.bookjournalism.com/books/43773"/>
         <updated>2021-10-19T16:15:27.286Z</updated>
