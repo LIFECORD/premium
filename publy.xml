@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all</id>
     <title>퍼블리</title>
-    <updated>2021-10-21T08:13:08.886Z</updated>
+    <updated>2021-10-21T09:18:01.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[11년 차 온라인 MD의 '매출을 올리는 4가지 전략']]></title>
+        <id>https://publy.co/content/6477</id>
+        <link href="https://publy.co/content/6477"/>
+        <updated>2021-10-21T09:17:12.710Z</updated>
+        <content type="html"><![CDATA[아티클 • 15분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불렛저널, 정신없는 나를 챙겨주는 시스템 만들기]]></title>
+        <id>https://publy.co/content/6522</id>
+        <link href="https://publy.co/content/6522"/>
+        <updated>2021-10-21T09:17:12.710Z</updated>
+        <content type="html"><![CDATA[아티클 • 8분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[산만한 지메일을 내 업무 비서로 만드는 방법]]></title>
         <id>https://publy.co/content/6465</id>
@@ -59,20 +73,6 @@
         <id>https://publy.co/content/6493</id>
         <link href="https://publy.co/content/6493"/>
         <updated>2021-10-14T09:10:27.919Z</updated>
-        <content type="html"><![CDATA[아티클 • 8분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[면접관을 위한 면접의 기술]]></title>
-        <id>https://publy.co/content/6478</id>
-        <link href="https://publy.co/content/6478"/>
-        <updated>2021-10-14T09:10:27.921Z</updated>
-        <content type="html"><![CDATA[아티클 • 13분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당황하지 않고 우아하게: 실수 없는 프레젠테이션을 위한 체크리스트]]></title>
-        <id>https://publy.co/content/6487</id>
-        <link href="https://publy.co/content/6487"/>
-        <updated>2021-10-14T09:10:27.921Z</updated>
         <content type="html"><![CDATA[아티클 • 8분 분량]]></content>
     </entry>
 </feed>
