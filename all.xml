@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 21:10:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 22:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,22 @@
             <content:encoded><![CDATA[롱블랙은 점핑 스테이지Jumping Stage의 직장인이 감각을 쌓기 위해서는, 비<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[메타버스와 AI가 만들어낸 '2세대 게임인류' (폴인)]]></title>
+            <link>https://www.folin.co/story/1918</link>
+            <guid>https://www.folin.co/story/1918</guid>
+            <pubDate>Thu, 21 Oct 2021 22:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>테크</li>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[카카오·네이버가 고객을 붙잡는 '락인' 기술 2가지 (폴인)]]></title>
+            <link>https://www.folin.co/story/1912</link>
+            <guid>https://www.folin.co/story/1912</guid>
+            <pubDate>Thu, 21 Oct 2021 22:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[지속가능한 로컬에 필요한 것, '공간'일까 '시간'일까 (폴인)]]></title>
             <link>https://www.folin.co/story/1917</link>
             <guid>https://www.folin.co/story/1917</guid>
@@ -708,22 +724,6 @@
             <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>라이프스타일</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[개발자는 4번째 창업 아이템으로 왜 '잠'을 골랐을까 (폴인)]]></title>
-            <link>https://www.folin.co/story/1862</link>
-            <guid>https://www.folin.co/story/1862</guid>
-            <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<li>테크</li>
-                                <li>스타트업</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[에이슬립이 일찍이 CES 2022 진출을 확정한 이유 (폴인)]]></title>
-            <link>https://www.folin.co/story/1860</link>
-            <guid>https://www.folin.co/story/1860</guid>
-            <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<li>테크</li>
-                                <li>스타트업</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[K뉴스페이스 시대를 누릴 수 있을까? 한화는 한국의 스페이스X가 될까? (북저널리즘)]]></title>
