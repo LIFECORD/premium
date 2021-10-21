@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 04:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 05:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -810,14 +810,6 @@
             <content:encoded><![CDATA[돈은 귀보다 빠르다?!]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[테슬라, 대규모 '리콜' 압박 직면 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/211014082004064fs</link>
-            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/211014082004064fs</guid>
-            <pubDate>Wed, 20 Oct 2021 15:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[전기차 화재사고, 자율주행차 추돌사고 등 잇단 차량 결함 문제로 미국 자동차 기업들이 사업적 위기를 맞고 있습니다. 우선 전기차 화재 사고와 관련해 GM은 대규모 리콜을 이미 결정했습니다. 리콜에는 1~2조원의 천문학적인 자금이 소요됩니다. 리콜 비용의 대부분은 국내 LG그룹이 감당합니다. 화재 사고의 원인이 LG 측에서 납품한 배터리로부터 촉발된 탓입니다.  자율주행차]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTRfMTcz/MDAxNjM0MTY3MTIwOTg0.hl7BX_2sWeGByb-pe1n2aAfalrZ6aBEcbdEV2tT62vMg.krFzchK75QvbfFEOtvA-BzRmZD3inuBObjpmTXfUQoEg.JPEG/li-xiang-wncubB-kU3o-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[브리핑] Fed 테이퍼링 "11월 중순~12월 중순"에 시작, 매달 150억 달러씩 줄인다! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/joongang/gmoney/contents/211014080335028SR</link>
             <guid>https://contents.premium.naver.com/joongang/gmoney/contents/211014080335028SR</guid>
@@ -826,12 +818,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTRfMjQz/MDAxNjM0MTY2MTkwNDMz.m4hwKCv1nN-SbNMYHgrcxhKYM_1alcep_48yL7BG-0Ag._tUJWD0SgdjzBepGkUdQ0Y88CFYLLUcGNoi3rfjER4Ag.JPEG/%ED%8C%8C%EC%9B%94.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기아, 사명 바꾼 올해가 '친환경' 분기점...반등 노린다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/thebell/stock/contents/211014070254650ao</link>
-            <guid>https://contents.premium.naver.com/thebell/stock/contents/211014070254650ao</guid>
+            <title><![CDATA[테슬라, 대규모 '리콜' 압박 직면 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/211014082004064fs</link>
+            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/211014082004064fs</guid>
             <pubDate>Wed, 20 Oct 2021 15:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[현대차는 전기차 이외에도 수소차가 있습니다. 미래 친환경 모빌리티에서 '투 트랙' 전략이 가능합니다. 반면 기아는 현대차와 달리 친환경 모빌리티는 전기차에만 올인해야 합니다. 친환경차는 사업 구조의 지속가능성 측면에서 ESG와 밀접한 관련이 있는데요. 기아는 지속가능(ESG)경영 측면에서 다른 글로벌 완성차 업체들보다 한발 늦었다고 평가받았습니다. 기아는 올해 '기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTNfMTE4/MDAxNjM0MTEyMDk4MzQ4.rNODlbnjVdmuZ3fKBeIA7bqfuzYtDDqYqq5Ngiim1_8g.7bR_CMbQpudyqAe-N2HIvO9VM_7Hofe9PIdVVuKbsUog.JPEG/134443839_4053146088051302_600257021267429603_n.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[전기차 화재사고, 자율주행차 추돌사고 등 잇단 차량 결함 문제로 미국 자동차 기업들이 사업적 위기를 맞고 있습니다. 우선 전기차 화재 사고와 관련해 GM은 대규모 리콜을 이미 결정했습니다. 리콜에는 1~2조원의 천문학적인 자금이 소요됩니다. 리콜 비용의 대부분은 국내 LG그룹이 감당합니다. 화재 사고의 원인이 LG 측에서 납품한 배터리로부터 촉발된 탓입니다.  자율주행차]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTRfMTcz/MDAxNjM0MTY3MTIwOTg0.hl7BX_2sWeGByb-pe1n2aAfalrZ6aBEcbdEV2tT62vMg.krFzchK75QvbfFEOtvA-BzRmZD3inuBObjpmTXfUQoEg.JPEG/li-xiang-wncubB-kU3o-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘줌 피로’ 시대…회의를 더 재미있게 만들 수는 없을까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -842,12 +834,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA5MjdfMjMy/MDAxNjMyNzI0NDg1MTAx.Cd5H8duJmw1xfQkYe-0-3aBPFZvDzcwjAnt1fLqBHywg.pEmEp9KTPJMORZwiYZgw0_4NGMiwion9XjeRSyJIhbwg.PNG/8bit-businessman2_(1).png?type=nf220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[해외IR 재시동 건 신한금융, 분기배당 카드 '꺼낼까 말까' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/thebell/stock/contents/211014070157791AA</link>
-            <guid>https://contents.premium.naver.com/thebell/stock/contents/211014070157791AA</guid>
+            <title><![CDATA[기아, 사명 바꾼 올해가 '친환경' 분기점...반등 노린다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/thebell/stock/contents/211014070254650ao</link>
+            <guid>https://contents.premium.naver.com/thebell/stock/contents/211014070254650ao</guid>
             <pubDate>Wed, 20 Oct 2021 15:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[신한금융지주가 2년 만에 해외 투자자 대상 기업설명회(IR)를 재개할 움직임을 보이고 있습니다. 코로나19로 막혔던 해외 출장 길이 마침내 뚫릴 기미를 보이고 있기 때문입니다. 주가 부양이 절실한 신한금융지주 입장에서는 가뭄의 단비 같은 상황입니다. 이를 두고 업계 관심은 2분기에 이어 3분기에도 분기배당에 나설지 여부에 가장 쏠리고 있습니다. 금리 상승에 따라 매력]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTRfMTk3/MDAxNjM0MTYyMjI2NTM1.rK-S1iV7q4z1K2-_z0wyAUCT8Ly-6KLLSSMto9-yYNYg.6uYkauCvUwSp1uU_NtJVgfPtXkfJRTYQq3FkJxJ5-H0g.JPEG/%EC%8B%A0%ED%95%9C%EA%B8%88%EC%9C%B5.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[현대차는 전기차 이외에도 수소차가 있습니다. 미래 친환경 모빌리티에서 '투 트랙' 전략이 가능합니다. 반면 기아는 현대차와 달리 친환경 모빌리티는 전기차에만 올인해야 합니다. 친환경차는 사업 구조의 지속가능성 측면에서 ESG와 밀접한 관련이 있는데요. 기아는 지속가능(ESG)경영 측면에서 다른 글로벌 완성차 업체들보다 한발 늦었다고 평가받았습니다. 기아는 올해 '기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTNfMTE4/MDAxNjM0MTEyMDk4MzQ4.rNODlbnjVdmuZ3fKBeIA7bqfuzYtDDqYqq5Ngiim1_8g.7bR_CMbQpudyqAe-N2HIvO9VM_7Hofe9PIdVVuKbsUog.JPEG/134443839_4053146088051302_600257021267429603_n.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[페이스북, 송금서비스 '노비' 출시 주목 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -858,12 +850,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjBfMjA0/MDAxNjM0Njg2ODI0OTE3.oLXIokojcfA5YPuQ7nvFGAZ6JkSyNjI6w-4uNZDCnE0g.2frqJpsxzhTQLhUMgNm18IDI2c1VW0wBY3qFhzvnql8g.JPEG/1.%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81_%EA%B4%80%EB%A0%A8.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[주식시장은 동물의 왕국 (Feat. 나는 무슨 타입의 동물?) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/211014092241946Yr</link>
-            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/211014092241946Yr</guid>
+            <title><![CDATA[해외IR 재시동 건 신한금융, 분기배당 카드 '꺼낼까 말까' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/thebell/stock/contents/211014070157791AA</link>
+            <guid>https://contents.premium.naver.com/thebell/stock/contents/211014070157791AA</guid>
             <pubDate>Wed, 20 Oct 2021 15:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[주식시장에 11마리 동물들이 놀러왔어요~ 아이엠그라운드~♬ 자기소개 하기~ 나는 개미! 그 다음 타자는..? 지금부터 시작~!  #주식시장 #동물의왕국 #나는무슨타입일까 증권 시장계의 다양한 동물! 나의 투자스타일은  어떤 타입의 동물일지 궁금하지 않나요? 내 투자 스타일을 알고 부족한 부분을 메꿔주면 무궁무진한 발전을 할 수 있어요~! 아자아자!]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTRfMTUx/MDAxNjM0MTcwNTc5MDEy.1t8k7LT9fzej_WHBIz5xgFAvzW4oXaYYfRCoK_bsvaQg.jHI2nEr054K_o7m2ESOHtBCvm1WXNlhiIDyWQzkC-fAg.PNG/1.png?type=nf220_220" length="0" type="image/png"/>
+            <content:encoded><![CDATA[신한금융지주가 2년 만에 해외 투자자 대상 기업설명회(IR)를 재개할 움직임을 보이고 있습니다. 코로나19로 막혔던 해외 출장 길이 마침내 뚫릴 기미를 보이고 있기 때문입니다. 주가 부양이 절실한 신한금융지주 입장에서는 가뭄의 단비 같은 상황입니다. 이를 두고 업계 관심은 2분기에 이어 3분기에도 분기배당에 나설지 여부에 가장 쏠리고 있습니다. 금리 상승에 따라 매력]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTRfMTk3/MDAxNjM0MTYyMjI2NTM1.rK-S1iV7q4z1K2-_z0wyAUCT8Ly-6KLLSSMto9-yYNYg.6uYkauCvUwSp1uU_NtJVgfPtXkfJRTYQq3FkJxJ5-H0g.JPEG/%EC%8B%A0%ED%95%9C%EA%B8%88%EC%9C%B5.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[코인 투자 분석] 과거 데이터는 비트코인 추가 상승을 말한다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -874,12 +866,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjBfNTcg/MDAxNjM0Njg4NjUzNDgx.GZhC4EeeaGmRjcWe9sREkzgBxUP70HuLx1DtQhT-I3sg.3E_gV0DFe3k-RJW589uZciv2QJea0yB-KQ9E83n8MUgg.JPEG/%EC%88%98%EC%A0%95%EB%90%A8_Rtif5_8e15fee69632e2d219a9f81b62b757498a7c14d85b1a065a7687d005c93e4baa.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[브리핑] 올해 크리스마스엔 美 디폴트에 애태워야 할 듯 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/joongang/gmoney/contents/211014105458905Nm</link>
-            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/211014105458905Nm</guid>
+            <title><![CDATA[주식시장은 동물의 왕국 (Feat. 나는 무슨 타입의 동물?) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/211014092241946Yr</link>
+            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/211014092241946Yr</guid>
             <pubDate>Wed, 20 Oct 2021 15:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[미국 의회가 부채한도를 늘리기로 했습니다. 법안이 상원을 통과해 하원 표결을 앞두고 있습니다.  한도를 4800억 달러 정도 늘려주는 게 법안의 핵심내용 입니다.  전형적인 땜질식 처방이다.  당장 디폴트(채무 불이행)는 막아놓고 협상을 더 해보자는 것입니다. 그렇다면, 추가 협상을 언제까지 끝내야 할까요? 영국 경제분석회사인 옥스퍼드이코노믹스가 시뮬레이션 해봤습니]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTRfMiAg/MDAxNjM0MTc2MzA2NzE5.MZ8xZKL6CDaqMwtoqFRX8QXv5g_POKND5MzQ_4Y3Tcwg.qZp9zrKTuzSSFp-Jbw0PzQKP2nsTFJkFhyb56856ezEg.JPEG/%EB%AF%B8%EA%B5%AD-%EC%B0%A8%EC%9E%85%ED%95%9C%EB%8F%84%EC%99%80-%EC%9E%AC%EB%AC%B4%EB%B6%80-%ED%98%84%EC%B0%B0-%EC%9E%94%EA%B3%A0.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[주식시장에 11마리 동물들이 놀러왔어요~ 아이엠그라운드~♬ 자기소개 하기~ 나는 개미! 그 다음 타자는..? 지금부터 시작~!  #주식시장 #동물의왕국 #나는무슨타입일까 증권 시장계의 다양한 동물! 나의 투자스타일은  어떤 타입의 동물일지 궁금하지 않나요? 내 투자 스타일을 알고 부족한 부분을 메꿔주면 무궁무진한 발전을 할 수 있어요~! 아자아자!]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTRfMTUx/MDAxNjM0MTcwNTc5MDEy.1t8k7LT9fzej_WHBIz5xgFAvzW4oXaYYfRCoK_bsvaQg.jHI2nEr054K_o7m2ESOHtBCvm1WXNlhiIDyWQzkC-fAg.PNG/1.png?type=nf220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[공시/분석] #13. 상대가치평가 1편: 이 회사를 사서 돈벌 수 있는지 알려주는 EV/EBITDA (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/usa/nasdaq/contents/211021135306857Wr</link>
+            <guid>https://contents.premium.naver.com/usa/nasdaq/contents/211021135306857Wr</guid>
+            <pubDate>Thu, 21 Oct 2021 05:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 카레라입니다. 어느새 &lt;SEC공시분석 강좌&gt; 시즌이 돌아왔네요. 오늘은 여러분이 직접 회사의 가치평가를 쉽게 해볼 수 있는 기본적이면서도 유명한 방법들을 알기 쉽게 소개해드릴 거에요. 바로 상대가치평가법인데요. 여기에 속하는 친구들로는 EV/EBITDA, PER, PSR, PBR이 있습니다. 그런데 상대가치평가법에는 몇 가지 주의사항이 있습니다. 저희가 저번 주에 동종업계]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjFfNDUg/MDAxNjM0NzkxOTA5OTAw.4_lxpuwcUkx7FEnNfHq0mAgOIDCVaDnP1ALUjQHpkTsg.UTQIzEmLaH4cFT4Ia_EIfNv_TqTMu6vKfAS0cfbHWkQg.PNG/%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80.PNG?type=nf220_220" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>
