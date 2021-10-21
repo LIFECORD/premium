@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 00:39:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 02:08:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6487</guid>
             <pubDate>Thu, 14 Oct 2021 09:10:27 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 8분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[수능 응원 선물에도 트렌드가 있다! 수험생 69%가 뽑은 주나 마나한 선물 1위는? (캐릿)]]></title>
+            <link>https://www.careet.net/530</link>
+            <guid>https://www.careet.net/530</guid>
+            <pubDate>Thu, 21 Oct 2021 02:07:49 GMT</pubDate>
+            <content:encoded><![CDATA[“간식을 줄 거면 실물 말고 기프티콘으로 주시면 좋겠어요”]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/ca55eecd-2363-412d-b925-3e446af3d813_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[보정 필터만 쓰면 밀레니얼, OOO 필터까지 쓰면 Z세대 (캐릿)]]></title>
