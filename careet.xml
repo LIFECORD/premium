@@ -4,9 +4,25 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 00:40:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 02:06:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방꾸템부터 New 치킨 브랜드까지, 이번 주 Z세대의 떡상템]]></title>
+            <link>https://www.careet.net/531</link>
+            <guid>https://www.careet.net/531</guid>
+            <pubDate>Fri, 22 Oct 2021 02:06:16 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.22 Z세대 떡상템 정리해드림.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/3926bc96-f542-42cd-bd9a-5041fac68d9a_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 10대는‘헐’을 안 쓴다고? 그럼 무슨 감탄사 쓰는지 팩첵했습니다]]></title>
+            <link>https://www.careet.net/525</link>
+            <guid>https://www.careet.net/525</guid>
+            <pubDate>Fri, 22 Oct 2021 02:06:16 GMT</pubDate>
+            <content:encoded><![CDATA[홀리몰리 과카몰리 몰랐다면 클릭!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/f1a4e4e1-48ce-4e8c-8d98-8fd11c77ed9f_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[수능 응원 선물에도 트렌드가 있다! 수험생 69%가 뽑은 주나 마나한 선물 1위는?]]></title>
             <link>https://www.careet.net/530</link>
