@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 09:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 10:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -777,20 +777,6 @@
             <content:encoded><![CDATA[아트 오브 머니]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[책 한 권 가격, 신문 구독료 수준인 월 19,000원에 지금 깊이 알아야 할 모든 주제를 만나 보세요. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/43688</link>
-            <guid>https://www.bookjournalism.com/books/43688</guid>
-            <pubDate>Tue, 19 Oct 2021 02:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[북저널리즘 구독 안내]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘은 책처럼 깊이 있게, 뉴스처럼 빠르게 우리가 지금, 깊이 읽어야 할 주제를 다룹니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/43682</link>
-            <guid>https://www.bookjournalism.com/books/43682</guid>
-            <pubDate>Tue, 19 Oct 2021 02:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[미션과 편집 원칙]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[디즈니 플러스가 넷플릭스를 추월할 수 있을까? 잘못된 질문인지도 모른다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/43491</link>
             <guid>https://www.bookjournalism.com/books/43491</guid>
@@ -824,6 +810,20 @@
             <guid>https://www.bookjournalism.com/books/43298</guid>
             <pubDate>Mon, 18 Oct 2021 07:11:30 GMT</pubDate>
             <content:encoded><![CDATA[데이트 폭력이란 말은 없다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세계 경제가 공급 부족으로 몸살을 앓고 있다. 원자재와 에너지 가격이 오르면서 물가는 튀는데 일자리는 늘지 않고 경기 회복도 더디다. 1970년대 스태그플레이션의 망령이 부활한 것인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/43261</link>
+            <guid>https://www.bookjournalism.com/books/43261</guid>
+            <pubDate>Fri, 22 Oct 2021 10:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[스테그플레이션이란 느낌적 느낌]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤직카우의 성장세가 가파르다. 놀라운 성장에도 음악 저작권 거래 플랫폼에 대한 의구심은 아직 남아 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/43216</link>
+            <guid>https://www.bookjournalism.com/books/43216</guid>
+            <pubDate>Fri, 22 Oct 2021 10:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[돈은 귀보다 빠르다?!]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연말 배당시즌 앞두고 배당주식형펀드는 어떤 종목을 가장 많이 샀을까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
