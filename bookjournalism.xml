@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2021-10-22T07:11:44.163Z</updated>
+    <updated>2021-10-22T08:13:24.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[10월 넷째 주 - 스태그플레이션이라는 겨울이 오고 있습니다.]]></title>
+        <id>https://www.bookjournalism.com/books/43969</id>
+        <link href="https://www.bookjournalism.com/books/43969"/>
+        <updated>2021-10-22T08:13:14.428Z</updated>
+        <content type="html"><![CDATA[겨울이 온다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K뉴스페이스 시대를 누릴 수 있을까? 한화는 한국의 스페이스X가 될까?]]></title>
         <id>https://www.bookjournalism.com/books/43919</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/43298"/>
         <updated>2021-10-18T07:11:30.697Z</updated>
         <content type="html"><![CDATA[데이트 폭력이란 말은 없다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계 경제가 공급 부족으로 몸살을 앓고 있다. 원자재와 에너지 가격이 오르면서 물가는 튀는데 일자리는 늘지 않고 경기 회복도 더디다. 1970년대 스태그플레이션의 망령이 부활한 것인가.]]></title>
-        <id>https://www.bookjournalism.com/books/43261</id>
-        <link href="https://www.bookjournalism.com/books/43261"/>
-        <updated>2021-10-18T07:11:30.697Z</updated>
-        <content type="html"><![CDATA[스테그플레이션이란 느낌적 느낌]]></content>
     </entry>
 </feed>

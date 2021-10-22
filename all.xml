@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 07:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 08:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -742,6 +742,13 @@
                                 <li>라이프스타일</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[10월 넷째 주 - 스태그플레이션이라는 겨울이 오고 있습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/43969</link>
+            <guid>https://www.bookjournalism.com/books/43969</guid>
+            <pubDate>Fri, 22 Oct 2021 08:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[겨울이 온다]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[K뉴스페이스 시대를 누릴 수 있을까? 한화는 한국의 스페이스X가 될까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/43919</link>
             <guid>https://www.bookjournalism.com/books/43919</guid>
@@ -817,13 +824,6 @@
             <guid>https://www.bookjournalism.com/books/43298</guid>
             <pubDate>Mon, 18 Oct 2021 07:11:30 GMT</pubDate>
             <content:encoded><![CDATA[데이트 폭력이란 말은 없다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[세계 경제가 공급 부족으로 몸살을 앓고 있다. 원자재와 에너지 가격이 오르면서 물가는 튀는데 일자리는 늘지 않고 경기 회복도 더디다. 1970년대 스태그플레이션의 망령이 부활한 것인가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/43261</link>
-            <guid>https://www.bookjournalism.com/books/43261</guid>
-            <pubDate>Mon, 18 Oct 2021 07:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[스테그플레이션이란 느낌적 느낌]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연말 배당시즌 앞두고 배당주식형펀드는 어떤 종목을 가장 많이 샀을까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
