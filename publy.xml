@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all</id>
     <title>퍼블리</title>
-    <updated>2021-10-22T08:13:24.166Z</updated>
+    <updated>2021-10-22T09:11:01.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[어메니티 사용하지 마세요? '환경'과 '브랜딩'에 진심인 카푸치노 호텔 편]]></title>
+        <id>https://publy.co/content/6523</id>
+        <link href="https://publy.co/content/6523"/>
+        <updated>2021-10-22T09:10:17.125Z</updated>
+        <content type="html"><![CDATA[아티클 • 14분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["회사에서 나만 그래?" 선배들이 알려주는 슬기로운 조직 생활]]></title>
+        <id>https://publy.co/content/6506</id>
+        <link href="https://publy.co/content/6506"/>
+        <updated>2021-10-22T09:10:17.128Z</updated>
+        <content type="html"><![CDATA[아티클 • 10분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[직장인의 대답법: 실전에 바로 쓰는 '똑똑한' 답변의 정석]]></title>
+        <id>https://publy.co/content/6521</id>
+        <link href="https://publy.co/content/6521"/>
+        <updated>2021-10-22T09:10:17.128Z</updated>
+        <content type="html"><![CDATA[아티클 • 9분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11년 차 온라인 MD의 '매출을 올리는 4가지 전략']]></title>
         <id>https://publy.co/content/6477</id>
@@ -53,26 +74,5 @@
         <link href="https://publy.co/content/6507"/>
         <updated>2021-10-15T10:11:30.454Z</updated>
         <content type="html"><![CDATA[아티클 • 17분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[굿즈 마케팅 실무 가이드: 제작부터 출시까지, 자주 겪는 문제 해결하기]]></title>
-        <id>https://publy.co/content/6500</id>
-        <link href="https://publy.co/content/6500"/>
-        <updated>2021-10-15T09:10:24.157Z</updated>
-        <content type="html"><![CDATA[아티클 • 14분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주말에 뭐해? 전문가가 알려주는 미술관 200% 활용법]]></title>
-        <id>https://publy.co/content/6501</id>
-        <link href="https://publy.co/content/6501"/>
-        <updated>2021-10-15T09:10:24.157Z</updated>
-        <content type="html"><![CDATA[아티클 • 12분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영향력을 극대화하는, 팀장의 시간 관리]]></title>
-        <id>https://publy.co/content/6493</id>
-        <link href="https://publy.co/content/6493"/>
-        <updated>2021-10-14T09:10:27.919Z</updated>
-        <content type="html"><![CDATA[아티클 • 8분 분량]]></content>
     </entry>
 </feed>
