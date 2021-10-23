@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2021-10-23T22:10:17.933Z</updated>
+    <updated>2021-10-23T23:11:13.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/76</id>
         <link href="https://www.longblack.co/note/76"/>
         <updated>2021-10-23T15:10:19.791Z</updated>
-        <content type="html"><![CDATA[그 영화를 다시 봤어. &lt;악마는 프라다를 입는다&gt; 기억 나? 나는 늘 미란다에게 공감이 가더라. 메릴 스트립이 연기한 은발의 패션지 편집장 말이야. 일에 미쳐 사는 냉정한 일 중독<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[그 영화를 다시 봤어. &lt;악마는 프라다를 입는다&gt;. 나는 늘 미란다에게 공감이 가더라. 메릴 스트립이 연기한 은발의 패션지 편집장 말이야. 일에 미쳐 사는 냉정한 일 중독자로 나오<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

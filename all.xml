@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 22:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 23:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -451,7 +451,7 @@
             <link>https://www.longblack.co/note/76</link>
             <guid>https://www.longblack.co/note/76</guid>
             <pubDate>Sat, 23 Oct 2021 15:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[그 영화를 다시 봤어. &lt;악마는 프라다를 입는다&gt; 기억 나? 나는 늘 미란다에게 공감이 가더라. 메릴 스트립이 연기한 은발의 패션지 편집장 말이야. 일에 미쳐 사는 냉정한 일 중독<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[그 영화를 다시 봤어. &lt;악마는 프라다를 입는다&gt;. 나는 늘 미란다에게 공감이 가더라. 메릴 스트립이 연기한 은발의 패션지 편집장 말이야. 일에 미쳐 사는 냉정한 일 중독자로 나오<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[메타버스와 AI가 만들어낸 '2세대 게임인류' (폴인)]]></title>
