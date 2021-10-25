@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2021-10-25T22:11:38.811Z</updated>
+    <updated>2021-10-25T23:11:30.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
-        <title type="html"><![CDATA[파운드리 전쟁에 뛰어든 삼성전자는 위기를 극복할 수 있을까?]]></title>
+        <title type="html"><![CDATA[삼성전자는 진짜 위기다. 왜 위기인 줄 진짜 모르는 걸까?]]></title>
         <id>https://www.bookjournalism.com/books/44061</id>
         <link href="https://www.bookjournalism.com/books/44061"/>
         <updated>2021-10-25T15:10:01.977Z</updated>
-        <content type="html"><![CDATA[위기의 삼성]]></content>
+        <content type="html"><![CDATA[진짜 진짜 위기의 삼성]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[북저널리즘 라디오 에피소드#10에선, K우주산업의 명암과 싸이월드의 좀비화 그리고 디즈니 플러스의 등장과 스태그플레이션 논쟁을 이야기합니다.]]></title>
