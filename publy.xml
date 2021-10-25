@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all</id>
     <title>퍼블리</title>
-    <updated>2021-10-25T08:13:48.459Z</updated>
+    <updated>2021-10-25T09:12:01.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[오르락 내리락 쿠팡의 기업가치: 100조원까지 평가 받는 이유]]></title>
+        <id>https://publy.co/content/6517</id>
+        <link href="https://publy.co/content/6517"/>
+        <updated>2021-10-25T09:10:56.624Z</updated>
+        <content type="html"><![CDATA[아티클 • 9분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[17년차 광고 기획자가 알려주는, 팔리는 제안서의 13가지 디테일]]></title>
+        <id>https://publy.co/content/6540</id>
+        <link href="https://publy.co/content/6540"/>
+        <updated>2021-10-25T09:10:56.634Z</updated>
+        <content type="html"><![CDATA[아티클 • 8분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어메니티 사용하지 마세요? '환경'과 '브랜딩'에 진심인 카푸치노 호텔 편]]></title>
         <id>https://publy.co/content/6523</id>
@@ -60,19 +74,5 @@
         <link href="https://publy.co/content/6492"/>
         <updated>2021-10-19T08:12:43.811Z</updated>
         <content type="html"><![CDATA[아티클 • 10분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ctrl+F로 찾아 보는 엑셀 단축키]]></title>
-        <id>https://publy.co/content/6495</id>
-        <link href="https://publy.co/content/6495"/>
-        <updated>2021-10-18T09:11:26.153Z</updated>
-        <content type="html"><![CDATA[아티클 • 5분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘부터 나는 브랜드가 되기로 했다: 카카오 마케터의 자기 발견 노하우]]></title>
-        <id>https://publy.co/content/6507</id>
-        <link href="https://publy.co/content/6507"/>
-        <updated>2021-10-15T10:11:30.454Z</updated>
-        <content type="html"><![CDATA[아티클 • 17분 분량]]></content>
     </entry>
 </feed>
