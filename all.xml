@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 09:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 10:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데이터 분석 초심자를 위한 SQL 공부법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6524</link>
+            <guid>https://publy.co/content/6524</guid>
+            <pubDate>Tue, 26 Oct 2021 10:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 • 13분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[오르락 내리락 쿠팡의 기업가치: 100조원까지 평가 받는 이유 (퍼블리)]]></title>
             <link>https://publy.co/content/6517</link>
@@ -68,13 +75,6 @@
             <link>https://publy.co/content/6486</link>
             <guid>https://publy.co/content/6486</guid>
             <pubDate>Wed, 20 Oct 2021 09:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 • 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[네이버 상위 1% 블로거의 블로그 수익화 노하우 (퍼블리)]]></title>
-            <link>https://publy.co/content/6492</link>
-            <guid>https://publy.co/content/6492</guid>
-            <pubDate>Tue, 19 Oct 2021 08:12:43 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 10분 분량]]></content:encoded>
         </item>
         <item>
