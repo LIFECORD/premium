@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 21:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 22:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -470,6 +470,14 @@
             <content:encoded><![CDATA[나 2년 만에 해외 출장 갈 것 같애. 그것도 유럽으로. 훗, 부럽다고? 일인데 부럽긴, 훗훗. &nbsp;유럽 간다니까 바로 추천받은 앱이 있어. 레볼루트. 영국에서 시작된 핀테크 서비스<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[쉰넷의 SKT 전무가 '세나클소프트'를 창업한 이유 (폴인)]]></title>
+            <link>https://www.folin.co/story/1920</link>
+            <guid>https://www.folin.co/story/1920</guid>
+            <pubDate>Tue, 26 Oct 2021 22:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[<li>테크</li>
+                                <li>스타트업</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[퍼스널브랜딩, 선택이 아니라 필수인 이유 (폴인)]]></title>
             <link>https://www.folin.co/story/1915</link>
             <guid>https://www.folin.co/story/1915</guid>
@@ -745,14 +753,6 @@
             <title><![CDATA['범 내려온다', 3억 뷰를 만든 5가지 포인트 (폴인)]]></title>
             <link>https://www.folin.co/story/1874</link>
             <guid>https://www.folin.co/story/1874</guid>
-            <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>조직문화</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['범 내려온다' 광고를 만든 아이디어 4 (폴인)]]></title>
-            <link>https://www.folin.co/story/1873</link>
-            <guid>https://www.folin.co/story/1873</guid>
             <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>조직문화</li>]]></content:encoded>
