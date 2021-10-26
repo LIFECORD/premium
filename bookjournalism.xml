@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2021-10-26T15:11:54.353Z</updated>
+    <updated>2021-10-26T16:15:57.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
-        <title type="html"><![CDATA[백종원은 골목상권의 구원자인가 침략자인가? 방송인인가 사업가인가?]]></title>
+        <title type="html"><![CDATA[백종원은 골목 상권의 구원자인가 침략자인가? 방송인인가 사업가인가?]]></title>
         <id>https://www.bookjournalism.com/books/44133</id>
         <link href="https://www.bookjournalism.com/books/44133"/>
         <updated>2021-10-26T15:11:45.790Z</updated>
