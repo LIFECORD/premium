@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2021-10-27T21:10:22.241Z</updated>
+    <updated>2021-10-27T22:11:10.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2000년대 감성 뉴트로 컨셉, 마케터가 주목하는 이유]]></title>
+        <id>https://www.folin.co/story/1922</id>
+        <link href="https://www.folin.co/story/1922"/>
+        <updated>2021-10-27T22:10:52.104Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>라이프스타일</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쉰넷의 SKT 전무가 '세나클소프트'를 창업한 이유]]></title>
         <id>https://www.folin.co/story/1920</id>
@@ -283,14 +291,6 @@
         <link href="https://www.folin.co/story/1879"/>
         <updated>2021-10-03T17:13:20.314Z</updated>
         <content type="html"><![CDATA[<li>워크</li>
-                                <li>조직문화</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범 내려온다', 3억 뷰를 만든 5가지 포인트]]></title>
-        <id>https://www.folin.co/story/1874</id>
-        <link href="https://www.folin.co/story/1874"/>
-        <updated>2021-10-03T17:13:20.316Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>조직문화</li>]]></content>
     </entry>
 </feed>
