@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 08:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 09:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2시간 만에 매출 95억 원? 진짜 팔리는 라이브 커머스 마케터의 기획법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6481</link>
+            <guid>https://publy.co/content/6481</guid>
+            <pubDate>Wed, 27 Oct 2021 09:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 • 13분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[블랭크 출신 마케터의 매출을 끌어올리는 프로모션 기획법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6550</link>
+            <guid>https://publy.co/content/6550</guid>
+            <pubDate>Wed, 27 Oct 2021 09:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 • 13분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[데이터 분석 초심자를 위한 SQL 공부법 (퍼블리)]]></title>
             <link>https://publy.co/content/6524</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/6522</guid>
             <pubDate>Thu, 21 Oct 2021 09:17:12 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 8분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[산만한 지메일을 내 업무 비서로 만드는 방법 (퍼블리)]]></title>
-            <link>https://publy.co/content/6465</link>
-            <guid>https://publy.co/content/6465</guid>
-            <pubDate>Wed, 20 Oct 2021 10:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 • 6분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[빅데이터, 생활을 바꾸다: 빅데이터는 우리 생활 속에서 어떻게 활용되고 있을까? (퍼블리)]]></title>
-            <link>https://publy.co/content/6486</link>
-            <guid>https://publy.co/content/6486</guid>
-            <pubDate>Wed, 20 Oct 2021 09:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 • 10분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Z세대 신입사원이 소문내고 싶어하는 온보딩은 이런 것! (캐릿)]]></title>
@@ -766,6 +766,13 @@
                                 <li>조직문화</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[삼성전자는 초격차 반도체에 승부수를 띄웠다. 메모리 칩과 완성품 사업은 한계가 보인다. 삼성은 구조적 한계를 극복할 수 있을까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/44021</link>
+            <guid>https://www.bookjournalism.com/books/44021</guid>
+            <pubDate>Wed, 27 Oct 2021 09:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[세 번째 별]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[백종원은 골목 상권의 구원자인가 침략자인가? 방송인인가 사업가인가? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/44133</link>
             <guid>https://www.bookjournalism.com/books/44133</guid>
@@ -841,13 +848,6 @@
             <guid>https://www.bookjournalism.com/books/43420</guid>
             <pubDate>Sun, 24 Oct 2021 18:12:15 GMT</pubDate>
             <content:encoded><![CDATA[더 포캐스트]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[토스가 타다를 인수하고 모빌리티 사업에도 뛰어든다. 토스가 기꺼이 레드오션에서 카카오와 경쟁하려는 이유는 무엇일까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/43369</link>
-            <guid>https://www.bookjournalism.com/books/43369</guid>
-            <pubDate>Sun, 24 Oct 2021 18:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[토스가 쏘카를 타다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소상공인 손실보상금 Q&A (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
