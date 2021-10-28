@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 00:34:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 01:53:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6522</guid>
             <pubDate>Thu, 21 Oct 2021 09:17:12 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 8분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MZ세대는 UI/UX 디자이너의 의도대로 앱을 이용하고 있을까? (캐릿)]]></title>
+            <link>https://www.careet.net/535</link>
+            <guid>https://www.careet.net/535</guid>
+            <pubDate>Thu, 28 Oct 2021 01:52:43 GMT</pubDate>
+            <content:encoded><![CDATA[맘에 안드는 기능 업데이트되면 강제 다운그레이드 한다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/d99e4290-db6f-4b9d-8fc5-84292e2ae4be_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Z세대 신입사원이 소문내고 싶어하는 온보딩은 이런 것! (캐릿)]]></title>
