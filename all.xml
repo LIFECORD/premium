@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 21:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 22:10:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -486,6 +486,22 @@
             <content:encoded><![CDATA[펭수, 김갑생할머니김, 매드몬스터. 최근 뜬 콘텐츠의 공통점 알아요? 각자 설정해놓은 세계관이 있다는 거, 그리고 그 세계관에 팬들이 맞장구를 치며 인기가 급상승했다는 거예요!&nbsp;<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[야망을 가진 여성이 되려면 필요한 마인드 4가지 (폴인)]]></title>
+            <link>https://www.folin.co/story/1926</link>
+            <guid>https://www.folin.co/story/1926</guid>
+            <pubDate>Thu, 28 Oct 2021 22:10:33 GMT</pubDate>
+            <content:encoded><![CDATA[<li>커리어</li>
+                                <li>조직문화</li>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['리더, 꼭 해야 하나?' 고민하는 여성들에게 (폴인)]]></title>
+            <link>https://www.folin.co/story/1925</link>
+            <guid>https://www.folin.co/story/1925</guid>
+            <pubDate>Thu, 28 Oct 2021 22:10:33 GMT</pubDate>
+            <content:encoded><![CDATA[<li>커리어</li>
+                                <li>조직문화</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2000년대 감성 뉴트로 컨셉, 마케터가 주목하는 이유 (폴인)]]></title>
             <link>https://www.folin.co/story/1922</link>
             <guid>https://www.folin.co/story/1922</guid>
@@ -756,22 +772,6 @@
             <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
             <content:encoded><![CDATA[<li>라이프스타일</li>
                                 <li>커리어</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전문의만 11명 채용한 스타트업이 바라보는 곳은? (폴인)]]></title>
-            <link>https://www.folin.co/story/1876</link>
-            <guid>https://www.folin.co/story/1876</guid>
-            <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<li>테크</li>
-                                <li>스타트업</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[회사 안에서 ‘나답게’ 일할 때 일어나는 일 (폴인)]]></title>
-            <link>https://www.folin.co/story/1879</link>
-            <guid>https://www.folin.co/story/1879</guid>
-            <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<li>워크</li>
-                                <li>조직문화</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[공인중개사 시험에 40만 명이 몰렸다. 영끌 시대, 우리들의 초상이다. (북저널리즘)]]></title>
