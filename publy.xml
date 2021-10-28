@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all</id>
     <title>퍼블리</title>
-    <updated>2021-10-28T07:11:46.797Z</updated>
+    <updated>2021-10-28T08:13:11.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[<스트릿 우먼 파이터> 리더십으로 보는 우리 팀장 사용법]]></title>
+        <id>https://publy.co/content/6549?fr=category</id>
+        <link href="https://publy.co/content/6549?fr=category"/>
+        <updated>2021-10-28T08:12:22.456Z</updated>
+        <content type="html"><![CDATA[아티클 • 7분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2시간 만에 매출 95억 원? 진짜 팔리는 라이브 커머스 마케터의 기획법]]></title>
         <id>https://publy.co/content/6481?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6477?fr=category"/>
         <updated>2021-10-28T07:11:03.154Z</updated>
         <content type="html"><![CDATA[아티클 • 15분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불렛저널, 정신없는 나를 챙겨주는 시스템 만들기]]></title>
-        <id>https://publy.co/content/6522?fr=category</id>
-        <link href="https://publy.co/content/6522?fr=category"/>
-        <updated>2021-10-28T07:11:03.154Z</updated>
-        <content type="html"><![CDATA[아티클 • 8분 분량]]></content>
     </entry>
 </feed>

@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 07:11:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 08:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<스트릿 우먼 파이터> 리더십으로 보는 우리 팀장 사용법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6549?fr=category</link>
+            <guid>https://publy.co/content/6549?fr=category</guid>
+            <pubDate>Thu, 28 Oct 2021 08:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 • 7분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2시간 만에 매출 95억 원? 진짜 팔리는 라이브 커머스 마케터의 기획법 (퍼블리)]]></title>
             <link>https://publy.co/content/6481?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6477?fr=category</guid>
             <pubDate>Thu, 28 Oct 2021 07:11:03 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 15분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[불렛저널, 정신없는 나를 챙겨주는 시스템 만들기 (퍼블리)]]></title>
-            <link>https://publy.co/content/6522?fr=category</link>
-            <guid>https://publy.co/content/6522?fr=category</guid>
-            <pubDate>Thu, 28 Oct 2021 07:11:03 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 • 8분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MZ세대는 UI/UX 디자이너의 의도대로 앱을 이용하고 있을까? (캐릿)]]></title>
