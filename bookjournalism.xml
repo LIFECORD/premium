@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2021-10-29T04:14:08.116Z</updated>
+    <updated>2021-10-29T05:10:27.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://www.bookjournalism.com/books/44189</id>
         <link href="https://www.bookjournalism.com/books/44189"/>
         <updated>2021-10-29T02:24:32.858Z</updated>
-        <content type="html"><![CDATA[테슬라 레이스]]></content>
+        <content type="html"><![CDATA[머스크 따라잡기, 테슬라 올라타기]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[삼성전자는 초격차 반도체에 승부수를 띄웠다. 메모리 칩과 완성품 사업은 한계가 보인다. 삼성은 구조적 한계를 극복할 수 있을까.]]></title>
