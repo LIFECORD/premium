@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 08:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 09:11:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내년에는 우리팀에 OKR 도입해볼까? 오늘 당장 적용하는 OKR 실행법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6518?fr=category</link>
+            <guid>https://publy.co/content/6518?fr=category</guid>
+            <pubDate>Fri, 29 Oct 2021 09:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 • 14분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[스타트업으로 출근합니다: 스타트업 여성 3인과의 인터뷰 (퍼블리)]]></title>
             <link>https://publy.co/content/6534?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6523?fr=category</guid>
             <pubDate>Thu, 28 Oct 2021 07:11:03 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 14분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["회사에서 나만 그래?" 선배들이 알려주는 슬기로운 조직 생활 (퍼블리)]]></title>
-            <link>https://publy.co/content/6506?fr=category</link>
-            <guid>https://publy.co/content/6506?fr=category</guid>
-            <pubDate>Thu, 28 Oct 2021 07:11:03 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 • 10분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[요즘 고등학생들이 필수로 공구한다는 이것 (캐릿)]]></title>
