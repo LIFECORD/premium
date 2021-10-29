@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2021-10-29T07:11:42.575Z</updated>
+    <updated>2021-10-29T08:13:31.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[10월 다섯째 주 - 대한민국의 민주주의는 지금 한 시대를 넘어서고 있습니다.]]></title>
+        <id>https://www.bookjournalism.com/books/44337</id>
+        <link href="https://www.bookjournalism.com/books/44337"/>
+        <updated>2021-10-29T08:13:22.301Z</updated>
+        <content type="html"><![CDATA[전두환 넘어서기]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[환경오염과 생태계 파괴는 곤충 종의 급격한 소멸을 불러오고 있다. 지구 생태계에서 곤충의 역할과 그 중요성을 생각할 때 이 사안에 대한 깊은 관심과 논의가 필요하다.]]></title>
         <id>https://www.bookjournalism.com/books/44122</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/43740"/>
         <updated>2021-10-29T02:24:32.915Z</updated>
         <content type="html"><![CDATA[웰컴 투 위드 코로나 월드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키아프에서 650억 원어치 미술품을 산 사람들은 돈을 벌까? 거품일까.]]></title>
-        <id>https://www.bookjournalism.com/books/43773</id>
-        <link href="https://www.bookjournalism.com/books/43773"/>
-        <updated>2021-10-29T02:24:32.916Z</updated>
-        <content type="html"><![CDATA[아트 오브 머니]]></content>
     </entry>
 </feed>
