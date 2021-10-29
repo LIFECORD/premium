@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 06:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 07:11:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -790,6 +790,13 @@
                                 <li>커리어</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[환경오염과 생태계 파괴는 곤충 종의 급격한 소멸을 불러오고 있다. 지구 생태계에서 곤충의 역할과 그 중요성을 생각할 때 이 사안에 대한 깊은 관심과 논의가 필요하다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/44122</link>
+            <guid>https://www.bookjournalism.com/books/44122</guid>
+            <pubDate>Fri, 29 Oct 2021 07:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[차원이 다른 손실]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[공인중개사 시험에 40만 명이 몰렸다. 영끌 시대, 우리들의 초상이다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/44308</link>
             <guid>https://www.bookjournalism.com/books/44308</guid>
@@ -801,7 +808,7 @@
             <link>https://www.bookjournalism.com/books/44189</link>
             <guid>https://www.bookjournalism.com/books/44189</guid>
             <pubDate>Fri, 29 Oct 2021 02:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[머스크 따라잡기, 테슬라 올라타기]]></content:encoded>
+            <content:encoded><![CDATA[뛰는 테슬라 나는 머스크]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[삼성전자는 초격차 반도체에 승부수를 띄웠다. 메모리 칩과 완성품 사업은 한계가 보인다. 삼성은 구조적 한계를 극복할 수 있을까. (북저널리즘)]]></title>
@@ -865,13 +872,6 @@
             <guid>https://www.bookjournalism.com/books/43773</guid>
             <pubDate>Fri, 29 Oct 2021 02:24:32 GMT</pubDate>
             <content:encoded><![CDATA[아트 오브 머니]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[디즈니 플러스가 넷플릭스를 추월할 수 있을까? 잘못된 질문인지도 모른다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/43491</link>
-            <guid>https://www.bookjournalism.com/books/43491</guid>
-            <pubDate>Fri, 29 Oct 2021 02:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[디즈니 더하기]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1. 프롤로그 <1>_우리가 부모에게 '밥' 대신 바랐던 것들 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>

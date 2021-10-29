@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2021-10-29T06:13:55.389Z</updated>
+    <updated>2021-10-29T07:11:42.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[환경오염과 생태계 파괴는 곤충 종의 급격한 소멸을 불러오고 있다. 지구 생태계에서 곤충의 역할과 그 중요성을 생각할 때 이 사안에 대한 깊은 관심과 논의가 필요하다.]]></title>
+        <id>https://www.bookjournalism.com/books/44122</id>
+        <link href="https://www.bookjournalism.com/books/44122"/>
+        <updated>2021-10-29T07:11:34.496Z</updated>
+        <content type="html"><![CDATA[차원이 다른 손실]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공인중개사 시험에 40만 명이 몰렸다. 영끌 시대, 우리들의 초상이다.]]></title>
         <id>https://www.bookjournalism.com/books/44308</id>
@@ -17,7 +24,7 @@
         <id>https://www.bookjournalism.com/books/44189</id>
         <link href="https://www.bookjournalism.com/books/44189"/>
         <updated>2021-10-29T02:24:32.858Z</updated>
-        <content type="html"><![CDATA[머스크 따라잡기, 테슬라 올라타기]]></content>
+        <content type="html"><![CDATA[뛰는 테슬라 나는 머스크]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[삼성전자는 초격차 반도체에 승부수를 띄웠다. 메모리 칩과 완성품 사업은 한계가 보인다. 삼성은 구조적 한계를 극복할 수 있을까.]]></title>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/43773"/>
         <updated>2021-10-29T02:24:32.916Z</updated>
         <content type="html"><![CDATA[아트 오브 머니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디즈니 플러스가 넷플릭스를 추월할 수 있을까? 잘못된 질문인지도 모른다.]]></title>
-        <id>https://www.bookjournalism.com/books/43491</id>
-        <link href="https://www.bookjournalism.com/books/43491"/>
-        <updated>2021-10-29T02:24:32.917Z</updated>
-        <content type="html"><![CDATA[디즈니 더하기]]></content>
     </entry>
 </feed>
