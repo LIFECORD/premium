@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 23:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 00:33:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -479,7 +479,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202108/0262c371-1b88-48b5-821a-0918675de5da_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[매드몬스터 : 팬들이 놀아주는 세계관은 어떻게 형성되는가 (롱블랙)]]></title>
+            <title><![CDATA[뉴 매스 : 팬들이 놀아주는 세계관은 어떻게 형성되는가 (롱블랙)]]></title>
             <link>https://www.longblack.co/note/81</link>
             <guid>https://www.longblack.co/note/81</guid>
             <pubDate>Thu, 28 Oct 2021 15:11:32 GMT</pubDate>
