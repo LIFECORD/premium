@@ -4,9 +4,25 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 00:33:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 01:53:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 고등학생들이 필수로 공구한다는 이것]]></title>
+            <link>https://www.careet.net/537</link>
+            <guid>https://www.careet.net/537</guid>
+            <pubDate>Fri, 29 Oct 2021 01:52:29 GMT</pubDate>
+            <content:encoded><![CDATA[왜 이렇게 수특 스티커 꾸미기에 진심일까요?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/14f9e75c-ec04-43f4-96da-f5c4bb06a8de_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[손가락 하트 가고 곰돌이 하트가 왔다? 이주의 떡상 아이템 4]]></title>
+            <link>https://www.careet.net/536</link>
+            <guid>https://www.careet.net/536</guid>
+            <pubDate>Fri, 29 Oct 2021 01:52:29 GMT</pubDate>
+            <content:encoded><![CDATA[새벽 6시부터 줄 서야 들어갈 수 있는 핫플이 생겼다!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202110/9ec3e24c-03bf-4a34-8cfa-4b84a907fd47_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MZ세대는 UI/UX 디자이너의 의도대로 앱을 이용하고 있을까?]]></title>
             <link>https://www.careet.net/535</link>
