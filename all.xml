@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 14:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 15:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -495,11 +495,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202108/0262c371-1b88-48b5-821a-0918675de5da_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[로저 마틴 : 갈수록 세분화하는 취향, 더 섬세한 제안이 필요하다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/84</link>
-            <guid>https://www.longblack.co/note/84</guid>
-            <pubDate>Fri, 29 Oct 2021 15:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[지난 한주 동안 감각이란 단어를 곱씹었습니다. 구스노키 켄 교수의 인터뷰가 너무 강렬하게 남아서요. 특히 이 대목이 잊히지 않아요. “커리어가 쌓일수록 중요한 것은 감각이다. 나만<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[메타버스 이코노미 : 새로운 화폐와 직업이 탄생하는 경제 생태계 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/85</link>
+            <guid>https://www.longblack.co/note/85</guid>
+            <pubDate>Sat, 30 Oct 2021 15:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[안녕, 여러분! 저 단풍놀이 다녀왔어요. 귀여운 다람쥐랑 사진도 찍었죠. 어디로 갔냐고요? 제페토Zepeto*요!*네이버Z가<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[야망을 가진 여성이 되려면 필요한 마인드 4가지 (폴인)]]></title>
@@ -790,75 +790,160 @@
                                 <li>커리어</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[30초리뷰  - 오티스의 비밀상담소 시즌3 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/moviefw/movieflow/contents/211004010546621tf</link>
-            <guid>https://contents.premium.naver.com/moviefw/movieflow/contents/211004010546621tf</guid>
-            <pubDate>Fri, 29 Oct 2021 15:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[🙄 드라마가 너무 길어서 못보겠다구요? 30초 리뷰로 함께하세요. 💣스포일러가 싫으신 분들은 뒤로! 시즌1, 시즌2에서도 솔직하고 발랄한 성 관련 내용들이 나왔던 오티스의 비밀상담소(SEX EDUCATION)인데요. 시즌3에서는 조금 더 성숙해진 친구들을 만날 수 있습니다. 메이브와 오티스의 엇갈림은 계속되네요. 오피스는 루비랑 의외로 잘 맞았습니다. 루비도 화려한 모습 뒤에 사연]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMDRfMTQx/MDAxNjMzMjc2MjgwMzcz.Or-sWH5jbaMBkO7y-1O8pQlvros_qmMFGAOKDbA2-8wg.uLm4HbzDOTzVrfmv9HyWIrOlCJ2s5PszN37ASrw8ikAg.PNG/SE-d501309e-ffac-4327-83fb-64b655ef14ee.png?type=nf220_220" length="0" type="image/png"/>
+            <title><![CDATA[10월 다섯째 주 - 대한민국의 민주주의는 지금 한 시대를 넘어서고 있습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/44337</link>
+            <guid>https://www.bookjournalism.com/books/44337</guid>
+            <pubDate>Sat, 30 Oct 2021 15:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[전두환 넘어서기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[격돌하는 배민과 쿠팡, MFC가 온다 [1/2] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/connectx/us/contents/211011195020437iH</link>
-            <guid>https://contents.premium.naver.com/connectx/us/contents/211011195020437iH</guid>
-            <pubDate>Fri, 29 Oct 2021 15:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[CHAPTER 1 작은 물류센터가 뜬다 과거부터 현재까지. 한국 법이 정하는 물류센터는 일단 커야했다. &lt;물류시설의 개발 및 운영에 관한 법률&gt;에 따르면 물류창고업을 등록하기 위해서는 전체 바닥면적의 합계가 1000미터(302.5평), 전체면적 합계가 4500제곱미터(1361.25평) 이상인 보관 장소가 필요하다. 최소 수백평 이상의 공간이 있어야 법적으로 물류센터라 정의될 수 있었다. 하지만 20]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTFfMzMg/MDAxNjMzOTQ5MTA3NTU4.deV0ZMvFDug1jU_k2dYcgpBkhI0Vh8LBconEhrGjWdQg.1Jr-_tPGpkVX509xb-O0O0W5JExY5irSFCtidiITzOsg.JPEG/2%EC%9E%A5_2._B%EB%A7%88%ED%8A%B8_%EC%9D%B8%EC%B2%9C_%EB%AC%BC%EB%A5%98%EC%84%BC%ED%84%B0.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[환경오염과 생태계 파괴는 곤충 종의 급격한 소멸을 불러오고 있다. 지구 생태계에서 곤충의 역할과 그 중요성을 생각할 때 이 사안에 대한 깊은 관심과 논의가 필요하다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/44122</link>
+            <guid>https://www.bookjournalism.com/books/44122</guid>
+            <pubDate>Sat, 30 Oct 2021 15:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[차원이 다른 손실]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[30초 리뷰 - 탈영병 잡는 D.P (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/moviefw/movieflow/contents/211007004820367FL</link>
-            <guid>https://contents.premium.naver.com/moviefw/movieflow/contents/211007004820367FL</guid>
-            <pubDate>Fri, 29 Oct 2021 15:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[🙄 드라마가 너무 길어서 못보겠다구요? 30초 리뷰로 함께하세요. 💣스포일러가 싫으신 분들은 뒤로! 군대 문화를 적나라하게 표현해서 이슈가 되었었던 D.P입니다. 주인공 안준호는 뛰어난 관찰력과 추리력, 깡으로 D.P로 제안을 받습니다.  안준호는 가족문제가 있습니다. 키가 커서 헌병으로 뽑히고 쫄지 않는 성격과 예리함으로 D.P제안을 받습니다.  수사를 하러 외출했다가 선]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMDdfMTY5/MDAxNjMzNTM0NDcxNjUy.4LT85gINiK1G3pIeRB6StL_c5Td4z8ozhABuPCvHMVEg.8sRb6kwCD1riUR3dRjJM8KxgZFJqr8SJGDUxfv94Ppsg.PNG/SE-aa12ff83-9610-4247-9cae-b7af7670cf4d.png?type=nf220_220" length="0" type="image/png"/>
+            <title><![CDATA[공인중개사 시험에 40만 명이 몰렸다. 영끌 시대, 우리들의 초상이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/44308</link>
+            <guid>https://www.bookjournalism.com/books/44308</guid>
+            <pubDate>Sat, 30 Oct 2021 15:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[마지막 영끌 세대]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[바이든도 못 막는 ‘글로벌 물류 대란’이 벌어진 이유 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/connectx/us/contents/211018172041384vV</link>
-            <guid>https://contents.premium.naver.com/connectx/us/contents/211018172041384vV</guid>
-            <pubDate>Fri, 29 Oct 2021 15:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[CHAPTER 1 한국 소비재 가격이 흔들린다 매일 아침 마시는 커피 한 잔부터 장난감까지. 모든 소비재 가격이 뛰어오를 수 있다고 한 블룸버그의 예측이 바로 눈앞에 다가온 현실이 됐습니다. 조 바이든 미국 대통령이 나서서 ‘물류 대란’ 해결에 총력을 기울이겠다고 삼성전자까지 불러 도움을 요청할 정도요. 아, 남의 나라 이야기 아니냐고요? 아뇨. 지금 이 순간 한국에서 벌어]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMThfMTE3/MDAxNjM0NTQ1MTU2NDEw.CN_NDQGUZ3Rc48fu-klOGuDVqmMbsoc83sS4LWVWNjgg.KWfNWFr_XJEnA0tqCC-ybfQtNK0Ku-fqboJDtx8rxjAg.JPEG/long_beach.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[테슬라 주가는 얼마까지 오를까? 머스크는 모빌리티의 잡스가 될까? 테슬라는 자율주행의 승자가 될까? 자율비행도 테슬라가 선점할까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/44189</link>
+            <guid>https://www.bookjournalism.com/books/44189</guid>
+            <pubDate>Sat, 30 Oct 2021 15:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[뛰는 테슬라 나는 머스크]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쿠팡 제국의 대척점, 네이버 풀필먼트 연합군 [1/3] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/connectx/us/contents/211005110932520lM</link>
-            <guid>https://contents.premium.naver.com/connectx/us/contents/211005110932520lM</guid>
-            <pubDate>Fri, 29 Oct 2021 15:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[CHAPTER1 쿠팡도 연합군 아니냐고요? 새삼 모두 다 아는 이야기로 시작한다. 쿠팡은 ‘물류 제국’을 만들고자 한다. 2014년 로켓배송을 시작한 이후 모든 물류를 직접 운영하는 방식으로 내재화하고 있다. 물류 운영은 물론 관련 가치사슬의 ‘시스템’까지 통합 운영한다. 아마존의 방식이다. 사실 조금 더 갔다. 아마존조차 처음부터 ‘배송 조직’을 내재화하지는 않았으니. 아]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMDVfMjE2/MDAxNjMzMzk5NjY1NDUy.aBZqfBJbWP2of9kGwzwXMDhJZ7QHUCMsFGEmspWUEtsg.De-Sv2D0_9uteIWiGDfeVj7huYfIuscjuv1mfvPqlEUg.JPEG/4%EC%9E%A5_1._%EB%84%A4%EC%9D%B4%EB%B2%84_%ED%92%80%ED%95%84%EB%A8%BC%ED%8A%B8_%EC%97%B0%ED%95%A9%EA%B5%B0(%EC%9D%B4%EB%AF%B8%EC%A7%80).jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[삼성전자는 초격차 반도체에 승부수를 띄웠다. 메모리 칩과 완성품 사업은 한계가 보인다. 삼성은 구조적 한계를 극복할 수 있을까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/44021</link>
+            <guid>https://www.bookjournalism.com/books/44021</guid>
+            <pubDate>Sat, 30 Oct 2021 15:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[세 번째 별]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[디아블로 2: 레저렉션이 뭐길래 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/potg/potgbypnn/contents/211001175932320hO</link>
-            <guid>https://contents.premium.naver.com/potg/potgbypnn/contents/211001175932320hO</guid>
-            <pubDate>Fri, 29 Oct 2021 15:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 주간 게임 하이라이트 레터, POTG의 허새롬 기자입니다. 지난주 디아블로2: 레저렉션이 출시됐습니다. 쌍수 들고 환영한 분도, 대체 그게 뭔지 궁금한 분도 있으실 텐데요. 지난 2012년, 게임 디아블로3 발매 소식에 이런 우스개소리가 온라인을 떠돈 적이 있습니다. 전작 디아블로2를 즐긴 이들에게는 샤넬이 12년 만에 새로운 샤넬백을 낸 수준의 소식이라고요. 그렇다]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMDFfMjM5/MDAxNjMzMDc2MTY2MDE1.xIPEGEwf0fUO8euP_SnOxMdAlU4BWIPYuNVW7dutdDcg.nvbIzkpetgu3vyoTbu6XiN8s75zMHXtq33rb_cS6cwcg.JPEG/%EB%94%94%EC%95%84%EB%B8%94%EB%A1%9C2_%EB%A0%88%EC%A0%80%EB%A0%89%EC%85%98_%ED%83%80%EC%9D%B4%ED%8B%80_%EC%9D%B4%EB%AF%B8%EC%A7%80.jpeg?type=nf220_220" length="0" type="image/jpeg"/>
+            <title><![CDATA[백종원은 골목 상권의 구원자인가 침략자인가? 방송인인가 사업가인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/44133</link>
+            <guid>https://www.bookjournalism.com/books/44133</guid>
+            <pubDate>Sat, 30 Oct 2021 15:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[백종원은 무엇인가]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[내 집, 자식한테 얼마나 싸게 팔 수 있을까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/taxwatch/tax/contents/211013102308203Gx</link>
-            <guid>https://contents.premium.naver.com/taxwatch/tax/contents/211013102308203Gx</guid>
-            <pubDate>Fri, 29 Oct 2021 15:11:52 GMT</pubDate>
-            <content:encoded><![CDATA["아파트를 딸에게 싸게 파려고 하는데 얼마에 팔아야 할까요?" 자녀에게 부동산을 증여하고 싶을 때 증여세 부담을 줄일 수 있는 방법으로 '저가 양도'를 택하는 경우가 늘고 있다. 증여 대신 저가 양도를 통해 세 부담을 대폭 줄일 수 있기 때문이다. 물론 저가양도를 통해 자녀에게 아파트를 팔더라도 양도세가 발생하긴 하지만 증여세보다는 세 부담을 줄일 수 있기 때문에 해]]></content:encoded>
+            <title><![CDATA[삼성전자는 진짜 위기다. 왜 위기인 줄 진짜 모르는 걸까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/44061</link>
+            <guid>https://www.bookjournalism.com/books/44061</guid>
+            <pubDate>Sat, 30 Oct 2021 15:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[진짜 진짜 위기의 삼성]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마이크로소프트가 서버를 물에 담그는 이유 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/byline/todayglobal/contents/211028101349406ud</link>
-            <guid>https://contents.premium.naver.com/byline/todayglobal/contents/211028101349406ud</guid>
-            <pubDate>Fri, 29 Oct 2021 15:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 오늘, 외쿡신문입니다.  세계 각국의 대표들이 모여 기후변화 문제를 논의하는 UN 기후변화협약 당사국 회의 (COP26)이 다음 주로 다가왔습니다. 1995년부터 매년 열리다 지난해 코로나19로 한번 건너 뛰고, 올해 영국 글래스고에서 2주간 개최됩니다. 올해 26번째라 COP26이라 불립니다.  지난 2015년 파리 회의에서 ‘2050까지 탄소중립을 달성하기 위해 지구 평균기온 상승]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjhfNjkg/MDAxNjM1MzgzNjA4NjYw.Uto8fJHHxcyCxOEpry5Tb_LcFrV-xXW9K2hdn8cphvEg.UeIqSDfCQeUtOXv1i2kMajc_BoYWqyxb_W2V_SixR_Ag.JPEG/Apple_clean-energy-update_hero_10272021.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[북저널리즘 라디오 에피소드#10에선, K우주산업의 명암과 싸이월드의 좀비화 그리고 디즈니 플러스의 등장과 스태그플레이션 논쟁을 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/43980</link>
+            <guid>https://www.bookjournalism.com/audio/43980</guid>
+            <pubDate>Sat, 30 Oct 2021 15:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[우주전쟁부터 리모콘전쟁까지 갬성소환부터 경제위기까지]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[유망주] 셔터스톡, 이미지 구독 서비스 강자· ·· 인수합병으로 구독자 증가 추세 지속 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/211029132714470Fp</link>
-            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/211029132714470Fp</guid>
-            <pubDate>Sat, 30 Oct 2021 13:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[셔터스톡(SSTK)은 전세계 최다 이미지를 보유한 디지털 이미지 서비스 기업입니다. 라이선스가 부여된 사진이나 일러스트레이션, 비디오 클립 등을 웹사이트, 마케팅자료, 기업 커뮤니케이션, 비디오 콘텐츠 등에 제공합니다. 수익은 Shutterstock.com, bigstock.com, premiumbeat.com 등의 웹사이트를 통해 구독 서비스를 판매하는 e-커머스 채널과  API 플랫폼 등을 제공받는 엔터프라이즈(기업]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjhfMTU4/MDAxNjM1NDA4MzUwODU1.MhL4Q9Fv_JtzTzQ4jmgRl2nYaqbcOieF0j21r_zyan4g.w9v3zMbu-rxlmxQ4grsbrZCM069U8qO_Z2Ym3tfeZtMg.PNG/acfb1a9c26b834171bc4df79727f115b.png?type=nf220_220" length="0" type="image/png"/>
+            <title><![CDATA[10월 넷째 주 - 스태그플레이션이라는 겨울이 오고 있습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/43969</link>
+            <guid>https://www.bookjournalism.com/books/43969</guid>
+            <pubDate>Sat, 30 Oct 2021 15:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[겨울이 온다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[K뉴스페이스 시대를 누릴 수 있을까? 한화는 한국의 스페이스X가 될까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/43919</link>
+            <guid>https://www.bookjournalism.com/books/43919</guid>
+            <pubDate>Sat, 30 Oct 2021 15:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[미션 투 누리호]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[싸이월드는 다시 뜰 수 있을까? 누가 왜 자꾸 띄울까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/43834</link>
+            <guid>https://www.bookjournalism.com/books/43834</guid>
+            <pubDate>Sat, 30 Oct 2021 15:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[수상한 싸이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제로 코로나는 욕심이다. 위드 코로나가 현실이다. 코로나 엔데믹의 세계는 어떤 모습일까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/43740</link>
+            <guid>https://www.bookjournalism.com/books/43740</guid>
+            <pubDate>Sat, 30 Oct 2021 15:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[웰컴 투 위드 코로나 월드]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘도 속터지는 팀장님들을 위한 조직관리 안내서(feat. 야구)-① Prologue (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/khan/noon/contents/210502165351539hD</link>
+            <guid>https://contents.premium.naver.com/khan/noon/contents/210502165351539hD</guid>
+            <pubDate>Sat, 30 Oct 2021 15:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[오늘도 속 터지는 팀장님, 부장님들 안녕하십니까.   임원들은 ‘알아서 못하냐’고 합니다. 뭔가를 하려 하면, “내가 해 봐서 아는데, 안 된다”고 합니다. 적당히 눈치를 보면서 움직이는 것이 ‘효율’이라고 믿습니다. 정확하게 이것과 저것을 구분하는 대신, 적당히 이것을 하고 저것을 하지 않는 것, ‘척 하면 착’이 조직의 효율성이라고 말합니다. 개떡같이 말해도, 찰]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA1MDJfMTAx/MDAxNjE5OTQxNjIzNzc0.EOXIzjqODt6IbDSU4-dGoTayfEEVXpN0bbhdZPIFyzUg.hVFkQlfyLZusacC5m9wSJJVrIG0WSCLY8r07sQlKwi0g.JPEG/0502_%ED%85%8C%EC%98%A4_%EC%97%A1%EC%8A%A4%ED%83%80%EC%9D%B8.jpg?type=nf220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 세상에 오직 하나뿐인 이야기, 지금 시작합니다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/khan/noon/contents/210502000419091nx</link>
+            <guid>https://contents.premium.naver.com/khan/noon/contents/210502000419091nx</guid>
+            <pubDate>Sat, 30 Oct 2021 15:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[갑자기 휘슬이 울렸다. 청천벽력과도 같던 혈액암 진단으로 어쩔 수 없이 휴직을 하게 되면서 모든 걸 멈추고 그저 집과 병원만 왔다 갔다 하는 신세가 됐다.  모든 게 낯설다. 계획에 전혀 없던 돌발 상황이 지금 내게 의미하는 것은 무엇일까.   두 손을 가지런히 모으고 생각해본다.  '여태껏 살면서 제대로 된 휴식이라고는 없었구나. 그저 앞만 보고 달렸구나' 이 병이 아니었]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA1MDNfMTk0/MDAxNjIwMDA2NTAyMDIy.pL0bEzw2aLPt2wNoKNZBKY2c8JBeVklKNrXOFnlVgTkg.mOTjQTbkP_W1aXb6nPpZlNgKgJ5wgp8K-ivS-FxWwwkg.JPEG/%ED%9D%A5%EB%AF%BC.jpg?type=nf220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[시사상식] 실전 모의고사 2회 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/210621103827342nB</link>
+            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/210621103827342nB</guid>
+            <pubDate>Sat, 30 Oct 2021 15:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[1. 다음중 주식시장에서 공매도에 대한 설명으로 맞는 것을 고르시오.    ① 공매도는 주가가 오르면 큰 폭의 이익을 얻을 수 있는 투자기법이다.  ② 우리나라는 무차입 공매도를 허용한다.  ③ 우리나라는 개인의 공매도를 금지한다. ④ 공매도는 시장 가격발견 효과가 있기 때문에 그동안 국내에서는 공매도를 금지한 적은 없다. ⑤ 우리나라는 공매도를 할 때 시장가격보다 아]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA1MjVfMjgy/MDAxNjIxOTI0NzUzMDQ4.rkyE_psru3WGmK_CiKpqWihEzsTBTYzoqrjz3Ir69SUg.kjx13ru7VRaxtqNa-otVb1_O3B_jwDui2uNjS7-7kYQg.PNG/exam1.png?type=nf220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[경제의 진정한 기초체력, 잠재 GDP가 중요한 이유 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/210806144745237at</link>
+            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/210806144745237at</guid>
+            <pubDate>Sat, 30 Oct 2021 15:11:31 GMT</pubDate>
+            <content:encoded><![CDATA['내일 과연 잘할 수 있을까?' 수능 시험 전날이나 중요한 면접을 앞두고 혹시나 제 실력을 발휘하지 못할까봐 걱정스러운 마음에 잠자리에서 뒤척이게 된다. 이런 염려는 시험이나 테스트를 받는 당일 감기로 머리가 아프거나 너무 긴장해서 말을 더듬어 평소 실력을 발휘하지 못할 것 같은 두려움에서 오는 것이다. 만일 시험이나 테스트를 여러 차례 시행하고 그 가운데 가장]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA4MDZfODQg/MDAxNjI4MjI4NDMwODIw.zQ4PCWGfqawBIvYJOhWhSJcZ2iXtI9gXU1LDb4og8xIg.LcQRu65MSbHhiZ8cbxRyBVLmYchKBNzC728t_3ijDEAg.JPEG/GettyImages-1327563416.jpg?type=nf220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경쟁사 매출액의 4%에 불과하지만 이익은 똑같다고? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/210805160119574uE</link>
+            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/210805160119574uE</guid>
+            <pubDate>Sat, 30 Oct 2021 15:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[스마트폰을 생산·판매하는 A기업과 B기업이 동일하게 이익 100억원을 남겼다. 이 두 기업은 스마트폰 생산과 판매에서 동일한 실적을 달성했다고 말할 수 있을까? 회사가 벌어들인 이익도 성격에 따라 나눌 수 있다.    스마트폰을 생산하고 판매하는 A·B기업이 실적을 발표했다. 손익계산서를 보니 당기순이익이 동일하게 100억원이다. 두 기업의 스마트폰 판매가격과 생산비용이]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA4MDVfODQg/MDAxNjI4MTQ2OTY5Nzc3.LDlmivLz3-ItsCWpOdFJnxPJY1WkzEpItz9seC-kb40g.zjf8PuI3GVAvEbL8nklkC2qiWskJFM1usQs5pH7E2bYg.JPEG/GettyImages-1253605331.jpg?type=nf220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에컬로프, 정보가 완전하지 않을 때 발생하는 '시장실패' 를 규명하다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/210811154238799nj</link>
+            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/210811154238799nj</guid>
+            <pubDate>Sat, 30 Oct 2021 15:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[조지 아서 애컬로프 (George Arthur Akerlof, 1940년 6월 17일 ~ ) 미국의 경제학자로 2001년 노벨경제학상을 수상했다.  캘리포니아 대학교 버클리 교수를 맡고 있으며 배우자 재닛 옐런은 전 미국연방준비위원회 의장,  현재 조 바이든 행정부의 재무장관이다.  .  경제학자들은 시장이 제 기능을 못하는 `시장실패`가 발생하는 원인으로 불완전경쟁, 외부효과, 공공재 등을 꼽아왔다. 1960년]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA4MTFfMTQ2/MDAxNjI4NjQ4NDM4OTg5.akxx-ZWMahvHyE_OYG3YG33RF-g68-kRNx9v65pDLd0g.toAO5KQY9FXtmS_iVuBxCCOHW5SY2nA8f9fxv-wluH4g.PNG/image01.png?type=nf220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['글로벌 인싸 스토리', 그 여정이 시작됐습니다! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/joongang/gmoney/contents/210813085710773lC</link>
+            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/210813085710773lC</guid>
+            <pubDate>Sat, 30 Oct 2021 15:11:31 GMT</pubDate>
+            <content:encoded><![CDATA['글로벌 인싸 스토리'는 아마존과 테슬라 등 글로벌 기업과 유명 대학에서 일하는 한국계 전문가들이 쓰는 코너입니다.  최신 기술 트렌드뿐 아니라 재테크, 입사요령, 연봉 시즌 분위기, 직장내 애환 등이 인싸들의 글을 통해 생생하게 펼쳐집니다.]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA4MTNfMTY3/MDAxNjI4ODEyODAyMzc4.nWVeFJMC240fGSyAUmyxZxavNHw2vyjEdYf0qSvY2pAg.1c6zjdnUFHo4ugFk-fuxaggUUtXgA_tYvdpFXcWRrXkg.JPEG/%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%8D%94.jpg?type=nf220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유주택자라도 '이런 집'이면 청약 얼마든지 넣을 수 있다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/reaItyoo/zipoopro/contents/210806164954426md</link>
+            <guid>https://contents.premium.naver.com/reaItyoo/zipoopro/contents/210806164954426md</guid>
+            <pubDate>Sat, 30 Oct 2021 15:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[새 아파트 청약에 대한 수요자들의 관심이 그 어느 때보다 높은 상황이다. 하지만 최근 5년간 청약당첨자의 10.2%가 부적격 당첨 취소를 겪었다. 계속 바뀌는 청약 제도를 제대로 숙지하지 못해 아깝게 분양권을 날리는 사례가 적지 않다는 얘기다. 땅집고가 국토교통부가 발간한 ‘2021 주택청약 FAQ’ 자료를 알기 쉽게 정리해 시리즈로 연재한다. [주택 청약 뽀개기] ①우리집 '주]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA4MDZfMjU0/MDAxNjI4MjI4NTQ3MTI0.kXEaPh_bOL8tvnEdbGjRKi0IQJNIvEaP6OUsWy4x0B8g.7-KW-rZlCPpfv_5SaGQnEWbH3NuT-OzEWuRIFtHZBg0g.JPEG/1.jpg?type=nf220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[알립니다] 일분톡 채널종료 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/ilbuntok/techletter/contents/210823183933378mI</link>
+            <guid>https://contents.premium.naver.com/ilbuntok/techletter/contents/210823183933378mI</guid>
+            <pubDate>Sat, 30 Oct 2021 15:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 글로벌 테크레터 일분톡입니다. fun IT! 일분톡이란 슬로건으로 지난 5월 독자분들을 찾아뵈었는데요, 9월 30일 기점으로 채널 종료 소식을 알려드립니다. 현재 구독자 분들은 일분톡 채널 내 &gt; My 페이지 &gt; 구독해지 완료를 해주시면 앞으로 자동결제가 진행되지 않습니다. * 상세 구독해지 정책: https://bit.ly/3zcBFwe 만약 구독해볼까?라고 본 페이지에 처음 들어오셨다면,]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA4MjNfMjIx/MDAxNjI5NzExNTQyMTAz.zdgKGzFXt73zeyitQek9MwQ9U5wvVek7GILYyXOd_FUg.ZW1v3q3hvemK9r1_cfVsp7Jexi-vlT74AA29SKorbOAg.PNG/KakaoTalk_20200619_122640241_01.png?type=nf220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
