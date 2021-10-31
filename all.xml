@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 21:10:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 22:10:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -502,6 +502,14 @@
             <content:encoded><![CDATA[얼마 전에 카카오톡 선물하기로 탈취제를 선물받았어요. 탈취제를 선물받은 건 처음이라 놀랐고, 브랜드가 독특해서 또 놀랐어요.그런데 브랜드 전문가 김혜원 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[밀레니얼 여성이 조직에서 리더가 돼야 하는 이유 (폴인)]]></title>
+            <link>https://www.folin.co/story/1927</link>
+            <guid>https://www.folin.co/story/1927</guid>
+            <pubDate>Sun, 31 Oct 2021 22:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[<li>커리어</li>
+                                <li>조직문화</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[야망을 가진 여성이 되려면 필요한 마인드 4가지 (폴인)]]></title>
             <link>https://www.folin.co/story/1926</link>
             <guid>https://www.folin.co/story/1926</guid>
@@ -777,14 +785,6 @@
             <title><![CDATA[좋은 멘토 찾기 전, 나를 돌아볼 6가지 기준 (폴인)]]></title>
             <link>https://www.folin.co/story/1881</link>
             <guid>https://www.folin.co/story/1881</guid>
-            <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<li>라이프스타일</li>
-                                <li>커리어</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[월급 100배 늘린 '신사임당'이 매일 아침 하는 일? (폴인)]]></title>
-            <link>https://www.folin.co/story/1878</link>
-            <guid>https://www.folin.co/story/1878</guid>
             <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
             <content:encoded><![CDATA[<li>라이프스타일</li>
                                 <li>커리어</li>]]></content:encoded>
