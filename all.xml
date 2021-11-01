@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 14:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 15:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,11 +294,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/a115c60f-ecc0-4252-8cc8-2be2ca525e55_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[희녹 : 화장품 마케터가 만든 탈취제, 새로운 카테고리가 되다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/86</link>
-            <guid>https://www.longblack.co/note/86</guid>
-            <pubDate>Sun, 31 Oct 2021 15:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[얼마 전에 카카오톡 선물하기로 탈취제를 선물받았어요. 탈취제를 선물받은 건 처음이라 놀랐고, 브랜드가 독특해서 또 놀랐어요.그런데 브랜드 전문가 김혜원 <span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[에일린 피셔 : 오래 된 브랜드는 어떻게 젊은 소비자를 끌어들일 수 있는가 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/89</link>
+            <guid>https://www.longblack.co/note/89</guid>
+            <pubDate>Mon, 01 Nov 2021 15:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[환절기 잘 보내고 계신가요? 전 환절기 때 가장 힘든 게 쇼핑이더라고요. 옷도 예쁘고 환경도 생각하는 브랜드 찾기가 은근 어렵거든요. H&amp;M, 자라… 이런 곳은 가지 않아요. 패스<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[밀레니얼 여성이 조직에서 리더가 돼야 하는 이유 (폴인)]]></title>
@@ -589,6 +589,13 @@
                                 <li>커리어</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[세계는 1.5도 약속을 지킬 수 있을까? 한국은 40퍼센트의 약속을 지킬 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/44426</link>
+            <guid>https://www.bookjournalism.com/books/44426</guid>
+            <pubDate>Mon, 01 Nov 2021 15:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[지속가능한 탄소 중립을 위하여]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[북저널리즘 라디오 에피소드#11에선, 삼성전자의 위기와 백종원의 정체 그리고 테슬라의 미래와 부동산 영끌 세대의 운명을 이야기합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/audio/44380</link>
             <guid>https://www.bookjournalism.com/audio/44380</guid>
@@ -666,83 +673,76 @@
             <content:encoded><![CDATA[미션 투 누리호]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[싸이월드는 다시 뜰 수 있을까? 누가 왜 자꾸 띄울까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/43834</link>
-            <guid>https://www.bookjournalism.com/books/43834</guid>
-            <pubDate>Sun, 31 Oct 2021 03:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[수상한 싸이]]></content:encoded>
+            <title><![CDATA['3조 클럽' 바짝 다가선 하나금융, IB·WM 달라졌다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/thebell/stock/contents/211025182154542Hv</link>
+            <guid>https://contents.premium.naver.com/thebell/stock/contents/211025182154542Hv</guid>
+            <pubDate>Mon, 01 Nov 2021 15:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[하나금융그룹이 은행과 비은행 자회사의 고른 성장을 이어가며 연간 순이익 3조원을 눈앞에 두고 있습니다. 남은 4분기 3개월 '농사'만 계획대로 마무리한다면 몰라보게 달라진 순익으로 2021년 한 해를 마무리할 수 있을 전망입니다. 특히 이번 3분기 실적을 견인한 건 단순 은행 수수료가 아닌 다른 부문이었다는 게 눈길을 끕니다. 신용카드 수수료 감소를 IB 및 자산관리 수수료]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMTMx/MDAxNjM1MTQ3NDI1MDEz.XwUnjAXBztxVukc2l7dOQXbTDwv6_BSJWokTrUGCugEg.ssv2Vq-X5teGCTAw-l_YY0SJgk_mlT7SQFoYV_oT9A8g.JPEG/%ED%95%98%EB%82%98%EC%9D%80%ED%96%892.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[A Mom’s Research (Part 1): Nordic Countries Aren’t Socialist Paradises (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/epochkorea/epic/contents/211025220537647iH</link>
-            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/211025220537647iH</guid>
-            <pubDate>Sun, 31 Oct 2021 15:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[A Mom’s Research (Part 1): Nordic Countries Aren’t Socialist Paradises [칼럼] 엄마의 연구① 북유럽 국가들은 사회주의 낙원일까? Commentary 들어가는 말 As the mother of a 17-year-old in a deep-blue state, I am often asked questions about socialism and communism. Not always being able to answer them, I have to do extensive research. I guess this is the situation many Epoch Times readers encounter: having to discuss these topics with family and friends. 17살 아이]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMTk0/MDAxNjM1MTY4NjY5MzIx.9jpvAy_e8aFA8EwCtXFpyrKpVANCOkD5IG_fww2om_Eg.fzpZJVWC9trh8g2FYh6e9yglPoF_a-Cuz1UJpEIxT7cg.JPEG/%EC%82%AC%ED%9A%8C%EC%A3%BC%EC%9C%BC%E3%85%A2_.jpeg?type=nf220_220" length="0" type="image/jpeg"/>
+            <title><![CDATA[[브리핑] 투자부적격 테슬라 시총 1조...머스크 몫은? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/joongang/gmoney/contents/211026072951723Fo</link>
+            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/211026072951723Fo</guid>
+            <pubDate>Mon, 01 Nov 2021 15:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[‘투자 부적격 등급(정크본드)’ 테슬라가 시총 '1조 달러 클럽'에 가입했다.  테슬라의 회사채는 BB등급(S&amp;P 기준)이다. 무디스 기준으로는 Ba3(BB-) 다.  뮤추얼펀드 등이 매입 가능한 BBB-등급보다 아래다.  이런 신용등급의 테슬라가 25일(현지시간) 주가 1000달러 선을 넘었다. 12.66% 오른 1024.86달러에 이르렀다. 국내 투자자들이 부르는 ‘천슬라’가 일단 됐다. 이날 주가 급등의 가]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjZfMTg2/MDAxNjM1MjAwOTQxNjI4.bu83eex7Y1_KbbfJsUffTtO-kb0xJTwJCXbnJpeDpgwg.5QQwHL8vPMOzLS5yy1ukeNDQZNGsgMU0V4JFz_I10Uwg.JPEG/%EB%A8%B8%EC%8A%A4%ED%81%AC.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[커넥트레터] 헬개미마켓 떡상과 물류 대란 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/connectx/us/contents/211021122436740Lx</link>
-            <guid>https://contents.premium.naver.com/connectx/us/contents/211021122436740Lx</guid>
-            <pubDate>Sun, 31 Oct 2021 17:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[[커넥트레터 무료 구독하기] 그냥 석간할까... 안녕하세요, 드디어 목요일 아침을 열며 등장한 엄지용입니다. 깜짝 놀란 게 지난주 뉴스레터 오픈율이 38.8%를 찍었습니다. 통상의 수치보다 5% 가량 높게 나온 것인데요. 오후 1시에 보내도 이 정도라면 그냥 점심을 여는 뉴스레터로 포지셔닝 해도 나쁘지 않겠다 싶은데, 이번주 숫자를 한 번 잘 살펴보겠습니다. 지난주에는 뉴스레]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjFfMTEg/MDAxNjM0Nzg2NTcxODU2.Ok9HX6XzfKwAPSN5k3Vm4xVcFzNmgaT3Zy4u83jkcMwg.xQCp9Jcuw0M1DcgBm2MdEvxtwQvAUIr_T8wpDX8Nt8Ug.JPEG/%ED%97%AC%EA%B0%9C%EB%AF%B8%EB%A7%88%EC%BC%93_BI.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[자영업자가 알아야 할 세금상식 5가지 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/taxwatch/tax/contents/211026083813614Iz</link>
+            <guid>https://contents.premium.naver.com/taxwatch/tax/contents/211026083813614Iz</guid>
+            <pubDate>Mon, 01 Nov 2021 15:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[자영업을 하면서 뗄 수 없는 게 바로 세금인데요. 세금과 관련해서 사장님들이 알아두면 좋을 몇 가지 세금 상식을 세세하게가 뽑아서 정리해 봤어요. 기본적이지만 놓치면 안 될 상식들이니 잘 읽어보고 챙겨두세요.  복식부기 의무자와 전문직 개인사업자는 사업용 계좌를 홈택스에 등록하고 사용해야 해요, 인건비를 비롯한 임차료, 금융기관을 통한 모든 입출금 거래는 모두]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjZfMTA1/MDAxNjM1MjA1MDEzNzU5.ICTrnqTs1lbSKHyFmzVL9-D4qbbM1Psnvtg1tQutqAkg.xCCLUFde5uqDpaiZZLLpCvTmzAxNRhAdRtjT9WnVUIsg.JPEG/%EC%A0%88%EC%83%88_%EC%9E%90%EC%98%81%EC%97%85%EC%84%B8%EA%B8%88%EC%83%81%EC%8B%9D5%EA%B0%80%EC%A7%80.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[회사가 불법 개인정보로 영업시키는데…직원도 형사처벌 대상? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/jobplanet/companytimes/contents/211025101523029ok</link>
-            <guid>https://contents.premium.naver.com/jobplanet/companytimes/contents/211025101523029ok</guid>
-            <pubDate>Sun, 31 Oct 2021 15:11:16 GMT</pubDate>
-            <content:encoded><![CDATA["기업이 고객정보를 엑셀로 정리해서 보관중입니다. 마케팅 동의를 받지 않은 고객정보는 저장해서 이용하면 안된다고 말을 했는데도 모회사 대표가 시켰다며 그냥 하라는 식입니다.  '걸리면 큰일난다. 벌금이나 징역이다' 라고 해도 무시해요. 홈쇼핑을 통해서 주문한 사람에게도 홍보문자를 보냈어요. 그 고객이 홈쇼핑사에 신고해서 경고도 받았지만 바뀌지 않더라고요.  지]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMTcy/MDAxNjM1MTI0MjUwNTAz.B4CoUPmGnzu2qgc3ZYvmZx3VNnKS7Tu1tb_JtgLvD04g.7nvHw1Ct3FGXavTZRoxGBuKjSl6FFgA6W5xGmZnLqcog.JPEG/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A7%912_(1).jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[공동구매를 팀구매로 진화시킨 '올웨이즈' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/byline/commercebn/contents/211026074818254bc</link>
+            <guid>https://contents.premium.naver.com/byline/commercebn/contents/211026074818254bc</guid>
+            <pubDate>Mon, 01 Nov 2021 15:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[올웨이즈라는 좀 이상한(?) 이커머스 플랫폼 스타트업이 있습니다. 오픈마켓이 대세인 요즘 오히려 폐쇄성을 플랫폼의 강점으로 내세웁니다. 백화점도 아니면서 입점 신청과 승인을 거친 업체만 자사 플랫폼에 노출하고 있습니다. 성공가능성이 있을까요? 올웨이즈 측은 “타 플랫폼과 가격 비교가 불가능한 대신 압도적으로 저렴한 가격에 상품을 제공하겠다”고 말합니다. 올]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjZfMTg3/MDAxNjM1MjAyMDUxMjM2.oBQq_iHGcxBE68Izh7z_KHfc4yCBB6Y28_BUOsn9bJMg.WbW8IQFA8HQ5QR-jPXxi9oIqEBsTajlJuQXxZsGapWEg.JPEG/%EB%A9%94%EC%9D%B8-2.jpeg?type=nf220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[브리핑] 페이팔+핀터레스트, 이번주엔 시장 인정받을까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/joongang/gmoney/contents/211025081324946xH</link>
-            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/211025081324946xH</guid>
-            <pubDate>Sun, 31 Oct 2021 15:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[‘무슨 꿍꿍이속이지?’ 미국 뉴욕증시가 페이팔과 핀터레스트 인수합병(M&amp;A) 추진 소식에 지난주 말(22일) 보인 반응입니다. 페이팔의 주가는 1.16%, 핀터레스트는 5.36% 떨어졌습니다.  두 회사 M&amp;A는 작지 않은 딜입니다. 거래 규모가 450억 달러(약 53조원)에 이릅니다. 이 정도라면 시장이 반색할만도 한데 첫 반응은 ‘페이팔 경영진이 무슨 꿍꿍이속으로 핀터레스트를 사려하지?’]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMjkg/MDAxNjM1MTE3MDY5NTYy.1VzA_1gMftGA0J5JZFwmGnaveGYjHlcl9PpkUT4S9IAg.6w_A33CxnTRkLsl6ggy38GtOTIu6xgI-vE7d3fqxaBcg.JPEG/%ED%8E%98%EC%9D%B4%ED%8C%94%EA%B3%BC_%ED%95%80%ED%84%B0%EB%A0%88%EC%8A%A4%ED%8A%B8.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[10.26일 종목리뷰 (와이지엔터테인먼트) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/kiwoom/thestock/contents/211026172013420Pw</link>
+            <guid>https://contents.premium.naver.com/kiwoom/thestock/contents/211026172013420Pw</guid>
+            <pubDate>Mon, 01 Nov 2021 15:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;와이지엔터테인먼트 리뷰&gt; 1. 전일대비 +6.62% 상승 마감 및 원인 - 위드 코로나를 앞두고 엔터테인먼트 업종 전체적으로 강한 상승세를 보인 하루입니다. - 11월부터 거리두기의 점진적인 해제 방침 속에 오프라인 콘서트에 대한 기대감을 더욱 부추기는 상황입니다. - 특히, 와이지엔터테인먼트는 애플TV가 11월 4일 국내 출시하는데, 첫 작품으로 'Dr브레인'을 공개할 예정에 있으]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjZfMjMz/MDAxNjM1MjMxMjU5MTc1.Q1uMz9zoyUkM5ml3ndVcDWmh6udyRBdEDIwufRRcPxgg.aEPZwRHwqKD2E0bvjSA-8q2p6C5NTCT-z7NEUIm0HYAg.JPEG/GettyImages-960809388.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[EVENT] 네카쿠배 풀필먼트의 미래, 라이브로 만나요! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/connectx/us/contents/211025142436964zm</link>
-            <guid>https://contents.premium.naver.com/connectx/us/contents/211025142436964zm</guid>
-            <pubDate>Sun, 31 Oct 2021 17:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[[EVENT] 11월 30일까지 선착순 500명 라이브 토크쇼 무료 등록 가능! 안녕하세요, 커넥터스 운영자 엄지용입니다. 지난 10월 1일 커넥터스 멤버십을 처음 시작하고 벌써 한 달 가까운 시간이 지났네요. 그동안 커넥터스는 네이버 프리미엄 콘텐츠 입점 비즈니스 채널 중 무려 ‘3위(!!)’까지 치고 올랐습니다. 죄송합니다. 사실 거짓말입니다(...) 3등은 커넥터스 위에 포진한 ‘코인’,]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMTIg/MDAxNjM1MTM4MzEyMTc5.RP_hO7bW_kRPKgUfFwYidJYVQK5uMVBkDard8TDT2UYg.BymUQ2HV9QWizUCYUb0BPwPVMG8vTXIN8iFNj24-kFEg.JPEG/%EB%84%A4%EC%B9%B4%EC%BF%A0%EB%B0%B0_%EB%A1%9C%EA%B3%A0_%ED%95%A9%EC%84%B1.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[S&I코퍼 건설사업 인수 GS건설, 얼마를 지불할까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/thebell/stock/contents/211025182341144Yy</link>
+            <guid>https://contents.premium.naver.com/thebell/stock/contents/211025182341144Yy</guid>
+            <pubDate>Mon, 01 Nov 2021 15:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[㈜LG 계열사 S&amp;I코퍼레이션이 매각하는 건설사업부의 거래 규모는 얼마나 될까요. 일반적인 기업가치 산정은 에비타멀티플(EBITDA: 상각전영업이익 배수), 주당 순자산가치(PBR) 등이 고려되지만 건설사의 경우 경기 전망이나 수주 잔고, 브랜드 가치 등이 더 중요한 지표로 활용된다는 점에서 기존 밸류에이션 툴을 적용하기 어렵다는 분석도 있습니다. 게다가 S&amp;I코퍼레이션 건설사]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMjIz/MDAxNjM1MTQ3NDQ2MTIx.384cHd2X5J1Crudp8Fp7dgGOC4jtRymiGx_hA5bXKwIg.so_17Rnf1cei6i4fzj0pbkEgD8NwmBWFtSqv4E0nzsAg.JPEG/GS_%EC%97%AD%EC%82%BC%EC%82%AC%EC%98%A5.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삼성 오너가 상속세만 12조…이재용 부회장 지분도 매물로 나올까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/thebell/stock/contents/211025064851289QZ</link>
-            <guid>https://contents.premium.naver.com/thebell/stock/contents/211025064851289QZ</guid>
-            <pubDate>Sun, 31 Oct 2021 15:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[삼성 총수 일가가 상속세 납부를 위해 삼성전자·SDS·생명 지분 매각에 나섰습니다. 아직 이재용 부회장이 지분 매각을 한다는 소식은 없습니다. 하지만 이 부회장의 현금 유출입을 계산해보면 답은 나옵니다. 당장은 버티겠지만 몇년내엔 매각 혹은 주식담보대출을 추가로 받아야 할 것 같습니다. 고 이건희 삼성전자 회장의 부인 홍라희 전 리움미술관장은 지난 8일 삼성전자]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjRfMTU2/MDAxNjM1MDc3NzYxNjEw.MbyxsY7I0M9QvtdrybiRtRD7_c1r0j8oEcY70srgchgg.mcV5c8YWsTncihjYwunBwrJSMLTXyhScy2Y2e42vsHgg.JPEG/%EC%9D%B4%EC%9E%AC%EC%9A%A9_%EB%B6%80%ED%9A%8C%EC%9E%A5_%EA%B0%80%EC%84%9D%EB%B0%A9_%EC%B6%9C%EC%86%8C_D-1.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[Q. 변동금리와 고정금리 중 무엇이 낫나요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/booding/home/contents/211005001329471nP</link>
+            <guid>https://contents.premium.naver.com/booding/home/contents/211005001329471nP</guid>
+            <pubDate>Mon, 01 Nov 2021 15:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[Q. 변동금리와 고정금리 중 무엇이 낫나요? 1. 대출 종류: 주택담보대출  2. 지역: 경기도 소재 아파트(매수 예정)  3. KB시세: 7억 원  4. 필요 대출금: 3억 원  5. 월 소득 / 부채: 700만 원(2인가구 합산) / 부채 없음  6. 주택 수: 무주택  7. 기타:  -고심 끝에 아파트 매수계약을 체결했고, 10월 둘째 주에 잔금을 치러야 합니다.  -현재 대출 은행(금리) 선택 문제로 고민 중입니다.  -현시점]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA5MDlfOTcg/MDAxNjMxMTkyOTIyNzky.cYJW1fcZeh_PzL5GgOn-nRGN7VPM2mTelBE1Q_gLTFcg.PuI_MoGV61FARz1bl7n4ob1x_QyQWYVlYt1Vhg2Bg08g.JPEG/KakaoTalk_20210909_220728343.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[10.25일 종목리뷰 (코윈테크, 모두투어, 신세계) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/kiwoom/thestock/contents/211025162053617Qp</link>
-            <guid>https://contents.premium.naver.com/kiwoom/thestock/contents/211025162053617Qp</guid>
-            <pubDate>Sun, 31 Oct 2021 15:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;코윈테크 리뷰&gt; 1. 금일 고가 기준 +21.72% 수익률 달성 및 목표가 도달로 수익 실현  - 금일까지 3거래일 연속 상승에 성공하면서 목표가로 제시했던 29,000원을 장중 상향 돌파하였고, 최고가 기준 +21.72%, 종가 기준 +19.06% 수익률을 기록하였습니다. - 최근 2차전지 소재 관련주들이 테슬라의 배터리 교체 이슈와 높은 주가 수준에 대한 부담감이 높아지면서 숨 고르기 과정을 나타내]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfNTQg/MDAxNjM1MTQ0ODIxNDY1.ARvFBa_1XOGPhU6l2Tyuya5ygMYjQATLnGoYpXoPvysg.m3vl4P9hyQSeLJ5d4hBvRdj2CbKRIyyiaaLtC48EpxQg.JPEG/GettyImages-1190564035.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[주간 캘린더] 모더나&화이자 고성장 기대, 최고 배당률은  아머 레지덴셜 11.4% (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/211030093442942aP</link>
+            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/211030093442942aP</guid>
+            <pubDate>Mon, 01 Nov 2021 15:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주에 실적 발표 예정인 주요 기업들의 예상 실적을 정리해 알려 드립니다. 이번 주는 실적 발표 예정 기업이 많아 시가총액이 300억 달러 이상이며, 증권사 컨센서스가 있는 기업으로 선정했습니다. 매출액 증가율이 가장 높을 것으로 예상되는 기업은 코로나19 백신으로 잘 알려진 모더나(MRNA)입니다. 모더나는 11월 4일에 실적을 발표할 예정입니다. 3분기 예상 매출액은 62억]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjlfMTE4/MDAxNjM1NDgxODg0NzM5.sVW4BjBnOh5kNGJZZIGAtcq4DkHhDFd2MDvDysYFC94g.D5mMPEYaUm90N-ypbcd2Sl9vP7mD50lxfci2yAIeJRQg.PNG/2021-10-29_13_30_53.png?type=nf220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[현대차 품 안기는 캐피탈, 카드·커머셜 계열분리? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/thebell/stock/contents/211025065009038ql</link>
-            <guid>https://contents.premium.naver.com/thebell/stock/contents/211025065009038ql</guid>
-            <pubDate>Sun, 31 Oct 2021 15:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[올해 들어 현대자동차 금융3사(현대캐피탈·현대카드·현대커머셜)가 지배구조를 둘러싼 재편 움직임을 지속해 보이면서 계열 분리 가능성이 다시 고개를 들고 있습니다. 현대차그룹이 현대캐피탈만 가져가고 정태영 부회장에게 현대카드와 현대커머셜만 떼어주는 게 아니냐는 관측이 재차 나옵니다. 정태영 부회장과 부인 정명이 사장이 현대캐피탈에서 모든 직책을 내려놓았]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjJfODgg/MDAxNjM0ODg1MTc0MDU0.Hdli6vgxHBZ2t5ncLGKroC3lq2ORwLzXx1D78lmsADIg.3p_WlidjUYUnvQtcp2KdBNd41GT88EzSv2UKmn2NmRgg.JPEG/%ED%98%84%EB%8C%80%EC%B9%B4%EB%93%9C,_%EC%BD%94%EB%A1%9C%EB%82%9819%EB%A1%9C_%EC%97%AC%EC%9D%98%EB%8F%84_%EB%B3%B8%EC%82%AC_7%EA%B0%9C%EC%B8%B5_%EC%9E%84%EC%8B%9C%ED%8F%90%EC%87%84.jpg?type=nf220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["내가 생각하는 일머리 있는 기획자란…" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/jobplanet/companytimes/contents/211021114930241gb</link>
-            <guid>https://contents.premium.naver.com/jobplanet/companytimes/contents/211021114930241gb</guid>
-            <pubDate>Mon, 01 Nov 2021 14:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[※ 이런 분들이 읽으면 좋아요 - 일을 잘한다는 것이 뭔지, 어떻게 해야 일을 잘하는 건지 고민 중인 기획자 - 사수라고는 없는 회사에서 맨땅에 헤딩 중, 남들은 어떻게 일하고 있는지 궁금하신 분  - 성장 중인 스타트업 직원들은 어떻게 일하고 있는지 궁금한 프로 직장인 이를 위해 처음 문을 두드린 곳은 아파트 생활 편의 서비스 플랫폼 '잘살아보세'를 운영하는 '살다'다. 2019]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjFfMTgx/MDAxNjM0Nzg0MTIyMTIw.fOmy3K5QZJS_MdDvHPw603oDH2W58XtZ9vj2T2_Yve4g.Wu99-S716qJ7rZbjRQiA4-Ki39Ff4fyCCH11zAoxQxog.JPEG/thum_bk01high.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[인스타그램에서 10대가 떠나고 있다. 그래서 페이스북은 걱정이 한가득 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/byline/todayglobal/contents/211018131903234Bg</link>
+            <guid>https://contents.premium.naver.com/byline/todayglobal/contents/211018131903234Bg</guid>
+            <pubDate>Mon, 01 Nov 2021 15:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[오늘, 외쿡신문입니다.  페이스북이 가장 걱정하는 것은 무엇일까요? 수년 간 페이스북을 지켜보며 느낀 바로는, 페이스북은 젊은 사용자들이 더 이상 페이스북을 사용하지 않게 되는 것을 가장 두려워합니다. 소셜미디어로서 페이스북의 가치는 계속해서 더 많은 사람들이 참여해야만 더 커질 수 있고, 그렇지 않으면 쇠락뿐이기 때문입니다.  👍 오늘의 Pick  이미 페이스북과 인]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMThfMTIy/MDAxNjM0NTE4NDE5Njky.rxmHRjRuGZiEbZsBYC49YNFcCP_BOUIBx4NYzisamjEg.xN8hl53UIEPfdBuLATGNfZe7JXCuIgBruX3rrcJ8MbQg.JPEG/instagram-icon-ios-closeup.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
