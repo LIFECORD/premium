@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 20:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 21:10:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -673,14 +673,6 @@
             <content:encoded><![CDATA[미션 투 누리호]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[커넥트레터] 헬개미마켓 떡상과 물류 대란 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/connectx/us/contents/211021122436740Lx</link>
-            <guid>https://contents.premium.naver.com/connectx/us/contents/211021122436740Lx</guid>
-            <pubDate>Mon, 01 Nov 2021 16:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[[커넥트레터 무료 구독하기] 그냥 석간할까... 안녕하세요, 드디어 목요일 아침을 열며 등장한 엄지용입니다. 깜짝 놀란 게 지난주 뉴스레터 오픈율이 38.8%를 찍었습니다. 통상의 수치보다 5% 가량 높게 나온 것인데요. 오후 1시에 보내도 이 정도라면 그냥 점심을 여는 뉴스레터로 포지셔닝 해도 나쁘지 않겠다 싶은데, 이번주 숫자를 한 번 잘 살펴보겠습니다. 지난주에는 뉴스레]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjFfMTEg/MDAxNjM0Nzg2NTcxODU2.Ok9HX6XzfKwAPSN5k3Vm4xVcFzNmgaT3Zy4u83jkcMwg.xQCp9Jcuw0M1DcgBm2MdEvxtwQvAUIr_T8wpDX8Nt8Ug.JPEG/%ED%97%AC%EA%B0%9C%EB%AF%B8%EB%A7%88%EC%BC%93_BI.jpg?type=nf220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[EVENT] 네카쿠배 풀필먼트의 미래, 라이브로 만나요! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/connectx/us/contents/211025142436964zm</link>
             <guid>https://contents.premium.naver.com/connectx/us/contents/211025142436964zm</guid>
@@ -689,12 +681,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMTIg/MDAxNjM1MTM4MzEyMTc5.RP_hO7bW_kRPKgUfFwYidJYVQK5uMVBkDard8TDT2UYg.BymUQ2HV9QWizUCYUb0BPwPVMG8vTXIN8iFNj24-kFEg.JPEG/%EB%84%A4%EC%B9%B4%EC%BF%A0%EB%B0%B0_%EB%A1%9C%EA%B3%A0_%ED%95%A9%EC%84%B1.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['3조 클럽' 바짝 다가선 하나금융, IB·WM 달라졌다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/thebell/stock/contents/211025182154542Hv</link>
-            <guid>https://contents.premium.naver.com/thebell/stock/contents/211025182154542Hv</guid>
-            <pubDate>Mon, 01 Nov 2021 15:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[하나금융그룹이 은행과 비은행 자회사의 고른 성장을 이어가며 연간 순이익 3조원을 눈앞에 두고 있습니다. 남은 4분기 3개월 '농사'만 계획대로 마무리한다면 몰라보게 달라진 순익으로 2021년 한 해를 마무리할 수 있을 전망입니다. 특히 이번 3분기 실적을 견인한 건 단순 은행 수수료가 아닌 다른 부문이었다는 게 눈길을 끕니다. 신용카드 수수료 감소를 IB 및 자산관리 수수료]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMTMx/MDAxNjM1MTQ3NDI1MDEz.XwUnjAXBztxVukc2l7dOQXbTDwv6_BSJWokTrUGCugEg.ssv2Vq-X5teGCTAw-l_YY0SJgk_mlT7SQFoYV_oT9A8g.JPEG/%ED%95%98%EB%82%98%EC%9D%80%ED%96%892.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[커넥트레터] 헬개미마켓 떡상과 물류 대란 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/connectx/us/contents/211021122436740Lx</link>
+            <guid>https://contents.premium.naver.com/connectx/us/contents/211021122436740Lx</guid>
+            <pubDate>Mon, 01 Nov 2021 16:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[[커넥트레터 무료 구독하기] 그냥 석간할까... 안녕하세요, 드디어 목요일 아침을 열며 등장한 엄지용입니다. 깜짝 놀란 게 지난주 뉴스레터 오픈율이 38.8%를 찍었습니다. 통상의 수치보다 5% 가량 높게 나온 것인데요. 오후 1시에 보내도 이 정도라면 그냥 점심을 여는 뉴스레터로 포지셔닝 해도 나쁘지 않겠다 싶은데, 이번주 숫자를 한 번 잘 살펴보겠습니다. 지난주에는 뉴스레]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjFfMTEg/MDAxNjM0Nzg2NTcxODU2.Ok9HX6XzfKwAPSN5k3Vm4xVcFzNmgaT3Zy4u83jkcMwg.xQCp9Jcuw0M1DcgBm2MdEvxtwQvAUIr_T8wpDX8Nt8Ug.JPEG/%ED%97%AC%EA%B0%9C%EB%AF%B8%EB%A7%88%EC%BC%93_BI.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[브리핑] 투자부적격 테슬라 시총 1조...머스크 몫은? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -705,12 +697,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjZfMTg2/MDAxNjM1MjAwOTQxNjI4.bu83eex7Y1_KbbfJsUffTtO-kb0xJTwJCXbnJpeDpgwg.5QQwHL8vPMOzLS5yy1ukeNDQZNGsgMU0V4JFz_I10Uwg.JPEG/%EB%A8%B8%EC%8A%A4%ED%81%AC.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[자영업자가 알아야 할 세금상식 5가지 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/taxwatch/tax/contents/211026083813614Iz</link>
-            <guid>https://contents.premium.naver.com/taxwatch/tax/contents/211026083813614Iz</guid>
+            <title><![CDATA['3조 클럽' 바짝 다가선 하나금융, IB·WM 달라졌다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/thebell/stock/contents/211025182154542Hv</link>
+            <guid>https://contents.premium.naver.com/thebell/stock/contents/211025182154542Hv</guid>
             <pubDate>Mon, 01 Nov 2021 15:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[자영업을 하면서 뗄 수 없는 게 바로 세금인데요. 세금과 관련해서 사장님들이 알아두면 좋을 몇 가지 세금 상식을 세세하게가 뽑아서 정리해 봤어요. 기본적이지만 놓치면 안 될 상식들이니 잘 읽어보고 챙겨두세요.  복식부기 의무자와 전문직 개인사업자는 사업용 계좌를 홈택스에 등록하고 사용해야 해요, 인건비를 비롯한 임차료, 금융기관을 통한 모든 입출금 거래는 모두]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjZfMTA1/MDAxNjM1MjA1MDEzNzU5.ICTrnqTs1lbSKHyFmzVL9-D4qbbM1Psnvtg1tQutqAkg.xCCLUFde5uqDpaiZZLLpCvTmzAxNRhAdRtjT9WnVUIsg.JPEG/%EC%A0%88%EC%83%88_%EC%9E%90%EC%98%81%EC%97%85%EC%84%B8%EA%B8%88%EC%83%81%EC%8B%9D5%EA%B0%80%EC%A7%80.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[하나금융그룹이 은행과 비은행 자회사의 고른 성장을 이어가며 연간 순이익 3조원을 눈앞에 두고 있습니다. 남은 4분기 3개월 '농사'만 계획대로 마무리한다면 몰라보게 달라진 순익으로 2021년 한 해를 마무리할 수 있을 전망입니다. 특히 이번 3분기 실적을 견인한 건 단순 은행 수수료가 아닌 다른 부문이었다는 게 눈길을 끕니다. 신용카드 수수료 감소를 IB 및 자산관리 수수료]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMTMx/MDAxNjM1MTQ3NDI1MDEz.XwUnjAXBztxVukc2l7dOQXbTDwv6_BSJWokTrUGCugEg.ssv2Vq-X5teGCTAw-l_YY0SJgk_mlT7SQFoYV_oT9A8g.JPEG/%ED%95%98%EB%82%98%EC%9D%80%ED%96%892.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공동구매를 팀구매로 진화시킨 '올웨이즈' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -721,12 +713,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjZfMTg3/MDAxNjM1MjAyMDUxMjM2.oBQq_iHGcxBE68Izh7z_KHfc4yCBB6Y28_BUOsn9bJMg.WbW8IQFA8HQ5QR-jPXxi9oIqEBsTajlJuQXxZsGapWEg.JPEG/%EB%A9%94%EC%9D%B8-2.jpeg?type=nf220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[10.26일 종목리뷰 (와이지엔터테인먼트) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/kiwoom/thestock/contents/211026172013420Pw</link>
-            <guid>https://contents.premium.naver.com/kiwoom/thestock/contents/211026172013420Pw</guid>
+            <title><![CDATA[자영업자가 알아야 할 세금상식 5가지 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/taxwatch/tax/contents/211026083813614Iz</link>
+            <guid>https://contents.premium.naver.com/taxwatch/tax/contents/211026083813614Iz</guid>
             <pubDate>Mon, 01 Nov 2021 15:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;와이지엔터테인먼트 리뷰&gt; 1. 전일대비 +6.62% 상승 마감 및 원인 - 위드 코로나를 앞두고 엔터테인먼트 업종 전체적으로 강한 상승세를 보인 하루입니다. - 11월부터 거리두기의 점진적인 해제 방침 속에 오프라인 콘서트에 대한 기대감을 더욱 부추기는 상황입니다. - 특히, 와이지엔터테인먼트는 애플TV가 11월 4일 국내 출시하는데, 첫 작품으로 'Dr브레인'을 공개할 예정에 있으]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjZfMjMz/MDAxNjM1MjMxMjU5MTc1.Q1uMz9zoyUkM5ml3ndVcDWmh6udyRBdEDIwufRRcPxgg.aEPZwRHwqKD2E0bvjSA-8q2p6C5NTCT-z7NEUIm0HYAg.JPEG/GettyImages-960809388.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[자영업을 하면서 뗄 수 없는 게 바로 세금인데요. 세금과 관련해서 사장님들이 알아두면 좋을 몇 가지 세금 상식을 세세하게가 뽑아서 정리해 봤어요. 기본적이지만 놓치면 안 될 상식들이니 잘 읽어보고 챙겨두세요.  복식부기 의무자와 전문직 개인사업자는 사업용 계좌를 홈택스에 등록하고 사용해야 해요, 인건비를 비롯한 임차료, 금융기관을 통한 모든 입출금 거래는 모두]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjZfMTA1/MDAxNjM1MjA1MDEzNzU5.ICTrnqTs1lbSKHyFmzVL9-D4qbbM1Psnvtg1tQutqAkg.xCCLUFde5uqDpaiZZLLpCvTmzAxNRhAdRtjT9WnVUIsg.JPEG/%EC%A0%88%EC%83%88_%EC%9E%90%EC%98%81%EC%97%85%EC%84%B8%EA%B8%88%EC%83%81%EC%8B%9D5%EA%B0%80%EC%A7%80.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[S&I코퍼 건설사업 인수 GS건설, 얼마를 지불할까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -737,12 +729,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMjIz/MDAxNjM1MTQ3NDQ2MTIx.384cHd2X5J1Crudp8Fp7dgGOC4jtRymiGx_hA5bXKwIg.so_17Rnf1cei6i4fzj0pbkEgD8NwmBWFtSqv4E0nzsAg.JPEG/GS_%EC%97%AD%EC%82%BC%EC%82%AC%EC%98%A5.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Q. 변동금리와 고정금리 중 무엇이 낫나요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/booding/home/contents/211005001329471nP</link>
-            <guid>https://contents.premium.naver.com/booding/home/contents/211005001329471nP</guid>
+            <title><![CDATA[10.26일 종목리뷰 (와이지엔터테인먼트) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/kiwoom/thestock/contents/211026172013420Pw</link>
+            <guid>https://contents.premium.naver.com/kiwoom/thestock/contents/211026172013420Pw</guid>
             <pubDate>Mon, 01 Nov 2021 15:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[Q. 변동금리와 고정금리 중 무엇이 낫나요? 1. 대출 종류: 주택담보대출  2. 지역: 경기도 소재 아파트(매수 예정)  3. KB시세: 7억 원  4. 필요 대출금: 3억 원  5. 월 소득 / 부채: 700만 원(2인가구 합산) / 부채 없음  6. 주택 수: 무주택  7. 기타:  -고심 끝에 아파트 매수계약을 체결했고, 10월 둘째 주에 잔금을 치러야 합니다.  -현재 대출 은행(금리) 선택 문제로 고민 중입니다.  -현시점]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA5MDlfOTcg/MDAxNjMxMTkyOTIyNzky.cYJW1fcZeh_PzL5GgOn-nRGN7VPM2mTelBE1Q_gLTFcg.PuI_MoGV61FARz1bl7n4ob1x_QyQWYVlYt1Vhg2Bg08g.JPEG/KakaoTalk_20210909_220728343.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[&lt;와이지엔터테인먼트 리뷰&gt; 1. 전일대비 +6.62% 상승 마감 및 원인 - 위드 코로나를 앞두고 엔터테인먼트 업종 전체적으로 강한 상승세를 보인 하루입니다. - 11월부터 거리두기의 점진적인 해제 방침 속에 오프라인 콘서트에 대한 기대감을 더욱 부추기는 상황입니다. - 특히, 와이지엔터테인먼트는 애플TV가 11월 4일 국내 출시하는데, 첫 작품으로 'Dr브레인'을 공개할 예정에 있으]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjZfMjMz/MDAxNjM1MjMxMjU5MTc1.Q1uMz9zoyUkM5ml3ndVcDWmh6udyRBdEDIwufRRcPxgg.aEPZwRHwqKD2E0bvjSA-8q2p6C5NTCT-z7NEUIm0HYAg.JPEG/GettyImages-960809388.jpg?type=nf220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 캘린더] 모더나&화이자 고성장 기대, 최고 배당률은  아머 레지덴셜 11.4% (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/211030093442942aP</link>
+            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/211030093442942aP</guid>
+            <pubDate>Mon, 01 Nov 2021 21:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주에 실적 발표 예정인 주요 기업들의 예상 실적을 정리해 알려 드립니다. 이번 주는 실적 발표 예정 기업이 많아 시가총액이 300억 달러 이상이며, 증권사 컨센서스가 있는 기업으로 선정했습니다. 매출액 증가율이 가장 높을 것으로 예상되는 기업은 코로나19 백신으로 잘 알려진 모더나(MRNA)입니다. 모더나는 11월 4일에 실적을 발표할 예정입니다. 3분기 예상 매출액은 62억]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjlfMTE4/MDAxNjM1NDgxODg0NzM5.sVW4BjBnOh5kNGJZZIGAtcq4DkHhDFd2MDvDysYFC94g.D5mMPEYaUm90N-ypbcd2Sl9vP7mD50lxfci2yAIeJRQg.PNG/2021-10-29_13_30_53.png?type=nf220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
