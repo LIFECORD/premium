@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 22:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 23:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -301,6 +301,14 @@
             <content:encoded><![CDATA[환절기 잘 보내고 계신가요? 전 환절기 때 가장 힘든 게 쇼핑이더라고요. 옷도 예쁘고 환경도 생각하는 브랜드 찾기가 은근 어렵거든요. H&amp;M, 자라… 이런 곳은 가지 않아요. 패스<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[900KM가 말하는 '요즘 것들'이 먹고사는 법 (폴인)]]></title>
+            <link>https://www.folin.co/story/1928</link>
+            <guid>https://www.folin.co/story/1928</guid>
+            <pubDate>Mon, 01 Nov 2021 23:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[<li>워크</li>
+                                <li>조직문화</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[밀레니얼 여성이 조직에서 리더가 돼야 하는 이유 (폴인)]]></title>
             <link>https://www.folin.co/story/1927</link>
             <guid>https://www.folin.co/story/1927</guid>
@@ -581,14 +589,6 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[좋은 멘토 찾기 전, 나를 돌아볼 6가지 기준 (폴인)]]></title>
-            <link>https://www.folin.co/story/1881</link>
-            <guid>https://www.folin.co/story/1881</guid>
-            <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<li>라이프스타일</li>
-                                <li>커리어</li>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[세계는 1.5도 약속을 지킬 수 있을까? 한국은 40퍼센트의 약속을 지킬 수 있을까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/44426</link>
             <guid>https://www.bookjournalism.com/books/44426</guid>
@@ -673,14 +673,6 @@
             <content:encoded><![CDATA[미션 투 누리호]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[EVENT] 네카쿠배 풀필먼트의 미래, 라이브로 만나요! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/connectx/us/contents/211025142436964zm</link>
-            <guid>https://contents.premium.naver.com/connectx/us/contents/211025142436964zm</guid>
-            <pubDate>Mon, 01 Nov 2021 16:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[[EVENT] 11월 30일까지 선착순 500명 라이브 토크쇼 무료 등록 가능! 안녕하세요, 커넥터스 운영자 엄지용입니다. 지난 10월 1일 커넥터스 멤버십을 처음 시작하고 벌써 한 달 가까운 시간이 지났네요. 그동안 커넥터스는 네이버 프리미엄 콘텐츠 입점 비즈니스 채널 중 무려 ‘3위(!!)’까지 치고 올랐습니다. 죄송합니다. 사실 거짓말입니다(...) 3등은 커넥터스 위에 포진한 ‘코인’,]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMTIg/MDAxNjM1MTM4MzEyMTc5.RP_hO7bW_kRPKgUfFwYidJYVQK5uMVBkDard8TDT2UYg.BymUQ2HV9QWizUCYUb0BPwPVMG8vTXIN8iFNj24-kFEg.JPEG/%EB%84%A4%EC%B9%B4%EC%BF%A0%EB%B0%B0_%EB%A1%9C%EA%B3%A0_%ED%95%A9%EC%84%B1.jpg?type=nf220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[커넥트레터] 헬개미마켓 떡상과 물류 대란 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/connectx/us/contents/211021122436740Lx</link>
             <guid>https://contents.premium.naver.com/connectx/us/contents/211021122436740Lx</guid>
@@ -689,12 +681,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjFfMTEg/MDAxNjM0Nzg2NTcxODU2.Ok9HX6XzfKwAPSN5k3Vm4xVcFzNmgaT3Zy4u83jkcMwg.xQCp9Jcuw0M1DcgBm2MdEvxtwQvAUIr_T8wpDX8Nt8Ug.JPEG/%ED%97%AC%EA%B0%9C%EB%AF%B8%EB%A7%88%EC%BC%93_BI.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[브리핑] 투자부적격 테슬라 시총 1조...머스크 몫은? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/joongang/gmoney/contents/211026072951723Fo</link>
-            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/211026072951723Fo</guid>
-            <pubDate>Mon, 01 Nov 2021 15:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[‘투자 부적격 등급(정크본드)’ 테슬라가 시총 '1조 달러 클럽'에 가입했다.  테슬라의 회사채는 BB등급(S&amp;P 기준)이다. 무디스 기준으로는 Ba3(BB-) 다.  뮤추얼펀드 등이 매입 가능한 BBB-등급보다 아래다.  이런 신용등급의 테슬라가 25일(현지시간) 주가 1000달러 선을 넘었다. 12.66% 오른 1024.86달러에 이르렀다. 국내 투자자들이 부르는 ‘천슬라’가 일단 됐다. 이날 주가 급등의 가]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjZfMTg2/MDAxNjM1MjAwOTQxNjI4.bu83eex7Y1_KbbfJsUffTtO-kb0xJTwJCXbnJpeDpgwg.5QQwHL8vPMOzLS5yy1ukeNDQZNGsgMU0V4JFz_I10Uwg.JPEG/%EB%A8%B8%EC%8A%A4%ED%81%AC.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[EVENT] 네카쿠배 풀필먼트의 미래, 라이브로 만나요! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/connectx/us/contents/211025142436964zm</link>
+            <guid>https://contents.premium.naver.com/connectx/us/contents/211025142436964zm</guid>
+            <pubDate>Mon, 01 Nov 2021 16:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[[EVENT] 11월 30일까지 선착순 500명 라이브 토크쇼 무료 등록 가능! 안녕하세요, 커넥터스 운영자 엄지용입니다. 지난 10월 1일 커넥터스 멤버십을 처음 시작하고 벌써 한 달 가까운 시간이 지났네요. 그동안 커넥터스는 네이버 프리미엄 콘텐츠 입점 비즈니스 채널 중 무려 ‘3위(!!)’까지 치고 올랐습니다. 죄송합니다. 사실 거짓말입니다(...) 3등은 커넥터스 위에 포진한 ‘코인’,]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMTIg/MDAxNjM1MTM4MzEyMTc5.RP_hO7bW_kRPKgUfFwYidJYVQK5uMVBkDard8TDT2UYg.BymUQ2HV9QWizUCYUb0BPwPVMG8vTXIN8iFNj24-kFEg.JPEG/%EB%84%A4%EC%B9%B4%EC%BF%A0%EB%B0%B0_%EB%A1%9C%EA%B3%A0_%ED%95%A9%EC%84%B1.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['3조 클럽' 바짝 다가선 하나금융, IB·WM 달라졌다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -705,12 +697,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMTMx/MDAxNjM1MTQ3NDI1MDEz.XwUnjAXBztxVukc2l7dOQXbTDwv6_BSJWokTrUGCugEg.ssv2Vq-X5teGCTAw-l_YY0SJgk_mlT7SQFoYV_oT9A8g.JPEG/%ED%95%98%EB%82%98%EC%9D%80%ED%96%892.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[공동구매를 팀구매로 진화시킨 '올웨이즈' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/byline/commercebn/contents/211026074818254bc</link>
-            <guid>https://contents.premium.naver.com/byline/commercebn/contents/211026074818254bc</guid>
+            <title><![CDATA[[브리핑] 투자부적격 테슬라 시총 1조...머스크 몫은? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/joongang/gmoney/contents/211026072951723Fo</link>
+            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/211026072951723Fo</guid>
             <pubDate>Mon, 01 Nov 2021 15:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[올웨이즈라는 좀 이상한(?) 이커머스 플랫폼 스타트업이 있습니다. 오픈마켓이 대세인 요즘 오히려 폐쇄성을 플랫폼의 강점으로 내세웁니다. 백화점도 아니면서 입점 신청과 승인을 거친 업체만 자사 플랫폼에 노출하고 있습니다. 성공가능성이 있을까요? 올웨이즈 측은 “타 플랫폼과 가격 비교가 불가능한 대신 압도적으로 저렴한 가격에 상품을 제공하겠다”고 말합니다. 올]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjZfMTg3/MDAxNjM1MjAyMDUxMjM2.oBQq_iHGcxBE68Izh7z_KHfc4yCBB6Y28_BUOsn9bJMg.WbW8IQFA8HQ5QR-jPXxi9oIqEBsTajlJuQXxZsGapWEg.JPEG/%EB%A9%94%EC%9D%B8-2.jpeg?type=nf220_220" length="0" type="image/jpeg"/>
+            <content:encoded><![CDATA[‘투자 부적격 등급(정크본드)’ 테슬라가 시총 '1조 달러 클럽'에 가입했다.  테슬라의 회사채는 BB등급(S&amp;P 기준)이다. 무디스 기준으로는 Ba3(BB-) 다.  뮤추얼펀드 등이 매입 가능한 BBB-등급보다 아래다.  이런 신용등급의 테슬라가 25일(현지시간) 주가 1000달러 선을 넘었다. 12.66% 오른 1024.86달러에 이르렀다. 국내 투자자들이 부르는 ‘천슬라’가 일단 됐다. 이날 주가 급등의 가]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjZfMTg2/MDAxNjM1MjAwOTQxNjI4.bu83eex7Y1_KbbfJsUffTtO-kb0xJTwJCXbnJpeDpgwg.5QQwHL8vPMOzLS5yy1ukeNDQZNGsgMU0V4JFz_I10Uwg.JPEG/%EB%A8%B8%EC%8A%A4%ED%81%AC.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자영업자가 알아야 할 세금상식 5가지 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -721,12 +713,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjZfMTA1/MDAxNjM1MjA1MDEzNzU5.ICTrnqTs1lbSKHyFmzVL9-D4qbbM1Psnvtg1tQutqAkg.xCCLUFde5uqDpaiZZLLpCvTmzAxNRhAdRtjT9WnVUIsg.JPEG/%EC%A0%88%EC%83%88_%EC%9E%90%EC%98%81%EC%97%85%EC%84%B8%EA%B8%88%EC%83%81%EC%8B%9D5%EA%B0%80%EC%A7%80.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[S&I코퍼 건설사업 인수 GS건설, 얼마를 지불할까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/thebell/stock/contents/211025182341144Yy</link>
-            <guid>https://contents.premium.naver.com/thebell/stock/contents/211025182341144Yy</guid>
+            <title><![CDATA[공동구매를 팀구매로 진화시킨 '올웨이즈' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/byline/commercebn/contents/211026074818254bc</link>
+            <guid>https://contents.premium.naver.com/byline/commercebn/contents/211026074818254bc</guid>
             <pubDate>Mon, 01 Nov 2021 15:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[㈜LG 계열사 S&amp;I코퍼레이션이 매각하는 건설사업부의 거래 규모는 얼마나 될까요. 일반적인 기업가치 산정은 에비타멀티플(EBITDA: 상각전영업이익 배수), 주당 순자산가치(PBR) 등이 고려되지만 건설사의 경우 경기 전망이나 수주 잔고, 브랜드 가치 등이 더 중요한 지표로 활용된다는 점에서 기존 밸류에이션 툴을 적용하기 어렵다는 분석도 있습니다. 게다가 S&amp;I코퍼레이션 건설사]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMjIz/MDAxNjM1MTQ3NDQ2MTIx.384cHd2X5J1Crudp8Fp7dgGOC4jtRymiGx_hA5bXKwIg.so_17Rnf1cei6i4fzj0pbkEgD8NwmBWFtSqv4E0nzsAg.JPEG/GS_%EC%97%AD%EC%82%BC%EC%82%AC%EC%98%A5.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[올웨이즈라는 좀 이상한(?) 이커머스 플랫폼 스타트업이 있습니다. 오픈마켓이 대세인 요즘 오히려 폐쇄성을 플랫폼의 강점으로 내세웁니다. 백화점도 아니면서 입점 신청과 승인을 거친 업체만 자사 플랫폼에 노출하고 있습니다. 성공가능성이 있을까요? 올웨이즈 측은 “타 플랫폼과 가격 비교가 불가능한 대신 압도적으로 저렴한 가격에 상품을 제공하겠다”고 말합니다. 올]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjZfMTg3/MDAxNjM1MjAyMDUxMjM2.oBQq_iHGcxBE68Izh7z_KHfc4yCBB6Y28_BUOsn9bJMg.WbW8IQFA8HQ5QR-jPXxi9oIqEBsTajlJuQXxZsGapWEg.JPEG/%EB%A9%94%EC%9D%B8-2.jpeg?type=nf220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[10.26일 종목리뷰 (와이지엔터테인먼트) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -737,12 +729,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjZfMjMz/MDAxNjM1MjMxMjU5MTc1.Q1uMz9zoyUkM5ml3ndVcDWmh6udyRBdEDIwufRRcPxgg.aEPZwRHwqKD2E0bvjSA-8q2p6C5NTCT-z7NEUIm0HYAg.JPEG/GettyImages-960809388.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[주간 캘린더] 모더나&화이자 고성장 기대, 최고 배당률은  아머 레지덴셜 11.4% (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/211030093442942aP</link>
-            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/211030093442942aP</guid>
-            <pubDate>Mon, 01 Nov 2021 21:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주에 실적 발표 예정인 주요 기업들의 예상 실적을 정리해 알려 드립니다. 이번 주는 실적 발표 예정 기업이 많아 시가총액이 300억 달러 이상이며, 증권사 컨센서스가 있는 기업으로 선정했습니다. 매출액 증가율이 가장 높을 것으로 예상되는 기업은 코로나19 백신으로 잘 알려진 모더나(MRNA)입니다. 모더나는 11월 4일에 실적을 발표할 예정입니다. 3분기 예상 매출액은 62억]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjlfMTE4/MDAxNjM1NDgxODg0NzM5.sVW4BjBnOh5kNGJZZIGAtcq4DkHhDFd2MDvDysYFC94g.D5mMPEYaUm90N-ypbcd2Sl9vP7mD50lxfci2yAIeJRQg.PNG/2021-10-29_13_30_53.png?type=nf220_220" length="0" type="image/png"/>
+            <title><![CDATA[S&I코퍼 건설사업 인수 GS건설, 얼마를 지불할까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/thebell/stock/contents/211025182341144Yy</link>
+            <guid>https://contents.premium.naver.com/thebell/stock/contents/211025182341144Yy</guid>
+            <pubDate>Mon, 01 Nov 2021 15:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[㈜LG 계열사 S&amp;I코퍼레이션이 매각하는 건설사업부의 거래 규모는 얼마나 될까요. 일반적인 기업가치 산정은 에비타멀티플(EBITDA: 상각전영업이익 배수), 주당 순자산가치(PBR) 등이 고려되지만 건설사의 경우 경기 전망이나 수주 잔고, 브랜드 가치 등이 더 중요한 지표로 활용된다는 점에서 기존 밸류에이션 툴을 적용하기 어렵다는 분석도 있습니다. 게다가 S&amp;I코퍼레이션 건설사]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMjIz/MDAxNjM1MTQ3NDQ2MTIx.384cHd2X5J1Crudp8Fp7dgGOC4jtRymiGx_hA5bXKwIg.so_17Rnf1cei6i4fzj0pbkEgD8NwmBWFtSqv4E0nzsAg.JPEG/GS_%EC%97%AD%EC%82%BC%EC%82%AC%EC%98%A5.jpg?type=nf220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Q. 변동금리와 고정금리 중 무엇이 낫나요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/booding/home/contents/211005001329471nP</link>
+            <guid>https://contents.premium.naver.com/booding/home/contents/211005001329471nP</guid>
+            <pubDate>Mon, 01 Nov 2021 23:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[Q. 변동금리와 고정금리 중 무엇이 낫나요? 1. 대출 종류: 주택담보대출  2. 지역: 경기도 소재 아파트(매수 예정)  3. KB시세: 7억 원  4. 필요 대출금: 3억 원  5. 월 소득 / 부채: 700만 원(2인가구 합산) / 부채 없음  6. 주택 수: 무주택  7. 기타:  -고심 끝에 아파트 매수계약을 체결했고, 10월 둘째 주에 잔금을 치러야 합니다.  -현재 대출 은행(금리) 선택 문제로 고민 중입니다.  -현시점]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA5MDlfOTcg/MDAxNjMxMTkyOTIyNzky.cYJW1fcZeh_PzL5GgOn-nRGN7VPM2mTelBE1Q_gLTFcg.PuI_MoGV61FARz1bl7n4ob1x_QyQWYVlYt1Vhg2Bg08g.JPEG/KakaoTalk_20210909_220728343.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

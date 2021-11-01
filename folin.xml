@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2021-11-01T22:09:51.891Z</updated>
+    <updated>2021-11-01T23:12:07.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[900KM가 말하는 '요즘 것들'이 먹고사는 법]]></title>
+        <id>https://www.folin.co/story/1928</id>
+        <link href="https://www.folin.co/story/1928"/>
+        <updated>2021-11-01T23:11:45.055Z</updated>
+        <content type="html"><![CDATA[<li>워크</li>
+                                <li>조직문화</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[밀레니얼 여성이 조직에서 리더가 돼야 하는 이유]]></title>
         <id>https://www.folin.co/story/1927</id>
@@ -284,13 +292,5 @@
         <updated>2021-10-03T17:13:20.309Z</updated>
         <content type="html"><![CDATA[<li>라이프스타일</li>
                                 <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좋은 멘토 찾기 전, 나를 돌아볼 6가지 기준]]></title>
-        <id>https://www.folin.co/story/1881</id>
-        <link href="https://www.folin.co/story/1881"/>
-        <updated>2021-10-03T17:13:20.310Z</updated>
-        <content type="html"><![CDATA[<li>라이프스타일</li>
-                                <li>커리어</li>]]></content>
     </entry>
 </feed>
