@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 00:36:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 01:56:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6523?fr=category</guid>
             <pubDate>Thu, 28 Oct 2021 07:11:03 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 14분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Z세대가 인친, 트친, 블친 다 소환하는 이벤트가 있다고? (캐릿)]]></title>
+            <link>https://www.careet.net/539</link>
+            <guid>https://www.careet.net/539</guid>
+            <pubDate>Mon, 01 Nov 2021 01:56:04 GMT</pubDate>
+            <content:encoded><![CDATA[영업 비밀 다 털어봤습니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/4bac41c6-3780-4fac-970c-55a9235126be_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[요즘 고등학생들이 필수로 공구한다는 이것 (캐릿)]]></title>
@@ -284,215 +292,6 @@
             <pubDate>Sat, 02 Oct 2021 19:00:12 GMT</pubDate>
             <content:encoded><![CDATA[10월 1주차 트렌드 아이템 모음.zip]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/a115c60f-ecc0-4252-8cc8-2be2ca525e55_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Z세대와 자연스럽게 소통할 수 있는 스몰토크 주제.ZIP (캐릿)]]></title>
-            <link>https://www.careet.net/512</link>
-            <guid>https://www.careet.net/512</guid>
-            <pubDate>Sat, 02 Oct 2021 19:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[다 읽고 나면 Z세대 신입사원과 짱친 가능!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/df4dc1f9-d48f-40f7-8abe-e468d0bd7ba4_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[해외 Z세대는 요즘? 인스타로 외국어 공부하고, 틴더로 연애함! (캐릿)]]></title>
-            <link>https://www.careet.net/510</link>
-            <guid>https://www.careet.net/510</guid>
-            <pubDate>Sat, 02 Oct 2021 19:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[1분 컷으로 알아보는 이 주의 해외 Z세대 트렌드]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/998273e3-657c-4adc-a9c4-9e7e06361e1a_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[브랜드 N주년 기념 이벤트, 어떻게 해야 일 잘한다고 소문이 날까? (캐릿)]]></title>
-            <link>https://www.careet.net/502</link>
-            <guid>https://www.careet.net/502</guid>
-            <pubDate>Sat, 02 Oct 2021 19:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[셀프 생축으로 브랜드 팬덤 만드는 법!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/f79f0684-7113-490c-b0e9-39d3b682d244_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[데이터] Z세대가 많이 쓰는 ‘의외의’ 앱에서 알 수 있는 사실 (캐릿)]]></title>
-            <link>https://www.careet.net/509</link>
-            <guid>https://www.careet.net/509</guid>
-            <pubDate>Sat, 02 Oct 2021 19:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대 폰에 이 앱이 있다고?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/2772f1c6-6281-4c2b-b135-544750840c98_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡에서 흥하는 브랜드 챌린지 비법, ‘바밤바송’에 있다! (캐릿)]]></title>
-            <link>https://www.careet.net/507</link>
-            <guid>https://www.careet.net/507</guid>
-            <pubDate>Sat, 02 Oct 2021 19:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[‘바밤바송’을 보면 흥하는 CM송 법칙이 보인다!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/11c15cdf-3c82-4892-83c7-d8b38d679c0a_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[당장 써먹는 짤줍] 어제 내 세상이 무너졌어 (캐릿)]]></title>
-            <link>https://www.careet.net/503</link>
-            <guid>https://www.careet.net/503</guid>
-            <pubDate>Sat, 02 Oct 2021 19:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[MZ세대 과몰입 근황]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/8933d70f-fe69-4470-b5e9-7c3626d2b74f_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MZ세대 트렌드 찾는 신박한 방법 = 뜨는 ‘플레이리스트’ 보기?! (캐릿)]]></title>
-            <link>https://www.careet.net/504</link>
-            <guid>https://www.careet.net/504</guid>
-            <pubDate>Sat, 02 Oct 2021 19:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[트렌트 서칭 고수가 되기 위해선 플리를 볼 차례!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/064d7b89-3d39-4a2e-a22c-2de2a8449682_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[추석 특집! Z세대 조카들과의 스몰토크 주제 줍줍해가세요 (캐릿)]]></title>
-            <link>https://www.careet.net/505</link>
-            <guid>https://www.careet.net/505</guid>
-            <pubDate>Sat, 02 Oct 2021 19:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[‘반에서 몇 등이야?’ ‘애인 있어?’ 금지!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/4e5d0414-1758-47a3-a6b5-9a7a19f5a7d6_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 광고 음악이 뜨지 않는 이유는 OO이 없기 때문입니다 (캐릿)]]></title>
-            <link>https://www.careet.net/500</link>
-            <guid>https://www.careet.net/500</guid>
-            <pubDate>Sat, 02 Oct 2021 19:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 광고 음악 트렌드 4]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/fdadec61-7360-43ad-a606-3a95f565cba9_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[OO를 바꾸고 주문 폭주한 화장품 브랜드의 비결은? (캐릿)]]></title>
-            <link>https://www.careet.net/496</link>
-            <guid>https://www.careet.net/496</guid>
-            <pubDate>Sat, 02 Oct 2021 19:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[매번 좋은 브랜드로 끌올되는 시타의 비밀은?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/895c6cfe-6c7b-4e8c-a7c2-3a8f74bc4d61_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인기 급상승 유튜브 채널로 예측하는 Z세대 트렌드 (캐릿)]]></title>
-            <link>https://www.careet.net/501</link>
-            <guid>https://www.careet.net/501</guid>
-            <pubDate>Sat, 02 Oct 2021 19:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[최근 Z세대에게 ‘급 인기’ 끌었던 채널 총 정리 해드림]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/32b3bb85-db7d-43f1-ba61-4fdaa1b33829_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Z세대는 자기 얼굴로 굿즈 만든다고? 셀프 메이커 세대! (캐릿)]]></title>
-            <link>https://www.careet.net/499</link>
-            <guid>https://www.careet.net/499</guid>
-            <pubDate>Sat, 02 Oct 2021 19:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 네이티브는 자라서 스스로를 콘텐츠로 만든다!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/fd6b5a5a-30d6-43df-b3e9-1b22c57b088d_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Z세대를 위한 TV에는 OO가 필요하다? (캐릿)]]></title>
-            <link>https://www.careet.net/498</link>
-            <guid>https://www.careet.net/498</guid>
-            <pubDate>Sat, 02 Oct 2021 19:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[유튜브, 넷플릭스 시대 Z세대의 TV 이용법이 궁금하다면!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/257f5c1c-a51d-4a8f-978b-eaa911d99b8f_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 던킨이 트렌디한 브랜드로 불리는 이유 3 (캐릿)]]></title>
-            <link>https://www.careet.net/497</link>
-            <guid>https://www.careet.net/497</guid>
-            <pubDate>Sat, 02 Oct 2021 19:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대가 던킨을 힙하다고 생각하는 이유는?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/cfc55076-b04a-4249-a09c-b5addff09c09_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 유튜브 인기 키워드! 
-남사친 브이로그가 흥하는 이유 (캐릿)]]></title>
-            <link>https://www.careet.net/494</link>
-            <guid>https://www.careet.net/494</guid>
-            <pubDate>Sat, 02 Oct 2021 19:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대 유튜브 피드에 꼭 뜬다는 그 영상]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/6eb6abad-c5d7-4287-9a89-d35b9622d616_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Z세대 SNS 피드를 휩쓸어버린 이번주 떡상템은? (캐릿)]]></title>
-            <link>https://www.careet.net/493</link>
-            <guid>https://www.careet.net/493</guid>
-            <pubDate>Sat, 02 Oct 2021 19:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[9월 2주차 트렌드 아이템 모음.zip]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/6ddc76c1-de7a-42e2-a44c-18dc6c73dba9_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Z세대는 최신 유행 어디서 찾아요?’ 정답 알려드립니다 (캐릿)]]></title>
-            <link>https://www.careet.net/491</link>
-            <guid>https://www.careet.net/491</guid>
-            <pubDate>Sat, 02 Oct 2021 19:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대 떡상템 탄생지를 찾아서]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/d9b12421-2988-416d-a1c8-f88b430ada73_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[알파세대는 브이로그도 틱톡으로 찍는다고? (캐릿)]]></title>
-            <link>https://www.careet.net/492</link>
-            <guid>https://www.careet.net/492</guid>
-            <pubDate>Sat, 02 Oct 2021 19:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[1분 컷으로 알아보는 알파세대 트렌드 요약본]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/2106590a-f4b4-4cbd-b127-852267b46279_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Z세대가 말하는 함께 일하고 싶은 좋은 리더란? (캐릿)]]></title>
-            <link>https://www.careet.net/487</link>
-            <guid>https://www.careet.net/487</guid>
-            <pubDate>Sat, 02 Oct 2021 19:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대가 뽑은 좋은 리더/ 나쁜 리더]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/225e3da7-1c04-4e39-a6b4-4c1cc45f35f0_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MZ세대 피셜 친환경에 진심인 기업 TOP 6 (캐릿)]]></title>
-            <link>https://www.careet.net/490</link>
-            <guid>https://www.careet.net/490</guid>
-            <pubDate>Sat, 02 Oct 2021 19:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[기업의 친환경 활동에 관한 MZ세대의 생각, 데이터로 확인해 보세요!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/8142f27f-7955-41bf-9dbd-fdba641048b8_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘돈쭐’을 부르는 ESG 경영의 좋은 예 (캐릿)]]></title>
-            <link>https://www.careet.net/489</link>
-            <guid>https://www.careet.net/489</guid>
-            <pubDate>Sat, 02 Oct 2021 19:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[ESG 중 ‘S(사회적 책임)’으로 주목받은 사례!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/a2d0c3f6-daff-4daf-8a5b-b08a74e61f5a_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[9월 첫째 주, Z세대 단톡방을 뜨겁게 달군 떡상 아이템은? (캐릿)]]></title>
-            <link>https://www.careet.net/488</link>
-            <guid>https://www.careet.net/488</guid>
-            <pubDate>Sat, 02 Oct 2021 19:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[도깨비, 스우파, 맥바셋, 랜덤 다이버시티가 뭐야?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/28b2af96-c827-446c-9a23-52068f054299_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[당장 써먹는 짤줍] OO이 있는 타일을 모두 선택하세요 (캐릿)]]></title>
-            <link>https://www.careet.net/481</link>
-            <guid>https://www.careet.net/481</guid>
-            <pubDate>Sat, 02 Oct 2021 19:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[우리 브랜드 캐릭터를 영업하기 위해 주접 떨고 싶을 땐?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/6c73a7b5-d8b8-4397-9379-0f1933fd2933_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[도넛 브랜드가 힙(Hip)의 상징이 된 이유 (feat. 도넛 유행 타임라인) (캐릿)]]></title>
-            <link>https://www.careet.net/483</link>
-            <guid>https://www.careet.net/483</guid>
-            <pubDate>Sat, 02 Oct 2021 19:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[삼성 Z플립은 왜 갑자기 도넛 브랜드와 콜라보 했을까?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202108/877827dd-939c-4b98-8891-365a917e86c0_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 브랜드의 연관 검색어는 뭘까? Z세대가 말하는 분야별 브랜드 이미지 아카이빙 (캐릿)]]></title>
-            <link>https://www.careet.net/486</link>
-            <guid>https://www.careet.net/486</guid>
-            <pubDate>Sat, 02 Oct 2021 19:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[스타벅스가 가성비 브랜드? 애플이 플렉스의 아이콘이라고?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/ba85223c-3cff-4c6d-9c44-23c75f95d847_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 10대는 AI로 상황극 한다면서요? (캐릿)]]></title>
-            <link>https://www.careet.net/485</link>
-            <guid>https://www.careet.net/485</guid>
-            <pubDate>Sat, 02 Oct 2021 19:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[틱톡과 유튜브를 휩쓴 웹드라마의 주인공 대공개!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202108/0262c371-1b88-48b5-821a-0918675de5da_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[희녹 : 화장품 마케터가 만든 탈취제, 새로운 카테고리가 되다 (롱블랙)]]></title>
@@ -874,14 +673,6 @@
             <content:encoded><![CDATA[수상한 싸이]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[A Mom’s Research (Part 1): Nordic Countries Aren’t Socialist Paradises (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/epochkorea/epic/contents/211025220537647iH</link>
-            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/211025220537647iH</guid>
-            <pubDate>Sun, 31 Oct 2021 15:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[A Mom’s Research (Part 1): Nordic Countries Aren’t Socialist Paradises [칼럼] 엄마의 연구① 북유럽 국가들은 사회주의 낙원일까? Commentary 들어가는 말 As the mother of a 17-year-old in a deep-blue state, I am often asked questions about socialism and communism. Not always being able to answer them, I have to do extensive research. I guess this is the situation many Epoch Times readers encounter: having to discuss these topics with family and friends. 17살 아이]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMTk0/MDAxNjM1MTY4NjY5MzIx.9jpvAy_e8aFA8EwCtXFpyrKpVANCOkD5IG_fww2om_Eg.fzpZJVWC9trh8g2FYh6e9yglPoF_a-Cuz1UJpEIxT7cg.JPEG/%EC%82%AC%ED%9A%8C%EC%A3%BC%EC%9C%BC%E3%85%A2_.jpeg?type=nf220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[[커넥트레터] 헬개미마켓 떡상과 물류 대란 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/connectx/us/contents/211021122436740Lx</link>
             <guid>https://contents.premium.naver.com/connectx/us/contents/211021122436740Lx</guid>
@@ -890,12 +681,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjFfMTEg/MDAxNjM0Nzg2NTcxODU2.Ok9HX6XzfKwAPSN5k3Vm4xVcFzNmgaT3Zy4u83jkcMwg.xQCp9Jcuw0M1DcgBm2MdEvxtwQvAUIr_T8wpDX8Nt8Ug.JPEG/%ED%97%AC%EA%B0%9C%EB%AF%B8%EB%A7%88%EC%BC%93_BI.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[회사가 불법 개인정보로 영업시키는데…직원도 형사처벌 대상? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/jobplanet/companytimes/contents/211025101523029ok</link>
-            <guid>https://contents.premium.naver.com/jobplanet/companytimes/contents/211025101523029ok</guid>
+            <title><![CDATA[A Mom’s Research (Part 1): Nordic Countries Aren’t Socialist Paradises (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/epochkorea/epic/contents/211025220537647iH</link>
+            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/211025220537647iH</guid>
             <pubDate>Sun, 31 Oct 2021 15:11:16 GMT</pubDate>
-            <content:encoded><![CDATA["기업이 고객정보를 엑셀로 정리해서 보관중입니다. 마케팅 동의를 받지 않은 고객정보는 저장해서 이용하면 안된다고 말을 했는데도 모회사 대표가 시켰다며 그냥 하라는 식입니다.  '걸리면 큰일난다. 벌금이나 징역이다' 라고 해도 무시해요. 홈쇼핑을 통해서 주문한 사람에게도 홍보문자를 보냈어요. 그 고객이 홈쇼핑사에 신고해서 경고도 받았지만 바뀌지 않더라고요.  지]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMTcy/MDAxNjM1MTI0MjUwNTAz.B4CoUPmGnzu2qgc3ZYvmZx3VNnKS7Tu1tb_JtgLvD04g.7nvHw1Ct3FGXavTZRoxGBuKjSl6FFgA6W5xGmZnLqcog.JPEG/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A7%912_(1).jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[A Mom’s Research (Part 1): Nordic Countries Aren’t Socialist Paradises [칼럼] 엄마의 연구① 북유럽 국가들은 사회주의 낙원일까? Commentary 들어가는 말 As the mother of a 17-year-old in a deep-blue state, I am often asked questions about socialism and communism. Not always being able to answer them, I have to do extensive research. I guess this is the situation many Epoch Times readers encounter: having to discuss these topics with family and friends. 17살 아이]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMTk0/MDAxNjM1MTY4NjY5MzIx.9jpvAy_e8aFA8EwCtXFpyrKpVANCOkD5IG_fww2om_Eg.fzpZJVWC9trh8g2FYh6e9yglPoF_a-Cuz1UJpEIxT7cg.JPEG/%EC%82%AC%ED%9A%8C%EC%A3%BC%EC%9C%BC%E3%85%A2_.jpeg?type=nf220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[브리핑] 페이팔+핀터레스트, 이번주엔 시장 인정받을까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -906,12 +697,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMjkg/MDAxNjM1MTE3MDY5NTYy.1VzA_1gMftGA0J5JZFwmGnaveGYjHlcl9PpkUT4S9IAg.6w_A33CxnTRkLsl6ggy38GtOTIu6xgI-vE7d3fqxaBcg.JPEG/%ED%8E%98%EC%9D%B4%ED%8C%94%EA%B3%BC_%ED%95%80%ED%84%B0%EB%A0%88%EC%8A%A4%ED%8A%B8.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[EVENT] 네카쿠배 풀필먼트의 미래, 라이브로 만나요! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/connectx/us/contents/211025142436964zm</link>
-            <guid>https://contents.premium.naver.com/connectx/us/contents/211025142436964zm</guid>
-            <pubDate>Sun, 31 Oct 2021 17:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[[EVENT] 오늘(10월 31일)까지 라이브 토크쇼 무료 등록 가능! 안녕하세요, 커넥터스 운영자 엄지용입니다. 지난 10월 1일 커넥터스 멤버십을 처음 시작하고 벌써 한 달 가까운 시간이 지났네요. 그동안 커넥터스는 네이버 프리미엄 콘텐츠 입점 비즈니스 채널 중 무려 ‘3위(!!)’까지 치고 올랐습니다. 죄송합니다. 사실 거짓말입니다(...) 3등은 커넥터스 위에 포진한 ‘코인’, ‘부동]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMTIg/MDAxNjM1MTM4MzEyMTc5.RP_hO7bW_kRPKgUfFwYidJYVQK5uMVBkDard8TDT2UYg.BymUQ2HV9QWizUCYUb0BPwPVMG8vTXIN8iFNj24-kFEg.JPEG/%EB%84%A4%EC%B9%B4%EC%BF%A0%EB%B0%B0_%EB%A1%9C%EA%B3%A0_%ED%95%A9%EC%84%B1.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[회사가 불법 개인정보로 영업시키는데…직원도 형사처벌 대상? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/jobplanet/companytimes/contents/211025101523029ok</link>
+            <guid>https://contents.premium.naver.com/jobplanet/companytimes/contents/211025101523029ok</guid>
+            <pubDate>Sun, 31 Oct 2021 15:11:16 GMT</pubDate>
+            <content:encoded><![CDATA["기업이 고객정보를 엑셀로 정리해서 보관중입니다. 마케팅 동의를 받지 않은 고객정보는 저장해서 이용하면 안된다고 말을 했는데도 모회사 대표가 시켰다며 그냥 하라는 식입니다.  '걸리면 큰일난다. 벌금이나 징역이다' 라고 해도 무시해요. 홈쇼핑을 통해서 주문한 사람에게도 홍보문자를 보냈어요. 그 고객이 홈쇼핑사에 신고해서 경고도 받았지만 바뀌지 않더라고요.  지]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMTcy/MDAxNjM1MTI0MjUwNTAz.B4CoUPmGnzu2qgc3ZYvmZx3VNnKS7Tu1tb_JtgLvD04g.7nvHw1Ct3FGXavTZRoxGBuKjSl6FFgA6W5xGmZnLqcog.JPEG/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A7%912_(1).jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성 오너가 상속세만 12조…이재용 부회장 지분도 매물로 나올까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -922,12 +713,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjRfMTU2/MDAxNjM1MDc3NzYxNjEw.MbyxsY7I0M9QvtdrybiRtRD7_c1r0j8oEcY70srgchgg.mcV5c8YWsTncihjYwunBwrJSMLTXyhScy2Y2e42vsHgg.JPEG/%EC%9D%B4%EC%9E%AC%EC%9A%A9_%EB%B6%80%ED%9A%8C%EC%9E%A5_%EA%B0%80%EC%84%9D%EB%B0%A9_%EC%B6%9C%EC%86%8C_D-1.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[10.25일 종목리뷰 (코윈테크, 모두투어, 신세계) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/kiwoom/thestock/contents/211025162053617Qp</link>
-            <guid>https://contents.premium.naver.com/kiwoom/thestock/contents/211025162053617Qp</guid>
-            <pubDate>Sun, 31 Oct 2021 15:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;코윈테크 리뷰&gt; 1. 금일 고가 기준 +21.72% 수익률 달성 및 목표가 도달로 수익 실현  - 금일까지 3거래일 연속 상승에 성공하면서 목표가로 제시했던 29,000원을 장중 상향 돌파하였고, 최고가 기준 +21.72%, 종가 기준 +19.06% 수익률을 기록하였습니다. - 최근 2차전지 소재 관련주들이 테슬라의 배터리 교체 이슈와 높은 주가 수준에 대한 부담감이 높아지면서 숨 고르기 과정을 나타내]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfNTQg/MDAxNjM1MTQ0ODIxNDY1.ARvFBa_1XOGPhU6l2Tyuya5ygMYjQATLnGoYpXoPvysg.m3vl4P9hyQSeLJ5d4hBvRdj2CbKRIyyiaaLtC48EpxQg.JPEG/GettyImages-1190564035.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[EVENT] 네카쿠배 풀필먼트의 미래, 라이브로 만나요! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/connectx/us/contents/211025142436964zm</link>
+            <guid>https://contents.premium.naver.com/connectx/us/contents/211025142436964zm</guid>
+            <pubDate>Sun, 31 Oct 2021 17:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[[EVENT] 오늘(10월 31일)까지 라이브 토크쇼 무료 등록 가능! 안녕하세요, 커넥터스 운영자 엄지용입니다. 지난 10월 1일 커넥터스 멤버십을 처음 시작하고 벌써 한 달 가까운 시간이 지났네요. 그동안 커넥터스는 네이버 프리미엄 콘텐츠 입점 비즈니스 채널 중 무려 ‘3위(!!)’까지 치고 올랐습니다. 죄송합니다. 사실 거짓말입니다(...) 3등은 커넥터스 위에 포진한 ‘코인’, ‘부동]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMTIg/MDAxNjM1MTM4MzEyMTc5.RP_hO7bW_kRPKgUfFwYidJYVQK5uMVBkDard8TDT2UYg.BymUQ2HV9QWizUCYUb0BPwPVMG8vTXIN8iFNj24-kFEg.JPEG/%EB%84%A4%EC%B9%B4%EC%BF%A0%EB%B0%B0_%EB%A1%9C%EA%B3%A0_%ED%95%A9%EC%84%B1.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현대차 품 안기는 캐피탈, 카드·커머셜 계열분리? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -938,12 +729,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjJfODgg/MDAxNjM0ODg1MTc0MDU0.Hdli6vgxHBZ2t5ncLGKroC3lq2ORwLzXx1D78lmsADIg.3p_WlidjUYUnvQtcp2KdBNd41GT88EzSv2UKmn2NmRgg.JPEG/%ED%98%84%EB%8C%80%EC%B9%B4%EB%93%9C,_%EC%BD%94%EB%A1%9C%EB%82%9819%EB%A1%9C_%EC%97%AC%EC%9D%98%EB%8F%84_%EB%B3%B8%EC%82%AC_7%EA%B0%9C%EC%B8%B5_%EC%9E%84%EC%8B%9C%ED%8F%90%EC%87%84.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["내가 생각하는 일머리 있는 기획자란…" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/jobplanet/companytimes/contents/211021114930241gb</link>
-            <guid>https://contents.premium.naver.com/jobplanet/companytimes/contents/211021114930241gb</guid>
-            <pubDate>Mon, 01 Nov 2021 00:36:41 GMT</pubDate>
-            <content:encoded><![CDATA[※ 이런 분들이 읽으면 좋아요 - 일을 잘한다는 것이 뭔지, 어떻게 해야 일을 잘하는 건지 고민 중인 기획자 - 사수라고는 없는 회사에서 맨땅에 헤딩 중, 남들은 어떻게 일하고 있는지 궁금하신 분  - 성장 중인 스타트업 직원들은 어떻게 일하고 있는지 궁금한 프로 직장인 이를 위해 처음 문을 두드린 곳은 아파트 생활 편의 서비스 플랫폼 '잘살아보세'를 운영하는 '살다'다. 2019]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjFfMTgx/MDAxNjM0Nzg0MTIyMTIw.fOmy3K5QZJS_MdDvHPw603oDH2W58XtZ9vj2T2_Yve4g.Wu99-S716qJ7rZbjRQiA4-Ki39Ff4fyCCH11zAoxQxog.JPEG/thum_bk01high.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[10.25일 종목리뷰 (코윈테크, 모두투어, 신세계) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/kiwoom/thestock/contents/211025162053617Qp</link>
+            <guid>https://contents.premium.naver.com/kiwoom/thestock/contents/211025162053617Qp</guid>
+            <pubDate>Sun, 31 Oct 2021 15:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;코윈테크 리뷰&gt; 1. 금일 고가 기준 +21.72% 수익률 달성 및 목표가 도달로 수익 실현  - 금일까지 3거래일 연속 상승에 성공하면서 목표가로 제시했던 29,000원을 장중 상향 돌파하였고, 최고가 기준 +21.72%, 종가 기준 +19.06% 수익률을 기록하였습니다. - 최근 2차전지 소재 관련주들이 테슬라의 배터리 교체 이슈와 높은 주가 수준에 대한 부담감이 높아지면서 숨 고르기 과정을 나타내]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfNTQg/MDAxNjM1MTQ0ODIxNDY1.ARvFBa_1XOGPhU6l2Tyuya5ygMYjQATLnGoYpXoPvysg.m3vl4P9hyQSeLJ5d4hBvRdj2CbKRIyyiaaLtC48EpxQg.JPEG/GettyImages-1190564035.jpg?type=nf220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주관 관심 이슈! (10월 넷째주) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/kiwoom/thestock/contents/211025131501580OD</link>
+            <guid>https://contents.premium.naver.com/kiwoom/thestock/contents/211025131501580OD</guid>
+            <pubDate>Mon, 01 Nov 2021 01:56:38 GMT</pubDate>
+            <content:encoded><![CDATA[★ 주간 이슈 분석 ★ 1. 바이오 유럽 2021(25일) - 세계 최대 바이오 행사 중 하나인 바이오 유럽 2021이 현지시간 10월25일부터 28일까지 온라인으로 개최될 예정 - 이번 행사에는 전 세계 50개국 1,500개 회사에서 2,600여명 이상의 제약/바이오 산업 관계자,기관투자자들이 참가할 예정 - 관련주 : 크리스탈지노믹스,코아스템,지놈앤컴퍼니,올릭스,압타머사이언스,헬릭스미스 2. NCT127 리]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMTc0/MDAxNjM1MTM0NTg2MDMw.jsAwkZ7ymLgQC_dKWrEQuFTeEovDC82vfAQYuDhiAXEg.Vds0xJaLnxfBJZGLqR5mDdMxfgxOnNTzaOShszS5QdEg.JPEG/GettyImages-160503703.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
