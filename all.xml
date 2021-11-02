@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 21:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 22:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -309,6 +309,14 @@
             <content:encoded><![CDATA[아이디어스가 요즘 제 ‘참새 방앗간’이 됐어요. 수공예품 매력에 빠졌거든요. 자개 모빌, 향초, 드림캐쳐. 사람의 손길이 더해진 물건은 특별함이 있죠. &nbsp;<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['국민 건강관리 앱' 꿈꾸는 세나클소프트의 위기 극복담 (폴인)]]></title>
+            <link>https://www.folin.co/story/1921</link>
+            <guid>https://www.folin.co/story/1921</guid>
+            <pubDate>Tue, 02 Nov 2021 22:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[<li>테크</li>
+                                <li>스타트업</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[900KM가 말하는 '요즘 것들'이 먹고사는 법 (폴인)]]></title>
             <link>https://www.folin.co/story/1928</link>
             <guid>https://www.folin.co/story/1928</guid>
@@ -589,12 +597,11 @@
                                 <li>조직문화</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네이버 브랜드 기획자가 다시 정의하는 '몰입' (폴인)]]></title>
-            <link>https://www.folin.co/story/1871</link>
-            <guid>https://www.folin.co/story/1871</guid>
-            <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<li>라이프스타일</li>
-                                <li>워크</li>]]></content:encoded>
+            <title><![CDATA[누가 주4일제를 말하는가? 왜 말하는가? 누가 원하는가? 왜 필요한가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/44546</link>
+            <guid>https://www.bookjournalism.com/books/44546</guid>
+            <pubDate>Tue, 02 Nov 2021 22:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[월화수목토토토의 시대정신]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[세계는 1.5도 약속을 지킬 수 있을까? 한국은 40퍼센트의 약속을 지킬 수 있을까? (북저널리즘)]]></title>
@@ -672,13 +679,6 @@
             <guid>https://www.bookjournalism.com/books/43969</guid>
             <pubDate>Tue, 02 Nov 2021 19:09:20 GMT</pubDate>
             <content:encoded><![CDATA[겨울이 온다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[K뉴스페이스 시대를 누릴 수 있을까? 한화는 한국의 스페이스X가 될까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/43919</link>
-            <guid>https://www.bookjournalism.com/books/43919</guid>
-            <pubDate>Tue, 02 Nov 2021 19:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[미션 투 누리호]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[땅 샀는데 "이게 웬 무덤?!"…내 맘대로 없애도 될까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>

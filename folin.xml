@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2021-11-02T21:10:36.674Z</updated>
+    <updated>2021-11-02T22:11:34.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['국민 건강관리 앱' 꿈꾸는 세나클소프트의 위기 극복담]]></title>
+        <id>https://www.folin.co/story/1921</id>
+        <link href="https://www.folin.co/story/1921"/>
+        <updated>2021-11-02T22:11:16.325Z</updated>
+        <content type="html"><![CDATA[<li>테크</li>
+                                <li>스타트업</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[900KM가 말하는 '요즘 것들'이 먹고사는 법]]></title>
         <id>https://www.folin.co/story/1928</id>
@@ -284,13 +292,5 @@
         <updated>2021-10-03T17:13:20.308Z</updated>
         <content type="html"><![CDATA[<li>워크</li>
                                 <li>조직문화</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 브랜드 기획자가 다시 정의하는 '몰입']]></title>
-        <id>https://www.folin.co/story/1871</id>
-        <link href="https://www.folin.co/story/1871"/>
-        <updated>2021-10-03T17:13:20.309Z</updated>
-        <content type="html"><![CDATA[<li>라이프스타일</li>
-                                <li>워크</li>]]></content>
     </entry>
 </feed>
