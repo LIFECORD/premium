@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 00:37:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 01:57:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플리퍼즈? 그림합작? 캐릿에서만 볼 수 있는 알파세대 트렌드 모음]]></title>
+            <link>https://www.careet.net/538</link>
+            <guid>https://www.careet.net/538</guid>
+            <pubDate>Tue, 02 Nov 2021 01:56:43 GMT</pubDate>
+            <content:encoded><![CDATA[알파세대는 자기 글씨체로 폰트를 만들어서 틱톡에 올린다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/09afe035-995e-4d76-bd54-85940b3c23f0_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대가 인친, 트친, 블친 다 소환하는 이벤트가 있다고?]]></title>
             <link>https://www.careet.net/539</link>
