@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 06:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 07:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -605,6 +605,13 @@
                                 <li>조직문화</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[코로나 바이러스는 국경을 넘나든다. 코로나 백신 여권은 국경 앞에서 가로막힌다. 혼란의 원인은 기술이 아니다. 이번에도 사람이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/44584</link>
+            <guid>https://www.bookjournalism.com/books/44584</guid>
+            <pubDate>Wed, 03 Nov 2021 07:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[난장판 백신 여권]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[누가 왜 주4일제를 말하는가? 누가 원하는가? 왜 필요한가? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/44546</link>
             <guid>https://www.bookjournalism.com/books/44546</guid>
@@ -680,13 +687,6 @@
             <guid>https://www.bookjournalism.com/audio/43980</guid>
             <pubDate>Tue, 02 Nov 2021 19:09:20 GMT</pubDate>
             <content:encoded><![CDATA[우주전쟁부터 리모콘전쟁까지 갬성소환부터 경제위기까지]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[10월 넷째 주 - 스태그플레이션이라는 겨울이 오고 있습니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/43969</link>
-            <guid>https://www.bookjournalism.com/books/43969</guid>
-            <pubDate>Tue, 02 Nov 2021 19:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[겨울이 온다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[땅 샀는데 "이게 웬 무덤?!"…내 맘대로 없애도 될까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>

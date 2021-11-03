@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2021-11-03T06:13:40.456Z</updated>
+    <updated>2021-11-03T07:12:34.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나 바이러스는 국경을 넘나든다. 코로나 백신 여권은 국경 앞에서 가로막힌다. 혼란의 원인은 기술이 아니다. 이번에도 사람이다.]]></title>
+        <id>https://www.bookjournalism.com/books/44584</id>
+        <link href="https://www.bookjournalism.com/books/44584"/>
+        <updated>2021-11-03T07:12:27.085Z</updated>
+        <content type="html"><![CDATA[난장판 백신 여권]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[누가 왜 주4일제를 말하는가? 누가 원하는가? 왜 필요한가?]]></title>
         <id>https://www.bookjournalism.com/books/44546</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/audio/43980"/>
         <updated>2021-11-02T19:09:20.792Z</updated>
         <content type="html"><![CDATA[우주전쟁부터 리모콘전쟁까지 갬성소환부터 경제위기까지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10월 넷째 주 - 스태그플레이션이라는 겨울이 오고 있습니다.]]></title>
-        <id>https://www.bookjournalism.com/books/43969</id>
-        <link href="https://www.bookjournalism.com/books/43969"/>
-        <updated>2021-11-02T19:09:20.792Z</updated>
-        <content type="html"><![CDATA[겨울이 온다]]></content>
     </entry>
 </feed>
