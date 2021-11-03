@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2021-11-03T15:14:16.100Z</updated>
+    <updated>2021-11-03T16:16:52.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/91</id>
         <link href="https://www.longblack.co/note/91"/>
         <updated>2021-11-03T15:13:29.958Z</updated>
-        <content type="html"><![CDATA[요 며칠 제 마음에 박힌 말이 하나 있어요.&nbsp;“그 문제가 어렵기 때문에 내가 존재하는 겁니다. 그 문제가 쉬웠다면 내가 필요 없습니다.”&amp;nbs<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[요 며칠 제 마음에 박힌 말이 하나 있어요.&nbsp;“그 문제가 어렵기 때문에 내가 존재하는 겁니다. 그 문제가 쉬웠다면 내가 필요 없습니다<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
