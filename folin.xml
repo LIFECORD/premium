@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2021-11-03T21:10:31.334Z</updated>
+    <updated>2021-11-03T22:10:26.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['임플로이언서'의 찐 정보가 회사 브랜딩을 바꾼다]]></title>
+        <id>https://www.folin.co/story/1936</id>
+        <link href="https://www.folin.co/story/1936"/>
+        <updated>2021-11-03T22:10:08.510Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>워크</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년, MZ를 공략하기 위한 SNS 활용법은?]]></title>
+        <id>https://www.folin.co/story/1935</id>
+        <link href="https://www.folin.co/story/1935"/>
+        <updated>2021-11-03T22:10:08.510Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>워크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국민 건강관리 앱' 꿈꾸는 세나클소프트의 위기 극복담]]></title>
         <id>https://www.folin.co/story/1921</id>
@@ -276,21 +292,5 @@
         <updated>2021-10-03T17:13:20.306Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>라이프스타일</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루닛 직원들이 근무 시간에 영어 과외를 받는 이유]]></title>
-        <id>https://www.folin.co/story/1877</id>
-        <link href="https://www.folin.co/story/1877"/>
-        <updated>2021-10-03T17:13:20.308Z</updated>
-        <content type="html"><![CDATA[<li>테크</li>
-                                <li>스타트업</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[직원이 행복한 회사, '대학내일'이 일하는 법]]></title>
-        <id>https://www.folin.co/story/1882</id>
-        <link href="https://www.folin.co/story/1882"/>
-        <updated>2021-10-03T17:13:20.308Z</updated>
-        <content type="html"><![CDATA[<li>워크</li>
-                                <li>조직문화</li>]]></content>
     </entry>
 </feed>

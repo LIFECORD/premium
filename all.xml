@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 21:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 22:10:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -317,6 +317,22 @@
             <content:encoded><![CDATA[요 며칠 제 마음에 박힌 말이 하나 있어요.&nbsp;“그 문제가 어렵기 때문에 내가 존재하는 겁니다. 그 문제가 쉬웠다면 내가 필요 없습니다<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['임플로이언서'의 찐 정보가 회사 브랜딩을 바꾼다 (폴인)]]></title>
+            <link>https://www.folin.co/story/1936</link>
+            <guid>https://www.folin.co/story/1936</guid>
+            <pubDate>Wed, 03 Nov 2021 22:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[<li>라이프스타일</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년, MZ를 공략하기 위한 SNS 활용법은? (폴인)]]></title>
+            <link>https://www.folin.co/story/1935</link>
+            <guid>https://www.folin.co/story/1935</guid>
+            <pubDate>Wed, 03 Nov 2021 22:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[<li>라이프스타일</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['국민 건강관리 앱' 꿈꾸는 세나클소프트의 위기 극복담 (폴인)]]></title>
             <link>https://www.folin.co/story/1921</link>
             <guid>https://www.folin.co/story/1921</guid>
@@ -587,22 +603,6 @@
             <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>라이프스타일</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[루닛 직원들이 근무 시간에 영어 과외를 받는 이유 (폴인)]]></title>
-            <link>https://www.folin.co/story/1877</link>
-            <guid>https://www.folin.co/story/1877</guid>
-            <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<li>테크</li>
-                                <li>스타트업</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[직원이 행복한 회사, '대학내일'이 일하는 법 (폴인)]]></title>
-            <link>https://www.folin.co/story/1882</link>
-            <guid>https://www.folin.co/story/1882</guid>
-            <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<li>워크</li>
-                                <li>조직문화</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가상인간에 대한 관심이 뜨겁다. 왜 이렇게 주목 받을까? 가상인간은 인간의 역할을 대체하게 될까? (북저널리즘)]]></title>
