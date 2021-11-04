@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 00:35:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 01:56:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대 신입사원은 왜 그렇게 회식이 싫을까?]]></title>
+            <link>https://www.careet.net/541</link>
+            <guid>https://www.careet.net/541</guid>
+            <pubDate>Thu, 04 Nov 2021 01:55:47 GMT</pubDate>
+            <content:encoded><![CDATA[우리 막내는 정말 회식이 싫을까? 코로나 시국에 입사한 Z세대 신입사원의 회사 생활 디폴트값은 우리의 디폴트값과 정말 많이 달라졌습니다]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/57abb018-3e27-4460-9cfe-cd6383c4366f_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대는 ‘시그’로 연말 분위기를 낸다! 근데 시즌 그리팅이 뭐야?]]></title>
             <link>https://www.careet.net/540</link>
