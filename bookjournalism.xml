@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2021-11-04T22:11:29.238Z</updated>
+    <updated>2021-11-04T23:11:35.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
-        <title type="html"><![CDATA[버지니아 주지사 선거에서 공화당이 승리했다. 바이든은 그로기 상태다. 트럼프가 돌아올까?]]></title>
+        <title type="html"><![CDATA[버지니아에서 공화당이 이겼다. 바이든은 지는 중이다. 트럼프는 이기는 중일까?]]></title>
         <id>https://www.bookjournalism.com/books/44700</id>
         <link href="https://www.bookjournalism.com/books/44700"/>
         <updated>2021-11-04T22:11:21.462Z</updated>
-        <content type="html"><![CDATA[트럼프의 망령]]></content>
+        <content type="html"><![CDATA[죽은 트럼프가 산 바이든을 이기고 있는 까닭은?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가상인간에 대한 관심이 뜨겁다. 왜 이렇게 주목 받을까? 가상인간은 인간의 역할을 대체하게 될까?]]></title>
+        <title type="html"><![CDATA[가상인간은 왜 주목 받을까? 가상인간은 인간을 대체하게 될까?]]></title>
         <id>https://www.bookjournalism.com/books/44655</id>
         <link href="https://www.bookjournalism.com/books/44655"/>
         <updated>2021-11-04T22:11:21.462Z</updated>
