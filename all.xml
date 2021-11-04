@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 16:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 17:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -613,6 +613,13 @@
                                 <li>라이프스타일</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[버지니아 주지사 선거에서 공화당이 승리했다. 바이든은 그로기 상태다. 트럼프가 돌아올까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/44700</link>
+            <guid>https://www.bookjournalism.com/books/44700</guid>
+            <pubDate>Thu, 04 Nov 2021 17:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[트럼프의 망령]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[가상인간에 대한 관심이 뜨겁다. 왜 이렇게 주목 받을까? 가상인간은 인간의 역할을 대체하게 될까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/44655</link>
             <guid>https://www.bookjournalism.com/books/44655</guid>
@@ -688,13 +695,6 @@
             <guid>https://www.bookjournalism.com/books/44133</guid>
             <pubDate>Wed, 03 Nov 2021 16:16:42 GMT</pubDate>
             <content:encoded><![CDATA[백종원은 무엇인가]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자는 진짜 위기다. 왜 위기인 줄 진짜 모르는 걸까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/44061</link>
-            <guid>https://www.bookjournalism.com/books/44061</guid>
-            <pubDate>Wed, 03 Nov 2021 16:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[진짜 진짜 위기의 삼성]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[커넥트레터] 헬개미마켓 떡상과 물류 대란 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
