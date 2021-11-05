@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 07:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 08:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메신저, 이메일에 허우적 거리고 있다면: 업무 집중도를 높여주는 4가지 방법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6539?fr=category</link>
+            <guid>https://publy.co/content/6539?fr=category</guid>
+            <pubDate>Fri, 05 Nov 2021 08:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 • 12분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['짜증'도 감정이 다 다르다: 수수께끼 같은 나를 풀어내는 노션 감정일기 작성법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6551?fr=category</link>
+            <guid>https://publy.co/content/6551?fr=category</guid>
+            <pubDate>Fri, 05 Nov 2021 08:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 • 9분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[서비스 기획자가 팀으로 일하는 법 (퍼블리)]]></title>
             <link>https://publy.co/content/6538?fr=category</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/6535?fr=category</guid>
             <pubDate>Mon, 01 Nov 2021 09:11:53 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팔리는 제안의 13가지 디테일: 방향성을 좌우할 핵심 문제 찾기 (퍼블리)]]></title>
-            <link>https://publy.co/content/6541?fr=category</link>
-            <guid>https://publy.co/content/6541?fr=category</guid>
-            <pubDate>Mon, 01 Nov 2021 09:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 • 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[내년에는 우리팀에 OKR 도입해볼까? 오늘 당장 적용하는 OKR 실행법 (퍼블리)]]></title>
-            <link>https://publy.co/content/6518?fr=category</link>
-            <guid>https://publy.co/content/6518?fr=category</guid>
-            <pubDate>Fri, 29 Oct 2021 09:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 • 14분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Z세대가 집에 반가사유상을 들이고 있다고? (캐릿)]]></title>
