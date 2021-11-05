@@ -4,9 +4,25 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 00:34:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 01:55:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Z세대가 집에 반가사유상을 들이고 있다고?]]></title>
+            <link>https://www.careet.net/544</link>
+            <guid>https://www.careet.net/544</guid>
+            <pubDate>Fri, 05 Nov 2021 01:54:39 GMT</pubDate>
+            <content:encoded><![CDATA[1020이 못 참는 이 주의 떡상템 총정리.ZIP]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/3b3f8cf9-04ee-423b-b8a7-4ccdcc3fd774_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인기 급상승 밈! ‘내가 침울해하면 OO이 개인기 △△를 해준다’]]></title>
+            <link>https://www.careet.net/542</link>
+            <guid>https://www.careet.net/542</guid>
+            <pubDate>Fri, 05 Nov 2021 01:54:39 GMT</pubDate>
+            <content:encoded><![CDATA[SNS에서 재유행 중인 짤!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/490d1b93-2f9a-4d59-ab3e-ffca37b32781_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대 신입사원은 왜 그렇게 회식이 싫을까?]]></title>
             <link>https://www.careet.net/541</link>
