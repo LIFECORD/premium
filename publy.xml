@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all</id>
     <title>퍼블리</title>
-    <updated>2021-11-05T04:14:07.377Z</updated>
+    <updated>2021-11-05T05:10:55.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
     <entry>
@@ -13,7 +13,7 @@
         <content type="html"><![CDATA[아티클 • 12분 분량]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[첫인상&끝인사가 PPT 결과를 좌우한다! PPT 오프닝&클로징 활용법]]></title>
+        <title type="html"><![CDATA[첫인상&끝인사가 PT 결과를 좌우한다! PT 오프닝&클로징 활용법]]></title>
         <id>https://publy.co/content/6560?fr=category</id>
         <link href="https://publy.co/content/6560?fr=category"/>
         <updated>2021-11-04T08:12:25.737Z</updated>
