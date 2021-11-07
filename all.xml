@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 07:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 08:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -629,6 +629,13 @@
                                 <li>커리어</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[11월 첫째 주 - (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/44698</link>
+            <guid>https://www.bookjournalism.com/books/44698</guid>
+            <pubDate>Sun, 07 Nov 2021 08:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열의 탄생]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[버지니아에서 공화당이 이겼다. 바이든은 지는 중이다. 트럼프는 이기는 중일까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/44700</link>
             <guid>https://www.bookjournalism.com/books/44700</guid>
@@ -704,13 +711,6 @@
             <guid>https://www.bookjournalism.com/books/44021</guid>
             <pubDate>Thu, 04 Nov 2021 22:11:21 GMT</pubDate>
             <content:encoded><![CDATA[세 번째 별]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[백종원은 골목 상권의 구원자인가 침략자인가? 방송인인가 사업가인가? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/44133</link>
-            <guid>https://www.bookjournalism.com/books/44133</guid>
-            <pubDate>Thu, 04 Nov 2021 22:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[백종원은 무엇인가]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 최저임금 얼마일까요~!? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
