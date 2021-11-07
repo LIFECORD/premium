@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2021-11-07T21:09:57.446Z</updated>
+    <updated>2021-11-07T22:10:59.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MS·페이스북도 진심인 메타버스, 어떻게 될까?]]></title>
+        <id>https://www.folin.co/story/1932</id>
+        <link href="https://www.folin.co/story/1932"/>
+        <updated>2021-11-07T22:10:37.570Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>테크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마케터라면 꼭 알아야 할 5가지 차별화 전략]]></title>
         <id>https://www.folin.co/story/1930</id>
@@ -284,13 +292,5 @@
         <updated>2021-10-03T17:13:20.302Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>라이프스타일</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모두가 MZ를 얘기할 때, 40대를 주목해야 하는 이유]]></title>
-        <id>https://www.folin.co/story/1884</id>
-        <link href="https://www.folin.co/story/1884"/>
-        <updated>2021-10-03T17:13:20.302Z</updated>
-        <content type="html"><![CDATA[<li>라이프스타일</li>
-                                <li>커리어</li>]]></content>
     </entry>
 </feed>
