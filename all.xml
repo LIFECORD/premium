@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 03:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 04:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -713,14 +713,6 @@
             <content:encoded><![CDATA[백종원은 무엇인가]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[EVENT] 네카쿠배 풀필먼트의 미래, 라이브로 만나요! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/connectx/us/contents/211025142436964zm</link>
-            <guid>https://contents.premium.naver.com/connectx/us/contents/211025142436964zm</guid>
-            <pubDate>Sat, 06 Nov 2021 23:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[[EVENT] 선착순 500명 라이브 토크쇼 무료 등록 가능! 안녕하세요, 커넥터스 운영자 엄지용입니다. 지난 10월 1일 커넥터스 멤버십을 처음 시작하고 벌써 한 달 가까운 시간이 지났네요. 그동안 커넥터스는 네이버 프리미엄 콘텐츠 입점 비즈니스 채널 중 무려 ‘3위(!!)’까지 치고 올랐습니다. 죄송합니다. 사실 거짓말입니다(...) 3등은 커넥터스 위에 포진한 ‘코인’, ‘부동산’,]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMTIg/MDAxNjM1MTM4MzEyMTc5.RP_hO7bW_kRPKgUfFwYidJYVQK5uMVBkDard8TDT2UYg.BymUQ2HV9QWizUCYUb0BPwPVMG8vTXIN8iFNj24-kFEg.JPEG/%EB%84%A4%EC%B9%B4%EC%BF%A0%EB%B0%B0_%EB%A1%9C%EA%B3%A0_%ED%95%A9%EC%84%B1.jpg?type=nf220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022년 최저임금 얼마일까요~!? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/dodam83/dodamid/contents/211021114243352Jj</link>
             <guid>https://contents.premium.naver.com/dodam83/dodamid/contents/211021114243352Jj</guid>
@@ -729,11 +721,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjBfMjc0/MDAxNjM0NzA4MDIyODMy.29G8bzk4DvageeaaWjyZ4DzMVCkJNtFvD8YL3IB8mzUg.ZvPtgLK_lmVqDtN_5x-EpwVVegcP5H9HNBA1AI0G5PQg.JPEG/%EC%B5%9C%EC%A0%80%EC%8B%9C%EA%B8%89.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[동영상] '버블 커브' 개발자 "위기의 조건은 갖춰져 있다!" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/joongang/gmoney/contents/211031105032715Kv</link>
-            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/211031105032715Kv</guid>
-            <pubDate>Sat, 06 Nov 2021 15:11:22 GMT</pubDate>
-            <enclosure url="https://video-phinf.pstatic.net/20211031_47/1635644786175f1O5U_JPEG/045dbe15-39ec-11ec-92ae-a0369ff952f4_03.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[EVENT] 네카쿠배 풀필먼트의 미래, 라이브로 만나요! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/connectx/us/contents/211025142436964zm</link>
+            <guid>https://contents.premium.naver.com/connectx/us/contents/211025142436964zm</guid>
+            <pubDate>Sat, 06 Nov 2021 23:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[[EVENT] 선착순 500명 라이브 토크쇼 무료 등록 가능! 안녕하세요, 커넥터스 운영자 엄지용입니다. 지난 10월 1일 커넥터스 멤버십을 처음 시작하고 벌써 한 달 가까운 시간이 지났네요. 그동안 커넥터스는 네이버 프리미엄 콘텐츠 입점 비즈니스 채널 중 무려 ‘3위(!!)’까지 치고 올랐습니다. 죄송합니다. 사실 거짓말입니다(...) 3등은 커넥터스 위에 포진한 ‘코인’, ‘부동산’,]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMTIg/MDAxNjM1MTM4MzEyMTc5.RP_hO7bW_kRPKgUfFwYidJYVQK5uMVBkDard8TDT2UYg.BymUQ2HV9QWizUCYUb0BPwPVMG8vTXIN8iFNj24-kFEg.JPEG/%EB%84%A4%EC%B9%B4%EC%BF%A0%EB%B0%B0_%EB%A1%9C%EA%B3%A0_%ED%95%A9%EC%84%B1.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우당탕 쿠팡플렉스가 ‘선망의 대상’이 되기까지 - 우당탕편 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -744,12 +737,11 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTlfMjQx/MDAxNjM0NjEyNTM5Nzkw._itnF5BHLfzfY_30qFrZp3NVP2ydviP0VVofyUytMp8g.RHVmziGZB-fH6HCaMOrMY0LTDJham1S4-qsjgnLSUXsg.PNG/%EC%BF%A0%ED%8C%A1%ED%94%8C%EB%A0%89%EC%8A%A4_%EB%A9%94%EC%9D%B8%EC%BB%B7.png?type=nf220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] 네이버 연합군에 들어간 풀밀먼트 스타트업 '품고'의 생각 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/byline/commercebn/contents/211101104311454UO</link>
-            <guid>https://contents.premium.naver.com/byline/commercebn/contents/211101104311454UO</guid>
+            <title><![CDATA[[동영상] '버블 커브' 개발자 "위기의 조건은 갖춰져 있다!" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/joongang/gmoney/contents/211031105032715Kv</link>
+            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/211031105032715Kv</guid>
             <pubDate>Sat, 06 Nov 2021 15:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[서비스형 풀필먼트 ‘품고’를 운영하는 스타트업 두손컴퍼니는 네이버의 풀필먼트 연합군, NFA(Naver Fulfillment Alliance)의 멤버 중 하나다. CJ대한통운을 포함해 총 7개 멤버로 이뤄진 NFA는 각 업체마다 고유한 개성을 가지고 서비스를 특화해 나가고 있다. 풀필먼트는 물류에 관련한 것을 일괄 대행해주는 서비스인데, 두손컴퍼니는 그중에서도 ‘고객별 최적화 풀필먼트’를 주무]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDFfNTEg/MDAxNjM1NzMwOTUzNDA5.YNnmKojHVeFT5HGSBAB0GPZaYyoPdDKxNyaV4XL3J08g.JQZ3wnWUe-eag4MtuhgP1W-f-M4As2XZz2vlv5CLD_Ug.JPEG/unnamed.jpeg?type=nf220_220" length="0" type="image/jpeg"/>
+            <enclosure url="https://video-phinf.pstatic.net/20211031_47/1635644786175f1O5U_JPEG/045dbe15-39ec-11ec-92ae-a0369ff952f4_03.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[회사 중요정책 결정에 대한 투자자의 사전동의권은 주주평등 원칙에 반해 무효 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -758,6 +750,14 @@
             <pubDate>Sat, 06 Nov 2021 15:11:22 GMT</pubDate>
             <content:encoded><![CDATA[2021. 10. 29. 서울고등법원 제16민사부는 “회사가 일부 주주에게만 우월한 권리나 이익을 부여하기로 하는 약정은 특별한 사정이 없는 한 주주평등의 원칙에 반하는 것으로서 무효”라고 판단하여 신주발행에 대한 투자자의 사전 서면동의권을 규정한 약정을 무효로 판단하였습니다.  Chapter 1 서울고등법원 투자계약상 투자자의 신주발행에 대한  사전동의권 무효로 판결  서울고]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDFfMTcz/MDAxNjM1NzM5NjcxNjcw.Z5qx7t5xD73gqxuF7PxR37R6FMt5v1xXRCampKT9xA8g.ATDtnMY_b3n1dQ0BQ2WmCwuqkDC4fuHQFWHNckPz7mog.PNG/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001-6.png?type=nf220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 네이버 연합군에 들어간 풀밀먼트 스타트업 '품고'의 생각 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/byline/commercebn/contents/211101104311454UO</link>
+            <guid>https://contents.premium.naver.com/byline/commercebn/contents/211101104311454UO</guid>
+            <pubDate>Sat, 06 Nov 2021 15:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[서비스형 풀필먼트 ‘품고’를 운영하는 스타트업 두손컴퍼니는 네이버의 풀필먼트 연합군, NFA(Naver Fulfillment Alliance)의 멤버 중 하나다. CJ대한통운을 포함해 총 7개 멤버로 이뤄진 NFA는 각 업체마다 고유한 개성을 가지고 서비스를 특화해 나가고 있다. 풀필먼트는 물류에 관련한 것을 일괄 대행해주는 서비스인데, 두손컴퍼니는 그중에서도 ‘고객별 최적화 풀필먼트’를 주무]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDFfNTEg/MDAxNjM1NzMwOTUzNDA5.YNnmKojHVeFT5HGSBAB0GPZaYyoPdDKxNyaV4XL3J08g.JQZ3wnWUe-eag4MtuhgP1W-f-M4As2XZz2vlv5CLD_Ug.JPEG/unnamed.jpeg?type=nf220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[공지] 커넥터스에 ‘개인 브랜딩’ 채널이 열립니다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
