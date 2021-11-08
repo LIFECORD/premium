@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2021-11-08T21:10:30.189Z</updated>
+    <updated>2021-11-08T22:11:34.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MZ, 시니어, 유튜버가 각각 메타버스에 적응하려면]]></title>
+        <id>https://www.folin.co/story/1933</id>
+        <link href="https://www.folin.co/story/1933"/>
+        <updated>2021-11-08T22:11:17.032Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>테크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MS·페이스북도 진심인 메타버스, 어떻게 될까?]]></title>
         <id>https://www.folin.co/story/1932</id>
@@ -284,13 +292,5 @@
         <updated>2021-10-03T17:13:20.298Z</updated>
         <content type="html"><![CDATA[<li>워크</li>
                                 <li>조직문화</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아트테크, '사는 사람'보다 '파는 사람'이 되려면]]></title>
-        <id>https://www.folin.co/story/1888</id>
-        <link href="https://www.folin.co/story/1888"/>
-        <updated>2021-10-03T17:13:20.302Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>라이프스타일</li>]]></content>
     </entry>
 </feed>

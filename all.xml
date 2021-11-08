@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 21:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 22:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -349,6 +349,14 @@
             <content:encoded><![CDATA[엔터테인먼트 판은 자고 일어나면 새소첫식이야. SM의 팬덤 플랫폼 디어유DearU가 11월 10일, 바로 내일 상장을 앞두고 있어. 하이브는 핀테크 업체 두<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[MZ, 시니어, 유튜버가 각각 메타버스에 적응하려면 (폴인)]]></title>
+            <link>https://www.folin.co/story/1933</link>
+            <guid>https://www.folin.co/story/1933</guid>
+            <pubDate>Mon, 08 Nov 2021 22:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>테크</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[MS·페이스북도 진심인 메타버스, 어떻게 될까? (폴인)]]></title>
             <link>https://www.folin.co/story/1932</link>
             <guid>https://www.folin.co/story/1932</guid>
@@ -627,14 +635,6 @@
             <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
             <content:encoded><![CDATA[<li>워크</li>
                                 <li>조직문화</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아트테크, '사는 사람'보다 '파는 사람'이 되려면 (폴인)]]></title>
-            <link>https://www.folin.co/story/1888</link>
-            <guid>https://www.folin.co/story/1888</guid>
-            <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>라이프스타일</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[슈퍼맨이 양성애자로 커밍아웃한다. 우리들의 롤모델이 달라지고 있다. (북저널리즘)]]></title>
