@@ -4,7 +4,7 @@
         <title>네이버 프리미엄콘텐츠 ─ 무료 프로모션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 22:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 23:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,12 +72,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDVfMTU0/MDAxNjM2MDg5NTI3NTc3.Qg6i9wfY2oi9rb5fgAIaM8MdKxhJ2vzSHtE9JBbAKRcg.eiO9ihExXhddx4svSTV7kw9C-h07I5SD4HPbuJj4OGkg.PNG/2021-11-05_14_17_26.png?type=nf220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[코인 투자 분석] 비트코인 가격이 오를 수밖에 없는 이유]]></title>
-            <link>https://contents.premium.naver.com/coindesk/nextmoney/contents/211108095103248kj</link>
-            <guid>https://contents.premium.naver.com/coindesk/nextmoney/contents/211108095103248kj</guid>
-            <pubDate>Mon, 08 Nov 2021 15:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[현재 비트코인 가격이 6만1500달러(약 7280만원) 안팎에서 움직이고 있습니다. 다양한 온체인 데이터를 보면, 비트코인 가격은 오를 수밖에 없습니다. 첫째 전 세계 거래소 지갑에 보관된 비트코인이 꾸준히 줄어들고 있습니다. 둘째 비트코인 채굴자가 비트코인(BTC)를 투자 용도로 보유하고 있는 규모가 계속해서 늘어나고 있습니다. 셋째 누적 확산지수(Accumulation / Distribution, A/D)]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDhfMTMw/MDAxNjM2MzMyNTgwNjMy.EskAzFw5ahVQBDdi99oQTl8jV9-Zt_fl-SN4s5IjEfMg.IIE0Kfeqnxm63GoSmpcugJC0IWTPzIxRQgI7ufg1MRcg.JPEG/%EC%88%98%EC%A0%95%EB%90%A8_AqItikE_2013c75f1c1019d4263d64e306be6b4389d058baf2c78d81c35b961371cacd08.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[세계 금융시장이 지금 가장 두려워 하는 것]]></title>
+            <link>https://contents.premium.naver.com/economy/economywave/contents/211109074125442Ye</link>
+            <guid>https://contents.premium.naver.com/economy/economywave/contents/211109074125442Ye</guid>
+            <pubDate>Mon, 08 Nov 2021 23:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[[글로벌] 전 세계가 지금 가장 두려워 하는 것은? '글로벌 리스크 워치'-국제금융센터 1. 정책 정상화 스트레스 시장이 경제회복 속도를 인식하는 것과 통화·재정 정책이 정상화되는 과정에서 생기는 격차 이 격차가 벌어질수록 경기 과열이나 인플레이션, 경기 위축 등 다양한 스트레스가 생길 수 있다는 것 2. 고(高) 레버리지 투자 위험 표출 풍부한 유동성을 활용해 수익률을]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDhfMTY1/MDAxNjM2MzQ2NTMwNzcz.F1TUn1Xsw3Gk4UxHYgHkXKxo7iT4j5GHuEpCVcSHJ1og.EjeN_gvPqu4QcxCddqBGqgJR1eZpy_BhSooX92aT81wg.PNG/%EC%8D%B8%EB%84%A4%EC%9D%BC_(1).png?type=nf220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
