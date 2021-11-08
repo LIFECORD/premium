@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 03:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 04:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -713,14 +713,6 @@
             <content:encoded><![CDATA[뛰는 테슬라 나는 머스크]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[남편에게 받은 생활비 모아 집 샀다가 증여세 폭탄 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/reaItyoo/zipoopro/contents/211011235104627rh</link>
-            <guid>https://contents.premium.naver.com/reaItyoo/zipoopro/contents/211011235104627rh</guid>
-            <pubDate>Sun, 07 Nov 2021 15:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[[땅집고] 경기도에 각각 시세 6억원·10억원짜리 아파트 두 채를 보유하던 A씨는 올해 초 보유세(재산세와 종합부동산세) 부담을 덜기 위해 아내에게 6억원짜리 아파트 한 채를 증여했다. 6억원 한도 내에서 부부 간 증여를 하면 증여세가 과세되지 않는 점을 고려했다. 하지만 예상치 못한 일이 벌어졌다. 국세청이 A씨 아내에게 증여세를 과세한 것. A씨 아내는 이미 주택 한 채를]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTFfODIg/MDAxNjMzOTYzNzUxODgz.oM-9Nnv_eVTB1S6MSsC4LkYVTlYR_Y1S8MeVZCYTgacg.OJyayV8yNPnOJ1mwzZh3cxNgN6iTer4qNXSbsFdFg2kg.JPEG/1.jpg?type=nf220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA["급매물도 사겠단 사람 없어요"…역대급 폭등 제동 걸렸나 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/reaItyoo/zipoopro/contents/211025170454903HK</link>
             <guid>https://contents.premium.naver.com/reaItyoo/zipoopro/contents/211025170454903HK</guid>
@@ -729,12 +721,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMTI2/MDAxNjM1MTQ1MzgzODYz.lejWeXDZ-9NMY29wVVjL7UzOccRfocDGwCyC59cHcdMg.XZMsBE5cjXofkscqE9cSyjgIkqwdFfXhAKfECUa_Cqog.JPEG/1.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[EVENT] 네카쿠배 풀필먼트의 미래, 라이브로 만나요! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/connectx/us/contents/211025142436964zm</link>
-            <guid>https://contents.premium.naver.com/connectx/us/contents/211025142436964zm</guid>
-            <pubDate>Mon, 08 Nov 2021 01:54:01 GMT</pubDate>
-            <content:encoded><![CDATA[[EVENT] 선착순 500명 라이브 토크쇼 무료 등록 가능! 안녕하세요, 커넥터스 운영자 엄지용입니다. 지난 10월 1일 커넥터스 멤버십을 처음 시작하고 벌써 한 달 가까운 시간이 지났네요. 그동안 커넥터스는 네이버 프리미엄 콘텐츠 입점 비즈니스 채널 중 무려 ‘3위(!!)’까지 치고 올랐습니다. 죄송합니다. 사실 거짓말입니다(...) 3등은 커넥터스 위에 포진한 ‘코인’, ‘부동산’,]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMTIg/MDAxNjM1MTM4MzEyMTc5.RP_hO7bW_kRPKgUfFwYidJYVQK5uMVBkDard8TDT2UYg.BymUQ2HV9QWizUCYUb0BPwPVMG8vTXIN8iFNj24-kFEg.JPEG/%EB%84%A4%EC%B9%B4%EC%BF%A0%EB%B0%B0_%EB%A1%9C%EA%B3%A0_%ED%95%A9%EC%84%B1.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[남편에게 받은 생활비 모아 집 샀다가 증여세 폭탄 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/reaItyoo/zipoopro/contents/211011235104627rh</link>
+            <guid>https://contents.premium.naver.com/reaItyoo/zipoopro/contents/211011235104627rh</guid>
+            <pubDate>Sun, 07 Nov 2021 15:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[[땅집고] 경기도에 각각 시세 6억원·10억원짜리 아파트 두 채를 보유하던 A씨는 올해 초 보유세(재산세와 종합부동산세) 부담을 덜기 위해 아내에게 6억원짜리 아파트 한 채를 증여했다. 6억원 한도 내에서 부부 간 증여를 하면 증여세가 과세되지 않는 점을 고려했다. 하지만 예상치 못한 일이 벌어졌다. 국세청이 A씨 아내에게 증여세를 과세한 것. A씨 아내는 이미 주택 한 채를]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTFfODIg/MDAxNjMzOTYzNzUxODgz.oM-9Nnv_eVTB1S6MSsC4LkYVTlYR_Y1S8MeVZCYTgacg.OJyayV8yNPnOJ1mwzZh3cxNgN6iTer4qNXSbsFdFg2kg.JPEG/1.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[증시 거래 정상화 노리는 컨버즈, 유증 방법 '주주에서 제3자배정' 전환한 까닭 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -745,12 +737,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjlfMTk3/MDAxNjM1NTA0NDU3MzEz.rvXWo22IX5bKqFVyyG_wEyQtsZtPfIpm7wjfSwYewj4g.hOndeTrQuCh99CygdCTC0oH__HNmqoAWHGLuuuinm08g.PNG/12.png?type=nf220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[우리금융 지분 인수전 참전하는 유진그룹, M&A 본능 발휘할까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/thebell/stock/contents/211029195950131cZ</link>
-            <guid>https://contents.premium.naver.com/thebell/stock/contents/211029195950131cZ</guid>
-            <pubDate>Sun, 07 Nov 2021 15:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[유진그룹이 인수합병(M&amp;A) 본능을 되살리고 있습니다. 지난 일년 새 두산인프라코어, 삼강엠앤티 등 대형 매물의 인수를 검토한데 이어 최근에는 우리금융 소수지분 인수전에 뛰어들었는데요. 유진저축은행 매각으로 실탄이 마련된 만큼 적극적인 투자행보를 이어나갈 것으로 관측됩니다. 투자은행(IB)업계에 따르면 유진그룹은 유진프라이빗에쿼티(유진PE)를 앞세워 우리금융]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjlfMTE1/MDAxNjM1NTA0MTExMzk3.m_bocHIIAcjty8h2TrDsBBKLvwRCykwhj8jamkFSd1cg.aZldooMrH-2VYPj0-xM0cTagmzEj4ZC1g1Nh3EuTAAsg.PNG/123.png?type=nf220_220" length="0" type="image/png"/>
+            <title><![CDATA[[EVENT] 네카쿠배 풀필먼트의 미래, 라이브로 만나요! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/connectx/us/contents/211025142436964zm</link>
+            <guid>https://contents.premium.naver.com/connectx/us/contents/211025142436964zm</guid>
+            <pubDate>Mon, 08 Nov 2021 01:54:01 GMT</pubDate>
+            <content:encoded><![CDATA[[EVENT] 선착순 500명 라이브 토크쇼 무료 등록 가능! 안녕하세요, 커넥터스 운영자 엄지용입니다. 지난 10월 1일 커넥터스 멤버십을 처음 시작하고 벌써 한 달 가까운 시간이 지났네요. 그동안 커넥터스는 네이버 프리미엄 콘텐츠 입점 비즈니스 채널 중 무려 ‘3위(!!)’까지 치고 올랐습니다. 죄송합니다. 사실 거짓말입니다(...) 3등은 커넥터스 위에 포진한 ‘코인’, ‘부동산’,]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMTIg/MDAxNjM1MTM4MzEyMTc5.RP_hO7bW_kRPKgUfFwYidJYVQK5uMVBkDard8TDT2UYg.BymUQ2HV9QWizUCYUb0BPwPVMG8vTXIN8iFNj24-kFEg.JPEG/%EB%84%A4%EC%B9%B4%EC%BF%A0%EB%B0%B0_%EB%A1%9C%EA%B3%A0_%ED%95%A9%EC%84%B1.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아메리칸항공, 대규모 결항 '속앓이' 이유 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -761,12 +753,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDFfMTU4/MDAxNjM1NzI0MzYwMjE5.zLP9A4PsPatTdKbK7jvm5VaFXlG_epyYU6G6WAf_SFEg.wsd2RvaMdqpggIuIyd-SsVBVb-eHiXtFwdh4Lz7hYpQg.JPEG/1._%ED%95%AD%EA%B3%B5%EC%82%AC.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[日 기시다가 아베노믹스 타겟팅 실패에서 얻어야 할 교훈은... (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/joongang/gmoney/contents/211101095803557PU</link>
-            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/211101095803557PU</guid>
-            <pubDate>Sun, 07 Nov 2021 15:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[이제 일본에서 기시다 후미오(岸田文雄)총리 시대가 제대로 시작됩니다. 기시다가 앞장서 치른 10월31일 선거에서 자민당이 중의원의 261석을 차지했습니다.  자민당 의석이 선거 직전 276석에서 다섯 석 줄어들었습니다. 하지만 일본 정계에서 쓰는 용어인 ‘절대 안정 다수(261)’를 확보했습니다. 기시다가 선전했다는 게 일본 내 평가입니다. 선거 직전 실시된 주요 매체 조사에]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDFfMzAw/MDAxNjM1NzI2ODQ0MDMz.f_gk27MNPunHOL5abPrInq6Qy2WDwU_tkIT4lNXMAFkg.6vf-j5qVUDn3INxYjD4CuuJcAOg50QjVY5rvw6UoxNog.JPEG/3bd0de4a-ddd4-4711-bf36-9b644c46f9a5.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[복부 강화 우카타아사나 요가 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/thesem/thesemkorea/contents/211029155803999AS</link>
+            <guid>https://contents.premium.naver.com/thesem/thesemkorea/contents/211029155803999AS</guid>
+            <pubDate>Mon, 08 Nov 2021 04:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 더셈입니다. 오늘은 척추를 반듯하게 세우고 하체를 강화시킬 수 있는 자세를 해보겠습니다. 요가 선생님 #김하연 강사님이 설명해 드립니다. 영상을 보면서 천천히 따라와 주세요 :) 1. 일어나서 두 다리를 붙여주세요. 다리 모으는 게 힘들면 골반 너비만큼 벌리셔도 됩니다. 2. 손으로 골반을 잡고 고관절을 접어보세요. 그리고 의자에 앉듯이 엉덩이를 뒤로 뺍니다]]></content:encoded>
+            <enclosure url="https://video-phinf.pstatic.net/20211029_113/1635490501509aJGRs_JPEG/213f8771-3885-11ec-a331-48df379cca40_04.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디아블로 2: 레저렉션이 뭐길래 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -777,12 +769,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMDFfMjM5/MDAxNjMzMDc2MTY2MDE1.xIPEGEwf0fUO8euP_SnOxMdAlU4BWIPYuNVW7dutdDcg.nvbIzkpetgu3vyoTbu6XiN8s75zMHXtq33rb_cS6cwcg.JPEG/%EB%94%94%EC%95%84%EB%B8%94%EB%A1%9C2_%EB%A0%88%EC%A0%80%EB%A0%89%EC%85%98_%ED%83%80%EC%9D%B4%ED%8B%80_%EC%9D%B4%EB%AF%B8%EC%A7%80.jpeg?type=nf220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[11.1일 종목리뷰 (삼강엠앤티, 신세계) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/kiwoom/thestock/contents/211101161630627dZ</link>
-            <guid>https://contents.premium.naver.com/kiwoom/thestock/contents/211101161630627dZ</guid>
-            <pubDate>Mon, 08 Nov 2021 03:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;삼강엠앤티 리뷰&gt; 1. +3.61%상승 마감 및 원인  - 10월 29일 종가 20,750원 대비 금일 21,500원으로 +3.61% 상승하여 마감했습니다. - 주간단위로는 월요일 시가 20,200원에 시작하여 금일 종가 20,750원까지 +2.72% 상승 마감하였습니다. - 해상풍력 관련주로 분류되었지만 지난주말 삼강엠앤티에 대한 주간 리뷰를 통해 언급드린 이야기를 다시 드려 보면 삼강엠앤티는 해상풍력 하부구조체를]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDFfMjky/MDAxNjM1NzUwODkyNDcy.BrgFYLwmk4QEB0zg6kZ5SE1C9uOXlvEmP-6V_MV4dGkg.sPoh9NeYJp5U0G2-Ip-5LAXSrfohqRgxXuizzl0M748g.JPEG/GettyImages-1190564098.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[우리금융 지분 인수전 참전하는 유진그룹, M&A 본능 발휘할까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/thebell/stock/contents/211029195950131cZ</link>
+            <guid>https://contents.premium.naver.com/thebell/stock/contents/211029195950131cZ</guid>
+            <pubDate>Sun, 07 Nov 2021 15:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[유진그룹이 인수합병(M&amp;A) 본능을 되살리고 있습니다. 지난 일년 새 두산인프라코어, 삼강엠앤티 등 대형 매물의 인수를 검토한데 이어 최근에는 우리금융 소수지분 인수전에 뛰어들었는데요. 유진저축은행 매각으로 실탄이 마련된 만큼 적극적인 투자행보를 이어나갈 것으로 관측됩니다. 투자은행(IB)업계에 따르면 유진그룹은 유진프라이빗에쿼티(유진PE)를 앞세워 우리금융]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjlfMTE1/MDAxNjM1NTA0MTExMzk3.m_bocHIIAcjty8h2TrDsBBKLvwRCykwhj8jamkFSd1cg.aZldooMrH-2VYPj0-xM0cTagmzEj4ZC1g1Nh3EuTAAsg.PNG/123.png?type=nf220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[행복 한 방울 6. 작은 행동이 큰 변화를 만드는 "산책" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/sourceyu/sourceyou/contents/211101222818980AX</link>
+            <guid>https://contents.premium.naver.com/sourceyu/sourceyou/contents/211101222818980AX</guid>
+            <pubDate>Mon, 08 Nov 2021 04:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 쏘스유입니다. 이 세상 모든 사람들이 각자 "나만의 행복"을 찾을 수 있도록 도와드리는 것이 '쏘스유의 행복 한 방울' 프리미엄 콘텐츠 발행 목적이자, 제 인생의 사명이에요. 여섯 번째 행복 한 방울은 산책입니다. Chapter 1. 산책이 행복인 이유 Chapter 2. 행복한 산책을 위한 추천 장소 BEST 3 Chapter 3. 산책을 행복하게 즐기는 방법 Chapter 1. 산책이 행복인 이유 작은 행동]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDFfMjg1/MDAxNjM1NzYzNTY1OTM0.N-IQGozW1n7Enx1WRxRjY6kbcQkYMqvclfjZsg5flswg.BCZoEzTZvzjq7kAsV_BuGEEdpvtj-9iSm5UrW3koC1sg.JPEG/20210801_221105.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
