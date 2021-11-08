@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 23:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 00:35:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -629,13 +629,6 @@
                                 <li>라이프스타일</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[북저널리즘 라디오 에피소드#12에선, 11월 12일까지 계속되는 유엔기후변화협약 당사국총회 중간점검, 대선공약이자 시대정신인 주4일제의 현실성, 바이든과 트럼프의 끝나지 않은 전쟁을 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/44745</link>
-            <guid>https://www.bookjournalism.com/audio/44745</guid>
-            <pubDate>Sun, 07 Nov 2021 15:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[주4일제로 탄소배출을 줄여서 트럼프 재선을 막는다?!]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[11월 첫째 주 - 권력의 수레바퀴 아래에서 윤석열이 탄생했습니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/44698</link>
             <guid>https://www.bookjournalism.com/books/44698</guid>
@@ -711,6 +704,13 @@
             <guid>https://www.bookjournalism.com/books/44189</guid>
             <pubDate>Thu, 04 Nov 2021 22:11:21 GMT</pubDate>
             <content:encoded><![CDATA[뛰는 테슬라 나는 머스크]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자는 초격차 반도체에 승부수를 띄웠다. 메모리 칩과 완성품 사업은 한계가 보인다. 삼성은 구조적 한계를 극복할 수 있을까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/44021</link>
+            <guid>https://www.bookjournalism.com/books/44021</guid>
+            <pubDate>Mon, 08 Nov 2021 00:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[세 번째 별]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["급매물도 사겠단 사람 없어요"…역대급 폭등 제동 걸렸나 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
