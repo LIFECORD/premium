@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 08:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 09:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제품을 ‘체험'하러 오프라인 매장에 갑니다: 유니클로, 시세이도, 판클이 고객의 오감을 자극하는 법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6576?fr=category</link>
+            <guid>https://publy.co/content/6576?fr=category</guid>
+            <pubDate>Mon, 08 Nov 2021 09:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 • 9분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[팔리는 제안의 13가지 디테일: 캠페인 컨셉, 한 방을 노린다! (퍼블리)]]></title>
             <link>https://publy.co/content/6542?fr=category</link>
@@ -71,11 +78,12 @@
             <content:encoded><![CDATA[아티클 • 9분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한 달에 2억 5000명이 쓰는 협업툴은? 지금은 협업툴 전성기 (퍼블리)]]></title>
-            <link>https://publy.co/content/6536?fr=category</link>
-            <guid>https://publy.co/content/6536?fr=category</guid>
-            <pubDate>Mon, 01 Nov 2021 09:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 • 8분 분량]]></content:encoded>
+            <title><![CDATA[미리 보고 앞서가는 2022 밀레니얼-Z세대 트렌드 이슈 5 (캐릿)]]></title>
+            <link>https://www.careet.net/545</link>
+            <guid>https://www.careet.net/545</guid>
+            <pubDate>Mon, 08 Nov 2021 09:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[모르면 손해! 한 발 빠르게 내년 마케팅을 준비해 보세요]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/0b963ad4-ed8c-4f7f-a7c1-6871f37a23d4_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Z세대가 집에 반가사유상을 들이고 있다고? (캐릿)]]></title>

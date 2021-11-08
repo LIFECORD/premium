@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all</id>
     <title>퍼블리</title>
-    <updated>2021-11-08T08:13:52.482Z</updated>
+    <updated>2021-11-08T09:12:29.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제품을 ‘체험'하러 오프라인 매장에 갑니다: 유니클로, 시세이도, 판클이 고객의 오감을 자극하는 법]]></title>
+        <id>https://publy.co/content/6576?fr=category</id>
+        <link href="https://publy.co/content/6576?fr=category"/>
+        <updated>2021-11-08T09:11:38.669Z</updated>
+        <content type="html"><![CDATA[아티클 • 9분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팔리는 제안의 13가지 디테일: 캠페인 컨셉, 한 방을 노린다!]]></title>
         <id>https://publy.co/content/6542?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6553?fr=category"/>
         <updated>2021-11-02T08:13:19.635Z</updated>
         <content type="html"><![CDATA[아티클 • 9분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한 달에 2억 5000명이 쓰는 협업툴은? 지금은 협업툴 전성기]]></title>
-        <id>https://publy.co/content/6536?fr=category</id>
-        <link href="https://publy.co/content/6536?fr=category"/>
-        <updated>2021-11-01T09:11:53.550Z</updated>
-        <content type="html"><![CDATA[아티클 • 8분 분량]]></content>
     </entry>
 </feed>
