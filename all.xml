@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 21:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 22:11:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -357,6 +357,14 @@
             <content:encoded><![CDATA[혹시 여드름 심하신 분? 저요… 요즘 계속 마스크 쓰고 다니잖아요. 그래서 턱드름이 장난 아니에요. 저 같은 사람이 많아서 마스크네Maskne라는 신조어도 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['1200만 백신 예약' 인프라 구축한 비결, 뭘까? (폴인)]]></title>
+            <link>https://www.folin.co/story/1939</link>
+            <guid>https://www.folin.co/story/1939</guid>
+            <pubDate>Tue, 09 Nov 2021 22:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[<li>테크</li>
+                                <li>스타트업</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[MZ, 시니어, 유튜버가 각각 메타버스에 적응하려면 (폴인)]]></title>
             <link>https://www.folin.co/story/1933</link>
             <guid>https://www.folin.co/story/1933</guid>
@@ -635,14 +643,6 @@
             <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
             <content:encoded><![CDATA[<li>테크</li>
                                 <li>스타트업</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[자기다움으로 시너지 내는 대학내일의 조직문화 (폴인)]]></title>
-            <link>https://www.folin.co/story/1886</link>
-            <guid>https://www.folin.co/story/1886</guid>
-            <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<li>워크</li>
-                                <li>조직문화</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2030 청년층의 국민의힘 탈당 인증이 줄을 잇는다. 지역 갈등보다도 첨예한 세대 갈등이 한국 정치를 흔든다. (북저널리즘)]]></title>

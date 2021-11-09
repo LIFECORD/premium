@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2021-11-09T21:10:33.155Z</updated>
+    <updated>2021-11-09T22:11:11.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['1200만 백신 예약' 인프라 구축한 비결, 뭘까?]]></title>
+        <id>https://www.folin.co/story/1939</id>
+        <link href="https://www.folin.co/story/1939"/>
+        <updated>2021-11-09T22:10:55.142Z</updated>
+        <content type="html"><![CDATA[<li>테크</li>
+                                <li>스타트업</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MZ, 시니어, 유튜버가 각각 메타버스에 적응하려면]]></title>
         <id>https://www.folin.co/story/1933</id>
@@ -284,13 +292,5 @@
         <updated>2021-10-03T17:13:20.297Z</updated>
         <content type="html"><![CDATA[<li>테크</li>
                                 <li>스타트업</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자기다움으로 시너지 내는 대학내일의 조직문화]]></title>
-        <id>https://www.folin.co/story/1886</id>
-        <link href="https://www.folin.co/story/1886"/>
-        <updated>2021-10-03T17:13:20.298Z</updated>
-        <content type="html"><![CDATA[<li>워크</li>
-                                <li>조직문화</li>]]></content>
     </entry>
 </feed>
