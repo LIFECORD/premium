@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 08:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 09:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부트캠프 하기 전에 이거 먼저 보자! 개발자 취업의 모든 것 (퍼블리)]]></title>
+            <link>https://publy.co/content/6533?fr=category</link>
+            <guid>https://publy.co/content/6533?fr=category</guid>
+            <pubDate>Tue, 09 Nov 2021 09:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 • 13분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[제품을 ‘체험'하러 오프라인 매장에 갑니다: 유니클로, 시세이도, 판클이 고객의 오감을 자극하는 법 (퍼블리)]]></title>
             <link>https://publy.co/content/6576?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6547?fr=category</guid>
             <pubDate>Tue, 02 Nov 2021 09:10:47 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 11분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[할 말 못하게 하는 '조직 내 불안감' 없애기 (퍼블리)]]></title>
-            <link>https://publy.co/content/6553?fr=category</link>
-            <guid>https://publy.co/content/6553?fr=category</guid>
-            <pubDate>Tue, 02 Nov 2021 08:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 • 9분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[해외 Z세대가 토스처럼 쓰는 앱? 프랑스에서는 도넛 대신 OOO이 유행이라고? (캐릿)]]></title>
