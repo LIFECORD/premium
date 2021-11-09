@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 00:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 01:53:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해외 Z세대가 토스처럼 쓰는 앱? 프랑스에서는 도넛 대신 OOO이 유행이라고?]]></title>
+            <link>https://www.careet.net/546</link>
+            <guid>https://www.careet.net/546</guid>
+            <pubDate>Tue, 09 Nov 2021 01:53:12 GMT</pubDate>
+            <content:encoded><![CDATA[오직 캐릿에만 있는 따끈 따끈한 해외 Z세대 트렌드!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/32152485-a4d3-46ae-86e8-6079c3845afe_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[미리 보고 앞서가는 2022 밀레니얼-Z세대 트렌드 이슈 5]]></title>
             <link>https://www.careet.net/545</link>
