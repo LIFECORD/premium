@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 15:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 16:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -645,6 +645,13 @@
                                 <li>조직문화</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[국민의힘 탈당 인증이 줄을 잇는다. 지역 논리보다 강한 세대론이 정치권을 흔든다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/44879</link>
+            <guid>https://www.bookjournalism.com/books/44879</guid>
+            <pubDate>Tue, 09 Nov 2021 16:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[탈당한다 잘해봐라]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[슈퍼맨이 양성애자로 커밍아웃한다. 우리들의 롤모델이 달라지고 있다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/44827</link>
             <guid>https://www.bookjournalism.com/books/44827</guid>
@@ -720,13 +727,6 @@
             <guid>https://www.bookjournalism.com/books/44122</guid>
             <pubDate>Mon, 08 Nov 2021 08:13:44 GMT</pubDate>
             <content:encoded><![CDATA[차원이 다른 손실]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[공인중개사 시험에 40만 명이 몰렸다. 영끌 시대, 우리들의 초상이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/44308</link>
-            <guid>https://www.bookjournalism.com/books/44308</guid>
-            <pubDate>Mon, 08 Nov 2021 08:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[마지막 영끌 세대]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[입시 칼럼] 입시 블라인드, 외고 진학 추천하는 이유 3가지 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
