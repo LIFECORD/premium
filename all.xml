@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 23:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 00:35:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -354,7 +354,7 @@
             <link>https://www.longblack.co/note/97</link>
             <guid>https://www.longblack.co/note/97</guid>
             <pubDate>Tue, 09 Nov 2021 15:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[혹시 여드름 심하신 분? 저요… 요즘 계속 마스크 쓰고 다니잖아요. 그래서 턱드름이 장난 아니에요. 저 같은 사람이 많아서 마스크네Maskne라는 신조어도 <span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[혹시 여드름 심하신 분? 저요… 요즘 계속 마스크 쓰고 다니잖아요. 그래서 턱드름이 장난 아니에요. 저 같은 사람이 많아서 마스크네Maskne라<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['1200만 백신 예약' 인프라 구축한 비결, 뭘까? (폴인)]]></title>
