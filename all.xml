@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 20:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 21:09:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -653,6 +653,13 @@
                                 <li>스타트업</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[드라마〈지리산〉이 불러온 논란은 우리나라 콘텐츠 산업의 고질적인 병폐를 드러낸다. 무엇이 문제이고, 어떻게 개선할 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/44941</link>
+            <guid>https://www.bookjournalism.com/books/44941</guid>
+            <pubDate>Wed, 10 Nov 2021 21:09:12 GMT</pubDate>
+            <content:encoded><![CDATA[콘텐츠가 산으로 가는 이유]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[시장과 중앙은행은 금리인상 시기를 놓고 힘겨루기를 벌이고 있다. 시장과 중앙은행은 금리인상 시기를 놓고 힘겨루기를 벌이고 있다. 경기는 후퇴하는데 물가만 오르고 있다. 중앙은행한텐 다른 선택지도 시간도 없다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/44911</link>
             <guid>https://www.bookjournalism.com/books/44911</guid>
@@ -728,13 +735,6 @@
             <guid>https://www.bookjournalism.com/audio/44380</guid>
             <pubDate>Mon, 08 Nov 2021 08:13:44 GMT</pubDate>
             <content:encoded><![CDATA[백종원과 부동산의 운명, 삼성전자와 테슬라의 미래]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[10월 다섯째 주 - 대한민국의 민주주의는 지금 한 시대를 넘어서고 있습니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/44337</link>
-            <guid>https://www.bookjournalism.com/books/44337</guid>
-            <pubDate>Mon, 08 Nov 2021 08:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[전두환 넘어서기]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[공급망 쇼크? 퀄컴은 '호실적' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
