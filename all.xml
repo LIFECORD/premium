@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 00:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 01:53:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <content:encoded><![CDATA[아티클 • 11분 분량]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[성공하는 오프라인 공간의 비밀! ‘OO의 방 콘셉트’ (캐릿)]]></title>
+            <link>https://www.careet.net/543</link>
+            <guid>https://www.careet.net/543</guid>
+            <pubDate>Wed, 10 Nov 2021 01:53:16 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대 타깃 쇼룸, 팝업 스토어 이렇게 꾸미세요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/956b9f74-653a-4041-bb8a-8e2fa8855949_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[해외 Z세대가 토스처럼 쓰는 앱? 프랑스에서는 도넛 대신 OOO이 유행이라고? (캐릿)]]></title>
             <link>https://www.careet.net/546</link>
             <guid>https://www.careet.net/546</guid>
@@ -91,7 +99,7 @@
             <guid>https://www.careet.net/545</guid>
             <pubDate>Mon, 08 Nov 2021 09:11:47 GMT</pubDate>
             <content:encoded><![CDATA[모르면 손해! 한 발 빠르게 내년 마케팅을 준비해 보세요]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/0b963ad4-ed8c-4f7f-a7c1-6871f37a23d4_770x426.png" length="0" type="image/png"/>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/b26d83c5-7093-4861-9509-430569cf010d_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Z세대가 집에 반가사유상을 들이고 있다고? (캐릿)]]></title>
