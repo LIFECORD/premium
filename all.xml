@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 00:35:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 01:54:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6560?fr=category</guid>
             <pubDate>Thu, 04 Nov 2021 08:12:25 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 13분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Z세대와 제페토 핫플 투어 다녀왔습니다 (캐릿)]]></title>
+            <link>https://www.careet.net/547</link>
+            <guid>https://www.careet.net/547</guid>
+            <pubDate>Thu, 11 Nov 2021 01:54:01 GMT</pubDate>
+            <content:encoded><![CDATA[환상의 나라 롯데월드! 제페토에선 어떨까?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/e2748624-3221-49d0-aba8-9476e143ac30_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[성공하는 오프라인 공간의 비밀! ‘OO의 방 콘셉트’ (캐릿)]]></title>
@@ -653,7 +661,7 @@
                                 <li>스타트업</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[드라마 지리산이 불러온 논란은 우리나라 콘텐츠 산업의 고질적인 병폐를 드러낸다. 무엇이 문제이고, 어떻게 개선할 수 있을까? (북저널리즘)]]></title>
+            <title><![CDATA[지리산은 왜 산으로 갔는가? 콘텐츠를 산으로 가게 만드는 한국 콘텐츠 비즈니스 모델의 본질적 문제는 무엇인가? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/44941</link>
             <guid>https://www.bookjournalism.com/books/44941</guid>
             <pubDate>Wed, 10 Nov 2021 21:09:12 GMT</pubDate>
