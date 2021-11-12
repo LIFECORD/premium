@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 22:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 23:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -677,6 +677,13 @@
                                 <li>테크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[핀테크는 더 이상 간편 금융 서비스나 플랫폼이 아니다. 금융과 비금융, 온라인과 오프라인을 아우르는 하나의 생태계다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/44852</link>
+            <guid>https://www.bookjournalism.com/books/44852</guid>
+            <pubDate>Fri, 12 Nov 2021 23:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[핀테크 기업 전략]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[왜 공익신고자에 대한 포상이 필요할까? 내부고발의 해피엔딩은 가능할까? 우리 회사의 범죄와 비리는 누가 밝혀야 할까? 어쩌면 바로 당신. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/45022</link>
             <guid>https://www.bookjournalism.com/books/45022</guid>
@@ -752,13 +759,6 @@
             <guid>https://www.bookjournalism.com/books/44546</guid>
             <pubDate>Fri, 12 Nov 2021 17:17:51 GMT</pubDate>
             <content:encoded><![CDATA[월화수목토토일의 시대정신]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[세계는 1.5도 약속을 지킬까? 한국은 40퍼센트의 약속을 지킬까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/44426</link>
-            <guid>https://www.bookjournalism.com/books/44426</guid>
-            <pubDate>Fri, 12 Nov 2021 17:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[지속 가능한 지속가능성]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['올 서울 집값 상승률 톱3' 성동·노원·도봉, 왜 오르는 걸까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
