@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2021-11-11T23:11:49.798Z</updated>
+    <updated>2021-11-12T00:36:22.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/102</id>
         <link href="https://www.longblack.co/note/102"/>
         <updated>2021-11-11T15:11:32.856Z</updated>
-        <content type="html"><![CDATA[와, 저 얼마 전에 진짜 멋진 분 만났어요. 제가 패션·뷰티에 관심 많은 거 아시죠! 뉴욕 한복판에서 패션·뷰티 전문 브랜딩 에이전시를 운영하는 대표님을 만난 거에요. 조엘 킴벡<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[와, 저 얼마 전에 진짜 멋진 분 만났어요. 제가 패션·뷰티에 관심 많은 거 아시죠! 뉴욕 한복판에서 패션·뷰티 전문 브랜딩 에이전시를 운영하는 대표님을 만난 거예요. 조엘 킴벡<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

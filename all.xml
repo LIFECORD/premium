@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 23:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 00:36:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,7 +370,7 @@
             <link>https://www.longblack.co/note/102</link>
             <guid>https://www.longblack.co/note/102</guid>
             <pubDate>Thu, 11 Nov 2021 15:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[와, 저 얼마 전에 진짜 멋진 분 만났어요. 제가 패션·뷰티에 관심 많은 거 아시죠! 뉴욕 한복판에서 패션·뷰티 전문 브랜딩 에이전시를 운영하는 대표님을 만난 거에요. 조엘 킴벡<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[와, 저 얼마 전에 진짜 멋진 분 만났어요. 제가 패션·뷰티에 관심 많은 거 아시죠! 뉴욕 한복판에서 패션·뷰티 전문 브랜딩 에이전시를 운영하는 대표님을 만난 거예요. 조엘 킴벡<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[6700명이 구독하는 개인 뉴스레터 '에그브렉' 기획법 (폴인)]]></title>
@@ -661,6 +661,13 @@
                                 <li>라이프스타일</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[왜 공익신고자에 대한 포상이 필요할까? 내부고발의 해피엔딩은 가능할까? 우리 회사의 범죄와 비리는 누가 밝혀야 할까? 어쩌면 바로 당신. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/45022</link>
+            <guid>https://www.bookjournalism.com/books/45022</guid>
+            <pubDate>Fri, 12 Nov 2021 00:36:14 GMT</pubDate>
+            <content:encoded><![CDATA[공익신고의 해피엔딩은 꿈일까?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[지리산은 왜 산으로 갔는가? 콘텐츠를 산으로 가게 만드는 한국 콘텐츠 비즈니스 모델의 본질적 문제는 무엇인가? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/44941</link>
             <guid>https://www.bookjournalism.com/books/44941</guid>
@@ -738,11 +745,12 @@
             <content:encoded><![CDATA[지속 가능한 지속가능성]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[북저널리즘 라디오 에피소드#11에선, 삼성전자의 위기와 백종원의 정체 그리고 테슬라의 미래와 부동산 영끌 세대의 운명을 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/44380</link>
-            <guid>https://www.bookjournalism.com/audio/44380</guid>
-            <pubDate>Mon, 08 Nov 2021 08:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[백종원과 부동산의 운명, 삼성전자와 테슬라의 미래]]></content:encoded>
+            <title><![CDATA[[EVENT] 네카쿠배 풀필먼트의 미래, 라이브로 만나요! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/connectx/us/contents/211025142436964zm</link>
+            <guid>https://contents.premium.naver.com/connectx/us/contents/211025142436964zm</guid>
+            <pubDate>Fri, 12 Nov 2021 00:36:22 GMT</pubDate>
+            <content:encoded><![CDATA[[EVENT] 선착순 500명 라이브 토크쇼 무료 등록 가능! 안녕하세요, 커넥터스 운영자 엄지용입니다. 지난 10월 1일 커넥터스 멤버십을 처음 시작하고 벌써 한 달 가까운 시간이 지났네요. 그동안 커넥터스는 네이버 프리미엄 콘텐츠 입점 비즈니스 채널 중 무려 ‘3위(!!)’까지 치고 올랐습니다. 죄송합니다. 사실 거짓말입니다(...) 3등은 커넥터스 위에 포진한 ‘코인’, ‘부동산’,]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMTIg/MDAxNjM1MTM4MzEyMTc5.RP_hO7bW_kRPKgUfFwYidJYVQK5uMVBkDard8TDT2UYg.BymUQ2HV9QWizUCYUb0BPwPVMG8vTXIN8iFNj24-kFEg.JPEG/%EB%84%A4%EC%B9%B4%EC%BF%A0%EB%B0%B0_%EB%A1%9C%EA%B3%A0_%ED%95%A9%EC%84%B1.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수출입은행, '애물단지' KAI 주가 상승 덕에 '함박웃음' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -807,14 +815,6 @@
             <pubDate>Thu, 11 Nov 2021 15:12:00 GMT</pubDate>
             <content:encoded><![CDATA[해외 명품 직구 플랫폼 ‘구하다’는 좀 특이하다. 다수의 명품 직구 서비스들이 판매대행 형태로 운영되는 반면, 구하다는 부티크*와 직접 계약을 맺고 있다. 어떻게 맺었냐고? 무작정 유럽 현지 부티크 주소로 찾아가서 방문 영업부터 시작했다고 한다. 왜 이토록 험난한 길을 걸었을까? 그래서 부티크와 직계약을 맺으면 어떤 이점이 있을까? 구하다가 서비스 시작 2년 만에 매]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDVfNjgg/MDAxNjM2MDkwMzI4OTgz.EquD_rSCjTBFTNQj7bYl1Cvloc0DWb_zQZWr1SHKSrwg.tLztvhPJRcM_0UqKJdcfW4y6bYrgAdf1tQMGPRFFmSEg.JPEG/GS%EA%B5%AC%ED%95%98%EB%8B%A4-1080x624.jpeg?type=nf220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[11.5일 종목리뷰 (솔루스첨단소재, ISC, 한화, 모두투어) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/kiwoom/thestock/contents/211105165514697pX</link>
-            <guid>https://contents.premium.naver.com/kiwoom/thestock/contents/211105165514697pX</guid>
-            <pubDate>Thu, 11 Nov 2021 15:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;솔루스첨단소재 리뷰&gt; 1. 2차전지 소재주들의 강세에 편승, +4.42% 상승 마감 - 시장은 빠른 순환매 양상 속 종목별 장세를 지속하고 있는 가운데, 솔루스첨단소재는 최근 조정세에서 저점을 잡고 오늘 2차전지 소재주의 강세와 더불어 +4.42% 상승한 85,100원에 마감했습니다.  - 최근 지수 흐름이 위로 막히고 아래로도 막혀 있는 상황으로, 이러한 흐름에서는 치고 빠지는 전략이 바]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDVfMjUx/MDAxNjM2MDk2OTQ0Nzcz.YpDup90WPpjNkvgLv0CZVglcU1ZsAxkNyzBFSo3d9qQg.QIkSRHII8J0qGWBGX6KtpPiBLOOiQ8GK6AqXEuUQ3EUg.JPEG/GettyImages-960809388.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
