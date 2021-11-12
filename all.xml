@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 01:54:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 02:26:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -389,6 +389,14 @@
             <content:encoded><![CDATA[와, 저 얼마 전에 진짜 멋진 분 만났어요. 제가 패션·뷰티에 관심 많은 거 아시죠! 뉴욕 한복판에서 패션·뷰티 전문 브랜딩 에이전시를 운영하는 대표님을 만난 거예요. 조엘 킴벡<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[박혜강 에디터 "뉴스레터 구독자의 피드백 이끌어내려면" (폴인)]]></title>
+            <link>https://www.folin.co/story/1943</link>
+            <guid>https://www.folin.co/story/1943</guid>
+            <pubDate>Fri, 12 Nov 2021 02:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[6700명이 구독하는 개인 뉴스레터 '에그브렉' 기획법 (폴인)]]></title>
             <link>https://www.folin.co/story/1942</link>
             <guid>https://www.folin.co/story/1942</guid>
@@ -667,14 +675,6 @@
             <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>테크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[송리단길과 제주 탑동이 가진 공통점은? (폴인)]]></title>
-            <link>https://www.folin.co/story/1891</link>
-            <guid>https://www.folin.co/story/1891</guid>
-            <pubDate>Sun, 03 Oct 2021 17:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<li>공간</li>
-                                <li>라이프스타일</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[왜 공익신고자에 대한 포상이 필요할까? 내부고발의 해피엔딩은 가능할까? 우리 회사의 범죄와 비리는 누가 밝혀야 할까? 어쩌면 바로 당신. (북저널리즘)]]></title>
