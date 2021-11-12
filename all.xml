@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 08:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 09:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5분 만에 배워서 바로 써먹는 오피스 영어 (퍼블리)]]></title>
+            <link>https://publy.co/set/1660?fr=category</link>
+            <guid>https://publy.co/set/1660?fr=category</guid>
+            <pubDate>Fri, 12 Nov 2021 09:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[웹북 • 6개 챕터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[협업하고 싶은 사람을 만드는 건 8할이 '태도' (퍼블리)]]></title>
+            <link>https://publy.co/content/6569?fr=category</link>
+            <guid>https://publy.co/content/6569?fr=category</guid>
+            <pubDate>Fri, 12 Nov 2021 09:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 • 13분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[팀원들이 일에 '꽂히게' 하는 동기부여 방법 (퍼블리)]]></title>
             <link>https://publy.co/content/6571?fr=category</link>
@@ -61,20 +75,6 @@
             <link>https://publy.co/content/6542?fr=category</link>
             <guid>https://publy.co/content/6542?fr=category</guid>
             <pubDate>Mon, 08 Nov 2021 08:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 • 9분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[메신저, 이메일에 허우적 거리고 있다면: 업무 집중도를 높여주는 4가지 방법 (퍼블리)]]></title>
-            <link>https://publy.co/content/6539?fr=category</link>
-            <guid>https://publy.co/content/6539?fr=category</guid>
-            <pubDate>Fri, 05 Nov 2021 08:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 • 12분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['짜증'도 감정이 다 다르다: 수수께끼 같은 나를 풀어내는 노션 감정일기 작성법 (퍼블리)]]></title>
-            <link>https://publy.co/content/6551?fr=category</link>
-            <guid>https://publy.co/content/6551?fr=category</guid>
-            <pubDate>Fri, 05 Nov 2021 08:12:52 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 9분 분량]]></content:encoded>
         </item>
         <item>
