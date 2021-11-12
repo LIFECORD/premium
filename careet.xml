@@ -4,9 +4,25 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 00:36:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 01:54:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[당장 써먹는 짤줍] ○○ : △△할게]]></title>
+            <link>https://www.careet.net/552</link>
+            <guid>https://www.careet.net/552</guid>
+            <pubDate>Fri, 12 Nov 2021 01:54:11 GMT</pubDate>
+            <content:encoded><![CDATA[New 주접 멘트 주워가세요!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/72b3c987-e57e-4ce7-a6b8-e9e881c11c2f_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Z세대 인스타그램이 ‘이것’으로 도배됐다고? 이주의 떡상 아이템]]></title>
+            <link>https://www.careet.net/551</link>
+            <guid>https://www.careet.net/551</guid>
+            <pubDate>Fri, 12 Nov 2021 01:54:11 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 뜨는 인스타스토리 필터, 굿즈, 전시 다 알려드림]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/631a2d38-9c83-4659-8a95-7fd7485650db_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대와 제페토 핫플 투어 다녀왔습니다]]></title>
             <link>https://www.careet.net/547</link>
