@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 14:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 15:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -382,11 +382,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/a115c60f-ecc0-4252-8cc8-2be2ca525e55_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[센스의 재발견 : 기술이 절정에 이르면 센스의 시대가 찾아온다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/107</link>
-            <guid>https://www.longblack.co/note/107</guid>
-            <pubDate>Sat, 13 Nov 2021 19:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[제가 특히 일의 감각에 대해 자주 고민하는 건 아실 겁니다. 감각이라는 주제에 주목하며 책을 찾다 보면 유난히 일본 책을 많이 발견하게 됩니다.&nbsp;그 책들을 훑다가 발견한<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[스우파 : 프로들의 서바이벌이 보여준 일의 의미와 리더십 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/101</link>
+            <guid>https://www.longblack.co/note/101</guid>
+            <pubDate>Sun, 14 Nov 2021 15:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[나 모양 빠지는 거 싫어하는 거 알지. 사회 생활 시작하고 남들 앞에서 울어본 적 없어. 그런 내가 지하철에서 예능 프로그램 보다가 울 줄이야! 그래 맞아, &lt;스우파Street W<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[박혜강 에디터 "뉴스레터 구독자의 피드백 이끌어내려면" (폴인)]]></title>
@@ -677,6 +677,13 @@
                                 <li>테크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #13에선, 경선 후 청년 세대의 국민의힘 탈당, 슈퍼맨의 커밍아웃, 지리산의 PPL 대잔치, 공익신고의 빛과 어둠에 대해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/45059</link>
+            <guid>https://www.bookjournalism.com/audio/45059</guid>
+            <pubDate>Sun, 14 Nov 2021 15:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[공익신고 후 탈당한 청년들이 지리산으로 가 슈퍼맨을 만났다?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[핀테크는 더 이상 간편 금융 서비스나 플랫폼이 아니다. 금융과 비금융, 온라인과 오프라인을 아우르는 하나의 생태계다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/44852</link>
             <guid>https://www.bookjournalism.com/books/44852</guid>
@@ -754,21 +761,6 @@
             <content:encoded><![CDATA[난장판 백신 여권]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[누가 왜 주4일제를 말하는가? 누가 원하는가? 왜 필요한가? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/44546</link>
-            <guid>https://www.bookjournalism.com/books/44546</guid>
-            <pubDate>Sun, 14 Nov 2021 13:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[월화수목토토일의 시대정신]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연말정산 앞두고 신카쓸까 체카쓸까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/taxwatch/tax/contents/211104091518665Ck</link>
-            <guid>https://contents.premium.naver.com/taxwatch/tax/contents/211104091518665Ck</guid>
-            <pubDate>Sat, 13 Nov 2021 15:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[①연말정산 중간점검 포인트 연말정산 소득공제의 대표 항목에는 바로 신용카드 등 소득공제가 있는데요. 남은 연말까지 어떻게 전략적으로 사용하느냐에 따라 연말정산 절세액이 달라질 수 있어요.  신용카드 등 소득공제는 총 근로소득의 25% 이상을 신용카드를 통해 사용하면 그 금액에 대해 받을 수 있는 혜택인데요. 예를 들어 연 소득이 5000만원이라면 1250만원의 최저 사용]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDRfNzkg/MDAxNjM1OTg0ODQ2Njc1.fz3rb8qFN-rE9crRBvrJXAB6UojnW2O87PktOyRGqsYg.V4ke7-sTVWerijbXwj15tKMDfagk2cJvrM3q7v0vAWgg.JPEG/a0a00f77af56e697b0901dcb4338e252.jpg?type=nf220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[EVENT] 네카쿠배 풀필먼트의 미래, 라이브로 만나요! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/connectx/us/contents/211025142436964zm</link>
             <guid>https://contents.premium.naver.com/connectx/us/contents/211025142436964zm</guid>
@@ -777,60 +769,68 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMTIg/MDAxNjM1MTM4MzEyMTc5.RP_hO7bW_kRPKgUfFwYidJYVQK5uMVBkDard8TDT2UYg.BymUQ2HV9QWizUCYUb0BPwPVMG8vTXIN8iFNj24-kFEg.JPEG/%EB%84%A4%EC%B9%B4%EC%BF%A0%EB%B0%B0_%EB%A1%9C%EA%B3%A0_%ED%95%A9%EC%84%B1.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[AI PICK] 나이키, 브랜드 파워 '무형자산' 가치 최고 기업 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/211105205130378vO</link>
-            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/211105205130378vO</guid>
-            <pubDate>Sat, 13 Nov 2021 15:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[나이키(NKE) 나이키는 세계에서 가장 큰 스포츠 브랜드를 보유한 기업입니다. 런닝, 농구, 축구, 트레이닝, 스포츠웨어, 조던이라는 여섯개의 주요 카테고리 안에서 스포츠 의류, 신발, 장비, 가방, 디지털 기기 등 다양한 상품을 디자인하고 개발합니다. 이 중에서도 신발이 매출의 66%를 차지하고 있습니다. 판매 채널별 매출 비중은 직접 판매하는 다이렉트가 2019년 32%에서 2020년 3]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDVfMjI2/MDAxNjM2MTEzNTU1NzM4.e4oswQPWZ_Zw9S0YdgiWX85ccMSrN98oFP_e614vcvwg.Izl5nXw3609M3bzWF0EdmgvUaYogjws7hvdsSRQmP90g.JPEG/revolt-164_6wVEHfI-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[가상공간 활용↑ 테드 베이커 2021 F/W 컬렉션 동물의 숲에서 공개 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/gotitkorea/gotit/contents/211026235020568ex</link>
+            <guid>https://contents.premium.naver.com/gotitkorea/gotit/contents/211026235020568ex</guid>
+            <pubDate>Sun, 14 Nov 2021 15:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[영국 패션 브랜드 테드 베이커 겨울 컬렉션 공개 위해 동물의 숲 아일랜드 공개 패션 브랜드 역시 2030세대 소비자를 위한 다양한 시도 ​ 영국 패션 브랜드 테드 베이커(Ted Baker)가 닌텐도와 협업을 통해 이번 F/W 21 신상 컬력션을 동물의 에디션을 통해 공개한다. 테디 베이커는 닌텐도 게임 동물의 숲에 베이커 아일랜드(Ted Baker Island)라는 가상 공간을 만들고 F/W 신상품을 공개했]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjZfOTkg/MDAxNjM1MjU5NDQ1OTc2.Slr5sGiAHXuRIovvlG4flyz2V43EAOg1yrI-CnENC7gg.98cSYfeiw2eEFMqMd5WfnnUUR0adpADlxcaFfHZ-OTQg.JPEG/02.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[A Mom’s Research (Part 4): Why Are Many Elites Leftists? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/epochkorea/epic/contents/211107115937871Db</link>
-            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/211107115937871Db</guid>
-            <pubDate>Sat, 13 Nov 2021 15:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[A Mom’s Research (Part 4): Why Are Many Elites Leftists? [칼럼] 엄마의 연구④ 왜 많은 엘리트들은 좌파일까? “Why are all successful people leftists?” my daughter said, challenging me with a smile. “왜 성공한 사람들은 모두 좌파일까요?” 어느 날 딸이 웃으며 나에게 도발하듯 물었다. I knew she meant Mark Zuckerberg, Jack Dorsey, Jeff Bezos, Tim Cook, Bill Gates, and other powerful people who are trying to change the world to match their im]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDdfMTU0/MDAxNjM2MjUzNjM5Mzg1.ojpZiFvd1ZopGnAvejnlUWpr8Dh2oTk4uiiiqgy0ixog.4zlEjitLtrX5QI39mNA3dXki9wr6Z9YCRIn6BV9Xt3wg.JPEG/Facebook-Twitter-CEO-clean-700x420.jpeg?type=nf220_220" length="0" type="image/jpeg"/>
+            <title><![CDATA[벤처투자계약서에서의 주식양수도에 따른 청산우선권 부여(liquidation preference) 문제 (1) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/lawmission/startupforest/contents/211108133756903bR</link>
+            <guid>https://contents.premium.naver.com/lawmission/startupforest/contents/211108133756903bR</guid>
+            <pubDate>Sun, 14 Nov 2021 15:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[벤처 또는 스타트업 기업에 투자하는 투자조합이 해당 기업과 체결하는 투자계약에는 벤처 및 스타트업 투자계약 실무상 소위 ‘청산우선권(liquidation preference)’이라고 불리는 조항이 들어가 있는 경우가 많습니다. 이러한 청산우선권 조항은 각 투자계약에 따라 구체적인 형태에 차이가 있지만 대체로 회사가 잔여재산 분배에 관한 우선권을 가진 종류주식을 발행한다는 취지]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDhfNjkg/MDAxNjM2MzQ2MTcwNDg2.1mlbak3psfLS6cK7tx9HuNcBosoZ7C1Fhfm4qL96xf0g.9JVxzwblFRkMj3BaP5lDjDa-vgvTQ2-NrWtU8phMF6og.JPEG/conditions-g36aebb3f1_1920.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[공시王] 호실적 '하이브', 넥슨+업비트 DNA 접목.."NFT용 게임 선보일듯" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/infostockdaily/isd/contents/211107155801532ZI</link>
-            <guid>https://contents.premium.naver.com/infostockdaily/isd/contents/211107155801532ZI</guid>
-            <pubDate>Sat, 13 Nov 2021 15:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[국내 1위 엔터테인먼트인 하이브가 광폭행보를 보이고 있다. 하이브는 박지원 전 넥슨코리아 대표이사를 영입하면서 게임분야 진출에 속도를 내는 동시에 두나무와의 지분 교환 등 전략적 제휴를 맺음으로써 사업간 시너지 극대화에 나서고 있다. 시장에서는 하이브가 게임분야의 넥슨과 블록체인분야 업비트의 DNA를 접목한 NFT용 게임을 선보일 것으로 예측하고 있다. ◇ 넥슨]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDdfMjk3/MDAxNjM2MjY4MDM1NzYw.tWbQN8Gw84z0RydkkY_5pxYSmpjNv6GGoTIiJut4n4cg.bRhzX2SM8X4Pgrd0Z08lATp4Ura7tb__hmPPqMK1-5Ug.PNG/%EB%B0%95%EC%A7%80%EC%9B%90_%ED%95%98%EC%9D%B4%EB%B8%8C_%EB%8C%80%ED%91%9C%EC%9D%B4%EC%82%AC.png?type=nf220_220" length="0" type="image/png"/>
+            <title><![CDATA[[커넥트레터] 카카오가 퀵업체도 인수한다고요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/connectx/us/contents/211028162559280sn</link>
+            <guid>https://contents.premium.naver.com/connectx/us/contents/211028162559280sn</guid>
+            <pubDate>Sun, 14 Nov 2021 15:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[[커넥트레터 무료 구독하기] 첫 번째 연결, 라이브 토크쇼 합니다! 안녕하세요, 지난주 커넥트레터 오픈율이 32%를 기록해 그냥 석간 하기로 결정한 엄지용입니다. 지지난주 오후 1시에 발송 드렸던 뉴스레터의 오픈율이 38.8%였고, 지난주 오전 7시에 발송한 뉴스레터의 오픈율이 32%라면 굳이 ‘아침’을 고집하지 않아도 된다는 결론을 냈죠. 그래서 오늘 뉴스레터는 오후 4시에]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjhfMTUy/MDAxNjM1NDA1NzE1NjQ1.Qdn0FWjL4Kntfh0xpema5V5mWDGYFtEKMfX8vGPhhPkg.CfkLAS8oN5p6u7PHofYhKr6OO_3ytzuOGlAnffkF-k8g.JPEG/4%EC%9E%A5_3._%ED%80%B5%EC%84%9C%EB%B9%84%EC%8A%A4_%EC%98%A4%ED%86%A0%EB%B0%94%EC%9D%B4.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[감시인가 감독인가? - 중국 정부의 IT 산업 규제법 정비 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/byline/todayglobal/contents/211108104937359zt</link>
-            <guid>https://contents.premium.naver.com/byline/todayglobal/contents/211108104937359zt</guid>
-            <pubDate>Sat, 13 Nov 2021 15:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 오늘, 외쿡신문입니다.  오늘은 중국 정부가 밀어붙이고 있는 강력한 IT 규제법에 대해 이야기하고자 합니다. 중국은 개인정보와 데이터 보호 수준을 끌어올린다는 명분으로 법제도를 정비하고 있습니다. 하지만 국내외 기업들에 대한 정부의 통제 수준이 훨씬 높이 올라갈 듯 합니다.  👍 오늘의 Pick 최근 중국을 보면 마지막 남아 있던 외국 인터넷 기업마저 명맥이]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDhfMjg3/MDAxNjM2MzM2MjA0OTMy.NPehgmBLqtZrSh5E_iepKftmD-25EK0rl1mWJr8T_agg.6lK43D4KJuO6jAttRRy7IaQPS4um7KYc3_sa8xs1txcg.JPEG/%EC%A4%91%EA%B5%AD%ED%82%A4%EB%B3%B4%EB%93%9C.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[K-파이어족을 위한 은퇴 가이드 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/geumgo/geumgo1/contents/211103091742999Wl</link>
+            <guid>https://contents.premium.naver.com/geumgo/geumgo1/contents/211103091742999Wl</guid>
+            <pubDate>Sun, 14 Nov 2021 15:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[최근 ‘성공한 파이어족’의 대표사례로 비트코인, 주식, 부동산 투자로 단기간의 큰 수익을 실현한 후 직장을 그만둔 사람들이 소개되는 모습을 어렵지 않게 볼 수 있다. 파이어족이란 “경제적 자립(Financial Independence)을 토대로 자발적인 조기 은퇴(Retire Early)를 추진하는 사람들”을 일컫는 말로, 일반적인 은퇴 연령인 50/60대가 아닌 30대 말이나 늦어도 40대 초반까지는 은퇴하]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDNfMTY4/MDAxNjM1ODk4MzAwMjI0.OKq8Qqy9Y6-F9vcIvGFime-dPjgLwPBAfnR00mwD2DIg.mm1FfnL8xAnina9Ym6kWC0j67B5bmnVwLlAhk-iQFCwg.JPEG/SEF_21102914846.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[알렉스 카츠 등 한국의 슈퍼컬렉터가 주목한 작가들 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/socialartnews/artnews/contents/210926204232141rv</link>
-            <guid>https://contents.premium.naver.com/socialartnews/artnews/contents/210926204232141rv</guid>
-            <pubDate>Sat, 13 Nov 2021 15:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[알렉스 카츠 등 한국의 슈퍼컬렉터가 주목한 작가들 화면 가득 자연의 생명력이 묻어난다. 흐드러지게 핀 분홍 꽃도 그사이 파릇하게 돋아난 잎도 새로운 계절이 왔음을 알리는 생명의 신호다. 코로나로 모든 것이 멈춰 선 것 같은 답답한 현실에서도 그 모습을 바꾸며 우리가 살아있음을 깨닫게 한 자연의 변화가 화폭 가득 연두색으로 번졌다.  작품은 인물초상의 거장으로 불]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA5MjNfMjk3/MDAxNjMyMzk0MzkzMjcw.kjoNzTQWlh_I3kJjI20W6UrWyrX5vQ8IYkQfss1Nfjkg.FQM9JV65WMedaFo2114M3CYh0aVG75ybrOJXARbsVqUg.JPEG/IMG_4149.JPG?type=nf220_220" length="0" type="image/JPG"/>
+            <title><![CDATA['초코파이 신화' 오리온, K-바이오 저력 전파한다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/thebell/stock/contents/211105155837170hM</link>
+            <guid>https://contents.premium.naver.com/thebell/stock/contents/211105155837170hM</guid>
+            <pubDate>Sun, 14 Nov 2021 15:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[초코파이로 신화를 일군 오리온이 바이오 사업으로 눈을 돌리고 있습니다. 주력 사업인 제과를 넘어 국내 바이오벤처 기업 발굴에 집중할 것으로 보입니다. 한국의 바이오 기술을 중국 시장에 선보이는 플랫폼 사업을 통해 장기적으로는 합성의약품과 신약개발을 꾀하고 있습니다. 오리온그룹은 최근 내년 사업 계획을 수립하고 있습니다. 바이오 사업을 위한 유망 기업 발굴]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDVfMTYx/MDAxNjM2MDkyMzAxOTAw.95Gu_r3lzTYPJD0QZ4PzA-Wvikfnij2jIjzQEfda6jcg.gR_IFJbxo6uT1djFZyZq9Qj6r9HfuBkKHveKAWqB4hgg.JPEG/20211104154806184_n.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[벤처캐피탈 사업 구조가 바뀐다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/byline/todayglobal/contents/211027122720236Ws</link>
-            <guid>https://contents.premium.naver.com/byline/todayglobal/contents/211027122720236Ws</guid>
-            <pubDate>Sat, 13 Nov 2021 15:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 오늘, 외쿡신문입니다.  세콰이어 캐피탈이라는 벤처캐피탈(VC) 회사를 들어보셨나요?  1972년 설립되어 애플, 구글, 오라클, 엔비디아, 시스코, 페이스북, 줌, 에어비앤비 등에 투자한 전설적인 VC입니다. 우리나라 기업 중에는 쿠팡, 토스, 마켓컬리 등이 세콰이어의 투자를 받았습니다. 이름만 들어도 어마어마하네요.  전통의 VC 세콰이어가 전통적 투자 펀드 운영 방]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjdfNjMg/MDAxNjM1MzA1MjAxMTEw.-09z0fB7vKTSKuY6Wvll06vGkm7lMsyFDIFD7GOWpSAg.2O9wf3cyNJN_Due1Zt8sV7wEu3pbzoPY8D92HnScl6og.JPEG/%EC%84%B8%EC%BD%B0%EC%9D%B4%EC%96%B4.jpeg?type=nf220_220" length="0" type="image/jpeg"/>
+            <title><![CDATA[퇴직 후 소득이 뚝 끊어지는 시기 - 주택연금 ‘초기증액형’ 활용하면 좋아요 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/geumgo/geumgo1/contents/211027151623622Wx</link>
+            <guid>https://contents.premium.naver.com/geumgo/geumgo1/contents/211027151623622Wx</guid>
+            <pubDate>Sun, 14 Nov 2021 15:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[한국인들의 부동산 사랑은 세계에서 손꼽힐 만큼 각별하다. 과거보다 다소 줄었다고는 하지만 보유자산 중 70% 정도는 여전히 부동산으로 이루어져 있고 그 중 대부분은 거주하는 집 한 채로 구성된 경우가 많다. 문제는 이들 대다수의 경우 대출이자 부담 때문에 저축 여력이 없고 그렇다 보니 노후대비도 ‘국민연금’ 외에는 딱히 준비되어 있지 않은 경우가 많다는 것이다.]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjdfMjAz/MDAxNjM1MzE1MzEzNTk5.VF4EDGgvyPyPaLLtwURn_P1Z2TsjLrBDZSjgOQKYZtog.mZyD7Jc7Sdc5IuwSq7Bl6mykjzEos2ZWhDnRnpMNx8Mg.JPEG/SEF_210831142854.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[베인 & 컴퍼니 "올해 럭셔리 시장 반등" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/211111224605155Tl</link>
-            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/211111224605155Tl</guid>
-            <pubDate>Sat, 13 Nov 2021 15:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[베인 &amp; 컴퍼니 "올해 럭셔리 시장 반등" 원문 보기 Luxury market rebounds in 2021, set to return to historic growth trajectory (Bain &amp; Company) 📑Summary 세계적인 컨설팅 기업인 베인 &amp; 컴퍼니(이하 베인)가 11일(현지시간) 보고서를 통해 럭셔리 산업이 2021년 V자 형태의 회복을 경험하며 다시 활기를 띠었다고 전했습니다. 베인은 향후 개인 명품 시장이 연간 6~8%씩 지속적으로 성장할 것이며, 2025년까지]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTFfMTU0/MDAxNjM2NjM4MjczMjk4.NVK4Brjbf04-A5omg9WdcDSgm7haN9MihyatuS4R3yAg.WfSMRW6t7S8eKBcZ5t1grxfQYnVYtTLmG6GPbzTs5Wgg.JPEG/%EB%AA%85%ED%92%88%EC%8B%9C%EA%B3%84.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[브리핑] 일론 머스크의 지분 매각 SNS 투표..소통과 조종 사이 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/joongang/gmoney/contents/211108080551333gB</link>
+            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/211108080551333gB</guid>
+            <pubDate>Sun, 14 Nov 2021 15:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[미국 증권시장 역사에서 보기 드문 일이 발생했다. 현재 세계 최고 부자인 일론 머스크 테슬라 최고경영자(CEO)가 6일 재미있는 제안을 했습니다.  그는 "보유 지분 10% 정도를 팔겠다"며 "트위터를 통해 투표를 해 결과가 어떻게 나오든 받아들이겠다"고 말했습니다.  그 결과 트위터 표결이 이뤄졌습니다.  참여자의 57.9%가 매각을 지했습니다. 이제 머스크는 보유지분 가운데 10%를]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDhfMjkg/MDAxNjM2MzI1MjA2MDY5.CYSQnaxvItwFiPcpB6XrTJgGQB5hgheeyEgv6x36kucg.7FlKplaUerGHHPy2vJxF7e0pNVdK6YA1aLlOumy_rtQg.JPEG/%EC%9D%BC%EB%A1%A0_%EB%A8%B8%EC%8A%A4%ED%81%AC_%EB%B8%94%EB%A3%B8%EB%B2%84%EA%B7%B8.jpg?type=nf220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어른들을 위한 돈 과외 - 자산증식을 위한 3단계 시스템 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/geumgo/geumgo1/contents/211027150903773zt</link>
+            <guid>https://contents.premium.naver.com/geumgo/geumgo1/contents/211027150903773zt</guid>
+            <pubDate>Sun, 14 Nov 2021 15:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[씀씀이를 바꾸는 것은 생각만큼 쉽지 않다. 무언가에 돈을 쓴다는 것은 그 사람의 가치관과 습관이 반영되어 있다. 그게 하다못해 끼니를 해결하기 위함이라도 말이다. 따라서 지출을 줄여야 할 이유가 공감되어야만 행동할 수 있고, 행동에 이르기 위한 충분한 동기부여와 시스템이 필요하다. 휴가 시즌이 되어야 몸짱에 대한 니즈환기가 강해지고 즐겨먹던 치맥의 유혹을 뿌리]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjhfMjcy/MDAxNjM1Mzg4Nzc5MjIy.dgzAASQw1Bl_s4LdjwdRBLD7sZ0S6MhA_1uEXdrUPSsg.kDwUsRfEG7CWyxsc9VDXUJ3cS461rKL0SJBGwI0yGx4g.PNG/001.png?type=nf220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
