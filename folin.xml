@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2021-11-14T21:10:03.114Z</updated>
+    <updated>2021-11-14T22:10:57.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["뉴스레터 붐은 한동안 지속될 거예요. 중요한 건"]]></title>
+        <id>https://www.folin.co/story/1944</id>
+        <link href="https://www.folin.co/story/1944"/>
+        <updated>2021-11-14T22:10:39.876Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박혜강 에디터 "뉴스레터 구독자의 피드백 이끌어내려면"]]></title>
         <id>https://www.folin.co/story/1943</id>
@@ -284,13 +292,5 @@
         <updated>2021-10-03T23:11:26.939Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>라이프스타일</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['블록체인 트렌드' 가볍게 읽어보고 싶다면]]></title>
-        <id>https://www.folin.co/story/1896</id>
-        <link href="https://www.folin.co/story/1896"/>
-        <updated>2021-10-03T17:13:20.297Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>테크</li>]]></content>
     </entry>
 </feed>
