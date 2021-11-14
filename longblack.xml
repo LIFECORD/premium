@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2021-11-14T15:11:34.577Z</updated>
+    <updated>2021-11-14T16:15:34.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/101</id>
         <link href="https://www.longblack.co/note/101"/>
         <updated>2021-11-14T15:11:07.457Z</updated>
-        <content type="html"><![CDATA[나 모양 빠지는 거 싫어하는 거 알지. 사회 생활 시작하고 남들 앞에서 울어본 적 없어. 그런 내가 지하철에서 예능 프로그램 보다가 울 줄이야! 그래 맞아, &lt;스우파Street W<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[나 모양 빠지는 거 싫어하는 거 알지. 사회 생활 시작하고 남들 앞에서 울어본 적 없어. 그런 내가 지하철에서 예능 프로그램 보다가 울 줄이야! 그래 맞아, &lt;스트릿 우먼 파이터S<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
