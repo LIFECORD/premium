@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 00:35:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 01:54:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국관광공사가 Z세대에 칭찬받는 공기업으로 꼽히는 이유]]></title>
+            <link>https://www.careet.net/553</link>
+            <guid>https://www.careet.net/553</guid>
+            <pubDate>Mon, 15 Nov 2021 01:53:24 GMT</pubDate>
+            <content:encoded><![CDATA[국내외 Z세대가 열광한 공기업의 레트로 활용법]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/33764514-e7ea-480a-aa84-ef800ef96e08_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[당장 써먹는 짤줍] ○○ : △△할게]]></title>
             <link>https://www.careet.net/552</link>
