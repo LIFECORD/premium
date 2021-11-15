@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 08:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 09:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팔리는 제안의 13가지 디테일: 손에 잡히는 크리에이티브 만들기 (퍼블리)]]></title>
+            <link>https://publy.co/content/6543?fr=category</link>
+            <guid>https://publy.co/content/6543?fr=category</guid>
+            <pubDate>Mon, 15 Nov 2021 09:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 • 8분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[5분 만에 배워서 바로 써먹는 오피스 영어 (퍼블리)]]></title>
             <link>https://publy.co/set/1660?fr=category</link>
@@ -68,13 +75,6 @@
             <link>https://publy.co/content/6576?fr=category</link>
             <guid>https://publy.co/content/6576?fr=category</guid>
             <pubDate>Mon, 08 Nov 2021 09:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 • 9분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팔리는 제안의 13가지 디테일: 캠페인 컨셉, 한 방을 노린다! (퍼블리)]]></title>
-            <link>https://publy.co/content/6542?fr=category</link>
-            <guid>https://publy.co/content/6542?fr=category</guid>
-            <pubDate>Mon, 08 Nov 2021 08:13:07 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 9분 분량]]></content:encoded>
         </item>
         <item>

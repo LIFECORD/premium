@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all</id>
     <title>퍼블리</title>
-    <updated>2021-11-15T08:15:15.720Z</updated>
+    <updated>2021-11-15T09:12:51.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[팔리는 제안의 13가지 디테일: 손에 잡히는 크리에이티브 만들기]]></title>
+        <id>https://publy.co/content/6543?fr=category</id>
+        <link href="https://publy.co/content/6543?fr=category"/>
+        <updated>2021-11-15T09:12:02.719Z</updated>
+        <content type="html"><![CDATA[아티클 • 8분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5분 만에 배워서 바로 써먹는 오피스 영어]]></title>
         <id>https://publy.co/set/1660?fr=category</id>
@@ -66,13 +73,6 @@
         <id>https://publy.co/content/6576?fr=category</id>
         <link href="https://publy.co/content/6576?fr=category"/>
         <updated>2021-11-08T09:11:38.669Z</updated>
-        <content type="html"><![CDATA[아티클 • 9분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팔리는 제안의 13가지 디테일: 캠페인 컨셉, 한 방을 노린다!]]></title>
-        <id>https://publy.co/content/6542?fr=category</id>
-        <link href="https://publy.co/content/6542?fr=category"/>
-        <updated>2021-11-08T08:13:07.772Z</updated>
         <content type="html"><![CDATA[아티클 • 9분 분량]]></content>
     </entry>
 </feed>
