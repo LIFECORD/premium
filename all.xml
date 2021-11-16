@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 05:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 06:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -413,14 +413,6 @@
                                 <li>커리어</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[넷마블 게임을 만드는 CTO, 어떻게 일할까? (폴인)]]></title>
-            <link>https://www.folin.co/story/1946</link>
-            <guid>https://www.folin.co/story/1946</guid>
-            <pubDate>Tue, 16 Nov 2021 05:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[<li>테크</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA["뉴스레터 붐은 한동안 지속될 거예요" (폴인)]]></title>
             <link>https://www.folin.co/story/1944</link>
             <guid>https://www.folin.co/story/1944</guid>
@@ -691,6 +683,14 @@
             <pubDate>Tue, 05 Oct 2021 22:10:50 GMT</pubDate>
             <content:encoded><![CDATA[<li>테크</li>
                                 <li>스타트업</li>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['오늘의집' 커뮤니티 매니저는 B면을 어떻게 키웠나 (폴인)]]></title>
+            <link>https://www.folin.co/story/1899</link>
+            <guid>https://www.folin.co/story/1899</guid>
+            <pubDate>Tue, 16 Nov 2021 06:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[<li>워크</li>
+                                <li>조직문화</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[패션 산업의 갈등이 재현됐다. 천재와 브랜드 사이의 충돌은 숙명일까? 보테가는 이미 대체제를 찾았다. (북저널리즘)]]></title>
