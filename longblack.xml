@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2021-11-16T17:11:09.084Z</updated>
+    <updated>2021-11-16T18:11:52.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/103</id>
         <link href="https://www.longblack.co/note/103"/>
         <updated>2021-11-16T15:11:40.425Z</updated>
-        <content type="html"><![CDATA[“Stay hungry, Stay foolish(늘 갈망하고, 우직하게 나아가라)”<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[“Stay hungry, Stay foolish(늘 갈망하고, 우직하게 나아가라)”스티브 잡스가<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
