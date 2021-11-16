@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 08:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 09:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잘 모르는 업무 어떻게든 시작하는 법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6564?fr=category</link>
+            <guid>https://publy.co/content/6564?fr=category</guid>
+            <pubDate>Tue, 16 Nov 2021 09:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 • 11분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[팔리는 제안의 13가지 디테일: 손에 잡히는 크리에이티브 만들기 (퍼블리)]]></title>
             <link>https://publy.co/content/6543?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6533?fr=category</guid>
             <pubDate>Tue, 09 Nov 2021 09:11:02 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 13분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제품을 ‘체험'하러 오프라인 매장에 갑니다: 유니클로, 시세이도, 판클의 제안법 (퍼블리)]]></title>
-            <link>https://publy.co/content/6576?fr=category</link>
-            <guid>https://publy.co/content/6576?fr=category</guid>
-            <pubDate>Mon, 08 Nov 2021 09:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 • 9분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[요즘 힙한 브랜드는 다 ‘플리 마케팅’ 한다며? (캐릿)]]></title>
