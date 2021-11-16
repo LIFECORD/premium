@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 00:35:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 01:54:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 힙한 브랜드는 다 ‘플리 마케팅’ 한다며?]]></title>
+            <link>https://www.careet.net/554</link>
+            <guid>https://www.careet.net/554</guid>
+            <pubDate>Tue, 16 Nov 2021 01:53:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 제안서 쓰는 마케터 모두 주목!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/7cd79fc8-57a2-46e6-b8c7-f599ea21813a_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[한국관광공사가 Z세대에 칭찬받는 공기업으로 꼽히는 이유]]></title>
             <link>https://www.careet.net/553</link>
