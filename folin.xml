@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2021-11-16T21:10:29.156Z</updated>
+    <updated>2021-11-16T22:11:42.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사업가와 투자자의 일하는 방식, 무엇이 다를까?]]></title>
+        <id>https://www.folin.co/story/1940</id>
+        <link href="https://www.folin.co/story/1940"/>
+        <updated>2021-11-16T22:11:25.343Z</updated>
+        <content type="html"><![CDATA[<li>테크</li>
+                                <li>스타트업</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그만둘까, 창업할까, 더 다닐까? 전환점의 '뉴 포티']]></title>
         <id>https://www.folin.co/story/1948</id>
@@ -284,13 +292,5 @@
         <updated>2021-10-05T22:10:50.133Z</updated>
         <content type="html"><![CDATA[<li>테크</li>
                                 <li>스타트업</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오늘의집' 커뮤니티 매니저는 B면을 어떻게 키웠나]]></title>
-        <id>https://www.folin.co/story/1899</id>
-        <link href="https://www.folin.co/story/1899"/>
-        <updated>2021-11-16T06:13:38.792Z</updated>
-        <content type="html"><![CDATA[<li>워크</li>
-                                <li>조직문화</li>]]></content>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 21:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 22:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -405,6 +405,14 @@
             <content:encoded><![CDATA[“Stay hungry, Stay foolish(늘 갈망하고, 우직하게 나아가라)”스티브 잡스가<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[사업가와 투자자의 일하는 방식, 무엇이 다를까? (폴인)]]></title>
+            <link>https://www.folin.co/story/1940</link>
+            <guid>https://www.folin.co/story/1940</guid>
+            <pubDate>Tue, 16 Nov 2021 22:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[<li>테크</li>
+                                <li>스타트업</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[그만둘까, 창업할까, 더 다닐까? 전환점의 '뉴 포티' (폴인)]]></title>
             <link>https://www.folin.co/story/1948</link>
             <guid>https://www.folin.co/story/1948</guid>
@@ -685,14 +693,6 @@
                                 <li>스타트업</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['오늘의집' 커뮤니티 매니저는 B면을 어떻게 키웠나 (폴인)]]></title>
-            <link>https://www.folin.co/story/1899</link>
-            <guid>https://www.folin.co/story/1899</guid>
-            <pubDate>Tue, 16 Nov 2021 06:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[<li>워크</li>
-                                <li>조직문화</li>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[서브스택이 설립 4년 만에 유료 구독자 100만 명을 확보했다. 미디어 비즈니스의 미래가 바뀔까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/45169</link>
             <guid>https://www.bookjournalism.com/books/45169</guid>
@@ -777,14 +777,6 @@
             <content:encoded><![CDATA[죽은 트럼프가 산 바이든을 이기고 있는 까닭은?]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[EVENT] 네카쿠배 풀필먼트의 미래, 라이브로 만나요! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/connectx/us/contents/211025142436964zm</link>
-            <guid>https://contents.premium.naver.com/connectx/us/contents/211025142436964zm</guid>
-            <pubDate>Tue, 16 Nov 2021 16:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[[EVENT] 선착순 500명 라이브 토크쇼 무료 등록 가능! 안녕하세요, 커넥터스 운영자 엄지용입니다. 지난 10월 1일 커넥터스 멤버십을 처음 시작하고 벌써 한 달 가까운 시간이 지났네요. 그동안 커넥터스는 네이버 프리미엄 콘텐츠 입점 비즈니스 채널 중 무려 ‘3위(!!)’까지 치고 올랐습니다. 죄송합니다. 사실 거짓말입니다(...) 3등은 커넥터스 위에 포진한 ‘코인’, ‘부동산’,]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMTIg/MDAxNjM1MTM4MzEyMTc5.RP_hO7bW_kRPKgUfFwYidJYVQK5uMVBkDard8TDT2UYg.BymUQ2HV9QWizUCYUb0BPwPVMG8vTXIN8iFNj24-kFEg.JPEG/%EB%84%A4%EC%B9%B4%EC%BF%A0%EB%B0%B0_%EB%A1%9C%EA%B3%A0_%ED%95%A9%EC%84%B1.jpg?type=nf220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[국세청이 매출 누락 잡아내는 법 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/taxwatch/tax/contents/211109090403513OQ</link>
             <guid>https://contents.premium.naver.com/taxwatch/tax/contents/211109090403513OQ</guid>
@@ -793,12 +785,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDlfMjU3/MDAxNjM2NDE2MTQyMjkz.xcWabhCOdaOjvhjHggieWNS_OficFj26ZpWkG-pwYGwg.Zds25LHVXII9LR_qNcu_2ZFFzpRgP3L21WgajCcl814g.JPEG/%EC%A0%88%EC%83%88_%EB%A7%A4%EC%B6%9C%EB%88%84%EB%9D%BD.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아스트라제네카(AZN)...미국회사 아니야..? (feat. 다양한 ADR기업) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/211109103551374zk</link>
-            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/211109103551374zk</guid>
-            <pubDate>Tue, 16 Nov 2021 15:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[다른나라 주식 미국증시에서 매수가능? 고럼고럼! 당연하지! 그게 바로 ADR! 다양한 ADR 기업 알아보러 가자~ #미국주식 #미국증시 #다양한ADR기업 아스트라제네카(AZN) 어디에 있는 회사일까요? 어라? 나스닥에서 봤었는데..? DR을 알면.. 이해 할 수 있어요! 주식예탁증서(DR) 은 무엇일까요? 다국적 기업이 해외시장으로부터  자금을 조달하기 위해 우회 상장하는 방식이랍니다. DR은]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDlfMTc0/MDAxNjM2NDIwODQ5NTYw.ichgUrL8Dgj7rPKraLbVwT7fIoUNsEBb8Qb55EbFL5Ug.U71B1Zx6OnvWBWxR6GGAoObKZAFxNlmMcPIvOzzBIKEg.PNG/1.png?type=nf220_220" length="0" type="image/png"/>
+            <title><![CDATA[[EVENT] 네카쿠배 풀필먼트의 미래, 라이브로 만나요! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/connectx/us/contents/211025142436964zm</link>
+            <guid>https://contents.premium.naver.com/connectx/us/contents/211025142436964zm</guid>
+            <pubDate>Tue, 16 Nov 2021 16:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[[EVENT] 선착순 500명 라이브 토크쇼 무료 등록 가능! 안녕하세요, 커넥터스 운영자 엄지용입니다. 지난 10월 1일 커넥터스 멤버십을 처음 시작하고 벌써 한 달 가까운 시간이 지났네요. 그동안 커넥터스는 네이버 프리미엄 콘텐츠 입점 비즈니스 채널 중 무려 ‘3위(!!)’까지 치고 올랐습니다. 죄송합니다. 사실 거짓말입니다(...) 3등은 커넥터스 위에 포진한 ‘코인’, ‘부동산’,]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjVfMTIg/MDAxNjM1MTM4MzEyMTc5.RP_hO7bW_kRPKgUfFwYidJYVQK5uMVBkDard8TDT2UYg.BymUQ2HV9QWizUCYUb0BPwPVMG8vTXIN8iFNj24-kFEg.JPEG/%EB%84%A4%EC%B9%B4%EC%BF%A0%EB%B0%B0_%EB%A1%9C%EA%B3%A0_%ED%95%A9%EC%84%B1.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[브리핑] 130년 기업 GE가 쪼개진다...헬스케어·에너지·항공으로 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -809,12 +801,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTBfMjk1/MDAxNjM2NDk5MDg0MDM2.R_YjlsF_vD20S4RdDIpD_U5eAcuOT7v9H60hit73s9Ig.Nnb00DQDhjLLVmnuOJX7A0YNMdbLRvCM2Zv9OHKwXdcg.JPEG/GE_%EB%B6%84%ED%95%A0.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[美 연방법원, 바이든 행정부의 민간기업 코로나19 백신 의무화 제동 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/epochkorea/epic/contents/211109134802232XS</link>
-            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/211109134802232XS</guid>
+            <title><![CDATA[아스트라제네카(AZN)...미국회사 아니야..? (feat. 다양한 ADR기업) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/211109103551374zk</link>
+            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/211109103551374zk</guid>
             <pubDate>Tue, 16 Nov 2021 15:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[Federal Court Blocks Biden Administration’s Private Business COVID-19 Vaccine Mandate 美 연방법원, 바이든 행정부의 민간기업 코로나19 백신 의무화 제동   A federal appeals court on Saturday blocked the Biden administration’s private employer COVID-19 vaccine mandate, asserting there may be constitutional issues with the requirement. 미국 연방 항소법원이 조 바이든 행정부의 민간 기업 대상 중공 바이러스(코로나19) 백신 접종 의무화가]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDlfMTgw/MDAxNjM2NDMzMTczODAx.W0AmjFrZGvQfnnVg1AgJ8J3aPa5ksxu1Gf9OwYSV6Gwg.nmGj-gP1LeEtr_jsXhdSDFAqlsnatD1lwuzmLXYTNZUg.JPEG/bdien-in-state-1200x800-1200x800-795x447.jpeg?type=nf220_220" length="0" type="image/jpeg"/>
+            <content:encoded><![CDATA[다른나라 주식 미국증시에서 매수가능? 고럼고럼! 당연하지! 그게 바로 ADR! 다양한 ADR 기업 알아보러 가자~ #미국주식 #미국증시 #다양한ADR기업 아스트라제네카(AZN) 어디에 있는 회사일까요? 어라? 나스닥에서 봤었는데..? DR을 알면.. 이해 할 수 있어요! 주식예탁증서(DR) 은 무엇일까요? 다국적 기업이 해외시장으로부터  자금을 조달하기 위해 우회 상장하는 방식이랍니다. DR은]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDlfMTc0/MDAxNjM2NDIwODQ5NTYw.ichgUrL8Dgj7rPKraLbVwT7fIoUNsEBb8Qb55EbFL5Ug.U71B1Zx6OnvWBWxR6GGAoObKZAFxNlmMcPIvOzzBIKEg.PNG/1.png?type=nf220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[자바스크립트 탭(TAB) 기능 만들기 2가지 방법 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -825,12 +817,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTBfMTE2/MDAxNjM2NDgxMTc2ODg4.VAeAcq_WtRXneNjoz_X_2ety7n76_xp_aaZtdmJD3iIg.YgQSMliDfEGpp6U_0sWSi20g9a8DvxTOx3hXaYHRBAQg.JPEG/%ED%83%80%EC%9D%B4%ED%8B%80.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[공시王] KAI, 대규모 계약에도 걱정.."눈독 들이는 한화 뿌리칠 추가 투자 불가피" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/infostockdaily/isd/contents/211110001804562XQ</link>
-            <guid>https://contents.premium.naver.com/infostockdaily/isd/contents/211110001804562XQ</guid>
+            <title><![CDATA[美 연방법원, 바이든 행정부의 민간기업 코로나19 백신 의무화 제동 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/epochkorea/epic/contents/211109134802232XS</link>
+            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/211109134802232XS</guid>
             <pubDate>Tue, 16 Nov 2021 15:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[최근 한국항공우주산업(KAI·Korea Aerospace Industries)이 대규모 수주를 성사시켰지만, 지속적인 투자가 단행돼야 ‘시장 경쟁력’을 확보할 수 있다는 평가가 나온다. 이런 가운데, 항공우주 사업에 공격적인 투자를 펼치는 한화그룹은 오래전부터 KAI 인수에 눈독을 들여왔고, 이들 기업의 결합이 중장기적으로 시너지를 극대화할 수 있다는 분석이다.  특히 김승연 회장의 장남인 김]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTBfNTUg/MDAxNjM2NDcxMDIzNDAy.b2IrGH8fn8bVB5OCXiLW8hvJJ5K4KCY5iCdKL0kc3Zog.6UtBDldeV4gkLMTlKaBu6NpkL7mfE9mfIVdF8QPOE1og.PNG/KakaoTalk_20211109_155940304.png?type=nf220_220" length="0" type="image/png"/>
+            <content:encoded><![CDATA[Federal Court Blocks Biden Administration’s Private Business COVID-19 Vaccine Mandate 美 연방법원, 바이든 행정부의 민간기업 코로나19 백신 의무화 제동   A federal appeals court on Saturday blocked the Biden administration’s private employer COVID-19 vaccine mandate, asserting there may be constitutional issues with the requirement. 미국 연방 항소법원이 조 바이든 행정부의 민간 기업 대상 중공 바이러스(코로나19) 백신 접종 의무화가]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDlfMTgw/MDAxNjM2NDMzMTczODAx.W0AmjFrZGvQfnnVg1AgJ8J3aPa5ksxu1Gf9OwYSV6Gwg.nmGj-gP1LeEtr_jsXhdSDFAqlsnatD1lwuzmLXYTNZUg.JPEG/bdien-in-state-1200x800-1200x800-795x447.jpeg?type=nf220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[이직 시 연봉 얼마나 올려야 할까? 연봉 더 올리는 논리적 이유가 있다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -841,12 +833,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTBfMTEg/MDAxNjM2NTIwMTE2NjU5.JR-_wqXDNXthvhG6-MLVXjcrnKLXbDGjhqTtnuz4nL4g.pJR2qkQ6nPzReri9kycu0zhWUylT7rLiVjPiW-w64jwg.JPEG/%EC%97%B0%EB%B4%89%ED%98%91%EC%83%813.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[비가 오면 의자에 앉을 수 없으니 걸어야 해요 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/bookcrew/essaycat/contents/211110002850405YI</link>
-            <guid>https://contents.premium.naver.com/bookcrew/essaycat/contents/211110002850405YI</guid>
-            <pubDate>Tue, 16 Nov 2021 21:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[비가 오면 의자에 앉을 수 없으니 걸어야 해요 뇌이쉬르마른은 꿈에서 깼을 때의 기분을 사랑하지 않았다. 꿈에서 깨면 어딘가 다녀온 기분이 드는 게 싫었다. ‘어쩌면 나는 잠을 자는 동안 병원을 다녀온 걸지도 몰라’ 뇌이쉬르마른은 생각했다. ‘모든 인간은 하루에 몇 시간은 치료를 받아야 하는데, 전인류를 수용하기에는 병원 침대가 부족해 잠을 잘 때 돌아가며 (보이지]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTBfMjUy/MDAxNjM2NDcxMjcwMDEy.pwA7Unu4BooG-gYOMYskUBmLvelW9_iLlY_j4CpokFUg.6Mre_xLVchBG08MlxhPH8Lo-bCBKbDOX4XxB0aPcOg4g.JPEG/endup-lepcha-pTEKMNUt9z4-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[공시王] KAI, 대규모 계약에도 걱정.."눈독 들이는 한화 뿌리칠 추가 투자 불가피" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/infostockdaily/isd/contents/211110001804562XQ</link>
+            <guid>https://contents.premium.naver.com/infostockdaily/isd/contents/211110001804562XQ</guid>
+            <pubDate>Tue, 16 Nov 2021 15:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[최근 한국항공우주산업(KAI·Korea Aerospace Industries)이 대규모 수주를 성사시켰지만, 지속적인 투자가 단행돼야 ‘시장 경쟁력’을 확보할 수 있다는 평가가 나온다. 이런 가운데, 항공우주 사업에 공격적인 투자를 펼치는 한화그룹은 오래전부터 KAI 인수에 눈독을 들여왔고, 이들 기업의 결합이 중장기적으로 시너지를 극대화할 수 있다는 분석이다.  특히 김승연 회장의 장남인 김]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTBfNTUg/MDAxNjM2NDcxMDIzNDAy.b2IrGH8fn8bVB5OCXiLW8hvJJ5K4KCY5iCdKL0kc3Zog.6UtBDldeV4gkLMTlKaBu6NpkL7mfE9mfIVdF8QPOE1og.PNG/KakaoTalk_20211109_155940304.png?type=nf220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[지속가능] 권영수·신학철 '한 지붕 두 가족'...LG엔솔 상장 후 LG화학 주가향방은 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/infostockdaily/isd/contents/211110172021297QE</link>
+            <guid>https://contents.premium.naver.com/infostockdaily/isd/contents/211110172021297QE</guid>
+            <pubDate>Tue, 16 Nov 2021 22:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[LG화학이 지난해 12월 배터리 부문을 떼어내 LG에너지솔루션을 설립했다. 설립 후 기업공개(IPO)를 추진할 예정이었지만, GM 리콜 사태로 IPO 일정이 다소 지연되고 있다.  이런 가운데 LG에너지솔루션이 공급한 전기차 배터리를 탑재한 차량에 대한 대규모 리콜 사태가 이어지자 LG그룹에선 LG에너지솔루션 수장 자리에 권영수 부회장을 배치했다. 자회사와의 권력 관계, 자회사의 완]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTBfMjQ0/MDAxNjM2NTMyMzMxNTMw.qoe0-rNBykszuqCMYFS0wLlytI2mmCA9iw1BnNFNkXsg.DyPgGE53wcYMU1npLUWprJQZ1oVuVIBT9wViX-B2Mvcg.PNG/157861_114320_1748.png?type=nf220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
