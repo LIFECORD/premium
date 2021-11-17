@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2021-11-17T21:10:03.700Z</updated>
+    <updated>2021-11-17T22:11:50.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://www.bookjournalism.com/books/45283</id>
         <link href="https://www.bookjournalism.com/books/45283"/>
         <updated>2021-11-17T17:15:33.405Z</updated>
-        <content type="html"><![CDATA[코미디 패자부활전]]></content>
+        <content type="html"><![CDATA[K유머는 왜 웃기다 말까?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전 세계 12개 나라가 조력사를 합법화하고 있다. 여론은 우호적이다. 점점 더 많은 나라들이 조력사에 관한 사회적 논의를 시작하고 있다.]]></title>

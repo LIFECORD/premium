@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 21:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 22:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -413,6 +413,14 @@
             <content:encoded><![CDATA[요즘 다이어트하고 있습니다. 샐러드와 그릭 요거트가 제 주식이죠. 그릭 요거트를 검색하다가 초바니라는 회사를 알게 됐어요. 미국 1위 그릭 요거트 브랜드라고 합니다.&nbsp;<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[기존의 예술판을 뒤흔든 NFT의 가능성 (폴인)]]></title>
+            <link>https://www.folin.co/story/1950</link>
+            <guid>https://www.folin.co/story/1950</guid>
+            <pubDate>Wed, 17 Nov 2021 22:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>테크</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[사업가와 투자자의 일하는 방식, 무엇이 다를까? (폴인)]]></title>
             <link>https://www.folin.co/story/1940</link>
             <guid>https://www.folin.co/story/1940</guid>
@@ -693,19 +701,11 @@
                                 <li>라이프스타일</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[네이버·카카오가 창업 4개월 된 스타트업에 투자한 이유 (폴인)]]></title>
-            <link>https://www.folin.co/story/1898</link>
-            <guid>https://www.folin.co/story/1898</guid>
-            <pubDate>Tue, 05 Oct 2021 22:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[<li>테크</li>
-                                <li>스타트업</li>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[지상파 코미디 프로그램이 부활했다. 우리의 웃음을 얻을 수 있을까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/45283</link>
             <guid>https://www.bookjournalism.com/books/45283</guid>
             <pubDate>Wed, 17 Nov 2021 17:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[코미디 패자부활전]]></content:encoded>
+            <content:encoded><![CDATA[K유머는 왜 웃기다 말까?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[전 세계 12개 나라가 조력사를 합법화하고 있다. 여론은 우호적이다. 점점 더 많은 나라들이 조력사에 관한 사회적 논의를 시작하고 있다. (북저널리즘)]]></title>

@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2021-11-17T21:10:03.701Z</updated>
+    <updated>2021-11-17T22:11:50.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기존의 예술판을 뒤흔든 NFT의 가능성]]></title>
+        <id>https://www.folin.co/story/1950</id>
+        <link href="https://www.folin.co/story/1950"/>
+        <updated>2021-11-17T22:11:32.174Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>테크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사업가와 투자자의 일하는 방식, 무엇이 다를까?]]></title>
         <id>https://www.folin.co/story/1940</id>
@@ -284,13 +292,5 @@
         <updated>2021-10-06T22:10:44.295Z</updated>
         <content type="html"><![CDATA[<li>공간</li>
                                 <li>라이프스타일</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버·카카오가 창업 4개월 된 스타트업에 투자한 이유]]></title>
-        <id>https://www.folin.co/story/1898</id>
-        <link href="https://www.folin.co/story/1898"/>
-        <updated>2021-10-05T22:10:50.133Z</updated>
-        <content type="html"><![CDATA[<li>테크</li>
-                                <li>스타트업</li>]]></content>
     </entry>
 </feed>
