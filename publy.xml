@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all</id>
     <title>퍼블리</title>
-    <updated>2021-11-17T08:13:41.125Z</updated>
+    <updated>2021-11-17T09:11:43.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 트렌드 노트: 당신은 무엇에 진심인가요?]]></title>
+        <id>https://publy.co/set/1670?fr=category</id>
+        <link href="https://publy.co/set/1670?fr=category"/>
+        <updated>2021-11-17T09:11:02.109Z</updated>
+        <content type="html"><![CDATA[웹북 • 2개 챕터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['왜 그렇게 말했지' 후회하는 당신을 위한 대화의 기술]]></title>
+        <id>https://publy.co/content/6562?fr=category</id>
+        <link href="https://publy.co/content/6562?fr=category"/>
+        <updated>2021-11-17T09:11:02.112Z</updated>
+        <content type="html"><![CDATA[아티클 • 10분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잘 모르는 업무 어떻게든 시작하는 법]]></title>
         <id>https://publy.co/content/6564?fr=category</id>
@@ -60,19 +74,5 @@
         <link href="https://publy.co/content/6563?fr=category"/>
         <updated>2021-11-10T09:11:13.368Z</updated>
         <content type="html"><![CDATA[아티클 • 10분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한번에 통과하는 보고서는 '스토리'가 있다: 스토리 있는 보고서 기획법]]></title>
-        <id>https://publy.co/content/6586?fr=category</id>
-        <link href="https://publy.co/content/6586?fr=category"/>
-        <updated>2021-11-10T09:11:13.369Z</updated>
-        <content type="html"><![CDATA[아티클 • 12분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부트캠프 하기 전에 이거 먼저 보자! 개발자 취업의 모든 것]]></title>
-        <id>https://publy.co/content/6533?fr=category</id>
-        <link href="https://publy.co/content/6533?fr=category"/>
-        <updated>2021-11-09T09:11:02.341Z</updated>
-        <content type="html"><![CDATA[아티클 • 13분 분량]]></content>
     </entry>
 </feed>

@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 08:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 09:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 트렌드 노트: 당신은 무엇에 진심인가요? (퍼블리)]]></title>
+            <link>https://publy.co/set/1670?fr=category</link>
+            <guid>https://publy.co/set/1670?fr=category</guid>
+            <pubDate>Wed, 17 Nov 2021 09:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[웹북 • 2개 챕터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['왜 그렇게 말했지' 후회하는 당신을 위한 대화의 기술 (퍼블리)]]></title>
+            <link>https://publy.co/content/6562?fr=category</link>
+            <guid>https://publy.co/content/6562?fr=category</guid>
+            <pubDate>Wed, 17 Nov 2021 09:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 • 10분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[잘 모르는 업무 어떻게든 시작하는 법 (퍼블리)]]></title>
             <link>https://publy.co/content/6564?fr=category</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/6563?fr=category</guid>
             <pubDate>Wed, 10 Nov 2021 09:11:13 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한번에 통과하는 보고서는 '스토리'가 있다: 스토리 있는 보고서 기획법 (퍼블리)]]></title>
-            <link>https://publy.co/content/6586?fr=category</link>
-            <guid>https://publy.co/content/6586?fr=category</guid>
-            <pubDate>Wed, 10 Nov 2021 09:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 • 12분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[부트캠프 하기 전에 이거 먼저 보자! 개발자 취업의 모든 것 (퍼블리)]]></title>
-            <link>https://publy.co/content/6533?fr=category</link>
-            <guid>https://publy.co/content/6533?fr=category</guid>
-            <pubDate>Tue, 09 Nov 2021 09:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 • 13분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022년 굿즈 만들려면 ‘별다꾸’부터 알고 가셔야 합니다 (feat. 총정리) (캐릿)]]></title>
