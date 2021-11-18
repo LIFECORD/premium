@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2021-11-18T14:11:42.178Z</updated>
+    <updated>2021-11-18T15:11:55.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[초바니 : 대기업이 버린 낡은 공장, 그릭 요거트 열풍이 시작되다]]></title>
-        <id>https://www.longblack.co/note/105</id>
-        <link href="https://www.longblack.co/note/105"/>
-        <updated>2021-11-17T15:11:49.732Z</updated>
-        <content type="html"><![CDATA[요즘 다이어트하고 있습니다. 샐러드와 그릭 요거트가 제 주식이죠. 그릭 요거트를 검색하다가 초바니라는 회사를 알게 됐어요. 미국 1위 그릭 요거트 브랜드라고 합니다.&nbsp;<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[넥스트도어 : 당근마켓을 닮은 미국의 ‘하이퍼 로컬’ 서비스]]></title>
+        <id>https://www.longblack.co/note/108</id>
+        <link href="https://www.longblack.co/note/108"/>
+        <updated>2021-11-18T15:11:29.611Z</updated>
+        <content type="html"><![CDATA[어제 집 대청소를 싹 했거든. 잘 안 쓰는데 버리긴 아까운 물건들이 우수수 나왔어. 이런 물건들은 당연히 ‘당근’ 해야지.당근마켓에<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
