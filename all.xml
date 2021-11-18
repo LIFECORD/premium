@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 00:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 01:54:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6563?fr=category</guid>
             <pubDate>Wed, 10 Nov 2021 09:11:13 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 10분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[나 대신 인형 여행보내는 상품에 1020 예약이 폭주한 이유 (캐릿)]]></title>
+            <link>https://www.careet.net/555</link>
+            <guid>https://www.careet.net/555</guid>
+            <pubDate>Thu, 18 Nov 2021 01:53:55 GMT</pubDate>
+            <content:encoded><![CDATA[뽀쨕뽀쨕 걸어서 세계 속으로]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/17547afc-a9d3-4eb0-ab67-a999cefd9d77_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2022년 굿즈 만들려면 ‘별다꾸’부터 알고 가셔야 합니다 (feat. 총정리) (캐릿)]]></title>
