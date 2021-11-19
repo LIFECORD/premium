@@ -2,7 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2021-11-19T01:54:51.085Z</updated>
+    <updated>2021-11-19T02:27:22.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[한국 전쟁 종전 선언이 한미일 사이에서 논의되고 있다. 정말 전쟁이 끝날까?]]></title>
+        <id>https://www.bookjournalism.com/books/45326</id>
+        <link href="https://www.bookjournalism.com/books/45326"/>
+        <updated>2021-11-19T02:27:15.222Z</updated>
+        <content type="html"><![CDATA[종전의 밤]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애써 웃음을 찾게 되는 애타는 세상이다. K유머는 왜 웃기느라 애쓰기만 할까.]]></title>
+        <id>https://www.bookjournalism.com/books/45283</id>
+        <link href="https://www.bookjournalism.com/books/45283"/>
+        <updated>2021-11-19T02:27:15.222Z</updated>
+        <content type="html"><![CDATA[K유머는 왜 웃기다 말까?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전 세계 12개 나라가 조력사를 합법화하고 있다. 여론은 우호적이다. 점점 더 많은 나라들이 조력사에 관한 사회적 논의를 시작하고 있다.]]></title>
+        <id>https://www.bookjournalism.com/books/45260</id>
+        <link href="https://www.bookjournalism.com/books/45260"/>
+        <updated>2021-11-19T02:27:15.234Z</updated>
+        <content type="html"><![CDATA[최후의 선택]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서브스택이 설립 4년 만에 유료 구독자 100만 명을 확보했다. 미디어 비즈니스의 미래가 바뀔까?]]></title>
+        <id>https://www.bookjournalism.com/books/45169</id>
+        <link href="https://www.bookjournalism.com/books/45169"/>
+        <updated>2021-11-19T02:27:15.235Z</updated>
+        <content type="html"><![CDATA[서브스택은 뉴미디어의 뉴욕타임스가 될까?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패션 산업의 갈등이 재현됐다. 천재와 브랜드 사이의 충돌은 숙명일까? 보테가는 이미 대체제를 찾았다.]]></title>
+        <id>https://www.bookjournalism.com/books/45127</id>
+        <link href="https://www.bookjournalism.com/books/45127"/>
+        <updated>2021-11-19T02:27:15.236Z</updated>
+        <content type="html"><![CDATA[다니엘과 보테가는 왜 서로를 저버렸나?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북저널리즘 라디오 에피소드 #13에선, 경선 후 청년 세대의 국민의힘 탈당, 슈퍼맨의 커밍아웃, 지리산의 PPL 대잔치, 공익신고의 빛과 어둠에 대해 이야기합니다.]]></title>
+        <id>https://www.bookjournalism.com/audio/45059</id>
+        <link href="https://www.bookjournalism.com/audio/45059"/>
+        <updated>2021-11-19T02:27:15.236Z</updated>
+        <content type="html"><![CDATA[공익신고 후 탈당한 청년들이 지리산으로 가 슈퍼맨을 만났다?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[핀테크는 더 이상 간편 금융 서비스나 플랫폼이 아니다. 금융과 비금융, 온라인과 오프라인을 아우르는 하나의 생태계다.]]></title>
+        <id>https://www.bookjournalism.com/books/44852</id>
+        <link href="https://www.bookjournalism.com/books/44852"/>
+        <updated>2021-11-19T02:27:15.267Z</updated>
+        <content type="html"><![CDATA[핀테크 기업 전략]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜 공익신고자에 대한 포상이 필요할까? 내부고발의 해피엔딩은 가능할까? 우리 회사의 범죄와 비리는 누가 밝혀야 할까? 어쩌면 바로 당신.]]></title>
+        <id>https://www.bookjournalism.com/books/45022</id>
+        <link href="https://www.bookjournalism.com/books/45022"/>
+        <updated>2021-11-19T02:27:15.268Z</updated>
+        <content type="html"><![CDATA[공익신고의 해피엔딩은 꿈일까?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지리산은 왜 산으로 갔는가? 콘텐츠를 산으로 가게 만드는 한국 콘텐츠 비즈니스 모델의 본질적 문제는 무엇인가?]]></title>
+        <id>https://www.bookjournalism.com/books/44941</id>
+        <link href="https://www.bookjournalism.com/books/44941"/>
+        <updated>2021-11-19T02:27:15.269Z</updated>
+        <content type="html"><![CDATA[K콘텐츠가 산으로 간 까닭은?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시장과 중앙은행은 금리인상 시기를 놓고 힘겨루기를 벌이고 있다. 시장과 중앙은행은 금리인상 시기를 놓고 힘겨루기를 벌이고 있다. 경기는 후퇴하는데 물가만 오르고 있다. 중앙은행한텐 다른 선택지도 시간도 없다.]]></title>
+        <id>https://www.bookjournalism.com/books/44911</id>
+        <link href="https://www.bookjournalism.com/books/44911"/>
+        <updated>2021-11-19T02:27:15.270Z</updated>
+        <content type="html"><![CDATA[시장을 이기는 중앙은행은 없다?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2030 청년층의 국민의힘 탈당 인증이 줄을 잇는다. 지역 갈등보다도 첨예한 세대 갈등이 한국 정치를 흔든다.]]></title>
+        <id>https://www.bookjournalism.com/books/44879</id>
+        <link href="https://www.bookjournalism.com/books/44879"/>
+        <updated>2021-11-19T02:27:15.271Z</updated>
+        <content type="html"><![CDATA[탈당한다 잘 해봐라]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슈퍼맨이 양성애자로 커밍아웃한다. 우리들의 롤모델이 달라지고 있다.]]></title>
+        <id>https://www.bookjournalism.com/books/44827</id>
+        <link href="https://www.bookjournalism.com/books/44827"/>
+        <updated>2021-11-19T02:27:15.271Z</updated>
+        <content type="html"><![CDATA[세상을 바꾸는 슈퍼맨, 세상이 바꾼 슈퍼맨]]></content>
+    </entry>
 </feed>
