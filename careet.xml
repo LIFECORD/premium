@@ -4,9 +4,24 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 00:35:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 01:54:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버킷리스트를 보면 트렌드가 보인다! 수능 끝난 고3 근황.txt]]></title>
+            <link>https://www.careet.net/559</link>
+            <guid>https://www.careet.net/559</guid>
+            <pubDate>Fri, 19 Nov 2021 01:54:08 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 10대는 수능 끝나면 바디 프로필 찍고 유튜브 채널 개설한다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/4fa01ac4-0823-4b43-91df-d96dabed06b0_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Z세대가 갑자기 SNS에서 ‘문익점’을 외치고 있는 이유는?]]></title>
+            <link>https://www.careet.net/557</link>
+            <guid>https://www.careet.net/557</guid>
+            <pubDate>Fri, 19 Nov 2021 01:54:08 GMT</pubDate>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/562303ae-4571-4b5d-be6c-eb4aeb0c1604_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[나 대신 인형 여행보내는 상품에 1020 예약이 폭주한 이유]]></title>
             <link>https://www.careet.net/555</link>
