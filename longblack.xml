@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2021-11-19T14:11:20.862Z</updated>
+    <updated>2021-11-19T15:11:51.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[넥스트도어 : 당근마켓을 닮은 미국의 ‘하이퍼 로컬’ 서비스]]></title>
-        <id>https://www.longblack.co/note/108</id>
-        <link href="https://www.longblack.co/note/108"/>
-        <updated>2021-11-18T15:11:29.611Z</updated>
-        <content type="html"><![CDATA[어제 집 대청소를 싹 했거든. 잘 안 쓰는데 버리긴 아까운 물건들이 우수수 나왔어. 이런 물건들은 당연히 ‘당근’ 해야지.당근마켓에<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[생각의 기쁨 : 창의력은 쥐어짜내는 것이 아니라, 흘러넘치는 것이다]]></title>
+        <id>https://www.longblack.co/note/109</id>
+        <link href="https://www.longblack.co/note/109"/>
+        <updated>2021-11-19T15:11:19.688Z</updated>
+        <content type="html"><![CDATA[저는 참 운이 좋습니다. 제 주변엔 남다른 생각을 하는 사람이 많거든요. 정말 부럽습니다. 그런 능력을 갖추고 싶어요. 스스로 성장하고, 주변 사람들에게 도움이 되고 싶습니다.<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
