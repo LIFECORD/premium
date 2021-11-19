@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 08:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 09:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스레터 고민 끝! 바로 시작해보는 이메일 마케팅 (퍼블리)]]></title>
+            <link>https://publy.co/content/6555?fr=category</link>
+            <guid>https://publy.co/content/6555?fr=category</guid>
+            <pubDate>Fri, 19 Nov 2021 09:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 • 10분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[이 일, 나한테 맞는 걸까? 이직 전 반드시 체크할 것들 (퍼블리)]]></title>
             <link>https://publy.co/content/6593?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6552?fr=category</guid>
             <pubDate>Thu, 11 Nov 2021 09:11:14 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 14분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[좀 더 빠르게 vs 좀 더 완벽하게, 퍼블리 PM의 선택은? (퍼블리)]]></title>
-            <link>https://publy.co/content/6595?fr=category</link>
-            <guid>https://publy.co/content/6595?fr=category</guid>
-            <pubDate>Wed, 10 Nov 2021 09:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 • 12분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[버킷리스트를 보면 트렌드가 보인다! 수능 끝난 고3 근황.txt (캐릿)]]></title>
