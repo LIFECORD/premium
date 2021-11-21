@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 21:09:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 22:11:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -436,6 +436,14 @@
             <content:encoded><![CDATA[나 레깅스 하나 사려고. 한동안 운동을 못했더니 온몸이 뻐근해. 그런데 룰루레몬은 좀 비싸네. 괜히 요가계의 샤넬이겠어. 그렇다고 안다르를 사자니… (말을 아낀다)<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[넷마블 게임을 만드는 CTO, 어떻게 일할까? (폴인)]]></title>
+            <link>https://www.folin.co/story/1946</link>
+            <guid>https://www.folin.co/story/1946</guid>
+            <pubDate>Sun, 21 Nov 2021 22:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[<li>테크</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[NFT아트, 첫 번째 에디션이 비싼 이유 (폴인)]]></title>
             <link>https://www.folin.co/story/1951</link>
             <guid>https://www.folin.co/story/1951</guid>
@@ -714,14 +722,6 @@
             <pubDate>Mon, 11 Oct 2021 22:10:44 GMT</pubDate>
             <content:encoded><![CDATA[<li>워크</li>
                                 <li>조직문화</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[부산의 영어학원에 팬클럽이 있다? (폴인)]]></title>
-            <link>https://www.folin.co/story/1900</link>
-            <guid>https://www.folin.co/story/1900</guid>
-            <pubDate>Fri, 08 Oct 2021 14:43:02 GMT</pubDate>
-            <content:encoded><![CDATA[<li>라이프스타일</li>
-                                <li>커리어</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[미술 시장이 커지면서 미술품 위조 기술도 나날이 발전하고 있다. 세계 최고의 위조 예술품 감정가 마틴은 미술계의 셜록 홈즈다. 진짜가 나타났다. (북저널리즘)]]></title>
