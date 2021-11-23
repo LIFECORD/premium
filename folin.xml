@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2021-11-23T21:10:41.537Z</updated>
+    <updated>2021-11-23T22:11:47.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버·카카오가 추격하는 협업 툴 스타트업, 누굴까?]]></title>
+        <id>https://www.folin.co/story/1952</id>
+        <link href="https://www.folin.co/story/1952"/>
+        <updated>2021-11-23T22:11:30.937Z</updated>
+        <content type="html"><![CDATA[<li>테크</li>
+                                <li>스타트업</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["구글 주3일 출근 활용해 40대의 일 찾았죠"]]></title>
         <id>https://www.folin.co/story/1955</id>
@@ -284,13 +292,5 @@
         <updated>2021-10-13T22:10:33.115Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>라이프스타일</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NC·삼성 출신 개발자가 6년 전 선택한 창업 아이템]]></title>
-        <id>https://www.folin.co/story/1905</id>
-        <link href="https://www.folin.co/story/1905"/>
-        <updated>2021-10-12T22:10:42.666Z</updated>
-        <content type="html"><![CDATA[<li>테크</li>
-                                <li>스타트업</li>]]></content>
     </entry>
 </feed>
