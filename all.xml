@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 16:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 17:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -457,7 +457,7 @@
             <link>https://www.longblack.co/note/114</link>
             <guid>https://www.longblack.co/note/114</guid>
             <pubDate>Tue, 23 Nov 2021 15:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[또 돌아왔어. 스타벅스Starbucks 다이어리 시즌 말이야. 나 또 e-프리퀀시(쿠폰) 모으기 시작했잖아. 그 핑계로 한동<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[또 돌아왔어. 스타벅스Starbucks 다이어리 시즌 말이야. 나 e-프리퀀시(쿠폰) 모으기 시작했잖아. 그 핑계로 한동안 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["구글 주3일 출근 활용해 40대의 일 찾았죠" (폴인)]]></title>
