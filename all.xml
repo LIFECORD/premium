@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 14:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 15:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -453,11 +453,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/a115c60f-ecc0-4252-8cc8-2be2ca525e55_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[매거진 <B> : 브랜드에 대한 10년의 기록, 브랜드가 되었다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/112</link>
-            <guid>https://www.longblack.co/note/112</guid>
-            <pubDate>Mon, 22 Nov 2021 15:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[매거진 &lt;B&gt;가 10주년을 맞았습니다. 10주년 전시회가 열리고 있는 남산 자락의 복합 문화공간 피크닉Piknic을 올라가면서 프라이탁<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[스타벅스 :  1위 커피샵이 돈을 벌고 굴리는 법, 재무제표로 읽다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/114</link>
+            <guid>https://www.longblack.co/note/114</guid>
+            <pubDate>Tue, 23 Nov 2021 15:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[또 돌아왔어. 스타벅스Starbucks 다이어리 시즌 말이야. 나 또 e-프리퀀시(쿠폰) 모으기 시작했잖아. 그 핑계로 한동<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["구글 주3일 출근 활용해 40대의 일 찾았죠" (폴인)]]></title>
@@ -748,6 +748,13 @@
                                 <li>스타트업</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[온라인 명품 거래 플랫폼이 고속 성장하고 있다. 비결은? 우리는 왜 명품에 열광할까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/45471</link>
+            <guid>https://www.bookjournalism.com/books/45471</guid>
+            <pubDate>Tue, 23 Nov 2021 15:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[품절과 함께 사라지다]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['81년생 최수연'이 화제다. 네이버는 왜 젊은 여성 CEO를 선임했을까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/45437</link>
             <guid>https://www.bookjournalism.com/books/45437</guid>
@@ -825,83 +832,76 @@
             <content:encoded><![CDATA[K콘텐츠가 산으로 간 까닭은?]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시장과 중앙은행은 금리인상 시기를 놓고 힘겨루기를 벌이고 있다. 시장과 중앙은행은 금리인상 시기를 놓고 힘겨루기를 벌이고 있다. 경기는 후퇴하는데 물가만 오르고 있다. 중앙은행한텐 다른 선택지도 시간도 없다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/44911</link>
-            <guid>https://www.bookjournalism.com/books/44911</guid>
-            <pubDate>Fri, 19 Nov 2021 15:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[시장을 이기는 중앙은행은 없다?]]></content:encoded>
+            <title><![CDATA[내가 낸 세금을 잘 쓰이도록 하려면? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/hankyungtesat/tesat/contents/211110155741308Ig</link>
+            <guid>https://contents.premium.naver.com/hankyungtesat/tesat/contents/211110155741308Ig</guid>
+            <pubDate>Tue, 23 Nov 2021 15:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[경제가 성장하면 복지 수준에 대한 국민적 요구가 높아지기 마련이죠. 아동수당, 청년수당, 실업급여, 노령연금 등등 신문이나 뉴스에서 자주 언급되는 현금성 복지제도도 이런 요구에 대해 나타난 정책이죠. 하지만 복지 확대는 지방자치의 영역에도 영향을 미쳐 복지와 관련한 예산이 늘어나게 됩니다. 하지만 한국의 지방자치 재정자립도는 이러한 복지 프로그램을 대폭 확]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTBfMTgz/MDAxNjM2NTI3NDE3ODg1.Ttp404QFfH4Zgy3OkW8Khmd24cMjnvCAxtzHRH3L6xkg.3BJoEZb2d0m0hYEsjV8OgxwSfkRcSg7D9o74dwLPwngg.JPEG/14869337_R_0.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우리집이 '조정대상지역'에 있을 때 생기는 일 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/taxwatch/tax/contents/211109103527492AN</link>
-            <guid>https://contents.premium.naver.com/taxwatch/tax/contents/211109103527492AN</guid>
-            <pubDate>Mon, 22 Nov 2021 15:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[정부는 부동산 과열이 예상되는 지역을 조정대상지역으로 묶어 주택의 취득과 보유, 매매과정에 각종 규제를 적용하고 있다.  최근 3개월간 집값 상승률이 물가상승률의 1.3배를 초과한 지역이나 2개월 이상 평균 청약 경쟁률이 5대 1을 초과한 지역이 조정대상지역으로 지정되는데, 조정대상지역으로 지정되면, 대출규제와 세금중과 등의 다양한 불이익을 받게 된다. LTV(은행에]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDlfMjI5/MDAxNjM2NDIxMzg3MTc5.t3fNu2egjBUc2kKJaR1gF-cJz7jqDzZrJQXM_uG4XPsg.1g79Ugy0sIKOVZKmRdWrgLsFzWfDn64NQgh86e_hTtMg.JPEG/%ED%97%A4%EB%93%9C%EB%9D%BC%EC%9D%B8_%EC%9B%B9_%EC%A1%B0%EC%A0%95%EB%8C%80%EC%83%81%EC%A7%80%EC%97%AD.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[구루워치] 버핏 올해 3분기에 주식 8조 처분...현명한 선택? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/joongang/gmoney/contents/211117080527072uI</link>
+            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/211117080527072uI</guid>
+            <pubDate>Tue, 23 Nov 2021 15:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[지금은 미국 월가 사람들이 말하는 '13F 시즌'입니다. 증권시장 상장기업이 분기 보고서(13F)를 증권거래위원회(SEC)에 제출하는 시기란 얘깁니다.  13F 시즌은 투자 그루(guru)들이 최근 분기에 무엇을 팔고 무엇을 사들였는지를 알 수 있는 시기이도 합니다. 실제로 '투자의 귀재' 워런 버핏 버크셔해서웨이가 올해 3분기(7~9월) 사이에 사고판 종목이 드러났습니다. 국내외 미디어는]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTdfMjM5/MDAxNjM3MTExMDI0NDA5.NXhUuLPkoMrSQoXlAS7aP63fYj7SaVnAsl21bEjpVCwg.d3wB3B1KdWRsJ0jJL_cKRqUNeJVFExsDP2hMa4i6qdwg.JPEG/%EC%9B%8C%EB%9F%B0%EB%B2%84%ED%95%8F.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울 아파트 톱100의 보유세 예상액 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/taxwatch/tax/contents/211111082143691Pk</link>
-            <guid>https://contents.premium.naver.com/taxwatch/tax/contents/211111082143691Pk</guid>
-            <pubDate>Mon, 22 Nov 2021 15:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[집주인이라면 매해 7·9월에 날아오는 재산세 고지서를 피할 수 없다. 비싼 집에 살고 있는 집주인은 12월에 종합부동산세 고지서도 받게 된다. 이렇게 집을 갖고 있는 사람에게 부과하는 재산세·종합부동산세 등의 세금을 '보유세'라고 부르기도 한다.  박정수 세무사(세무법인 다솔)와 함께 서울 인기 아파트 100개의 2020년, 2021년 보유세를 각각 계산해봤다.  서울 25개구에서 2020]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTFfODcg/MDAxNjM2NTg1ODg3OTMw.Aebj73Xkk6mSGD37LttKxNWnTT1EJAgXh_R_KteUQWcg.yA1HX4lg2-w3YKjElSSlIg9K54jshd5oBPeZpyLhL3cg.JPEG/%ED%97%A4%EB%93%9C%EB%9D%BC%EC%9D%B8_2021%EB%B3%B4%EC%9C%A0%EC%84%B8.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[인건비에 퇴직금 포함해 줬는데 또 주라고? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/taxwatch/tax/contents/211116091010622cx</link>
+            <guid>https://contents.premium.naver.com/taxwatch/tax/contents/211116091010622cx</guid>
+            <pubDate>Tue, 23 Nov 2021 15:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[사업을 하다 보면 겪는 어려움 중 하나가 바로 인건비일 텐데요. 오늘 세세하게에서는 갑자기 고용노동부에서 출석하라고 연락을 받은 한 사장님의 이야기를 통해 인건비 누락이 가져오는 세무적 위험에 대해 다뤄보려 해요.  사장님의 사연을 들어봤더니 1년이 넘게 일한 직원 A씨가 퇴사하면서 퇴직금을 주지 않았다는 이유로 고용노동부에 사장님을 고발했다는 거예요. 사장]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTZfNjQg/MDAxNjM3MDIxMjY3ODcy.c7_QllhZetr2jOpNLxbYplSoy5hto3m71GnvfP4Mn18g.JZ3RCmAnRB_EHJdtxliAnVUjITPjOR-yNJj-kdEcb84g.JPEG/%EC%A0%88%EC%83%88_%EB%A7%A4%EC%B6%9C%EB%88%84%EB%9D%BD.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[구루워치] '월가의 천재' 사이먼스, 자금이탈하자 개미 따라나섰다! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/joongang/gmoney/contents/211116074756479gJ</link>
-            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/211116074756479gJ</guid>
-            <pubDate>Mon, 22 Nov 2021 15:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[‘월가의 가장 똑똑한 사나이’가 개미 투자자 따라하기 시작했다.  제임스(짐) 사이먼스 르네상스테크놀로지스 대표는 현란한 수학을 바탕으로 돈을 굴리는 ‘퀀트’의 상징이다.  과장이 아니다. 사이먼스는 MIT 학부에서 수학을 배운 뒤 UC버클리에서 수학 박사학위를 받았다. 그것도 23살 때였다. 이런 머리를 바탕으로 헤지펀드를 설립해 ‘투자의 귀재’인 워런 버핏보다 수]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTZfODMg/MDAxNjM3MDE2NDQ1NTQ0.qfNG6feghfys6Dd101N03Wr1cuv9NJcJr1U-J_Q2zAcg.ZILFf9osEhareyoLRIKZotz7tL8eKHyWbC3Kw7QTppsg.JPEG/%EC%A0%9C%EC%9E%84%EC%8A%A4_%EC%82%AC%EC%9D%B4%EB%A8%BC%EC%8A%A4.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[애플 이탈? 퀄컴 '최고가' 경신 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/211117085945670Gq</link>
+            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/211117085945670Gq</guid>
+            <pubDate>Tue, 23 Nov 2021 15:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[최근 IT 업계에서 가장 두드러진 변화는 애플, 구글 등 빅테크 기업들이 자체 반도체 생산에 돌입했다는 점입니다. PC 반도체 최강자 인텔, 스마트폰 반도체 최강자 퀄컴 입장에서는 주요 고객들의 이탈을 우려할 수밖에 없는 상황이죠. 특히 주요 빅테크 기업들의 제품 판매 규모를 감안하면, 이들의 자체 칩 개발 소식은 반도체 전문 업체들에게 악재로 여겨져 왔습니다. 이런 가]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTdfMTQg/MDAxNjM3MTA3MDUzMDk0.9QaHpI9H5gD1sFfTOSLi49ztx5Ihr5TBPLphhLz4tiUg.MDEr1LYUwHff2sYHKyhpWaVJf3k8mD0e8XeWUztXPRog.JPEG/1._%ED%80%84%EC%BB%B4.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삼성화재, '1조 클럽' 역대급 실적에도 쓴웃음 지은 사연 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/thebell/stock/contents/211115165953464Zw</link>
-            <guid>https://contents.premium.naver.com/thebell/stock/contents/211115165953464Zw</guid>
-            <pubDate>Mon, 22 Nov 2021 15:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[삼성화재가 호실적에도 마냥 웃지 못하는 모습입니다. 올해 3분기 누적 순이익 1조원을 돌파하면서 2018년 이후 3년 만에 역대급 연간 실적을 눈앞에 두고 있는데도 내부 분위기는 오히려 어두워 보입니다. 속 사정을 살펴보니 그럴만한 이유가 있었습니다. 올해 실적이 좋은 게 오히려 내년에 독이 될 수 있다고 여겨지는 많은 수들이 보이기 때문입니다. 무엇보다 올해 실적을 끌]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTVfMjQ5/MDAxNjM2OTU5NTA2MzU1.U6WX_85XS61kq8Y96yk6tWn1BPDjsS44W_wR9tcAhYcg.0l_ulv0524w9OYW327oxpopcDbT4lcP0NzlZSK_3RA0g.JPEG/%EC%82%BC%EC%84%B1_00.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[들어가며 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/lasguerrillas/guerrilla/contents/211117194158114nH</link>
+            <guid>https://contents.premium.naver.com/lasguerrillas/guerrilla/contents/211117194158114nH</guid>
+            <pubDate>Tue, 23 Nov 2021 15:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[흘러야 하는 물줄기, 그 아래 잠든 조약돌 들어가며 코앞에 있는 영등포를 놔두고 꾸역꾸역 경기도 가평까지 가느라 도로에서 한 시간을 넘게 썼다. 그래도 괜찮았다. 이미 한 번이니까, 하고 큰 맘 먹고 냈던 돈을 며칠 안 되어 또다시 냈지만. 만사 제치고 열흘 째 이것만 붙들고 있었지만. 시험장 벽에 당일합격! 당일취득! 어렵지 않아요! 하고 적힌 문구로 보아하니 남들은 하]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTdfMjc0/MDAxNjM3MTIwODc4MzM4._30seB7rxYl5Hobmvg5vg_RC3JP8ssaFnZL7rcpOSoYg.vFasd1L8a0B1-vlWV36izE-yqU-RJPvmlf8krKwllbgg.JPEG/image-4.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[롯데글로벌로지스 박찬복 대표 '장수 CEO' 반열 오를까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/thebell/stock/contents/211115165857638mN</link>
-            <guid>https://contents.premium.naver.com/thebell/stock/contents/211115165857638mN</guid>
-            <pubDate>Mon, 22 Nov 2021 15:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[신동빈 롯데그룹 회장은 한번 신뢰를 얻은 경영진은 곁에 오래오래 두는 편으로 알려져 있습니다. 박찬복 롯데글로벌로지스 대표이사는 어떨까요. 롯데글로벌로지스가 롯데그룹을 대표하는 계열사라고 할 수는 없지만 CEO 낙점 이후 수익성 개선 측면에서 눈에 띄는 성과를 거뒀습니다. 올해로 5년째 CEO를 맡고 있는데요. 장수 CEO 반열에 오를 수 있을까요. 롯데그룹 내에서 '재]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTVfMjAy/MDAxNjM2OTYwNTQ0Njk5.moy9wDq6MPBLDJfOvXKVTdrUugekcamkdIO5e4aTKtQg.K_h-QZhGZoguYgNFob4Ai3Jsn106GrmvxWAFHXhuVzcg.PNG/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2021-11-15_161529.png?type=nf220_220" length="0" type="image/png"/>
+            <title><![CDATA[묶였던 비트코인 10조원 어치가 시장에 풀린다면? (2021.11.17) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/cryptoneedle/crypto/contents/211117181146297gS</link>
+            <guid>https://contents.premium.naver.com/cryptoneedle/crypto/contents/211117181146297gS</guid>
+            <pubDate>Tue, 23 Nov 2021 15:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[1. 반에크(VanEck) BTC 선물 ETF, CBOE 거래 시작 https://cointelegraph.com/news/vaneck-bitcoin-futures-etf-to-launch-on-cboe-on-nov-16 뉴스 요약 - 반에크 BTC 선물 ETF(티커 XBTF)가 CBOE(시카고옵션거래소)에서 거래 시작 - 미국에서 거래 시작한 세번째 비트코인 선물 ETF - 운용 수수료는 0.65%로 프로셰어스의 BITO(0.95%), 발키리의 BTF(0.95%)보다 낮음 덧붙이기 이미 예고됐던 뉴스인데다 이미 먼저 거래를 시작한 E]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTdfNiAg/MDAxNjM3MTQwMjgxNzc4.gGdegejEAd8GyuJaRHcY3AoAFaEO9bOiajbOxZDeVMog.2CVrZJWlLS720j03cvg0mb5zJmNc3aflhFabSkJxJtUg.JPEG/dmitry-demidko-xZJpKskRdOg-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[(2021/11/16) 코인이지 뉴스레터 #1 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/coineasy/coineasynews/contents/211116160751283MR</link>
-            <guid>https://contents.premium.naver.com/coineasy/coineasynews/contents/211116160751283MR</guid>
-            <pubDate>Mon, 22 Nov 2021 15:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[Markets Trending Topics -마이애미시, 마이애미 시민들에게 스택킹을 통해 획득한 비트코인 지급  https://www.coindesk.com/business/2021/11/11/miami-to-give-bitcoin-yield-from-miamicoin-to-its-citizens -NFT 및 메타버스 프로젝트 전문 VC 애니모카 브랜드, 한국의 큐브 엔터테이먼트와 파트너쉽을 맺고, K-Pop 메타버스 구축 계획 발표  https://cointelegraph.com/news/animoca-brands-unveils-plans-for-k-pop-nft-metaverse -테라의 발키]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTVfMzAg/MDAxNjM2OTg3MDQ1ODUx.rIyiVh81V7hXYhQMhrdpWEZPkSCvTyK5fp7tGs6m1rQg.wVnyKVPIBTo4NmaIxij2MQMS-fHjEgLw917joe_Bic4g.PNG/Screenshot_2021-11-15_at_11.37.07_PM.png?type=nf220_220" length="0" type="image/png"/>
+            <title><![CDATA[11.17일 종목리뷰 (쿠쿠홈시스, ISC, DB손해보험, 하이즈항공) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/kiwoom/thestock/contents/211117163853915CW</link>
+            <guid>https://contents.premium.naver.com/kiwoom/thestock/contents/211117163853915CW</guid>
+            <pubDate>Tue, 23 Nov 2021 15:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;쿠쿠홈시스 리뷰&gt; 1. 하락 마감 및 원인(-3.66%) - 소폭 하락 출발한 쿠쿠홈시스는 코스피 시장과 동조화 양상을 보이면서 장중 지속적으로 약세를 보인 끝에 39,500원에 마감하였습니다.  - 특히 단기 지지대라고 할 수 있는 4만원을 이탈하면서 경계 매물이 크게 증가하는 모습이었지만, 39,000원에서는 반발 매수 유입도 확인되는 하루였습니다. - 전일 갭 상승하면서 20일 이평선을]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTdfMTk5/MDAxNjM3MTMxNDEwOTY4.nqmSm6N4YBHttEOtfz8ceSQACdvFuqj1u1Kx-WLrz-sg.j7Se82esd_Oko7KZ553BztVfkUofTO3W2QYGAZnhS4Ug.JPEG/GettyImages-1190564035.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[머스크 '리스크', 테슬라 주가 하락세 지속 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/211116083358505fg</link>
-            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/211116083358505fg</guid>
-            <pubDate>Mon, 22 Nov 2021 15:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[전기차 1위업체 테슬라의 최대 리스크 중 하나로 일론 머스크 최고 경영자(CEO)의 '입'을 이야기하는 사람들이 많습니다. 정확히는 트위터 글인데요. 머스크 CEO의 발언에 따라 주가가 요동치는 일이 비일비재했던 탓입니다. CEO가 시장과 적극적으로 소통하는 것이 꼭 긍정적인 것만 아니라는 사실을 머스크 사례로 알 수 있습니다. 최근 머스크의 트위터 글들로 또다시 테슬라의]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTZfMTg4/MDAxNjM3MDE4Mjg2NDQw.fwTefwszX4mgmJCWrjCmN6dkyhEZu9r_4UHEbPlTtHEg.LvN32c1zfZLibHgPk0z4IRUjYzgozVXE9Uoh7EMKaUwg.JPEG/1._%ED%85%8C%EC%8A%AC%EB%9D%BC-.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[고치가치] 자연의 예술 - 몸이랑 자연 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/wisemotion/wisemotionproduction/contents/211117194715825St</link>
+            <guid>https://contents.premium.naver.com/wisemotion/wisemotionproduction/contents/211117194715825St</guid>
+            <pubDate>Tue, 23 Nov 2021 15:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[몸이랑 자연 자연의 예술 수눌음 엄마 모임의 일원이자 숲 해설사로 일하시는 방울꽃 선생님(박은실)과 함께 우리가 몰랐던 자연을 실제로 만져보고 체험하며 자연을 공부하는 수업 연령과 대상을 넘어 그림책을 통해 숲과 친해지는 경험. 맞춤형 커리큘럼을 통해   숲 놀이를 경험하고 숲에 관심을 가져보는 시간. 숲이 살아가는 방법을 알고, 그 방법을 우리 삶 속에서 실천해]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTdfMjcz/MDAxNjM3MTQxNzEwNjEz._XIVBsiLNp6aQJ0yg6TXCAnWt-Tt6oqGmn97jYLoT6sg.fGxQbkc-CBtWxuZiDV-fQuTzQZSQ7jYvZLKDQtlzHgMg.JPEG/20211004_152010.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엑시 인피니티에 특이점이 발생했다 (2021.11.16) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/cryptoneedle/crypto/contents/211116155532231wL</link>
-            <guid>https://contents.premium.naver.com/cryptoneedle/crypto/contents/211116155532231wL</guid>
-            <pubDate>Mon, 22 Nov 2021 15:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[1. 비트코인 6만 달러 지지선 강력하다 https://twitter.com/intotheblock/status/1460278848977788939?s=20 뉴스 요약 - 암호화폐 데이터 분석회사 인투더블록에 의하면 비트코인은 현재 강력한 지지를 받고 있음 - 219만개 주소가 6만 달러 이상에서 127만 BTC를 매수했음 - 그럼에도 오늘 비트코인 가격은 6만달러 선까지 하락 - 만약 비트코인이 6만 달러 지지선을 내줄 경우에는 5만7400 달러에서 리테]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTZfMTE4/MDAxNjM3MDQ1NTQ3ODgy.OcHbtv_erW_WB4c6WilQq3uIRrgfb6_-4ybOTT2HKxAg.TBIXpaskmncVBvwmB-R9ppeffyAyYYblYcNr_u_vVEUg.JPEG/hugo-jehanne-LOHVrTsdvzY-unsplash_(1).jpg?type=nf220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[11.15일 <솔루스첨단소재> 목표가 달성  (+28.2%) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/kiwoom/thestock/contents/211116151228315MJ</link>
-            <guid>https://contents.premium.naver.com/kiwoom/thestock/contents/211116151228315MJ</guid>
-            <pubDate>Tue, 23 Nov 2021 11:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;솔루스첨단소재 리뷰&gt; 1. 목표가 달성, 오전장 고가 기준 +28.2%(106,500원) 수익률 기록  - 지난 금요일(12일) 장중 3분기 실적을 발표한 솔루스첨단소재는 영업이익이 전년 동기 대비 49.3% 감소했다는 소식에 -8.04%까지 하락 변동성을 연출했으나, 장막판 매출 호조세와 4분시 실적 기대감에 +3.13% 상승하여 마감했는데요 - 오늘은 북미 진출 가시화 전망 속 글로벌 전기차 업체 공급 기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTZfOTcg/MDAxNjM3MDQyNDc4Nzk3.p1uQjoDtEeNw_WXokQB8NWBOqyU05YDjYnedsax7Lcog.XlxEZGAhPNYF2kjQqjUZHmGGEU0N23KX2MK0jCxl1Ukg.JPEG/GettyImages-1347835847.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[배당주] '금리가 오르면 유리'.. 기업 대출 전문! 예상 시가배당률 9.5% - 골드만삭스BDC (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/211119091005244jj</link>
+            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/211119091005244jj</guid>
+            <pubDate>Tue, 23 Nov 2021 15:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[매월 어떤 배당주를 사야할지 고민했다면? 지금 영상을 주목하세요! 미식가가 선정한 12월 배당매력주 ● 배당 공격수 : 골드만삭스BDC (GSBD) ● 배당 미드필더 : 화이자 (PFE) ● 배당 골키퍼 : 필립모리스 (PM) 배당 공격수 주식의 특징 공격적인 투자자에게 적합 배당률 8% 이상 배당금 재투자로 복리수익 극대화 주가 급락시 집중 매수하면 주가 상승에 따른 시세차익도 함께 추구]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTdfMjc3/MDAxNjM3MTI4MjQ1NTA3.mTF3VyRhCcVAkmsVWM0txW7bTfYGPz5pxshpoWRLO0gg.uMDZri5F2q38mKEddmd5Gc5P0dE35v1vDDiK9xwL2Wsg.JPEG/dan-burton-oNlMfgwLbWI-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
