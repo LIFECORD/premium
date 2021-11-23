@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 07:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 08:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[웹툰] 멱살잡고 이더리움 이해시켜주는 만화 (퍼블리)]]></title>
+            <link>https://publy.co/content/6607?fr=category</link>
+            <guid>https://publy.co/content/6607?fr=category</guid>
+            <pubDate>Tue, 23 Nov 2021 08:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 • 5분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[팔리는 제안의 13가지 디테일: 확신을 전하는 프레젠테이션 (퍼블리)]]></title>
             <link>https://publy.co/content/6544?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6569?fr=category</guid>
             <pubDate>Fri, 12 Nov 2021 09:11:03 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 13분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팀원들이 일에 '꽂히게' 하는 동기부여 방법 (퍼블리)]]></title>
-            <link>https://publy.co/content/6571?fr=category</link>
-            <guid>https://publy.co/content/6571?fr=category</guid>
-            <pubDate>Thu, 11 Nov 2021 09:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 • 17분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[공식에서 정리해드립니다, 2022 트렌드 능력고사 풀이 (캐릿)]]></title>
