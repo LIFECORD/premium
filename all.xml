@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 21:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 22:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -468,6 +468,14 @@
             <content:encoded><![CDATA[블랙 프라이데이*가 코 앞이에요. 캠핑 의자를 살까 하고 아마존을 둘러보고 있죠. 그거 아세요? 한국은 12개 아마존 진출국 중에서 유일하게 아마존이 직진출하지 않은 나라예요. 1<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[마케터들의 필수 채널, ‘스투시’의 레퍼런스 탐색법 (폴인)]]></title>
+            <link>https://www.folin.co/story/1958</link>
+            <guid>https://www.folin.co/story/1958</guid>
+            <pubDate>Wed, 24 Nov 2021 22:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[네이버·카카오가 추격하는 협업 툴 스타트업, 누굴까? (폴인)]]></title>
             <link>https://www.folin.co/story/1952</link>
             <guid>https://www.folin.co/story/1952</guid>
@@ -745,14 +753,6 @@
             <guid>https://www.folin.co/story/1907</guid>
             <pubDate>Wed, 13 Oct 2021 22:10:33 GMT</pubDate>
             <content:encoded><![CDATA[<li>공간</li>
-                                <li>라이프스타일</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유튜브에서 40대 비혼이란 키워드가 팔리는 이유 (폴인)]]></title>
-            <link>https://www.folin.co/story/1902</link>
-            <guid>https://www.folin.co/story/1902</guid>
-            <pubDate>Wed, 13 Oct 2021 22:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>라이프스타일</li>]]></content:encoded>
         </item>
         <item>
