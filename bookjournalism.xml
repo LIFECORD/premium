@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2021-11-24T18:13:25.125Z</updated>
+    <updated>2021-11-24T19:10:04.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[조력자살 합법화에 대한 논쟁이 뜨겁다. 존엄한 죽음에 대한 다양한 논의가 필요하다.]]></title>
+        <id>https://www.bookjournalism.com/books/45607</id>
+        <link href="https://www.bookjournalism.com/books/45607"/>
+        <updated>2021-11-24T19:09:56.775Z</updated>
+        <content type="html"><![CDATA[자기 앞의 생]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전 세계가 거대 정부의 시대로 접어들고 있다. 코로나가 트리거다. 초대형 국가는 초거대 해결책이 될까, 초대형 문젯거리가 될까.]]></title>
         <id>https://www.bookjournalism.com/books/45350</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/44852"/>
         <updated>2021-11-19T15:11:41.984Z</updated>
         <content type="html"><![CDATA[핀테크 기업 전략]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 공익신고자에 대한 포상이 필요할까? 내부고발의 해피엔딩은 가능할까? 우리 회사의 범죄와 비리는 누가 밝혀야 할까? 어쩌면 바로 당신.]]></title>
-        <id>https://www.bookjournalism.com/books/45022</id>
-        <link href="https://www.bookjournalism.com/books/45022"/>
-        <updated>2021-11-19T15:11:41.985Z</updated>
-        <content type="html"><![CDATA[공익신고의 해피엔딩은 꿈일까?]]></content>
     </entry>
 </feed>
