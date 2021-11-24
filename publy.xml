@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all</id>
     <title>퍼블리</title>
-    <updated>2021-11-24T08:13:44.551Z</updated>
+    <updated>2021-11-24T09:11:55.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[밀레니얼-Z세대 트렌드 2022: 소비자에서 사회의 중심이 된 20대]]></title>
+        <id>https://publy.co/set/1684?fr=category</id>
+        <link href="https://publy.co/set/1684?fr=category"/>
+        <updated>2021-11-24T09:11:15.747Z</updated>
+        <content type="html"><![CDATA[웹북 • 2개 챕터]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[웹툰] 멱살 잡고 이더리움 이해시켜주는 만화]]></title>
         <id>https://publy.co/content/6607?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/set/1660?fr=category"/>
         <updated>2021-11-12T09:11:03.093Z</updated>
         <content type="html"><![CDATA[웹북 • 6개 챕터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[협업하고 싶은 사람을 만드는 건 8할이 '태도']]></title>
-        <id>https://publy.co/content/6569?fr=category</id>
-        <link href="https://publy.co/content/6569?fr=category"/>
-        <updated>2021-11-12T09:11:03.093Z</updated>
-        <content type="html"><![CDATA[아티클 • 13분 분량]]></content>
     </entry>
 </feed>
