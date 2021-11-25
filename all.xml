@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 21:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 22:11:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -475,6 +475,14 @@
             <content:encoded><![CDATA[나 엄청난 계정을 발견했어요. 평소처럼 인스타그램에서 옷 구경하고 있었거든요? 패션 브랜드 스포티앤리치<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA["2022 라이프 트렌드, 3가지를 주목하라" (폴인)]]></title>
+            <link>https://www.folin.co/story/1959</link>
+            <guid>https://www.folin.co/story/1959</guid>
+            <pubDate>Thu, 25 Nov 2021 22:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[마케터들의 필수 채널, '스투시'의 레퍼런스 탐색법 (폴인)]]></title>
             <link>https://www.folin.co/story/1958</link>
             <guid>https://www.folin.co/story/1958</guid>
@@ -753,14 +761,6 @@
             <pubDate>Thu, 14 Oct 2021 22:10:38 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>테크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[영도의 낡은 창고, 어떻게 크리에이터 성지가 됐을까? (폴인)]]></title>
-            <link>https://www.folin.co/story/1907</link>
-            <guid>https://www.folin.co/story/1907</guid>
-            <pubDate>Wed, 13 Oct 2021 22:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[<li>공간</li>
-                                <li>라이프스타일</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[경찰은 흉기를 든 가해자를 놔두고 현장을 이탈했다. 무엇이 그들을 도망치게 했나? (북저널리즘)]]></title>
