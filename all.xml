@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 00:36:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 01:55:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://publy.co/set/1660?fr=category</guid>
             <pubDate>Fri, 12 Nov 2021 09:11:03 GMT</pubDate>
             <content:encoded><![CDATA[웹북 • 6개 챕터]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[누적 방문객 2천만! 제페토 한강공원 인기에는 다 이유가 있었구나 (캐릿)]]></title>
+            <link>https://www.careet.net/561</link>
+            <guid>https://www.careet.net/561</guid>
+            <pubDate>Thu, 25 Nov 2021 01:55:02 GMT</pubDate>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/56f13f51-71f9-4b63-8094-ee31bd95edc5_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[“푸시 알림 멘트, SNS 바닥글 어떻게 써야 Z세대가 클릭해줄까?” (캐릿)]]></title>
