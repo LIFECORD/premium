@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all</id>
     <title>퍼블리</title>
-    <updated>2021-11-25T07:12:46.682Z</updated>
+    <updated>2021-11-25T08:14:20.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제품팀이 '목표를 설정'하고 '권한을 위임'하는 법]]></title>
+        <id>https://publy.co/content/6600?fr=category</id>
+        <link href="https://publy.co/content/6600?fr=category"/>
+        <updated>2021-11-25T08:13:30.755Z</updated>
+        <content type="html"><![CDATA[아티클 • 12분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[밀레니얼-Z세대 트렌드 2022: 소비자에서 사회의 중심이 된 20대]]></title>
         <id>https://publy.co/set/1684?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6543?fr=category"/>
         <updated>2021-11-15T09:12:02.719Z</updated>
         <content type="html"><![CDATA[아티클 • 8분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5분 만에 배워서 바로 써먹는 오피스 영어]]></title>
-        <id>https://publy.co/set/1660?fr=category</id>
-        <link href="https://publy.co/set/1660?fr=category"/>
-        <updated>2021-11-12T09:11:03.093Z</updated>
-        <content type="html"><![CDATA[웹북 • 6개 챕터]]></content>
     </entry>
 </feed>

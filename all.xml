@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 07:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 08:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제품팀이 '목표를 설정'하고 '권한을 위임'하는 법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6600?fr=category</link>
+            <guid>https://publy.co/content/6600?fr=category</guid>
+            <pubDate>Thu, 25 Nov 2021 08:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 • 12분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[밀레니얼-Z세대 트렌드 2022: 소비자에서 사회의 중심이 된 20대 (퍼블리)]]></title>
             <link>https://publy.co/set/1684?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6543?fr=category</guid>
             <pubDate>Mon, 15 Nov 2021 09:12:02 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 8분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[5분 만에 배워서 바로 써먹는 오피스 영어 (퍼블리)]]></title>
-            <link>https://publy.co/set/1660?fr=category</link>
-            <guid>https://publy.co/set/1660?fr=category</guid>
-            <pubDate>Fri, 12 Nov 2021 09:11:03 GMT</pubDate>
-            <content:encoded><![CDATA[웹북 • 6개 챕터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[누적 방문객 2천만! 제페토 한강공원 인기에는 다 이유가 있었구나 (캐릿)]]></title>
