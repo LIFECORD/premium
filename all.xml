@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 07:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 08:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,6 +779,20 @@
                                 <li>테크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[11월 넷째 주 - 이재명 대선 후보는 어떻게 탄생했나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/45064</link>
+            <guid>https://www.bookjournalism.com/books/45064</guid>
+            <pubDate>Fri, 26 Nov 2021 08:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[이재명의 탄생]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[알고리즘은 인간을 닮은 기술이다. 자동화 기술은 어떻게 은밀한 권력을 행사하고 있나. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/45427</link>
+            <guid>https://www.bookjournalism.com/books/45427</guid>
+            <pubDate>Fri, 26 Nov 2021 08:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[알고리즘의 블랙박스]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[경찰은 흉기를 든 가해자를 놔두고 현장을 이탈했다. 무엇이 그들을 도망치게 했나? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/45641</link>
             <guid>https://www.bookjournalism.com/books/45641</guid>
@@ -847,20 +861,6 @@
             <guid>https://www.bookjournalism.com/books/45169</guid>
             <pubDate>Fri, 19 Nov 2021 15:11:41 GMT</pubDate>
             <content:encoded><![CDATA[서브스택은 뉴미디어의 뉴욕타임스가 될까?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[패션 산업의 갈등이 재현됐다. 천재와 브랜드 사이의 충돌은 숙명일까? 보테가는 이미 대체제를 찾았다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/45127</link>
-            <guid>https://www.bookjournalism.com/books/45127</guid>
-            <pubDate>Fri, 19 Nov 2021 15:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[다니엘과 보테가는 왜 서로를 저버렸나?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 라디오 에피소드 #13에선, 경선 후 청년 세대의 국민의힘 탈당, 슈퍼맨의 커밍아웃, 지리산의 PPL 대잔치, 공익신고의 빛과 어둠에 대해 이야기합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/45059</link>
-            <guid>https://www.bookjournalism.com/audio/45059</guid>
-            <pubDate>Fri, 19 Nov 2021 15:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[공익신고 후 탈당한 청년들이 지리산으로 가 슈퍼맨을 만났다?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[150억 CB 발행한 신원종합개발, 우진호 대표 지배력 흔들리나 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
