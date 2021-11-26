@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all</id>
     <title>퍼블리</title>
-    <updated>2021-11-26T08:13:56.114Z</updated>
+    <updated>2021-11-26T09:12:19.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[강력한 팬을 만드는 인스타그램 운영 전략]]></title>
+        <id>https://publy.co/content/6577?fr=category</id>
+        <link href="https://publy.co/content/6577?fr=category"/>
+        <updated>2021-11-26T09:11:38.064Z</updated>
+        <content type="html"><![CDATA[아티클 • 14분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제품팀이 '목표를 설정'하고 '권한을 위임'하는 법]]></title>
         <id>https://publy.co/content/6600?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6564?fr=category"/>
         <updated>2021-11-16T09:11:13.568Z</updated>
         <content type="html"><![CDATA[아티클 • 11분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팔리는 제안의 13가지 디테일: 손에 잡히는 크리에이티브 만들기]]></title>
-        <id>https://publy.co/content/6543?fr=category</id>
-        <link href="https://publy.co/content/6543?fr=category"/>
-        <updated>2021-11-15T09:12:02.719Z</updated>
-        <content type="html"><![CDATA[아티클 • 8분 분량]]></content>
     </entry>
 </feed>

@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 08:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 09:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강력한 팬을 만드는 인스타그램 운영 전략 (퍼블리)]]></title>
+            <link>https://publy.co/content/6577?fr=category</link>
+            <guid>https://publy.co/content/6577?fr=category</guid>
+            <pubDate>Fri, 26 Nov 2021 09:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 • 14분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[제품팀이 '목표를 설정'하고 '권한을 위임'하는 법 (퍼블리)]]></title>
             <link>https://publy.co/content/6600?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6564?fr=category</guid>
             <pubDate>Tue, 16 Nov 2021 09:11:13 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 11분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팔리는 제안의 13가지 디테일: 손에 잡히는 크리에이티브 만들기 (퍼블리)]]></title>
-            <link>https://publy.co/content/6543?fr=category</link>
-            <guid>https://publy.co/content/6543?fr=category</guid>
-            <pubDate>Mon, 15 Nov 2021 09:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 • 8분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[요즘 뭐가 유행이야? 1분 컷으로 보는 Z세대 유행템 (캐릿)]]></title>
