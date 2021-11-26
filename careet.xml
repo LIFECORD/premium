@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 00:35:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 01:53:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두 달 전부터 크리스마스 준비 중? Z세대 연말 계획으로 보는 트렌드]]></title>
+            <link>https://www.careet.net/566</link>
+            <guid>https://www.careet.net/566</guid>
+            <pubDate>Fri, 26 Nov 2021 01:52:39 GMT</pubDate>
+            <content:encoded><![CDATA[핼러윈 끝나기도 전에 크리스마스 준비하는 Z세대 근황]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/12a04780-3ccf-4f12-8aca-bd264a3165db_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[누적 방문객 2천만! 제페토 한강공원 인기에는 다 이유가 있었구나]]></title>
             <link>https://www.careet.net/561</link>
