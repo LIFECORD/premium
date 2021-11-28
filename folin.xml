@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2021-11-28T21:10:08.305Z</updated>
+    <updated>2021-11-28T22:11:16.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['비거니즘' 급성장, 3대 키워드는?]]></title>
+        <id>https://www.folin.co/story/1962</id>
+        <link href="https://www.folin.co/story/1962"/>
+        <updated>2021-11-28T22:10:58.482Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>라이프스타일</li>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT가 게임 유저에게 새로운 시장이 된 이유]]></title>
+        <id>https://www.folin.co/story/1960</id>
+        <link href="https://www.folin.co/story/1960"/>
+        <updated>2021-11-28T22:10:58.484Z</updated>
+        <content type="html"><![CDATA[<li>테크</li>
+                                <li>워크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["2022 라이프 트렌드, 3가지를 주목하라"]]></title>
         <id>https://www.folin.co/story/1959</id>
@@ -276,21 +292,5 @@
         <updated>2021-10-17T22:10:24.944Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 시대의 생존법, ESG 해본 사람들의 노하우]]></title>
-        <id>https://www.folin.co/story/1909</id>
-        <link href="https://www.folin.co/story/1909"/>
-        <updated>2021-10-17T22:10:24.946Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT, 현실과 메타버스 잇는 새로운 경제 생태계]]></title>
-        <id>https://www.folin.co/story/1908</id>
-        <link href="https://www.folin.co/story/1908"/>
-        <updated>2021-10-14T22:10:38.111Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>테크</li>]]></content>
     </entry>
 </feed>

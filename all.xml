@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 21:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 22:11:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -491,6 +491,22 @@
             <content:encoded><![CDATA[올리비아 로드리고Olivia Rodrigo라고 아시나요? 2021년 데뷔하자마자 빌보드를 석권한 2003년생 가수예요. 레트로 스타일링을 잘해요. C가 로드리고 패션을 따라 쇼핑하<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['비거니즘' 급성장, 3대 키워드는? (폴인)]]></title>
+            <link>https://www.folin.co/story/1962</link>
+            <guid>https://www.folin.co/story/1962</guid>
+            <pubDate>Sun, 28 Nov 2021 22:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>라이프스타일</li>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NFT가 게임 유저에게 새로운 시장이 된 이유 (폴인)]]></title>
+            <link>https://www.folin.co/story/1960</link>
+            <guid>https://www.folin.co/story/1960</guid>
+            <pubDate>Sun, 28 Nov 2021 22:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[<li>테크</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["2022 라이프 트렌드, 3가지를 주목하라" (폴인)]]></title>
             <link>https://www.folin.co/story/1959</link>
             <guid>https://www.folin.co/story/1959</guid>
@@ -761,22 +777,6 @@
             <pubDate>Sun, 17 Oct 2021 22:10:24 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이 시대의 생존법, ESG 해본 사람들의 노하우 (폴인)]]></title>
-            <link>https://www.folin.co/story/1909</link>
-            <guid>https://www.folin.co/story/1909</guid>
-            <pubDate>Sun, 17 Oct 2021 22:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NFT, 현실과 메타버스 잇는 새로운 경제 생태계 (폴인)]]></title>
-            <link>https://www.folin.co/story/1908</link>
-            <guid>https://www.folin.co/story/1908</guid>
-            <pubDate>Thu, 14 Oct 2021 22:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>테크</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[북저널리즘 라디오 에피소드 #15에선, 네이버의 새로운 CEO와 도망치는 경찰공무원과 산지직송 럭셔리와 조력자살에 관해 이야기합니다. (북저널리즘)]]></title>
