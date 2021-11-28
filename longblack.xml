@@ -2,18 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2021-11-28T14:10:47.942Z</updated>
+    <updated>2021-11-28T15:11:30.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2021-11-27T15:11:03.531Z</updated>
-        <content type="html"><![CDATA[“결국 틈새를 찾을 수 밖에 없거든요. 틈새 하나를 겨우 찾아서 정을 딱 박고 있는 힘껏 때려야 합니다. 시작이 날카로우면 사용자들은 다르다고 느껴요.”
-
-선데이 에디션을 처음 소개하는 아침, 이창우 닷슬래시대시 대표의 노트를 다시 꺼내봅니다.
-
-틈새를 찾아내는<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[디팝 : Z세대가 뛰어노는 중고 거래 플랫폼은 어떻게 탄생했나]]></title>
+        <id>https://www.longblack.co/note/118</id>
+        <link href="https://www.longblack.co/note/118"/>
+        <updated>2021-11-28T15:11:00.973Z</updated>
+        <content type="html"><![CDATA[올리비아 로드리고Olivia Rodrigo라고 아시나요? 2021년 데뷔하자마자 빌보드를 석권한 2003년생 가수예요. 레트로 스타일링을 잘해요. C가 로드리고 스타일링을 따라 쇼<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
