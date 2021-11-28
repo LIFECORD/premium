@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2021-11-28T15:11:30.788Z</updated>
+    <updated>2021-11-28T16:15:43.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/118</id>
         <link href="https://www.longblack.co/note/118"/>
         <updated>2021-11-28T15:11:00.973Z</updated>
-        <content type="html"><![CDATA[올리비아 로드리고Olivia Rodrigo라고 아시나요? 2021년 데뷔하자마자 빌보드를 석권한 2003년생 가수예요. 레트로 스타일링을 잘해요. C가 로드리고 스타일링을 따라 쇼<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[올리비아 로드리고Olivia Rodrigo라고 아시나요? 2021년 데뷔하자마자 빌보드를 석권한 2003년생 가수예요. 레트로 스타일링을 잘해요. C가 로드리고 패션을 따라 쇼핑하<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
