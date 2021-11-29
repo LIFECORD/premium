@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2021-11-29T21:10:47.019Z</updated>
+    <updated>2021-11-29T22:12:04.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["내 실력을 보여줄 '기회' 만나는 게 중요한 40대"]]></title>
+        <id>https://www.folin.co/story/1964</id>
+        <link href="https://www.folin.co/story/1964"/>
+        <updated>2021-11-29T22:11:47.512Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비거니즘' 급성장, 3대 키워드는?]]></title>
         <id>https://www.folin.co/story/1962</id>
@@ -284,13 +292,5 @@
         <updated>2021-10-17T23:10:51.457Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>라이프스타일</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 회사를 '또 다른 파타고니아'로 만들고 싶다면]]></title>
-        <id>https://www.folin.co/story/1910</id>
-        <link href="https://www.folin.co/story/1910"/>
-        <updated>2021-10-17T22:10:24.944Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content>
     </entry>
 </feed>

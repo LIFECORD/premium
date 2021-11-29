@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 21:10:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 22:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -499,6 +499,14 @@
             <content:encoded><![CDATA[버질 아블로Virgil Abloh. 오프화이트Off-White의 창립자, 루이비통<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA["내 실력을 보여줄 '기회' 만나는 게 중요한 40대" (폴인)]]></title>
+            <link>https://www.folin.co/story/1964</link>
+            <guid>https://www.folin.co/story/1964</guid>
+            <pubDate>Mon, 29 Nov 2021 22:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['비거니즘' 급성장, 3대 키워드는? (폴인)]]></title>
             <link>https://www.folin.co/story/1962</link>
             <guid>https://www.folin.co/story/1962</guid>
@@ -777,14 +785,6 @@
             <pubDate>Sun, 17 Oct 2021 23:10:51 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>라이프스타일</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우리 회사를 '또 다른 파타고니아'로 만들고 싶다면 (폴인)]]></title>
-            <link>https://www.folin.co/story/1910</link>
-            <guid>https://www.folin.co/story/1910</guid>
-            <pubDate>Sun, 17 Oct 2021 22:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NFT만 붙이면 게임사 주가가 폭등한다. 플레이 투 언은 정말로 가능한가? (북저널리즘)]]></title>
