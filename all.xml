@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 07:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 08:13:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제는 백화점도 ‘경험’을 팝니다 : 백화점이 MZ 세대를 사로잡는 방법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6610?fr=category</link>
+            <guid>https://publy.co/content/6610?fr=category</guid>
+            <pubDate>Mon, 29 Nov 2021 08:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 • 9분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[강력한 팬을 만드는 인스타그램 운영 전략 (퍼블리)]]></title>
             <link>https://publy.co/content/6577?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6562?fr=category</guid>
             <pubDate>Wed, 17 Nov 2021 09:11:02 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[잘 모르는 업무 어떻게든 시작하는 법 (퍼블리)]]></title>
-            <link>https://publy.co/content/6564?fr=category</link>
-            <guid>https://publy.co/content/6564?fr=category</guid>
-            <pubDate>Tue, 16 Nov 2021 09:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 • 11분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[어렵다고 포기하실 건가요? Z세대는 이미 NFT에 주목하고 있습니다! (캐릿)]]></title>
