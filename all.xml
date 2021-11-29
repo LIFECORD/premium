@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 15:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 16:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -492,7 +492,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202109/a115c60f-ecc0-4252-8cc8-2be2ca525e55_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[버질 아블로 : 당신의 모든 것을 편집해라, 그것이 브랜드가 될 것이다 (롱블랙)]]></title>
+            <title><![CDATA[버질 아블로 : 당신의 모든 것을 편집하라, 브랜드가 될 것이다 (롱블랙)]]></title>
             <link>https://www.longblack.co/note/124</link>
             <guid>https://www.longblack.co/note/124</guid>
             <pubDate>Mon, 29 Nov 2021 15:11:57 GMT</pubDate>
@@ -791,7 +791,7 @@
             <link>https://www.bookjournalism.com/books/45945</link>
             <guid>https://www.bookjournalism.com/books/45945</guid>
             <pubDate>Mon, 29 Nov 2021 15:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[플레이 투 언의 함정]]></content:encoded>
+            <content:encoded><![CDATA[NFT가 게임하며 돈 벌게 해줄까?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[북저널리즘 라디오 에피소드 #15에선, 네이버의 새로운 CEO와 도망치는 경찰공무원과 산지직송 럭셔리와 조력자살에 관해 이야기합니다. (북저널리즘)]]></title>
@@ -871,13 +871,6 @@
             <content:encoded><![CDATA[종전의 밤]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미룰 수 없는 과제? 사회적 혼란 불씨? 차별금지법 제정 논란 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/210707111315549ss</link>
-            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/210707111315549ss</guid>
-            <pubDate>Mon, 29 Nov 2021 15:12:29 GMT</pubDate>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA3MDdfMjMz/MDAxNjI1NjIzNjk3Mzk1.7k8e4365wgrnpQuTrpEOxJq0nHirYjToQFcaLBNIT9Ag.mEiIULmBIFMDrjsV5-ucEeUjvCyIr8-S5w4qyT7zoYAg.PNG/image.png?type=nf220_220" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[오늘의 시사상식 문제 #58 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/maekyung/jobschool/contents/210720103848989Ai</link>
             <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/210720103848989Ai</guid>
@@ -886,12 +879,11 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA3MjBfMjA3/MDAxNjI2NzQxNTIwNDI5.4Hp8hJ6xaiBPmw554IE4dp4s6Jzo-867w_qZ-hNn68Qg.7hgiKPos5Ys6WxskddWjouw9ggexDa4kIFWreaUnvlEg.JPEG/GettyImages-1291916601.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오늘의 시사상식 문제 #56 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/210713154220903Jp</link>
-            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/210713154220903Jp</guid>
+            <title><![CDATA[미룰 수 없는 과제? 사회적 혼란 불씨? 차별금지법 제정 논란 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/210707111315549ss</link>
+            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/210707111315549ss</guid>
             <pubDate>Mon, 29 Nov 2021 15:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[다음중 주52시간 근무제에 대한 설명으로 틀린 것은?     ③ 근로기준법은 근로자 보호를 위한 강행 규정이기 때문에 원칙적으로 노사가 합의해도 52시간을 초과해서 일할 수 없다. 나머지는 모두 맞는 선지이다.    주 52시간제    주당 법정 근로시간을 기존 68시간에서 52시간(법정근로 40시간+연장근로 12시간)으로 단축한 근로제도이다. 2018년 7월 1일부터 우선 종업원 300인 이상의]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA3MTNfMjY0/MDAxNjI2MTU1ODA4NTEz.BebnT-sy-1fBIQRVNRobhtClt0XjBGEAtp_PWArmbGkg.tKPNRmtd-Vm_2uUWeXRF3shNCVoyDn8CkO_7HCtWSSog.JPEG/GettyImages-1313584969.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA3MDdfMjMz/MDAxNjI1NjIzNjk3Mzk1.7k8e4365wgrnpQuTrpEOxJq0nHirYjToQFcaLBNIT9Ag.mEiIULmBIFMDrjsV5-ucEeUjvCyIr8-S5w4qyT7zoYAg.PNG/image.png?type=nf220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[선물거래의 주요 특징 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -902,12 +894,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA4MDJfMjQz/MDAxNjI3ODgyOTM4MzA5.Y7eeYF0MjkD0dMBx9K6FvJfbYB96RYtCGUxb_2XODpgg.nk-vE8unEydlHrwpYIBrs5pvylnN9L85C2dKQwGpLDog.JPEG/GettyImages-1158964134.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['원조 마오타이주' 왕마오 이야기 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/gold/goldpig/contents/210918135205329wu</link>
-            <guid>https://contents.premium.naver.com/gold/goldpig/contents/210918135205329wu</guid>
+            <title><![CDATA[오늘의 시사상식 문제 #56 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/210713154220903Jp</link>
+            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/210713154220903Jp</guid>
             <pubDate>Mon, 29 Nov 2021 15:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[중국 증시 시가 총액 1위를 당당히 차지하고 있는 마오타이 그룹.     그래서일까 경제 대국인 중국 주식시장에서 왕좌에 오른 마오타이그룹에서 생산하는 명주 마오타주(茅台酒)에 대한 이야기는 언제나 호기심을 자극한다.     가짜 마오타이주가 난무한다는 이야기부터 빈 병값만 한국돈 35,000원에 팔린다는 카더라 통신까지 중식을 안주 삼은 술자리에서 항상 마오타이주는 애]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA5MThfMTE2/MDAxNjMxOTQwMjUyNzAz.pGCBG7ucOF-YF0E1EiFhgSqfFHwLd42i3UNAd1Blprcg.lMK9I6HyLx3bYAOzs57n4AyGh52bvWcdvmvmEjFUwg8g.JPEG/%EC%99%95%EB%A7%88%EC%98%A4.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[다음중 주52시간 근무제에 대한 설명으로 틀린 것은?     ③ 근로기준법은 근로자 보호를 위한 강행 규정이기 때문에 원칙적으로 노사가 합의해도 52시간을 초과해서 일할 수 없다. 나머지는 모두 맞는 선지이다.    주 52시간제    주당 법정 근로시간을 기존 68시간에서 52시간(법정근로 40시간+연장근로 12시간)으로 단축한 근로제도이다. 2018년 7월 1일부터 우선 종업원 300인 이상의]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA3MTNfMjY0/MDAxNjI2MTU1ODA4NTEz.BebnT-sy-1fBIQRVNRobhtClt0XjBGEAtp_PWArmbGkg.tKPNRmtd-Vm_2uUWeXRF3shNCVoyDn8CkO_7HCtWSSog.JPEG/GettyImages-1313584969.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[뉴욕시그널]  연준의 긴축, 암호화폐 규제 예고·· 내주 증시 악재 될까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -918,12 +910,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA5MThfMTc2/MDAxNjMxOTY3Njg0NjEw.ikRzfPEbCt22XBoYykMOLoQAOdpnlzBGHVT11lFxYAAg.PfUDJcR0Gdp17qHEuPqKvUdsZENf542z-_CTjKeKrtMg.PNG/Screenshot_2021-09-18_at_13.21.17.png?type=nf220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[시장/경제] #4. 헝다 그룹 파산과 중국 부동산 버블: 서브프라임모기지 사태부터 알아보기 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/usa/nasdaq/contents/210921121055782bC</link>
-            <guid>https://contents.premium.naver.com/usa/nasdaq/contents/210921121055782bC</guid>
+            <title><![CDATA['원조 마오타이주' 왕마오 이야기 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/gold/goldpig/contents/210918135205329wu</link>
+            <guid>https://contents.premium.naver.com/gold/goldpig/contents/210918135205329wu</guid>
             <pubDate>Mon, 29 Nov 2021 15:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 카레라입니다. 이번 주에는 연일 중국의 초대형 부동산 개발회사 헝다 그룹(Evergrande Group)의 파산 때문에 홍콩 증시와 미국 증시가 시끌시끌하네요. 오늘은 나스닥이 오랜만에 마이(-2%)를 찍었습니다. 마일(-1%)은 많이 봤지만 하루만에 나스닥이 2%가 빠지는 건 간만에 본 것 같아요. 그래서 이번 &lt;시장경제의 이해&gt;에서는 서브프라임모기지 사태부터 시작해서 중국의]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA5MjFfMjMw/MDAxNjMyMTkwMTg1NDYy.CEyuEHf_h3uPEPruDGMEo3RR9W7FZbFnMkcOY_wuWt8g.PiNPwFsFWyeGWKL8qic8sS7xZ_XoC6S8LtV_TWiJ9xEg.PNG/291.png?type=nf220_220" length="0" type="image/png"/>
+            <content:encoded><![CDATA[중국 증시 시가 총액 1위를 당당히 차지하고 있는 마오타이 그룹.     그래서일까 경제 대국인 중국 주식시장에서 왕좌에 오른 마오타이그룹에서 생산하는 명주 마오타주(茅台酒)에 대한 이야기는 언제나 호기심을 자극한다.     가짜 마오타이주가 난무한다는 이야기부터 빈 병값만 한국돈 35,000원에 팔린다는 카더라 통신까지 중식을 안주 삼은 술자리에서 항상 마오타이주는 애]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA5MThfMTE2/MDAxNjMxOTQwMjUyNzAz.pGCBG7ucOF-YF0E1EiFhgSqfFHwLd42i3UNAd1Blprcg.lMK9I6HyLx3bYAOzs57n4AyGh52bvWcdvmvmEjFUwg8g.JPEG/%EC%99%95%EB%A7%88%EC%98%A4.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[머릿속을 책으로 꽉 채우고 싶은 ‘도대리’를 소개합니다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -934,12 +926,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA5MjdfMzcg/MDAxNjMyNzA5NjkzMDEw.mJOta_m9nDa8tgJHggp-LgHSYzfBXQZd_Yqa3WQ7sb8g.tHFtGE40mgVS48Bs83OyLt69pOBOGXciSVYilhzVWvYg.JPEG/LINE_P2021924_135700.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[SF로맨스] 끝나지 않은 미래  ① (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/imgoodmanok/kcontentslab/contents/210930030530723ue</link>
-            <guid>https://contents.premium.naver.com/imgoodmanok/kcontentslab/contents/210930030530723ue</guid>
+            <title><![CDATA[[시장/경제] #4. 헝다 그룹 파산과 중국 부동산 버블: 서브프라임모기지 사태부터 알아보기 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/usa/nasdaq/contents/210921121055782bC</link>
+            <guid>https://contents.premium.naver.com/usa/nasdaq/contents/210921121055782bC</guid>
             <pubDate>Mon, 29 Nov 2021 15:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[지금 이야기는 정확히 몇 년도인지도 모를 근미래 아니, 조금은 먼 미래의 이야기다.  언제였을까? 알 수 없는 전염병으로 우리의 세상이 끝이 났던 날이 언제인지 기억이 나질 않는다. 그동안 인간은 강인한 존재였다. 그러나 지구의 수많은 사람들은 자만심에 빠져버린 건지도 모른다.  예고 없이 찾아온 전염병은 인간에게 준비할 기회를 주지 않았다. 치료제나 백신조차 만들]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA5MzBfMTM0/MDAxNjMyOTM3OTY1Mzgx.-YwUqhajLLCyhD4l-lg4XiPKh6Bskwp8V-71tlC11Tsg.jMItpXrX6PewgbVLmyeBsXKzL-_Tt_Y_-bsS3PxbTCcg.PNG/SE-cc78420a-47ea-48dd-b0b0-d2df6ca01abb.png?type=nf220_220" length="0" type="image/png"/>
+            <content:encoded><![CDATA[안녕하세요, 카레라입니다. 이번 주에는 연일 중국의 초대형 부동산 개발회사 헝다 그룹(Evergrande Group)의 파산 때문에 홍콩 증시와 미국 증시가 시끌시끌하네요. 오늘은 나스닥이 오랜만에 마이(-2%)를 찍었습니다. 마일(-1%)은 많이 봤지만 하루만에 나스닥이 2%가 빠지는 건 간만에 본 것 같아요. 그래서 이번 &lt;시장경제의 이해&gt;에서는 서브프라임모기지 사태부터 시작해서 중국의]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA5MjFfMjMw/MDAxNjMyMTkwMTg1NDYy.CEyuEHf_h3uPEPruDGMEo3RR9W7FZbFnMkcOY_wuWt8g.PiNPwFsFWyeGWKL8qic8sS7xZ_XoC6S8LtV_TWiJ9xEg.PNG/291.png?type=nf220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[‘다 잘될 거야’라는 말, 정말 잘될 거라서 하는 말인가요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/booklive/dodaeri/contents/210927162611942jB</link>
+            <guid>https://contents.premium.naver.com/booklive/dodaeri/contents/210927162611942jB</guid>
+            <pubDate>Mon, 29 Nov 2021 16:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[[리뷰] 책 ‘착각의 쓸모’ (1) 당신의 가족 중 누군가가 갑작스레 불치병에 걸렸습니다. 당신은 그에게 어떤 말을 해줄 것인가요? 대부분의 사람이 이런 상황에서 주로 쓰는 말이 있습니다. 바로, ‘다 잘될 거야’라는 말인데요. ‘다 잘될 거야’라고 말하지만, 우리는 모두 알고 있습니다. 잘될 리가 없다는 사실을요. 하지만 우리는 이런 상황에서 이야기합니다. “괜찮아, 다]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA5MjdfMjMy/MDAxNjMyNzIxMjEwODY5.u2vgGhgXLhB6dlPuInVfAYtBKhpj8M7lHWO4E5PAc8Qg.xSM6S7qn8sXiZ1mxBI37cj5DJgOhKAxcHKXJKv0mpasg.JPEG/%EB%8C%80%EC%A7%80_2.jpeg?type=nf220_220" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
