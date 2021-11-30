@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2021-11-30T15:12:52.346Z</updated>
+    <updated>2021-11-30T16:16:49.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/117</id>
         <link href="https://www.longblack.co/note/117"/>
         <updated>2021-11-30T15:12:18.387Z</updated>
-        <content type="html"><![CDATA[디앤디파트먼트 아시나요? 저는 얼마 전 B의 추천으로 서울 한남점을 처음 가봤어요. B가 ‘물건의 진짜 쓰임새를 알게 해주는 곳’이라고 소개해주니까 너무 가고 싶은 거 있죠.<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[디앤디파트먼트D&amp;DEPARTMENT 아시나요? 저는 얼마 전 B의 추천으로 한남동의 서울점을 처음 가봤어요. B가 ‘물건의 진짜 쓰임새를 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

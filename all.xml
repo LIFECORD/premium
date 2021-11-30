@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 15:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 16:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -512,7 +512,7 @@
             <link>https://www.longblack.co/note/117</link>
             <guid>https://www.longblack.co/note/117</guid>
             <pubDate>Tue, 30 Nov 2021 15:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[디앤디파트먼트 아시나요? 저는 얼마 전 B의 추천으로 서울 한남점을 처음 가봤어요. B가 ‘물건의 진짜 쓰임새를 알게 해주는 곳’이라고 소개해주니까 너무 가고 싶은 거 있죠.<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[디앤디파트먼트D&amp;DEPARTMENT 아시나요? 저는 얼마 전 B의 추천으로 한남동의 서울점을 처음 가봤어요. B가 ‘물건의 진짜 쓰임새를 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["내 실력을 보여줄 '기회' 만나는 게 중요한 40대" (폴인)]]></title>
