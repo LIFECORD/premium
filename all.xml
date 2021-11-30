@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 21:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 22:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -515,6 +515,14 @@
             <content:encoded><![CDATA[디앤디파트먼트D&amp;DEPARTMENT 아시나요? 저는 얼마 전 B의 추천으로 한남동의 서울점을 처음 가봤어요. B가 ‘물건의 진짜 쓰임새를 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['협업 툴' 만드는 토스랩은 어떻게 일할까? (폴인)]]></title>
+            <link>https://www.folin.co/story/1953</link>
+            <guid>https://www.folin.co/story/1953</guid>
+            <pubDate>Tue, 30 Nov 2021 22:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[<li>테크</li>
+                                <li>스타트업</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["내 실력을 보여줄 '기회' 만나는 게 중요한 40대" (폴인)]]></title>
             <link>https://www.folin.co/story/1964</link>
             <guid>https://www.folin.co/story/1964</guid>
@@ -793,14 +801,6 @@
             <pubDate>Mon, 18 Oct 2021 22:11:18 GMT</pubDate>
             <content:encoded><![CDATA[<li>워크</li>
                                 <li>조직문화</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미술작품에 투자하고 리세일하는 MZ, 그들의 취향은? (폴인)]]></title>
-            <link>https://www.folin.co/story/1911</link>
-            <guid>https://www.folin.co/story/1911</guid>
-            <pubDate>Sun, 17 Oct 2021 23:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>라이프스타일</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[리걸테크와 변호사 협회의 갈등이 첨예하다. 이유는 패권 경쟁뿐일까? (북저널리즘)]]></title>
