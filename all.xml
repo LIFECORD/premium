@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 06:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 07:10:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -803,6 +803,13 @@
                                 <li>라이프스타일</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[어마어마한 양의 쓰레기가 지구를 덮치고 있다.  재앙을 막으려면 지금 당장 소비를 바꿔야 한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/45824</link>
+            <guid>https://www.bookjournalism.com/books/45824</guid>
+            <pubDate>Tue, 30 Nov 2021 07:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[쓰레기 작업일지]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[NFT만 붙이면 게임사 주가가 폭등한다. 플레이 투 언은 정말로 가능한가? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/45945</link>
             <guid>https://www.bookjournalism.com/books/45945</guid>
@@ -878,13 +885,6 @@
             <guid>https://www.bookjournalism.com/books/45348</guid>
             <pubDate>Mon, 29 Nov 2021 03:12:03 GMT</pubDate>
             <content:encoded><![CDATA[완벽한 가짜를 찾아내는 진짜 완벽한 방법]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국 전쟁 종전 선언이 한미일 사이에서 논의되고 있다. 정말 전쟁이 끝날까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/45326</link>
-            <guid>https://www.bookjournalism.com/books/45326</guid>
-            <pubDate>Mon, 29 Nov 2021 03:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[종전의 밤]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[미룰 수 없는 과제? 사회적 혼란 불씨? 차별금지법 제정 논란 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>

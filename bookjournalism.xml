@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2021-11-30T06:11:57.177Z</updated>
+    <updated>2021-11-30T07:10:08.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[어마어마한 양의 쓰레기가 지구를 덮치고 있다.  재앙을 막으려면 지금 당장 소비를 바꿔야 한다.]]></title>
+        <id>https://www.bookjournalism.com/books/45824</id>
+        <link href="https://www.bookjournalism.com/books/45824"/>
+        <updated>2021-11-30T07:10:00.595Z</updated>
+        <content type="html"><![CDATA[쓰레기 작업일지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFT만 붙이면 게임사 주가가 폭등한다. 플레이 투 언은 정말로 가능한가?]]></title>
         <id>https://www.bookjournalism.com/books/45945</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/45348"/>
         <updated>2021-11-29T03:12:03.354Z</updated>
         <content type="html"><![CDATA[완벽한 가짜를 찾아내는 진짜 완벽한 방법]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 전쟁 종전 선언이 한미일 사이에서 논의되고 있다. 정말 전쟁이 끝날까?]]></title>
-        <id>https://www.bookjournalism.com/books/45326</id>
-        <link href="https://www.bookjournalism.com/books/45326"/>
-        <updated>2021-11-29T03:12:03.355Z</updated>
-        <content type="html"><![CDATA[종전의 밤]]></content>
     </entry>
 </feed>
