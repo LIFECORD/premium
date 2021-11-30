@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 04:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 05:09:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6562?fr=category</guid>
             <pubDate>Wed, 17 Nov 2021 09:11:02 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 10분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2020년 VS 2021년, 비대면 소통 어떻게 달라졌을까? (캐릿)]]></title>
+            <link>https://www.careet.net/570</link>
+            <guid>https://www.careet.net/570</guid>
+            <pubDate>Tue, 30 Nov 2021 05:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[영상통화=대면 만남? Z세대 따라 X세대･86세대도 달라졌다!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/b0751c29-0beb-4b5e-b008-41a1c69370b0_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[엔씨소프트가 만든 캐릭터, ‘도구리’는 왜 Z세대 사이에서 인기 있을까? (캐릿)]]></title>
