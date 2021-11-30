@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2021-11-30T14:11:41.888Z</updated>
+    <updated>2021-11-30T15:12:52.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[리걸테크와 변호사 협회의 갈등이 첨예하다. 이유는 패권 경쟁뿐일까?]]></title>
+        <id>https://www.bookjournalism.com/books/46018</id>
+        <link href="https://www.bookjournalism.com/books/46018"/>
+        <updated>2021-11-30T15:12:42.196Z</updated>
+        <content type="html"><![CDATA[아는 변호사 있으세요?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어마어마한 양의 쓰레기가 지구를 덮치고 있다. 재앙을 막으려면 지금 당장 소비문화를 바꿔야 한다.]]></title>
         <id>https://www.bookjournalism.com/books/45824</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/audio/45375"/>
         <updated>2021-11-29T03:12:03.352Z</updated>
         <content type="html"><![CDATA[종전선언과 K유머 그리고 패션과 미디어의 미래]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미술 시장이 커지면서 미술품 위조 기술도 나날이 발전하고 있다. 세계 최고의 위조 예술품 감정가 마틴은 미술계의 셜록 홈즈다. 진짜가 나타났다.]]></title>
-        <id>https://www.bookjournalism.com/books/45348</id>
-        <link href="https://www.bookjournalism.com/books/45348"/>
-        <updated>2021-11-29T03:12:03.354Z</updated>
-        <content type="html"><![CDATA[완벽한 가짜를 찾아내는 진짜 완벽한 방법]]></content>
     </entry>
 </feed>
