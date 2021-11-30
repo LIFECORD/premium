@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 07:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 08:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에너지를 갉아먹는 '가짜 일' 없애기 (퍼블리)]]></title>
+            <link>https://publy.co/content/6606?fr=category</link>
+            <guid>https://publy.co/content/6606?fr=category</guid>
+            <pubDate>Tue, 30 Nov 2021 08:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 • 7분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[이제는 백화점도 ‘경험’을 팝니다 : 백화점이 MZ 세대를 사로잡는 방법 (퍼블리)]]></title>
             <link>https://publy.co/content/6610?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/set/1670?fr=category</guid>
             <pubDate>Wed, 17 Nov 2021 09:11:02 GMT</pubDate>
             <content:encoded><![CDATA[웹북 • 2개 챕터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['왜 그렇게 말했지' 후회하는 당신을 위한 대화의 기술 (퍼블리)]]></title>
-            <link>https://publy.co/content/6562?fr=category</link>
-            <guid>https://publy.co/content/6562?fr=category</guid>
-            <pubDate>Wed, 17 Nov 2021 09:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 • 10분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2020년 VS 2021년, 비대면 소통 어떻게 달라졌을까? (캐릿)]]></title>
