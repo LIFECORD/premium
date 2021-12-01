@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2021-12-01T15:12:39.500Z</updated>
+    <updated>2021-12-01T16:17:55.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/121</id>
         <link href="https://www.longblack.co/note/121"/>
         <updated>2021-12-01T15:12:09.747Z</updated>
-        <content type="html"><![CDATA[피터 슈라이어Peter Schreyer. 자동차에 조금이라도 관심있는 분들이라면 익숙한 이름일 겁니다. 2006년 기아의 최고디자인책임자<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[피터 슈라이어Peter Schreyer. 자동차에 조금이라도 관심있는 분들이라면 익숙한 이름일 겁니다. BMW의 크리스 뱅글<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
