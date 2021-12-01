@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 07:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 08:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 해를 정리하는 '기록 연말 정산' (퍼블리)]]></title>
+            <link>https://publy.co/content/6611?fr=category</link>
+            <guid>https://publy.co/content/6611?fr=category</guid>
+            <pubDate>Wed, 01 Dec 2021 08:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 • 10분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[에너지를 갉아먹는 '가짜 일' 없애기 (퍼블리)]]></title>
             <link>https://publy.co/content/6606?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6593?fr=category</guid>
             <pubDate>Thu, 18 Nov 2021 09:11:12 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 11분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 트렌드 노트: 당신은 무엇에 진심인가요? (퍼블리)]]></title>
-            <link>https://publy.co/set/1670?fr=category</link>
-            <guid>https://publy.co/set/1670?fr=category</guid>
-            <pubDate>Wed, 17 Nov 2021 09:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[웹북 • 2개 챕터]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MZ세대가 생각하는 ‘핫플’의 기준이 바뀌고 있다 (캐릿)]]></title>
