@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2021-12-01T22:11:43.098Z</updated>
+    <updated>2021-12-01T23:11:41.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마케터 스투시의 시선을 사로잡은 유튜브]]></title>
+        <id>https://www.folin.co/story/1965</id>
+        <link href="https://www.folin.co/story/1965"/>
+        <updated>2021-12-01T23:11:24.501Z</updated>
+        <content type="html"><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[40만 농민의 네이버, '그린랩스' 어디까지 성장할까?]]></title>
         <id>https://www.folin.co/story/1967</id>
@@ -284,13 +292,5 @@
         <updated>2021-10-20T22:10:42.024Z</updated>
         <content type="html"><![CDATA[<li>공간</li>
                                 <li>라이프스타일</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[목표한 혁신을 성공케 하는 '3년 단위 계획법']]></title>
-        <id>https://www.folin.co/story/1906</id>
-        <link href="https://www.folin.co/story/1906"/>
-        <updated>2021-10-19T22:10:47.276Z</updated>
-        <content type="html"><![CDATA[<li>테크</li>
-                                <li>스타트업</li>]]></content>
     </entry>
 </feed>

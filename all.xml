@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 22:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 23:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -315,6 +315,14 @@
             <content:encoded><![CDATA[피터 슈라이어Peter Schreyer. 자동차에 조금이라도 관심있는 분들이라면 익숙한 이름일 겁니다. BMW의 크리스 뱅글<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[마케터 스투시의 시선을 사로잡은 유튜브 (폴인)]]></title>
+            <link>https://www.folin.co/story/1965</link>
+            <guid>https://www.folin.co/story/1965</guid>
+            <pubDate>Wed, 01 Dec 2021 23:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[40만 농민의 네이버, '그린랩스' 어디까지 성장할까? (폴인)]]></title>
             <link>https://www.folin.co/story/1967</link>
             <guid>https://www.folin.co/story/1967</guid>
@@ -593,14 +601,6 @@
             <pubDate>Wed, 20 Oct 2021 22:10:42 GMT</pubDate>
             <content:encoded><![CDATA[<li>공간</li>
                                 <li>라이프스타일</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[목표한 혁신을 성공케 하는 '3년 단위 계획법' (폴인)]]></title>
-            <link>https://www.folin.co/story/1906</link>
-            <guid>https://www.folin.co/story/1906</guid>
-            <pubDate>Tue, 19 Oct 2021 22:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[<li>테크</li>
-                                <li>스타트업</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[일하느라 화장실에 못 가는 사람들이 질병에 걸리고 있다. 우리는 왜 직장에서 화장실 얘기를 쉬쉬할까? (북저널리즘)]]></title>
