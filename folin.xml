@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2021-12-01T21:11:07.038Z</updated>
+    <updated>2021-12-01T22:11:43.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[40만 농민의 네이버, '그린랩스' 어디까지 성장할까?]]></title>
+        <id>https://www.folin.co/story/1967</id>
+        <link href="https://www.folin.co/story/1967"/>
+        <updated>2021-12-01T22:11:25.187Z</updated>
+        <content type="html"><![CDATA[<li>테크</li>
+                                <li>스타트업</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['협업 툴' 만드는 토스랩은 어떻게 일할까?]]></title>
         <id>https://www.folin.co/story/1953</id>
@@ -284,13 +292,5 @@
         <updated>2021-10-19T22:10:47.276Z</updated>
         <content type="html"><![CDATA[<li>테크</li>
                                 <li>스타트업</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아모레퍼시픽 마케터가 밝히는 B면 활용법]]></title>
-        <id>https://www.folin.co/story/1914</id>
-        <link href="https://www.folin.co/story/1914"/>
-        <updated>2021-10-18T22:11:18.652Z</updated>
-        <content type="html"><![CDATA[<li>워크</li>
-                                <li>조직문화</li>]]></content>
     </entry>
 </feed>
