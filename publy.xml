@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all</id>
     <title>퍼블리</title>
-    <updated>2021-12-01T09:12:29.991Z</updated>
+    <updated>2021-12-01T10:12:26.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 트렌드 모니터: '답답함'이라는 감정의 탈출구를 찾다]]></title>
+        <id>https://publy.co/set/1683?fr=category</id>
+        <link href="https://publy.co/set/1683?fr=category"/>
+        <updated>2021-12-01T10:11:37.521Z</updated>
+        <content type="html"><![CDATA[웹북 • 2개 챕터]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한 해를 정리하는 '기록 연말 정산']]></title>
         <id>https://publy.co/content/6611?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6555?fr=category"/>
         <updated>2021-11-19T09:11:13.732Z</updated>
         <content type="html"><![CDATA[아티클 • 10분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 일, 나한테 맞는 걸까? 이직 전 반드시 체크할 것들]]></title>
-        <id>https://publy.co/content/6593?fr=category</id>
-        <link href="https://publy.co/content/6593?fr=category"/>
-        <updated>2021-11-18T09:11:12.038Z</updated>
-        <content type="html"><![CDATA[아티클 • 11분 분량]]></content>
     </entry>
 </feed>
