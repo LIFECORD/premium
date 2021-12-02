@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 03:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 04:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -615,7 +615,7 @@
             <link>https://www.bookjournalism.com/books/46106</link>
             <guid>https://www.bookjournalism.com/books/46106</guid>
             <pubDate>Wed, 01 Dec 2021 19:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[웃을 일이 아닌데요]]></content:encoded>
+            <content:encoded><![CDATA[화장실병은 산재고 화장실권은 인권인 세상]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[자본주의의 드림 머신이 번성하고 있다. 벤처캐피털들이 세상을 바꾸고 있다. (북저널리즘)]]></title>
