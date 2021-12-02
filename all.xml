@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 21:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 22:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -323,6 +323,14 @@
             <content:encoded><![CDATA[2015년 일본 후쿠오카 여행 중에 처음으로 츠타야 서점蔦屋書店을 알게 됐어요. 서점이 책을 파는 공간을 넘어 많은 사랑을 받고 있다는 것에 놀랐죠. 이후 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[백화점 VMD가 발견한 '좋아 보이는 것의 비밀' (폴인)]]></title>
+            <link>https://www.folin.co/story/1966</link>
+            <guid>https://www.folin.co/story/1966</guid>
+            <pubDate>Thu, 02 Dec 2021 22:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[<li>공간</li>
+                                <li>라이프스타일</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[마케터 스투시의 시선을 사로잡은 유튜브 (폴인)]]></title>
             <link>https://www.folin.co/story/1965</link>
             <guid>https://www.folin.co/story/1965</guid>
@@ -601,14 +609,6 @@
             <pubDate>Thu, 21 Oct 2021 22:10:50 GMT</pubDate>
             <content:encoded><![CDATA[<li>라이프스타일</li>
                                 <li>커리어</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[지속가능한 로컬에 필요한 것, '공간'일까 '시간'일까 (폴인)]]></title>
-            <link>https://www.folin.co/story/1917</link>
-            <guid>https://www.folin.co/story/1917</guid>
-            <pubDate>Wed, 20 Oct 2021 22:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[<li>공간</li>
-                                <li>라이프스타일</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이준석 국민의힘 대표가 모든 당무를 거부하고 떠났다. 당대표와 후보 간의 갈등에서 누가 웃게될 것인가. (북저널리즘)]]></title>
