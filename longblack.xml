@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2021-12-02T15:10:34.663Z</updated>
+    <updated>2021-12-02T16:17:12.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/120</id>
         <link href="https://www.longblack.co/note/120"/>
         <updated>2021-12-02T15:10:06.095Z</updated>
-        <content type="html"><![CDATA[2015년 일본 후쿠오카 여행 중에 처음으로 츠타야 서점蔦屋書店을 가 봤어요. 서점이 책을 파는 공간을 넘어 많은 사랑을 받고 있다는 것에 놀랐죠. 이후 츠<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[2015년 일본 후쿠오카 여행 중에 처음으로 츠타야 서점蔦屋書店을 알게 됐어요. 서점이 책을 파는 공간을 넘어 많은 사랑을 받고 있다는 것에 놀랐죠. 이후 <span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

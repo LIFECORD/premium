@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 15:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 16:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -320,7 +320,7 @@
             <link>https://www.longblack.co/note/120</link>
             <guid>https://www.longblack.co/note/120</guid>
             <pubDate>Thu, 02 Dec 2021 15:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[2015년 일본 후쿠오카 여행 중에 처음으로 츠타야 서점蔦屋書店을 가 봤어요. 서점이 책을 파는 공간을 넘어 많은 사랑을 받고 있다는 것에 놀랐죠. 이후 츠<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[2015년 일본 후쿠오카 여행 중에 처음으로 츠타야 서점蔦屋書店을 알게 됐어요. 서점이 책을 파는 공간을 넘어 많은 사랑을 받고 있다는 것에 놀랐죠. 이후 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[마케터 스투시의 시선을 사로잡은 유튜브 (폴인)]]></title>
@@ -611,6 +611,13 @@
                                 <li>라이프스타일</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[이준석 국민의힘 대표가 모든 당무를 거부하고 떠났다. 당대표와 후보 간의 갈등에서 누가 웃게될 것인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/46143</link>
+            <guid>https://www.bookjournalism.com/books/46143</guid>
+            <pubDate>Thu, 02 Dec 2021 16:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[당대표의 모험]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[일하느라 화장실에 못 가는 사람들이 질병에 걸리고 있다. 우리는 왜 직장에서 화장실 얘기를 쉬쉬할까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/46106</link>
             <guid>https://www.bookjournalism.com/books/46106</guid>
@@ -686,13 +693,6 @@
             <guid>https://www.bookjournalism.com/books/45350</guid>
             <pubDate>Tue, 30 Nov 2021 19:09:50 GMT</pubDate>
             <content:encoded><![CDATA[누가 작은 정부의 시대를 끝장냈나?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[온라인 명품 거래 플랫폼이 고속 성장하고 있다. 비결은? 우리는 왜 명품에 열광할까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/45471</link>
-            <guid>https://www.bookjournalism.com/books/45471</guid>
-            <pubDate>Tue, 30 Nov 2021 19:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[품절과 함께 사라지다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[메타버스는 1200조원 시장? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
