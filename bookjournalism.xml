@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2021-12-02T07:12:37.019Z</updated>
+    <updated>2021-12-02T08:13:55.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
@@ -20,7 +20,7 @@
         <content type="html"><![CDATA[걸었노라 벌었노라 커졌노라]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[로톡과 변호사 협회의 갈등이 첨예하다. 밥그릇 싸움일까?]]></title>
+        <title type="html"><![CDATA[로톡과 변호사 협회의 갈등이 첨예하다. 법은 멀고 변화는 가깝다.]]></title>
         <id>https://www.bookjournalism.com/books/46018</id>
         <link href="https://www.bookjournalism.com/books/46018"/>
         <updated>2021-11-30T19:09:50.587Z</updated>
