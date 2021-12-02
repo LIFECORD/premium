@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 16:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 17:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -316,7 +316,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/4bac41c6-3780-4fac-970c-55a9235126be_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[츠타야 쉐어 라운지 : 라이프스타일 전문가들이 제안하는 '워크 스타일' (롱블랙)]]></title>
+            <title><![CDATA[츠타야 쉐어라운지 : 라이프스타일 전문가들이 제안하는 '워크 스타일' (롱블랙)]]></title>
             <link>https://www.longblack.co/note/120</link>
             <guid>https://www.longblack.co/note/120</guid>
             <pubDate>Thu, 02 Dec 2021 15:10:06 GMT</pubDate>
