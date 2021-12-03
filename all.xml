@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 00:35:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 01:55:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,21 @@
             <guid>https://publy.co/content/6607?fr=category</guid>
             <pubDate>Tue, 23 Nov 2021 08:12:59 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 5분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이주의 떡상템! 요즘 Z세대가 가슴속 3천 원으로 사 먹는 길거리 간식은? (캐릿)]]></title>
+            <link>https://www.careet.net/575</link>
+            <guid>https://www.careet.net/575</guid>
+            <pubDate>Fri, 03 Dec 2021 01:54:58 GMT</pubDate>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/ddcd24bc-7b18-4768-a77a-97e62571401f_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[당장 써먹는 짤줍] 가족이 되어주라! (캐릿)]]></title>
+            <link>https://www.careet.net/573</link>
+            <guid>https://www.careet.net/573</guid>
+            <pubDate>Fri, 03 Dec 2021 01:54:58 GMT</pubDate>
+            <content:encoded><![CDATA[내 집이 되어주라!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/c935de91-d652-4e2c-8dd1-a882440bb30c_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[힙한 Z세대는 아는 농부가 있다 (캐릿)]]></title>
