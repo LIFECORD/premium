@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 07:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 08:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[읽으면서 완성하는 '영어 비즈니스 이메일' (퍼블리)]]></title>
+            <link>https://publy.co/content/6603?fr=category</link>
+            <guid>https://publy.co/content/6603?fr=category</guid>
+            <pubDate>Fri, 03 Dec 2021 08:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 • 13분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[매출을 부르는 인스타그램 광고 전략 (퍼블리)]]></title>
+            <link>https://publy.co/content/6578?fr=category</link>
+            <guid>https://publy.co/content/6578?fr=category</guid>
+            <pubDate>Fri, 03 Dec 2021 08:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 • 10분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[트렌디한 스타트업 마케터는 뭘 읽을까? 마케터들의 연말 독서 결산 (퍼블리)]]></title>
             <link>https://publy.co/content/6605?fr=category</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/6600?fr=category</guid>
             <pubDate>Thu, 25 Nov 2021 08:13:30 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 12분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[밀레니얼-Z세대 트렌드 2022: 소비자에서 사회의 중심이 된 20대 (퍼블리)]]></title>
-            <link>https://publy.co/set/1684?fr=category</link>
-            <guid>https://publy.co/set/1684?fr=category</guid>
-            <pubDate>Wed, 24 Nov 2021 09:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[웹북 • 2개 챕터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[웹툰] 멱살 잡고 이더리움 이해시켜주는 만화 (퍼블리)]]></title>
-            <link>https://publy.co/content/6607?fr=category</link>
-            <guid>https://publy.co/content/6607?fr=category</guid>
-            <pubDate>Tue, 23 Nov 2021 08:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 • 5분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이 주의 떡상템! 요즘 Z세대가 가슴속 3천 원으로 사 먹는 길거리 간식은? (캐릿)]]></title>

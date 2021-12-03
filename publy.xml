@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all</id>
     <title>퍼블리</title>
-    <updated>2021-12-03T07:12:02.772Z</updated>
+    <updated>2021-12-03T08:14:03.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[읽으면서 완성하는 '영어 비즈니스 이메일']]></title>
+        <id>https://publy.co/content/6603?fr=category</id>
+        <link href="https://publy.co/content/6603?fr=category"/>
+        <updated>2021-12-03T08:13:18.891Z</updated>
+        <content type="html"><![CDATA[아티클 • 13분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매출을 부르는 인스타그램 광고 전략]]></title>
+        <id>https://publy.co/content/6578?fr=category</id>
+        <link href="https://publy.co/content/6578?fr=category"/>
+        <updated>2021-12-03T08:13:18.899Z</updated>
+        <content type="html"><![CDATA[아티클 • 10분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트렌디한 스타트업 마케터는 뭘 읽을까? 마케터들의 연말 독서 결산]]></title>
         <id>https://publy.co/content/6605?fr=category</id>
@@ -60,19 +74,5 @@
         <link href="https://publy.co/content/6600?fr=category"/>
         <updated>2021-11-25T08:13:30.755Z</updated>
         <content type="html"><![CDATA[아티클 • 12분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밀레니얼-Z세대 트렌드 2022: 소비자에서 사회의 중심이 된 20대]]></title>
-        <id>https://publy.co/set/1684?fr=category</id>
-        <link href="https://publy.co/set/1684?fr=category"/>
-        <updated>2021-11-24T09:11:15.747Z</updated>
-        <content type="html"><![CDATA[웹북 • 2개 챕터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[웹툰] 멱살 잡고 이더리움 이해시켜주는 만화]]></title>
-        <id>https://publy.co/content/6607?fr=category</id>
-        <link href="https://publy.co/content/6607?fr=category"/>
-        <updated>2021-11-23T08:12:59.007Z</updated>
-        <content type="html"><![CDATA[아티클 • 5분 분량]]></content>
     </entry>
 </feed>
