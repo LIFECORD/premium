@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 04:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 05:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,7 +78,7 @@
             <content:encoded><![CDATA[아티클 • 5분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이주의 떡상템! 요즘 Z세대가 가슴속 3천 원으로 사 먹는 길거리 간식은? (캐릿)]]></title>
+            <title><![CDATA[이 주의 떡상템! 요즘 Z세대가 가슴속 3천 원으로 사 먹는 길거리 간식은? (캐릿)]]></title>
             <link>https://www.careet.net/575</link>
             <guid>https://www.careet.net/575</guid>
             <pubDate>Fri, 03 Dec 2021 01:54:58 GMT</pubDate>
@@ -710,14 +710,6 @@
             <content:encoded><![CDATA[누가 작은 정부의 시대를 끝장냈나?]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[ESG인터뷰] 기부금은 100% 기부에만 사용하는 '곧장기부'…가능해? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/jobplanet/companytimes/contents/211125094708426OP</link>
-            <guid>https://contents.premium.naver.com/jobplanet/companytimes/contents/211125094708426OP</guid>
-            <pubDate>Thu, 02 Dec 2021 15:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[기부. 따뜻한 말이지만 여기에 '단체'라는 단어가 붙어 '기부 단체'가 되면 살짝 마음이 식는다. 나도 모르게 의심의 물음표가 스멀스멀 떠오른다. 좋은 뜻으로 알뜰살뜰 모아서 낸 기부금이 정말 내가 생각한 그곳에 온전히 전달이 될까? 혹시 내 소중한 기부금이 직원들 연말 파티에 쓰이는 것은 아닐까? 단지 의심이 많아서라고 하기에 우리는 좋은 의도로 전달한 기부금이 다]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjVfNTgg/MDAxNjM3ODAxMzA4NjM1.Ihtd5quxVGgPw8MI_W75NXhV0TuGo0YrbmaIjgxpFkwg.GqkrYl-j3jXNRcAuecYPfi3cA8ArB9-x1YO79nr71Ogg.JPEG/%EA%B3%A7%EC%9E%A5%EA%B8%B0%EB%B6%80_%EC%9D%B8%ED%84%B0%EB%B7%B0_%EC%82%AC%EC%A7%84_(3).jpg?type=nf220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[메타버스는 1200조원 시장? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/cryptoneedle/crypto/contents/211126143309248wk</link>
             <guid>https://contents.premium.naver.com/cryptoneedle/crypto/contents/211126143309248wk</guid>
@@ -726,12 +718,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjZfMTQw/MDAxNjM3OTA3NzQwNTQw.Vwy5LLl2S-g-GL3KUgGZ-NqTfqgPoGbllqdOzJUu1ZEg.ERBCxUa78jxBdguqVqinxf4Zq2e0M9diooMWIPKjg44g.JPEG/visual-stories-micheile-lZ_4nPFKcV8-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[11.30일 종목리뷰 (한화, ISC) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/kiwoom/thestock/contents/211130171013513DV</link>
-            <guid>https://contents.premium.naver.com/kiwoom/thestock/contents/211130171013513DV</guid>
+            <title><![CDATA[[ESG인터뷰] 기부금은 100% 기부에만 사용하는 '곧장기부'…가능해? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/jobplanet/companytimes/contents/211125094708426OP</link>
+            <guid>https://contents.premium.naver.com/jobplanet/companytimes/contents/211125094708426OP</guid>
             <pubDate>Thu, 02 Dec 2021 15:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;한화 리뷰&gt; 1. 하락마감 및 원인 (-3.55%) - 시장이 투매 흐름이 진행되면서 대부분의 업종이 하락을 하면서, 전저점도 이탈이 되었습니다. - 시장요인이라고 하더라도 처음에 정해 드린 손절 라인이 29,000원 이라서 좀더 봐야 하는 상황이긴 합니다.  - 일단 투매가 나온 상황이라서 제외하기 보다는 처음에 설정한 손절가를 깨는지 보면서 대응하도록 하겠습니다. - 현구간이 실적이]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMzBfOTQg/MDAxNjM4MjU4NzQ4NjU4.kBgoCnaCCMclEwT2RbTLPGyTf4EM9WlFKkmTc1Yq0Xwg.rhW1C5koSAeUVnrSrywhixo_pKI2Rd9rQystdh3b4Rcg.JPEG/GettyImages-1190564035.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[기부. 따뜻한 말이지만 여기에 '단체'라는 단어가 붙어 '기부 단체'가 되면 살짝 마음이 식는다. 나도 모르게 의심의 물음표가 스멀스멀 떠오른다. 좋은 뜻으로 알뜰살뜰 모아서 낸 기부금이 정말 내가 생각한 그곳에 온전히 전달이 될까? 혹시 내 소중한 기부금이 직원들 연말 파티에 쓰이는 것은 아닐까? 단지 의심이 많아서라고 하기에 우리는 좋은 의도로 전달한 기부금이 다]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjVfNTgg/MDAxNjM3ODAxMzA4NjM1.Ihtd5quxVGgPw8MI_W75NXhV0TuGo0YrbmaIjgxpFkwg.GqkrYl-j3jXNRcAuecYPfi3cA8ArB9-x1YO79nr71Ogg.JPEG/%EA%B3%A7%EC%9E%A5%EA%B8%B0%EB%B6%80_%EC%9D%B8%ED%84%B0%EB%B7%B0_%EC%82%AC%EC%A7%84_(3).jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[시황] 12월 주요 이슈 및 전망 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -742,12 +734,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjZfMjMy/MDAxNjM3OTA1MDg2NTk3.Pg9VIDvUEgdosiqI_a_uwLs-0iKfEplb3xna0HV5X-og.nSaIHXTBiVfIHfWQlkVozy_wlsb-J6jqCYszU5ho4q8g.JPEG/GettyImages-1354709848.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[11.26일 종목리뷰 (DB손해보험, 한화, 신세계, 와이지엔터테인먼트) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/kiwoom/thestock/contents/211126162918457Qu</link>
-            <guid>https://contents.premium.naver.com/kiwoom/thestock/contents/211126162918457Qu</guid>
+            <title><![CDATA[11.30일 종목리뷰 (한화, ISC) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/kiwoom/thestock/contents/211130171013513DV</link>
+            <guid>https://contents.premium.naver.com/kiwoom/thestock/contents/211130171013513DV</guid>
             <pubDate>Thu, 02 Dec 2021 15:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;DB손해보험 리뷰&gt; 1. 하락 마감 및 원인 - 오늘은 -1,500원(-2.72%) 하락한 53,600원으로 아쉽게도 3일 연속 하락세로 마감하였습니다. - 약세를 보여준 가장큰 이유 중 하나는 물론 지수급락이 원인제공을 하였다고 볼 수 있겠지만, 추가적으로는 지난 10월달을 기준으로 삼성화재(000810)·현대해상(001450)·DB손해보험(005830)·메리츠화재(000060)·한화손해보험(000370) 등 주요 상장 손보사 5곳]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjZfMjQ2/MDAxNjM3OTA5MzczMTY5.5BIwOPEjokbHu5XEuoBzD8ttb5IXPWT35qEdBy_NHf4g.qi0tx9f2Be2fXC0OfKO78aw7huTkTiCMh3yZabKQExgg.JPEG/GettyImages-1190564035.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[&lt;한화 리뷰&gt; 1. 하락마감 및 원인 (-3.55%) - 시장이 투매 흐름이 진행되면서 대부분의 업종이 하락을 하면서, 전저점도 이탈이 되었습니다. - 시장요인이라고 하더라도 처음에 정해 드린 손절 라인이 29,000원 이라서 좀더 봐야 하는 상황이긴 합니다.  - 일단 투매가 나온 상황이라서 제외하기 보다는 처음에 설정한 손절가를 깨는지 보면서 대응하도록 하겠습니다. - 현구간이 실적이]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMzBfOTQg/MDAxNjM4MjU4NzQ4NjU4.kBgoCnaCCMclEwT2RbTLPGyTf4EM9WlFKkmTc1Yq0Xwg.rhW1C5koSAeUVnrSrywhixo_pKI2Rd9rQystdh3b4Rcg.JPEG/GettyImages-1190564035.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대표 물류회사들은 ‘친환경 경영’에 어떻게 접근할까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -758,12 +750,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjZfMjk4/MDAxNjM3OTA1NTk3Nzcz.hgGJ-kbh8pQS31XjvbwdIQDmxtatyROwmBoqM3bdgu8g.ZojeT_x9FlR6KSMvEa_NfpTdOJdukS5cDNpD5beJj5Qg.JPEG/%EC%A0%95%EC%B1%85%EA%B0%84%EB%8B%B4%ED%9A%8C.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[지스타가 끝나고 난 뒤 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/potg/potgbypnn/contents/211127001008804Ig</link>
-            <guid>https://contents.premium.naver.com/potg/potgbypnn/contents/211127001008804Ig</guid>
+            <title><![CDATA[11.26일 종목리뷰 (DB손해보험, 한화, 신세계, 와이지엔터테인먼트) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/kiwoom/thestock/contents/211126162918457Qu</link>
+            <guid>https://contents.premium.naver.com/kiwoom/thestock/contents/211126162918457Qu</guid>
             <pubDate>Thu, 02 Dec 2021 15:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 주간 게임 하이라이트 레터, POTG의 허새롬 기자입니다.  부산, 잘 다녀왔습니다! 매년 돌아오는 국내 게임업계의 대표격 행사 지스타가 마무리됐습니다. 지스타는 다양한 게임사가 부스를 내고 자신들의 게임을 소개하는 게임 박람회죠. 국내도 게임에 관련된 작고 큰 행사가 꽤 있습니다만(a.k.a 플레이엑스포), 지스타의 상징성은 독보적입니다. 미국에 E3, 유럽에 게]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjZfMTA3/MDAxNjM3OTM4NTQzMTU4.05D4dJBgPvrZumb95Dow072uP4zJwBfgvPQst6N4Uhog.uwJmbc2D14w9ZAN25xp1L9DBjRzSbu1r0uKNJP5STzgg.JPEG/IMG_6306.jpeg?type=nf220_220" length="0" type="image/jpeg"/>
+            <content:encoded><![CDATA[&lt;DB손해보험 리뷰&gt; 1. 하락 마감 및 원인 - 오늘은 -1,500원(-2.72%) 하락한 53,600원으로 아쉽게도 3일 연속 하락세로 마감하였습니다. - 약세를 보여준 가장큰 이유 중 하나는 물론 지수급락이 원인제공을 하였다고 볼 수 있겠지만, 추가적으로는 지난 10월달을 기준으로 삼성화재(000810)·현대해상(001450)·DB손해보험(005830)·메리츠화재(000060)·한화손해보험(000370) 등 주요 상장 손보사 5곳]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjZfMjQ2/MDAxNjM3OTA5MzczMTY5.5BIwOPEjokbHu5XEuoBzD8ttb5IXPWT35qEdBy_NHf4g.qi0tx9f2Be2fXC0OfKO78aw7huTkTiCMh3yZabKQExgg.JPEG/GettyImages-1190564035.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검은 북극 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -774,12 +766,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjlfMjM3/MDAxNjM4MTE4NzE0MjQz.WPaN9g3Q_Y7EcTbRabrlhoIpbj61P04fK2yGUfbhbqwg.gn3CG81Z_Q-eGSYelx85HF2OBT9XPAHIF9fnc_J3BGUg.JPEG/unnamed_(15).jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사야 되나 말아야 되나...또 나온 코로나 변종 (21. 11. 29) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/cryptoneedle/crypto/contents/211129131232092vR</link>
-            <guid>https://contents.premium.naver.com/cryptoneedle/crypto/contents/211129131232092vR</guid>
-            <pubDate>Thu, 02 Dec 2021 20:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[1. ‘블랙 프라이데이 세일' 이후 비트코인과 알트코인 반등  https://www.coindesk.com/markets/2021/11/28/first-mover-asia-bitcoin-altcoins-rebound-from-black-friday-plummet/ 뉴스 요약  - 비트코인은 하락 후 7200만원선 회복했으나 투자자들은 코로나 오미크론 변이에 시장 영향 우려 - 비트코인 탐욕-공포 지수는 9월 이후 최저치, 공포 단계에 머물러있음 덧붙이기    - 올해 5월 같은 하락장 시작의 시즌종]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjlfMjUx/MDAxNjM4MTU4OTMzMDg1.YJaAdnyMpD8ZA_z6aszjWgZO4F0QIKf1cRrUwopcE4Eg.zkszHL8aOwZ8YeLU8eMG1Mz7FSS_iNETvsIuIzlbAWMg.JPEG/martin-sanchez-VhjsGKMefkk-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[지스타가 끝나고 난 뒤 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/potg/potgbypnn/contents/211127001008804Ig</link>
+            <guid>https://contents.premium.naver.com/potg/potgbypnn/contents/211127001008804Ig</guid>
+            <pubDate>Thu, 02 Dec 2021 15:10:33 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요. 주간 게임 하이라이트 레터, POTG의 허새롬 기자입니다.  부산, 잘 다녀왔습니다! 매년 돌아오는 국내 게임업계의 대표격 행사 지스타가 마무리됐습니다. 지스타는 다양한 게임사가 부스를 내고 자신들의 게임을 소개하는 게임 박람회죠. 국내도 게임에 관련된 작고 큰 행사가 꽤 있습니다만(a.k.a 플레이엑스포), 지스타의 상징성은 독보적입니다. 미국에 E3, 유럽에 게]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjZfMTA3/MDAxNjM3OTM4NTQzMTU4.05D4dJBgPvrZumb95Dow072uP4zJwBfgvPQst6N4Uhog.uwJmbc2D14w9ZAN25xp1L9DBjRzSbu1r0uKNJP5STzgg.JPEG/IMG_6306.jpeg?type=nf220_220" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대가의 선택]  바이오 투자에 안목 있는 기업 - 로열티파마 (feat.  워런 버핏의 2021년 3분기 포트폴리오) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/211130095958798Hi</link>
+            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/211130095958798Hi</guid>
+            <pubDate>Fri, 03 Dec 2021 05:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[세계 부자는 어떤 종목을 살까요~?  투자의 대가 워런 버핏은 21년 3분기에 2개의 신규종목을 매수했습니다.  그 중 미식가가 주목한 종목은 바로 로열티파마(RPRX)입니다.  버핏이 투자한 그 종목은 과연 어떤 기업일까요?  로열티파마(RPRX).. 자세히 리뷰해봅시다! feat. 새로운 투자유형인 로열티 금융이 궁금하다면? 영상을 시청해보아요~ 미식가 서비스에 가입하시면 영상에 포함]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMzBfNDIg/MDAxNjM4MjMwODc2ODY3.B627hU1gBfVWUHP5xXhlDNa-35RnwhgQjVNVVKeHCJMg.4JkTxDvO0d0Zut6LkPk8J4dbKUqpHOUGCk4sbnr8bIEg.JPEG/freestocks-nss2eRzQwgw-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
