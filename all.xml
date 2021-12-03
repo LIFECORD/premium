@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 09:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 10:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -626,6 +626,13 @@
                                 <li>커리어</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[12월 첫째 주 - 신의 뜻은 알 도리가 없지만 우리 인간이 할 수 있는 건 오직 이것뿐이 아닐까요. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/46136</link>
+            <guid>https://www.bookjournalism.com/books/46136</guid>
+            <pubDate>Fri, 03 Dec 2021 10:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[지옥은 신의 부재]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이준석 국민의힘 대표가 모든 당무를 거부하고 떠났다. 당 대표와 대선 후보 간의 갈등에서 누가 웃게 될 것인가. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/46143</link>
             <guid>https://www.bookjournalism.com/books/46143</guid>
@@ -701,13 +708,6 @@
             <guid>https://www.bookjournalism.com/books/45607</guid>
             <pubDate>Tue, 30 Nov 2021 19:09:50 GMT</pubDate>
             <content:encoded><![CDATA[죽고 싶은 사람들]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전 세계가 거대 정부의 시대로 접어들고 있다. 코로나가 트리거다. 초대형 국가는 초거대 해결책이 될까, 초대형 문젯거리가 될까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/45350</link>
-            <guid>https://www.bookjournalism.com/books/45350</guid>
-            <pubDate>Tue, 30 Nov 2021 19:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[누가 작은 정부의 시대를 끝장냈나?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[ESG인터뷰] 기부금은 100% 기부에만 사용하는 '곧장기부'…가능해? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
