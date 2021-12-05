@@ -2,17 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2021-12-05T14:10:50.137Z</updated>
+    <updated>2021-12-05T15:11:39.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[롱블랙 선데이 에디션]]></title>
-        <id>https://www.longblack.co/weekend</id>
-        <link href="https://www.longblack.co/weekend"/>
-        <updated>2021-12-04T15:11:21.742Z</updated>
-        <content type="html"><![CDATA[L의 가슴을 울린 지난주 롱블랙의 문장
-
-“자신의 스튜디오에 앉아서 다트를 던지며 그게 과녁에 명중하기만 기다리지 마세요. 여러분이 실제로 다트판까지 걸어가면, 직접 다트를 과녁에 꽂을 수 있어요.”
-11월 30일 노트 &lt;버질 아블로 : 당신의 모든 것을 편집하라<span class="circle-punctuation"></span>]]></content>
+        <title type="html"><![CDATA[그린먼데이 : ‘미트 러버’ 홍콩을 바꾸고 있는 대체육 회사]]></title>
+        <id>https://www.longblack.co/note/119</id>
+        <link href="https://www.longblack.co/note/119"/>
+        <updated>2021-12-05T15:11:08.137Z</updated>
+        <content type="html"><![CDATA[월요일이네요! 제가 하루 한 끼 채식하는 날입니다. 별 거 없고 샐러드 듬뿍 먹어요. 저처럼 일주일에 하루나 한 끼 채식하는 분들 있죠? 이걸<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

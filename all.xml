@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 14:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 15:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -331,14 +331,11 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202111/4bac41c6-3780-4fac-970c-55a9235126be_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
-            <link>https://www.longblack.co/weekend</link>
-            <guid>https://www.longblack.co/weekend</guid>
-            <pubDate>Sat, 04 Dec 2021 15:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[L의 가슴을 울린 지난주 롱블랙의 문장
-
-“자신의 스튜디오에 앉아서 다트를 던지며 그게 과녁에 명중하기만 기다리지 마세요. 여러분이 실제로 다트판까지 걸어가면, 직접 다트를 과녁에 꽂을 수 있어요.”
-11월 30일 노트 &lt;버질 아블로 : 당신의 모든 것을 편집하라<span class="circle-punctuation"></span>]]></content:encoded>
+            <title><![CDATA[그린먼데이 : ‘미트 러버’ 홍콩을 바꾸고 있는 대체육 회사 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/119</link>
+            <guid>https://www.longblack.co/note/119</guid>
+            <pubDate>Sun, 05 Dec 2021 15:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[월요일이네요! 제가 하루 한 끼 채식하는 날입니다. 별 거 없고 샐러드 듬뿍 먹어요. 저처럼 일주일에 하루나 한 끼 채식하는 분들 있죠? 이걸<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[백화점 VMD가 발견한 '좋아 보이는 것의 비밀' (폴인)]]></title>
@@ -713,76 +710,76 @@
             <content:encoded><![CDATA[극한직업의 무게]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[시장/경제] #14. 알루미늄으로 돈벌기 1편: 역대 최고치를 찍은 알루미늄 시세 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/usa/nasdaq/contents/211015120229954iO</link>
-            <guid>https://contents.premium.naver.com/usa/nasdaq/contents/211015120229954iO</guid>
-            <pubDate>Sat, 04 Dec 2021 15:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 카레라입니다. 오늘은 &lt;시장경제의 이해&gt; 카테고리에서 알루미늄 특집을 다뤄보려고 합니다. 원자재를 직접적으로 다루는 건 천연가스 이후로 오랜만인 것 같아요. 우선, 오늘 알루미늄 특집을 편성해야만 하는 이유가 있습니다. 오늘 콘텐츠를 먼저 요약하면 이렇습니다. # 콘텐츠 요약 ㆍ알루미늄 가격은 1년 만에 2배 폭등, 2008년의 고점을 깨 버리고 신고가를 갱]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTVfMTAw/MDAxNjM0MjYyOTk0MDA4.q0iH4f7vfDWQi53dj6ATyErn8cPlYutC8aYVQskjk5cg.t7FxU29rA-QstgZ9svLRz0qhcrUIEemgwQvwZlNxHR0g.JPEG/00.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[다른 회사에 죽어도 못보내…인사팀의 짬짜미? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/jobplanet/companytimes/contents/211129141605096gc</link>
+            <guid>https://contents.premium.naver.com/jobplanet/companytimes/contents/211129141605096gc</guid>
+            <pubDate>Sun, 05 Dec 2021 15:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[평생직장은 옛말이란 말처럼 경력을 쌓으면 다른 회사로 이직하는 경우가 흔해졌는데요. &lt;컴퍼니 타임스&gt;로 이직을 고민하는 직장인의 제보가 들어왔습니다. 인사팀끼리 담합해서 이직 시도 직원에 대한 정보를 공유한다면, 그래서 피해를 입었다면 어떻게 해야 할까요?   ◇ 취업 방해 성립 가능할까?…증거 없으면 입증 어려워 결론부터 말하자면 '취업 방해'를 목적으로 정보]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjlfMTcx/MDAxNjM4MTYyNzE0NzUx.tJKxqq-XAp3rmYxtd-HJi1eD8CbJOln6WWZFk73mZbQg.JdWvY8XFEKhqEN0j3IwWlJF2fAEujhonygbbPmtJLJIg.JPEG/Iwouldnotletyougo.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[시장/경제] #17. 지금! 글로벌 물류 대란 이해하기 1편: 가장 쉽고 자세한 설명 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/usa/nasdaq/contents/211018111327491cm</link>
-            <guid>https://contents.premium.naver.com/usa/nasdaq/contents/211018111327491cm</guid>
-            <pubDate>Sat, 04 Dec 2021 15:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 카레라입니다. 즐거운 주말 보내고 계신가요? 저희가 그 동안 &lt;시장경제의 이해&gt;에서 다루었던 수많은 내용들 중에 대부분이 글로벌 물류 공급망 대란, 즉 공급망 병목 현상(Supply chain bottleneck)과 관련이 있습니다. 또한 이 병목 현상은 미국에서 연준의 기대를 멀찌감치 벗어나 계속 치솟는 인플레이션의 주요 원인이기도 하지요. 따라서 여러분이 실물경제를 기반으]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTZfMjg5/MDAxNjM0Mzc5NTAxODY5.7LAIvEjJNfDDcDvWrtWUMJTk9l_cx6MqGkDieFiEdo4g.D03GFYweOcCuBlQU_HNuQdF58YCaxy7fEETy3P85gukg.JPEG/1.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[KCGI, 정보보안 솔루션 기업 '윈스' 세컨더리 투자 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/thebell/stock/contents/211126170500814ti</link>
+            <guid>https://contents.premium.naver.com/thebell/stock/contents/211126170500814ti</guid>
+            <pubDate>Sun, 05 Dec 2021 15:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[사모투자펀드(PEF) 운용사 KCGI가 네트워크 정보보안 솔루션 기업 윈스(WINS)에 세컨더리 투자를 추진합니다.  이번 투자는 크레센도에쿼티파트너스 등이 2016년 윈스에 투자한 지분을 인수하는 방식으로 이뤄집니다. KCGI는 헬리오스PE와 함께 포트폴리오로 확보한 기업 이노와이어리스와의 시너지를 위해 이번 투자를 결정한 것으로 파악됩니다. 연내 펀딩이 성사될지에도 이목이]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjZfMTQw/MDAxNjM3OTEwNDA4ODc0.3_MDcZLD8YlbDzuGuEhtRMNlUZvnSx_rbR-V9cQNwaYg.SAKE_a8g421Z0qiURk2h2pQXZwURBXszcVGYAzTSG_Yg.JPEG/view_photo20180723150612846437_0.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[시장/경제] #19. 원유, 천연가스 최소한 이건 알고 투자하자 1편: 절대 모르면 안 되는 요점 정리 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/usa/nasdaq/contents/211019120337048dM</link>
-            <guid>https://contents.premium.naver.com/usa/nasdaq/contents/211019120337048dM</guid>
-            <pubDate>Sat, 04 Dec 2021 15:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 카레라입니다. 오늘 &lt;시장경제의 이해&gt;에서는 총 4편에 걸쳐서 역시 몇 년 만에 가격 변동폭이 꿈틀거리면서 심상치 않은 움직임을 보여주는 원유와 천연가스에 대해 미국주식 투자자 분들이 가장 궁금해하는 것들을 다뤄보려고 합니다. 특히 미국주식 종목들의 주가에 가장 영향을 많이 주는 원자재가 원유와 천연가스이기 때문에 더욱 그렇습니다. 중국의 천연가]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMTlfMTg2/MDAxNjM0NjA0NjgxNjk2.IdPH1khDY_Ci57-prbRJJc-6hY_wLJqhn0E5xrjp0L0g.sVcKNcNA2V_zIvALbuZT4st3E9f6wH3gRKiXGvOJKEcg.JPEG/1.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[코인 투자 분석] 하루 만에 20% 급락한 비트코인...이제 상승 반등? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/coindesk/nextmoney/contents/211205120308049Ak</link>
+            <guid>https://contents.premium.naver.com/coindesk/nextmoney/contents/211205120308049Ak</guid>
+            <pubDate>Sun, 05 Dec 2021 15:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[▶비트코인 가격과 추정 레버리지율 실시간 차트 보기 비트코인이 하루 사이에 20%가량 폭락했습니다. 일단 하락세가 주춤하며, 한숨을 돌리는 모양샙니다. 온체인 데이터상으로는 이번 하락을 계기로 상승 반등할 수 있을 것으로 보입니다. 주) 4일 정오 5만2500달러였던 비트코인은 같은 날 2시30분경 4만2000달러까지 내려앉았습니다. 불과 2시간 반 만에 1만달러 이상 하락한 겁니]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMDVfNTcg/MDAxNjM4NjczMjg0MzM4.OowM-aH83P6aYUURi8-zltKtCqsUSBpehNCK0DVw3j0g.0aDbdOcOAF0bkUlD61sAiSKmQtJd-B0dgmufmcYpJ1Eg.JPEG/%EC%88%98%EC%A0%95%EB%90%A8_6zRfW_211182a6f32178f76b107e11b2b1f60bba31a1388bd09f22d15dc9662f9f7d1b.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[공시/분석] #7. 회사가 돈을 마련하는 방법: 유상증자를 하면 무조건 악재일까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/usa/nasdaq/contents/211007121523146AS</link>
-            <guid>https://contents.premium.naver.com/usa/nasdaq/contents/211007121523146AS</guid>
-            <pubDate>Sat, 04 Dec 2021 15:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 카레라입니다. 그 동안 &lt;SEC공시분석 강좌&gt;에서 다룬 내용들은 미국주식 재무제표를 분석할 때 가장 필수적인 내용이지만, 동시에 좀 어렵기도 했어서 오늘은 쉬어가는 느낌으로다가 미국주식을 할 때 여러분이 반드시 한 번쯤은 만나게 되는 천재지변(?) 오퍼링(Offering)과 유상증자(Rights issue)에 대해 알아보려고 합니다. 시간이 된다면 오늘 밤에는 같은 느낌으로 회]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMDdfMjEx/MDAxNjMzNTc1MjE0MDAz.nmRlL0z8tvDoIQhAtzsyIQSLYqwQc0SU96WxKpRZwiUg.eRRDRXU7wG86fFCPoWa2IhsQQbge4VhwyRWob4LsldUg.PNG/88.png?type=nf220_220" length="0" type="image/png"/>
+            <title><![CDATA[애스톤사이언스, 1500억 밸류로 프리IPO 나선다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/thebell/stock/contents/211126171105785EB</link>
+            <guid>https://contents.premium.naver.com/thebell/stock/contents/211126171105785EB</guid>
+            <pubDate>Sun, 05 Dec 2021 15:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[바이오 스타트업 애스톤사이언스가 상장전 마지막으로 자금을 조달합니다. 프리IPO 성격으로 1500억원 밸류를 인정받을 것으로 보입니다. 25일 VC업계에 따르면 애스톤사이언스가 프리IPO를 통해 250억원을 조달합니다. 이번에 조달한 자금은 신약개발에 투입할 예정입니다. ​ 현재 애스톤사이언스는 내년 상장을 목표로 프로세스를 진행 중인데 이를 위해 상장 주관사로 NH투자증]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjZfMjA4/MDAxNjM3OTA2OTU5NDMx.rxw3HChH38SAzgl2YW8NT5zMU1jIPE2M7bGhppOB80cg.EsuQkxqRp0AdvVkIr5TpYQ6UqaXKrp6GXNTGi0qN3NEg.JPEG/laboratory-g4e82bf7f9_1920.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[시장/경제] #23. 선물, 옵션에 대한 가장 자세한 설명 1편: 선물거래는 왜 하는 걸까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/usa/nasdaq/contents/211102130205043Rw</link>
-            <guid>https://contents.premium.naver.com/usa/nasdaq/contents/211102130205043Rw</guid>
-            <pubDate>Sat, 04 Dec 2021 15:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 카레라입니다. 이번 화요일 콘텐츠인 &lt;시장경제의 이해&gt;에서는 선물과 옵션에 대해 총 4편으로 자세히 다뤄보려고 합니다. 위험한 투자들 중에서도 고위험군에 속하는 해외선물을 굳이 하지 않더라도 미국 증시를 하시는 이상 선물과 옵션에 대해서는 반드시 알고 있어야 합니다.  왜냐하면 각종 원자재나 지수의 선물 시세가 현물이나 미국주식 가격에 영향을 끼치]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMDJfMTU1/MDAxNjM1ODE5MjU2NTg0.WJ4SP13mr9l7MDMh8MUTslrObjhLJZi8WP7A-uuqXlcg.rvdWV1p7zc6-urXXqle2Hs2oCDRu30TwNEzgvLVitSgg.JPEG/3.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA['아세안비즈'를 마치며...호치민 생활 4년, 이제 귀국합니다 ! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/joongang/gmoney/contents/211129083504045lh</link>
+            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/211129083504045lh</guid>
+            <pubDate>Sun, 05 Dec 2021 15:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[◎ 한국의 90년대같은 베트남  베트남에 오면 많은 한국인들이 이런 생각을 합니다. “베트남 생각보다 엄청 잘 사는데?” “시내 나가면 내가 제일 나이 많은 거 같아” “한국 사람 정말 많이 산다” 사실 우리나라 미디어에서 보여주는 베트남의 이미지는 야외가 많은데요 아무래도 오토바이가 즐비한 좁은 길거리가 대표적이겠죠. 하지만 베트남의 도로 사정과는 별개로 중]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjlfMTg2/MDAxNjM4MTQyMTU3MTQ2.DNnabtB9WiPuVigs5oa_j3jqJ6SpN28KZdtpJzVgdYcg.w9c0KW03Zo231Utzs4a3sGXyh1GBv0ZYivJF9S5zFHkg.PNG/%EB%B0%95%ED%95%AD%EC%84%9C_%EC%A0%84%EA%B8%B0.png?type=nf220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[시장/경제] #5. 헝다 그룹 파산: 그 어떤 뉴스보다 자세한 분석과 전망 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/usa/nasdaq/contents/210921145809634tg</link>
-            <guid>https://contents.premium.naver.com/usa/nasdaq/contents/210921145809634tg</guid>
-            <pubDate>Sat, 04 Dec 2021 15:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 카레라입니다. 바로 전 편에서는, 헝다 그룹 파산의 대선배(?)격인 서브프라임모기지 사태에 대해서 먼저 알아보았어요. 이번 편에서는 마침내! 지금 중국 부동산 시장에 어떤 문제가 생겼는지부터 시작해서 결과적으로 어떻게 될 것인지를 설명해 드리려고 합니다. 정말 중요한 내용이니 꼭 정독해 주세요. 그리고 이 글은 9/23까지 무료 프로모션으로 전체공개 중입]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA5MjFfMTA5/MDAxNjMyMTk2NDgwOTI0.O6y0d6TEqW5r7HV9rK80WhEfP_z8KPLqVsjkrneIxlIg.NdWIsgpdqEmLXbAk_5t7b1l39JSkZEheIwUix3lPjZgg.PNG/90.png?type=nf220_220" length="0" type="image/png"/>
+            <title><![CDATA[GE는 잊어라, 21세기는 플랫폼 재벌이 지배한다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/byline/todayglobal/contents/211129105301631ZK</link>
+            <guid>https://contents.premium.naver.com/byline/todayglobal/contents/211129105301631ZK</guid>
+            <pubDate>Sun, 05 Dec 2021 15:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 오늘, 외쿡신문입니다.  제조업에 기반한 글로벌 대기업 집단의 시대가 저물어가고 있습니다. 그 자리를 아마존이나 애플, 페이스북, 구글 같은 플랫폼 기업들이 차지했습니다.  👍 오늘의 Pick 얼마 전 미국 GE가 항공과 헬스케어, 에너지 3개 분야로 회사를 쪼갠다는 계획을 밝혔습니다. GE는 2000년대 초반까지 세계에서 가장 기업가치가 큰 회사였습니다. GE의 성장을]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjlfMjY5/MDAxNjM4MTQ5OTU1OTM0.pLX1uVbU7EWiDbUCT2BnXyNWDQcF-WySXhOnBqGj8Dkg.zqzkkEMa286v2BBUgTDDQRv8fQd9RHqCS7Wb_h6qTiYg.PNG/%EB%B8%94%EB%9E%99_%ED%94%84%EB%9D%BC%EC%9D%B4%EB%8D%B0%EC%9D%B4_%EC%A7%80%EC%B6%9C%EC%95%A1.png?type=nf220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[기술/테마] # 21. 자율주행 테마에 투자하기 1편: 전기차와 자율주행, 라이다(LIDAR) 완벽한 설명 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/usa/nasdaq/contents/211117180336994RS</link>
-            <guid>https://contents.premium.naver.com/usa/nasdaq/contents/211117180336994RS</guid>
-            <pubDate>Sat, 04 Dec 2021 15:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 카레라입니다. 이번 달 미국 장이 전반적으로 잘 가는데요. 테슬라(TSLA), 루시드(LCID), 리비안(RIVN) 등의 전기차 주식들의 상승세가 유독 눈부십니다. 전기차가 뜨면 항상 같이 뜨는 테마가 자율주행인데요. 굳이 전기차만 자율주행을 하는 건 아닙니다. 사실 기존에 내연기관 자동차를 열심히 만들던 회사들도 거의 다 자율주행 기술을 자체적으로 개발해서 채택하고]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTdfMjEz/MDAxNjM3MTMxOTU5ODIz.n5tJCTziF_eZqlg2lJBa4LJMnx92LyPvxrzQ2pVcFjwg.WCxshuoSO2lOrcFWdjp3t0UyRUrdmp3nUZ9lK0Zms0Eg.JPEG/9.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[원격의료 어디까지 왔나? - 닥터나우, 원격 진료, 원격 조제, 배달 서비스는 적법한가? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/lawmission/startupforest/contents/211129145610704kA</link>
+            <guid>https://contents.premium.naver.com/lawmission/startupforest/contents/211129145610704kA</guid>
+            <pubDate>Sun, 05 Dec 2021 15:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[01 배달약국부터 닥터나우까지 ​ 원격 의료 분야 선두주자는 닥터나우다. 닥터나우는 과거 ‘배달 약국’ 앱으로 출시되었으나 약사법 위반으로 한차례 중단되었다가, 닥터나우라는 이름으로 다시 등장했다. 현재는 원격 의료부터 약 배달까지 서비스를 확장하였다. 이러한 서비스 확장이 가능했던 이유는 바로 코로나다. 원격 의료, 진찰은 코로나 이전에 꿈도 꿀 수 없었다.]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjlfOTgg/MDAxNjM4MTYyODgzNTA0.MoTcJHCnGje4A7J0wbDZPEdinDEfTdYr1jRkJrXN1mYg.G1G_xmxx45rpdP3e4rqYGv9r443zYue8lgvVubqsQqgg.PNG/image.png?type=nf220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[회사/소개] #11. 글로벌 물류 대란, 지금 어떤 회사에 투자해야 하는지 직접 찾는 꿀팁 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/usa/nasdaq/contents/211022182248180vE</link>
-            <guid>https://contents.premium.naver.com/usa/nasdaq/contents/211022182248180vE</guid>
-            <pubDate>Sat, 04 Dec 2021 15:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[※ 이 글은 내일(10/23)까지 무료로 공개됩니다. 이 글을 포함해서 저희의 다른 글들도 읽어보시고, 마음에 드시면 구독을 부탁드립니다. 한 달 3,900원(첫 달 무료)으로 누구보다 뛰어난 미국주식의 시야를 가져보세요! 안녕하세요, 카레라입니다. 예전에 글로벌 물류 대란에 대해서 그 원인과 결과, 전망을 깊게 다뤘었는데요, 이번에는 구독자 여러분이 좀 관심있어하실 만한 주제]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMjJfMjg3/MDAxNjM0ODk0NTQ5NzI0.nf3_WzOJdkQk4gkFU1fu5ejUAUywbQUrBVdm80HxNYgg.Z8_TLleSVfIcMsLVSb6d9RF7DsNXQHxm1v_x8aHAll0g.PNG/7.png?type=nf220_220" length="0" type="image/png"/>
+            <title><![CDATA[뭉클, 저무는 마음 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/maumbam/surisee/contents/211109164441127Kv</link>
+            <guid>https://contents.premium.naver.com/maumbam/surisee/contents/211109164441127Kv</guid>
+            <pubDate>Sun, 05 Dec 2021 15:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[해를 따라 생활하는 사람에게 늦가을은 쓸쓸한 계절이다. 해 뜰 때 일어나 부지런히 움직이다 보면 해질 때쯤에는 하루가 다 가버린 것 같은 피로와 쓸쓸함이 밀려오는데, 가을이 깊어질수록 해는 빨리 저물고 마음에도 바람이 불었다. 어릴 적 긴긴 밤은 이불 같아서 잠들지 않고도 품에 안고 마음껏 누릴 수 있었는데 살아갈수록 지켜야 할 생활과 돌봐야 할 이들이 품에 넘쳐]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMThfMjAg/MDAxNjM3MjAxODI3NjQy.pwlrqDm0bHocGStS9qySnAINOeWsldH_QvMw1Sd_1R0g.iXBoszbzyQ0slHo4QTgxNT1mQmWHQ5iAIyGcZ-CC7Kog.JPEG/190956069_146983034124373_8611744600120054958_n.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사업의 성패를 가늠하는 지표  '손익분기점' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/211125160312835Vq</link>
-            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/211125160312835Vq</guid>
-            <pubDate>Sun, 05 Dec 2021 10:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[최근 '오징어 게임'의 인기가 하늘을 찌른다. 이렇게 드라마나 영화가 흥행에 성공하면 항상 나오는 이야기 중 하나는 "손익분기점을 넘었다"는 것이다. 왜 이렇게 손익분기점에 관심을 갖는 것일까?  코로나19 이전에는 영화가 개봉하면 '500만 돌파'라는 기사 제목이 크게 보이곤 했다. 얼마나 많은 사람이 봤는지는 흥행의 척도이기도 하지만 거액의 제작비를 모두 회수했는지에]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjVfMjkw/MDAxNjM3ODIzNzMzMTU5.gogMDTAAN-_viQzqJhke1VuCYZd-r8VAtsEwbF6aAUIg.rGyccS33MwaEprCmGA0wgVHP3JZPNcR5uelXSR5cd1Ig.JPEG/GettyImages-1332065802.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[오미크론에 "락다운 없다", 잭도시 트위터 사임 (21.11.30) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/cryptoneedle/crypto/contents/211130144936307RE</link>
+            <guid>https://contents.premium.naver.com/cryptoneedle/crypto/contents/211130144936307RE</guid>
+            <pubDate>Sun, 05 Dec 2021 15:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[1. 바이든 "오미크론 록다운 없다"…S&amp;P500·나스닥 1%대 상승 https://www.ajunews.com/view/20211130065237102?utm_source=ajunews&amp;utm_medium=view&amp;utm_campaign=real 뉴스 요약  - 조 바이든 미국 대통령이 오미크론으로 인한 봉쇄 정책(락다운,Lockdown)은 현재로선 논의하지 않고 있다고 밝히며 뉴욕증시는 반등했음 - 바이든 미국 대통령이 오미크론은 우려할 만한 이유이기는 하지만 두려워할 만한 이유는 아]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMzBfMzYg/MDAxNjM4MjQ0NDc1NjEx.rQBP8Vv26Y6MEJGfeqmoc85AmgtDPn4vaDfizqsdWzkg.fFVYb36nlUXJ1-A0Ir_2pBDgO4Ba9KOJDYgAYQcvtaog.JPEG/brett-jordan-ulRlAm1ITMU-unsplash.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
