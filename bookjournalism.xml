@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2021-12-06T15:13:03.161Z</updated>
+    <updated>2021-12-06T16:14:18.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[젊은 당대표와 노련한 킹메이커가 손을 잡았다. 둘은 대통령을 탄생시킬 수 있을까?]]></title>
+        <id>https://www.bookjournalism.com/books/46253</id>
+        <link href="https://www.bookjournalism.com/books/46253"/>
+        <updated>2021-12-06T16:14:09.892Z</updated>
+        <content type="html"><![CDATA[대통령 만들기 대작전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[북저널리즘 라디오 에피소드 #16에선, 이준석 대표와 윤석열 후보의 밀당과 담판과 유세에 얽힌 정치적 배경, NFT와 게임의 돈 되는 관계, 리걸테크 시장의 미래, 화장실병과 화장실권을 이야기합니다.]]></title>
         <id>https://www.bookjournalism.com/audio/46185</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/45064"/>
         <updated>2021-12-03T16:16:35.286Z</updated>
         <content type="html"><![CDATA[이재명의 탄생]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알고리즘은 인간을 닮은 기술이다. 자동화 기술은 어떻게 은밀한 권력을 행사하고 있나.]]></title>
-        <id>https://www.bookjournalism.com/books/45427</id>
-        <link href="https://www.bookjournalism.com/books/45427"/>
-        <updated>2021-12-03T16:16:35.287Z</updated>
-        <content type="html"><![CDATA[알고리즘의 블랙박스]]></content>
     </entry>
 </feed>
