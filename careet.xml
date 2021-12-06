@@ -4,9 +4,16 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 00:37:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 01:58:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘쌤이 왜 거기서 나와?’ Z세대가 자동 클릭하게 만든 이 광고!]]></title>
+            <link>https://www.careet.net/574</link>
+            <guid>https://www.careet.net/574</guid>
+            <pubDate>Mon, 06 Dec 2021 01:57:50 GMT</pubDate>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/6e7d238a-b977-4852-a5ed-33258e9cfb6a_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이 주의 떡상템! 요즘 Z세대가 가슴속 3천 원으로 사 먹는 길거리 간식은?]]></title>
             <link>https://www.careet.net/575</link>

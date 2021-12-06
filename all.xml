@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 00:37:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 01:58:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,13 @@
             <guid>https://publy.co/content/6600?fr=category</guid>
             <pubDate>Thu, 25 Nov 2021 08:13:30 GMT</pubDate>
             <content:encoded><![CDATA[아티클 • 12분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘쌤이 왜 거기서 나와?’ Z세대가 자동 클릭하게 만든 이 광고! (캐릿)]]></title>
+            <link>https://www.careet.net/574</link>
+            <guid>https://www.careet.net/574</guid>
+            <pubDate>Mon, 06 Dec 2021 01:57:50 GMT</pubDate>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/6e7d238a-b977-4852-a5ed-33258e9cfb6a_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이 주의 떡상템! 요즘 Z세대가 가슴속 3천 원으로 사 먹는 길거리 간식은? (캐릿)]]></title>
@@ -709,14 +716,6 @@
             <content:encoded><![CDATA[알고리즘의 블랙박스]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[다른 회사에 죽어도 못보내…인사팀의 짬짜미? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/jobplanet/companytimes/contents/211129141605096gc</link>
-            <guid>https://contents.premium.naver.com/jobplanet/companytimes/contents/211129141605096gc</guid>
-            <pubDate>Sun, 05 Dec 2021 15:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[평생직장은 옛말이란 말처럼 경력을 쌓으면 다른 회사로 이직하는 경우가 흔해졌는데요. &lt;컴퍼니 타임스&gt;로 이직을 고민하는 직장인의 제보가 들어왔습니다. 인사팀끼리 담합해서 이직 시도 직원에 대한 정보를 공유한다면, 그래서 피해를 입었다면 어떻게 해야 할까요?   ◇ 취업 방해 성립 가능할까?…증거 없으면 입증 어려워 결론부터 말하자면 '취업 방해'를 목적으로 정보]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjlfMTcx/MDAxNjM4MTYyNzE0NzUx.tJKxqq-XAp3rmYxtd-HJi1eD8CbJOln6WWZFk73mZbQg.JdWvY8XFEKhqEN0j3IwWlJF2fAEujhonygbbPmtJLJIg.JPEG/Iwouldnotletyougo.jpg?type=nf220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[KCGI, 정보보안 솔루션 기업 '윈스' 세컨더리 투자 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/thebell/stock/contents/211126170500814ti</link>
             <guid>https://contents.premium.naver.com/thebell/stock/contents/211126170500814ti</guid>
@@ -725,12 +724,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjZfMTQw/MDAxNjM3OTEwNDA4ODc0.3_MDcZLD8YlbDzuGuEhtRMNlUZvnSx_rbR-V9cQNwaYg.SAKE_a8g421Z0qiURk2h2pQXZwURBXszcVGYAzTSG_Yg.JPEG/view_photo20180723150612846437_0.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[요즘 뜨는 '비건 테크', 들어본 적 있나요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/techdigest/tdigest/contents/211203123958800AF</link>
-            <guid>https://contents.premium.naver.com/techdigest/tdigest/contents/211203123958800AF</guid>
-            <pubDate>Sun, 05 Dec 2021 20:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 마트에 가보면 과거엔 만나기 힘들었던 비건(Vegan) 카테고리가 많이 늘어난 걸 볼 수 있습니다. 비건은 채식주의자라는 뜻으로, 육식을 하지 않고 식물성 식품을 섭취하는 식습관을 지향하는 사람을 말해요. 몇 년 전만 하더라도 마트에서 비건 제품이라곤 라면 정도였죠. 게다가 이 라면조차도 사라졌다 생겼다를 반복했어요. 수요가 적었기 때문인데요.  지금은 달라졌습]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMDNfMTAg/MDAxNjM4NTAyNjUyNTI0.t9BcVgV_08Zh4Wo-igqI53sY5BJ73L9dySXnGIK87F0g.EsqWsDOtzitXZFl9OXY8bu9ixXlx0qRdZgUFNGRb02Yg.JPEG/SE-21dd6d53-8ac7-434d-81f4-3b7ef0b32a57.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[다른 회사에 죽어도 못보내…인사팀의 짬짜미? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/jobplanet/companytimes/contents/211129141605096gc</link>
+            <guid>https://contents.premium.naver.com/jobplanet/companytimes/contents/211129141605096gc</guid>
+            <pubDate>Sun, 05 Dec 2021 15:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[평생직장은 옛말이란 말처럼 경력을 쌓으면 다른 회사로 이직하는 경우가 흔해졌는데요. &lt;컴퍼니 타임스&gt;로 이직을 고민하는 직장인의 제보가 들어왔습니다. 인사팀끼리 담합해서 이직 시도 직원에 대한 정보를 공유한다면, 그래서 피해를 입었다면 어떻게 해야 할까요?   ◇ 취업 방해 성립 가능할까?…증거 없으면 입증 어려워 결론부터 말하자면 '취업 방해'를 목적으로 정보]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjlfMTcx/MDAxNjM4MTYyNzE0NzUx.tJKxqq-XAp3rmYxtd-HJi1eD8CbJOln6WWZFk73mZbQg.JdWvY8XFEKhqEN0j3IwWlJF2fAEujhonygbbPmtJLJIg.JPEG/Iwouldnotletyougo.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애스톤사이언스, 1500억 밸류로 프리IPO 나선다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -741,12 +740,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjZfMjA4/MDAxNjM3OTA2OTU5NDMx.rxw3HChH38SAzgl2YW8NT5zMU1jIPE2M7bGhppOB80cg.EsuQkxqRp0AdvVkIr5TpYQ6UqaXKrp6GXNTGi0qN3NEg.JPEG/laboratory-g4e82bf7f9_1920.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[코인 투자 분석] 하루 만에 20% 급락한 비트코인...이제 상승 반등? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/coindesk/nextmoney/contents/211205120308049Ak</link>
-            <guid>https://contents.premium.naver.com/coindesk/nextmoney/contents/211205120308049Ak</guid>
-            <pubDate>Sun, 05 Dec 2021 15:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[▶비트코인 가격과 추정 레버리지율 실시간 차트 보기 비트코인이 하루 사이에 20%가량 폭락했습니다. 일단 하락세가 주춤하며, 한숨을 돌리는 모양샙니다. 온체인 데이터상으로는 이번 하락을 계기로 상승 반등할 수 있을 것으로 보입니다. 주) 4일 정오 5만2500달러였던 비트코인은 같은 날 2시30분경 4만2000달러까지 내려앉았습니다. 불과 2시간 반 만에 1만달러 이상 하락한 겁니]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMDVfNTcg/MDAxNjM4NjczMjg0MzM4.OowM-aH83P6aYUURi8-zltKtCqsUSBpehNCK0DVw3j0g.0aDbdOcOAF0bkUlD61sAiSKmQtJd-B0dgmufmcYpJ1Eg.JPEG/%EC%88%98%EC%A0%95%EB%90%A8_6zRfW_211182a6f32178f76b107e11b2b1f60bba31a1388bd09f22d15dc9662f9f7d1b.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[요즘 뜨는 '비건 테크', 들어본 적 있나요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/techdigest/tdigest/contents/211203123958800AF</link>
+            <guid>https://contents.premium.naver.com/techdigest/tdigest/contents/211203123958800AF</guid>
+            <pubDate>Sun, 05 Dec 2021 20:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 마트에 가보면 과거엔 만나기 힘들었던 비건(Vegan) 카테고리가 많이 늘어난 걸 볼 수 있습니다. 비건은 채식주의자라는 뜻으로, 육식을 하지 않고 식물성 식품을 섭취하는 식습관을 지향하는 사람을 말해요. 몇 년 전만 하더라도 마트에서 비건 제품이라곤 라면 정도였죠. 게다가 이 라면조차도 사라졌다 생겼다를 반복했어요. 수요가 적었기 때문인데요.  지금은 달라졌습]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMDNfMTAg/MDAxNjM4NTAyNjUyNTI0.t9BcVgV_08Zh4Wo-igqI53sY5BJ73L9dySXnGIK87F0g.EsqWsDOtzitXZFl9OXY8bu9ixXlx0qRdZgUFNGRb02Yg.JPEG/SE-21dd6d53-8ac7-434d-81f4-3b7ef0b32a57.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['아세안비즈'를 마치며...호치민 생활 4년, 이제 귀국합니다 ! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -757,12 +756,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjlfMTg2/MDAxNjM4MTQyMTU3MTQ2.DNnabtB9WiPuVigs5oa_j3jqJ6SpN28KZdtpJzVgdYcg.w9c0KW03Zo231Utzs4a3sGXyh1GBv0ZYivJF9S5zFHkg.PNG/%EB%B0%95%ED%95%AD%EC%84%9C_%EC%A0%84%EA%B8%B0.png?type=nf220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[브리핑] '저가 매수세력' 개미 움직임이 요즘 심상치 않다! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/joongang/gmoney/contents/211206081706487cZ</link>
-            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/211206081706487cZ</guid>
-            <pubDate>Mon, 06 Dec 2021 00:37:29 GMT</pubDate>
-            <content:encoded><![CDATA[신종 코로나바이러스 감염증(코로나19)이 글로벌 자산시장에서 여러 가지 게임의 룰을 바꿔놓았습니다.  그 가운데 하나가 바로 개인 투자자(retail investor, 개미)의 부활입니다. 지난해 3월 한국뿐 아니라 미국, 유럽의 개미가 패닉 순간 월가 역사가들이 말하는 '휘트니 게임'을 펼쳤습니다. 휘트니 게임은 1929년 10월 대공황의 전조인 주가 폭락 순간에 '영웅적으로' 주식을 사들인]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMDZfMTk2/MDAxNjM4NzQ1ODM1OTQ5.U63-C1V8ww4VgZjgWr92rpVnVNF4E28WiuNDQpbUKs8g.YklTvyvx1wToGb8AlKaK4zBGEXJxaBd6VeC8qqemI7Yg.JPEG/%EB%9E%98%EB%94%A7_%EB%A1%9C%EC%9D%B4%ED%84%B0.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[코인 투자 분석] 하루 만에 20% 급락한 비트코인...이제 상승 반등? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/coindesk/nextmoney/contents/211205120308049Ak</link>
+            <guid>https://contents.premium.naver.com/coindesk/nextmoney/contents/211205120308049Ak</guid>
+            <pubDate>Sun, 05 Dec 2021 15:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[▶비트코인 가격과 추정 레버리지율 실시간 차트 보기 비트코인이 하루 사이에 20%가량 폭락했습니다. 일단 하락세가 주춤하며, 한숨을 돌리는 모양샙니다. 온체인 데이터상으로는 이번 하락을 계기로 상승 반등할 수 있을 것으로 보입니다. 주) 4일 정오 5만2500달러였던 비트코인은 같은 날 2시30분경 4만2000달러까지 내려앉았습니다. 불과 2시간 반 만에 1만달러 이상 하락한 겁니]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMDVfNTcg/MDAxNjM4NjczMjg0MzM4.OowM-aH83P6aYUURi8-zltKtCqsUSBpehNCK0DVw3j0g.0aDbdOcOAF0bkUlD61sAiSKmQtJd-B0dgmufmcYpJ1Eg.JPEG/%EC%88%98%EC%A0%95%EB%90%A8_6zRfW_211182a6f32178f76b107e11b2b1f60bba31a1388bd09f22d15dc9662f9f7d1b.jpg?type=nf220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[GE는 잊어라, 21세기는 플랫폼 재벌이 지배한다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -773,12 +772,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjlfMjY5/MDAxNjM4MTQ5OTU1OTM0.pLX1uVbU7EWiDbUCT2BnXyNWDQcF-WySXhOnBqGj8Dkg.zqzkkEMa286v2BBUgTDDQRv8fQd9RHqCS7Wb_h6qTiYg.PNG/%EB%B8%94%EB%9E%99_%ED%94%84%EB%9D%BC%EC%9D%B4%EB%8D%B0%EC%9D%B4_%EC%A7%80%EC%B6%9C%EC%95%A1.png?type=nf220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[CEO와 운] ①인트로: 運과 luck, 다름과 같음 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/joongang/gmoney/contents/211206091811217GN</link>
-            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/211206091811217GN</guid>
+            <title><![CDATA[[브리핑] '저가 매수세력' 개미 움직임이 요즘 심상치 않다! (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/joongang/gmoney/contents/211206081706487cZ</link>
+            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/211206081706487cZ</guid>
             <pubDate>Mon, 06 Dec 2021 00:37:29 GMT</pubDate>
-            <content:encoded><![CDATA[우리는 운(運)이 들어가는 말을 자주 접한다. 이런 것들이다.  우리말 운은 영어 luck과 얼마나 같고 또 다를까. 운·luck의 세계로 들어가보자.  ‘핑계 없는 무덤’이 없듯, ‘이유 없는 현상’도 없다. 다 까닭이 있다.  눈에 둘러싸인 삶을 사는 까닭인지, 이누이트(에스키모) 사람에게는 눈의 색상이나 형태와 관련된 단어가 78가지라고 한다.  영어는 운(運, luck)을 행운(good luck)과]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMDZfNzQg/MDAxNjM4NzQ5NjU3MTQz.DaHAMHUGJnJBSKLvoW_RgCK596wBqRy1i2yZhDDGaTwg.eK_czH7eslRXfyuXNhVSL2pALpKfLHRpfPzYwSinRqEg.JPEG/CEO%EC%99%80_%EC%9A%B4%EC%84%B8.jpg?type=nf220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[신종 코로나바이러스 감염증(코로나19)이 글로벌 자산시장에서 여러 가지 게임의 룰을 바꿔놓았습니다.  그 가운데 하나가 바로 개인 투자자(retail investor, 개미)의 부활입니다. 지난해 3월 한국뿐 아니라 미국, 유럽의 개미가 패닉 순간 월가 역사가들이 말하는 '휘트니 게임'을 펼쳤습니다. 휘트니 게임은 1929년 10월 대공황의 전조인 주가 폭락 순간에 '영웅적으로' 주식을 사들인]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMDZfMTk2/MDAxNjM4NzQ1ODM1OTQ5.U63-C1V8ww4VgZjgWr92rpVnVNF4E28WiuNDQpbUKs8g.YklTvyvx1wToGb8AlKaK4zBGEXJxaBd6VeC8qqemI7Yg.JPEG/%EB%9E%98%EB%94%A7_%EB%A1%9C%EC%9D%B4%ED%84%B0.jpg?type=nf220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원격의료 어디까지 왔나? - 닥터나우, 원격 진료, 원격 조제, 배달 서비스는 적법한가? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/lawmission/startupforest/contents/211129145610704kA</link>
+            <guid>https://contents.premium.naver.com/lawmission/startupforest/contents/211129145610704kA</guid>
+            <pubDate>Mon, 06 Dec 2021 01:58:27 GMT</pubDate>
+            <content:encoded><![CDATA[01 배달약국부터 닥터나우까지 ​ 원격 의료 분야 선두주자는 닥터나우다. 닥터나우는 과거 ‘배달 약국’ 앱으로 출시되었으나 약사법 위반으로 한차례 중단되었다가, 닥터나우라는 이름으로 다시 등장했다. 현재는 원격 의료부터 약 배달까지 서비스를 확장하였다. 이러한 서비스 확장이 가능했던 이유는 바로 코로나다. 원격 의료, 진찰은 코로나 이전에 꿈도 꿀 수 없었다.]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjlfOTgg/MDAxNjM4MTYyODgzNTA0.MoTcJHCnGje4A7J0wbDZPEdinDEfTdYr1jRkJrXN1mYg.G1G_xmxx45rpdP3e4rqYGv9r443zYue8lgvVubqsQqgg.PNG/image.png?type=nf220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
