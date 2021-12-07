@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 21:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 08:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멜론 인기 차트로 보는 2021 MZ세대 트렌드 결산!]]></title>
+            <link>https://www.careet.net/576</link>
+            <guid>https://www.careet.net/576</guid>
+            <pubDate>Tue, 07 Dec 2021 08:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[1020이 뽑은 올해의 아티스트 TOP 10]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202112/e9995018-3567-4bb0-ab8a-7a0bf0ea6085_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘쌤이 왜 거기서 나와?’ Z세대가 자동 클릭하게 만든 이 광고!]]></title>
             <link>https://www.careet.net/574</link>

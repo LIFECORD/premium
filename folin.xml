@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2021-12-06T21:12:29.010Z</updated>
+    <updated>2021-12-07T08:15:10.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["아디다스-삼성 14년, 목표보다 '기준' 세워야죠"]]></title>
+        <id>https://www.folin.co/story/1969</id>
+        <link href="https://www.folin.co/story/1969"/>
+        <updated>2021-12-07T08:14:49.917Z</updated>
+        <content type="html"><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비거니즘 시장, 구매 망설이는 '걸림돌' 알아야 커진다]]></title>
         <id>https://www.folin.co/story/1968</id>
@@ -283,13 +291,5 @@
         <updated>2021-10-24T23:10:55.726Z</updated>
         <content type="html"><![CDATA[<li>비즈니스</li>
                                 <li>라이프스타일</li>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메타버스와 AI가 만들어낸 '2세대 게임인류']]></title>
-        <id>https://www.folin.co/story/1918</id>
-        <link href="https://www.folin.co/story/1918"/>
-        <updated>2021-10-21T22:10:50.973Z</updated>
-        <content type="html"><![CDATA[<li>비즈니스</li>
-                                <li>테크</li>]]></content>
     </entry>
 </feed>

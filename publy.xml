@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all</id>
     <title>퍼블리</title>
-    <updated>2021-12-06T21:12:29.005Z</updated>
+    <updated>2021-12-07T08:15:10.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[노션 템플릿 여기 다 모음]]></title>
+        <id>https://publy.co/content/6558?fr=category</id>
+        <link href="https://publy.co/content/6558?fr=category"/>
+        <updated>2021-12-07T08:14:23.502Z</updated>
+        <content type="html"><![CDATA[아티클 • 5분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1년 간 커리어를 돌아보는 워크로그 작성법 (워크시트 제공)]]></title>
+        <id>https://publy.co/content/6616?fr=category</id>
+        <link href="https://publy.co/content/6616?fr=category"/>
+        <updated>2021-12-07T08:14:23.504Z</updated>
+        <content type="html"><![CDATA[아티클 • 11분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[업무 시간을 줄여주는 업무 센스 3가지]]></title>
         <id>https://publy.co/content/6618?fr=category</id>
@@ -60,19 +74,5 @@
         <link href="https://publy.co/content/6606?fr=category"/>
         <updated>2021-11-30T08:11:47.079Z</updated>
         <content type="html"><![CDATA[아티클 • 7분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제는 백화점도 ‘경험’을 팝니다 : 백화점이 MZ 세대를 사로잡는 방법]]></title>
-        <id>https://publy.co/content/6610?fr=category</id>
-        <link href="https://publy.co/content/6610?fr=category"/>
-        <updated>2021-11-29T08:13:13.095Z</updated>
-        <content type="html"><![CDATA[아티클 • 9분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강력한 팬을 만드는 인스타그램 운영 전략]]></title>
-        <id>https://publy.co/content/6577?fr=category</id>
-        <link href="https://publy.co/content/6577?fr=category"/>
-        <updated>2021-11-26T09:11:38.064Z</updated>
-        <content type="html"><![CDATA[아티클 • 14분 분량]]></content>
     </entry>
 </feed>
