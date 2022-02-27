@@ -1,78 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://publy.co/topic/all</id>
+    <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2021-12-07T16:17:39.900Z</updated>
+    <updated>2022-02-27T15:46:47.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
     <entry>
-        <title type="html"><![CDATA[노션 템플릿 여기 다 모음]]></title>
-        <id>https://publy.co/content/6558?fr=category</id>
-        <link href="https://publy.co/content/6558?fr=category"/>
-        <updated>2021-12-07T08:14:23.502Z</updated>
-        <content type="html"><![CDATA[아티클 • 5분 분량]]></content>
+        <title type="html"><![CDATA[떠날 고객이 보내는 신호, 답은 데이터에 있다]]></title>
+        <id>https://publy.co/content/6691?fr=category</id>
+        <link href="https://publy.co/content/6691?fr=category"/>
+        <updated>2022-02-27T15:45:59.953Z</updated>
+        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1년 간 커리어를 돌아보는 워크로그 작성법 (워크시트 제공)]]></title>
-        <id>https://publy.co/content/6616?fr=category</id>
-        <link href="https://publy.co/content/6616?fr=category"/>
-        <updated>2021-12-07T08:14:23.504Z</updated>
-        <content type="html"><![CDATA[아티클 • 11분 분량]]></content>
+        <title type="html"><![CDATA[회사 밖 팀원들과 만든 앱, '쉐어워크' 런칭 경험담]]></title>
+        <id>https://publy.co/content/6661?fr=category</id>
+        <link href="https://publy.co/content/6661?fr=category"/>
+        <updated>2022-02-27T15:45:59.957Z</updated>
+        <content type="html"><![CDATA[아티클 · 14분 분량]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[업무 시간을 줄여주는 업무 센스 3가지]]></title>
-        <id>https://publy.co/content/6618?fr=category</id>
-        <link href="https://publy.co/content/6618?fr=category"/>
-        <updated>2021-12-06T08:13:29.674Z</updated>
-        <content type="html"><![CDATA[아티클 • 11분 분량]]></content>
+        <title type="html"><![CDATA[1년 만에 50% 성장! 팀장의 성과내는 팀 구조화 방법]]></title>
+        <id>https://publy.co/content/6699?fr=category</id>
+        <link href="https://publy.co/content/6699?fr=category"/>
+        <updated>2022-02-27T15:45:59.957Z</updated>
+        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[읽으면서 완성하는 '영어 비즈니스 이메일']]></title>
-        <id>https://publy.co/content/6603?fr=category</id>
-        <link href="https://publy.co/content/6603?fr=category"/>
-        <updated>2021-12-03T08:13:18.891Z</updated>
-        <content type="html"><![CDATA[아티클 • 13분 분량]]></content>
+        <title type="html"><![CDATA[목표, 생각만 하지 말고 눈으로 확인하세요! 노션 목표 관리법(템플릿 제공)]]></title>
+        <id>https://publy.co/content/6698?fr=category</id>
+        <link href="https://publy.co/content/6698?fr=category"/>
+        <updated>2022-02-27T15:45:59.957Z</updated>
+        <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[매출을 부르는 인스타그램 광고 전략]]></title>
-        <id>https://publy.co/content/6578?fr=category</id>
-        <link href="https://publy.co/content/6578?fr=category"/>
-        <updated>2021-12-03T08:13:18.899Z</updated>
-        <content type="html"><![CDATA[아티클 • 10분 분량]]></content>
+        <title type="html"><![CDATA[회사와 나, 모두 윈윈하는 마케터의 셀프브랜딩]]></title>
+        <id>https://publy.co/content/6718?fr=category</id>
+        <link href="https://publy.co/content/6718?fr=category"/>
+        <updated>2022-02-27T15:45:59.963Z</updated>
+        <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트렌디한 스타트업 마케터는 뭘 읽을까? 마케터들의 연말 독서 결산]]></title>
-        <id>https://publy.co/content/6605?fr=category</id>
-        <link href="https://publy.co/content/6605?fr=category"/>
-        <updated>2021-12-02T08:13:05.189Z</updated>
-        <content type="html"><![CDATA[아티클 • 6분 분량]]></content>
+        <title type="html"><![CDATA[동네 호텔에서 크리에이터의 힙한 아지트가 된 비결? 로컬스티치 편]]></title>
+        <id>https://publy.co/content/6697?fr=category</id>
+        <link href="https://publy.co/content/6697?fr=category"/>
+        <updated>2022-02-27T15:45:59.963Z</updated>
+        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[잘 나가는 스타트업 기획자는 뭘 읽을까? 기획자들의 연말 독서 결산]]></title>
-        <id>https://publy.co/content/6604?fr=category</id>
-        <link href="https://publy.co/content/6604?fr=category"/>
-        <updated>2021-12-02T08:13:05.191Z</updated>
-        <content type="html"><![CDATA[아티클 • 7분 분량]]></content>
+        <title type="html"><![CDATA[카피 쓰는 법: 카피라이터의 문장 수집 생활]]></title>
+        <id>https://publy.co/content/6711?fr=category</id>
+        <link href="https://publy.co/content/6711?fr=category"/>
+        <updated>2022-02-27T15:45:59.967Z</updated>
+        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 트렌드 모니터: '답답함'이라는 감정의 탈출구를 찾다]]></title>
-        <id>https://publy.co/set/1683?fr=category</id>
-        <link href="https://publy.co/set/1683?fr=category"/>
-        <updated>2021-12-01T10:11:37.521Z</updated>
-        <content type="html"><![CDATA[웹북 • 2개 챕터]]></content>
+        <title type="html"><![CDATA[일터에서 바로 써먹는 4단계 학습법]]></title>
+        <id>https://publy.co/content/6670?fr=category</id>
+        <link href="https://publy.co/content/6670?fr=category"/>
+        <updated>2022-02-27T15:45:59.967Z</updated>
+        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한 해를 정리하는 '기록 연말 정산']]></title>
-        <id>https://publy.co/content/6611?fr=category</id>
-        <link href="https://publy.co/content/6611?fr=category"/>
-        <updated>2021-12-01T08:13:18.239Z</updated>
-        <content type="html"><![CDATA[아티클 • 10분 분량]]></content>
+        <title type="html"><![CDATA[팀장과 팀원이 함께 성장하는 성과 목표 찾기 : 조인트 포인트]]></title>
+        <id>https://publy.co/content/6685?fr=category</id>
+        <link href="https://publy.co/content/6685?fr=category"/>
+        <updated>2022-02-27T15:45:59.967Z</updated>
+        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에너지를 갉아먹는 '가짜 일' 없애기]]></title>
-        <id>https://publy.co/content/6606?fr=category</id>
-        <link href="https://publy.co/content/6606?fr=category"/>
-        <updated>2021-11-30T08:11:47.079Z</updated>
-        <content type="html"><![CDATA[아티클 • 7분 분량]]></content>
+        <title type="html"><![CDATA[회사 이름 없이, '직업인'으로서 나의 경쟁력 키우기]]></title>
+        <id>https://publy.co/content/6630?fr=category</id>
+        <link href="https://publy.co/content/6630?fr=category"/>
+        <updated>2022-02-27T15:45:59.969Z</updated>
+        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
     </entry>
 </feed>
