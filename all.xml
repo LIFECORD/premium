@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 07:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 08:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팀장의 '실무 vs 관리' 업무 밸런스는 몇 대 몇? (퍼블리)]]></title>
+            <link>https://publy.co/content/6717?fr=category</link>
+            <guid>https://publy.co/content/6717?fr=category</guid>
+            <pubDate>Mon, 28 Feb 2022 08:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[떠날 고객이 보내는 신호, 답은 데이터에 있다 (퍼블리)]]></title>
             <link>https://publy.co/content/6691?fr=category</link>
@@ -71,19 +78,12 @@
             <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[회사 이름 없이, '직업인'으로서 나의 경쟁력 키우기 (퍼블리)]]></title>
-            <link>https://publy.co/content/6630?fr=category</link>
-            <guid>https://publy.co/content/6630?fr=category</guid>
-            <pubDate>Sun, 27 Feb 2022 15:45:59 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[캐릿 자문단 조사] 제2의 성수동은 어디? 요즘 뜨는 서울 핫플 (캐릿)]]></title>
             <link>https://www.careet.net/656</link>
             <guid>https://www.careet.net/656</guid>
             <pubDate>Mon, 28 Feb 2022 03:15:14 GMT</pubDate>
             <content:encoded><![CDATA[Z세대 108명에게 물었습니다]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/97de7f02-fe8a-4f8b-9386-591ab24002de_770x426.png" length="0" type="image/png"/>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/5c3c7f2d-51a2-4856-b206-1dec44f6a307_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[내년에는 이렇게 준비해 보세요! 삼일절 관련 마케팅 레퍼런스 (캐릿)]]></title>
