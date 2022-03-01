@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 16:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 17:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -749,12 +749,88 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[재무제표 괜찮다던 내 주식, 몇년 뒤 왜 상장폐지됐을까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/211228160848838ZU</link>
-            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/211228160848838ZU</guid>
-            <pubDate>Tue, 01 Mar 2022 15:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[기업이 주식시장에 상장했다는 것은 일정 기준을 통과해 일반 투자자들이 쉽게 투자할 수 있는 시장에 입점했다는 것과 같다. 상장 회사는 매년 장부를 맞게 썼는지 전문가에게 확인을 받는데 여기서 적정하다는 의견을 받고도 몇 년 이내에 상장폐지가 되는 경우가 있다. 왜 이런 일이 발생하는 것일까. 기업의 장부인 재무제표는 한 해 동안 수익과 비용이 얼마인지, 자산·부]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMjhfMTA4/MDAxNjQwNjcyNjU3NDIw.cxgI-TmYnL-83O5qTvl2kVakeuImrd6XBGU3-oxbK3Qg.Zw63woPaXtaQio7arJhR-jP_0W2kn4_krb1HESHDBAYg.JPEG/GettyImages-1319410350.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[형법 제9조에 따라 만 14세 미만의 행위는 벌할 수 없다. 촉법소년 연령, 낮춰야 하나. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49274</link>
+            <guid>https://www.bookjournalism.com/books/49274</guid>
+            <pubDate>Tue, 01 Mar 2022 17:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[죄를 물을 수 없는 아이들]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코로나19로 국경이 닫히고 도시는 활기를 잃었다. 이제 도시를 되살릴 방법을 궁리해야 할 때다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49207</link>
+            <guid>https://www.bookjournalism.com/books/49207</guid>
+            <pubDate>Tue, 01 Mar 2022 17:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[코로나 시대, 도시의 부활 전략]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 여섯 번째 - 2022년 2월 25일 오전 5시 러시아가 우크라이나를 침공했습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49178</link>
+            <guid>https://www.bookjournalism.com/books/49178</guid>
+            <pubDate>Tue, 01 Mar 2022 17:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #25에선, 보름도 남지 않은 제20대 대통령선거의 향방을 단일화라는 키워드로 짚어봅니다. 그리고 결국 전쟁이 발발한 우크라이나 사태를 통해 푸틴의 야망과 바이든의 좌절에 대해 들여다봅니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/49142</link>
+            <guid>https://www.bookjournalism.com/audio/49142</guid>
+            <pubDate>Tue, 01 Mar 2022 17:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[단일화 꽃은 과연 필까요? 그리고 우크라이나]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[과연 어느 쪽이 안철수 후보와의 단일화를 성사시킬까? 성공하면 당선이다. 실패하면 낙선이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49101</link>
+            <guid>https://www.bookjournalism.com/books/49101</guid>
+            <pubDate>Tue, 01 Mar 2022 17:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[단일화 날밀기]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트럼프의 소셜 미디어 트루스 소셜이 출시됐다. 트루스 소셜이 보여주는 진실은 무엇인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49061</link>
+            <guid>https://www.bookjournalism.com/books/49061</guid>
+            <pubDate>Tue, 01 Mar 2022 17:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[진실을 ‘트루스’ 하시겠습니까]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일런 머스크의 스페이스X의 목표는 화성 식민지화와 태양계 정복이다. 이것은 로켓사이언스가 아니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49023</link>
+            <guid>https://www.bookjournalism.com/books/49023</guid>
+            <pubDate>Tue, 01 Mar 2022 17:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[애드 아스트라]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[부스터슛을 띄우고 나선 이재명 후보는 과연 막판 대역전에 성공할 수 있을까? 조금씩 어긋나 있는 이 후보의 선거전략을 분석한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/48997</link>
+            <guid>https://www.bookjournalism.com/books/48997</guid>
+            <pubDate>Tue, 01 Mar 2022 17:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[이재명의 부스터슛이 오프사이드인 이유]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[청년희망적금 신청이 시작됐다. 화제의 적금은 청년에게 희망인가 고문인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/48951</link>
+            <guid>https://www.bookjournalism.com/books/48951</guid>
+            <pubDate>Tue, 01 Mar 2022 17:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[적금도 희망이 되나요?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 다섯 번째 - 이번 고비도 우리는 이겨낼 수 있을 겁니다. 북저널리즘도 이겨내겠습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/48912</link>
+            <guid>https://www.bookjournalism.com/books/48912</guid>
+            <pubDate>Tue, 01 Mar 2022 17:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[오미크론]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연준은 시장을 이길 수 있을까. 매파이면서 비둘기파인 연준은 과연 인플레이션과 경기연착륙이라는 목표를 모두 달성할 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/48805</link>
+            <guid>https://www.bookjournalism.com/books/48805</guid>
+            <pubDate>Tue, 01 Mar 2022 17:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[연준의 결정적 결정]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AI 아티스트의 시대가 열렸다. 창작은 인간의 고유한 능력으로 남을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/48763</link>
+            <guid>https://www.bookjournalism.com/books/48763</guid>
+            <pubDate>Tue, 01 Mar 2022 17:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[틸다의 답이 던지는 질문]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[경제뉴스] 맨체스터 시티, 메타버스 경기장 짓다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -765,12 +841,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjNfMTg5/MDAxNjQ1NTQzMDcwMjcx.baNRD3F8oyXl53IL1o5iEf2EMkiE2EcsAP24Gsr08H8g.h2uh4W1QEuFwL2fc867reX4ZTSWo7ccYOM-G60iazfIg.PNG/manchester-city.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[“이젠 떠날래” 탈샤오미 외치는 생태 기업… 샤오미 생태계 몰락할까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/chinalab/bizntech/contents/220214142240658Xf</link>
-            <guid>https://contents.premium.naver.com/chinalab/bizntech/contents/220214142240658Xf</guid>
+            <title><![CDATA[재무제표 괜찮다던 내 주식, 몇년 뒤 왜 상장폐지됐을까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/211228160848838ZU</link>
+            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/211228160848838ZU</guid>
             <pubDate>Tue, 01 Mar 2022 15:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[‘대륙의 실수’로 가성비 열풍을 불러일으켰던 전자제품 제조 및 판매 기업 샤오미. 우리나라에서도 ‘가성비의 대명사’로 명성이 익히 알려져 보조배터리, 공기청정기, 미밴드, 로봇 청소기 등이 불티나게 팔렸다. ​ 샤오미의 공식 홈페이지를 살펴보면 IT 기기 제조업체라는 명성에 걸맞은 스마트폰과 이어폰, 태블릿 등의 상품군이 즐비해 있다.  ​ 그러나 다음 카테고리]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTRfODMg/MDAxNjQ0ODEyNjIxMzE1.Ys8IL7BOJKCdkQfk5bzzA9p-2GwqN9E7g-AuHvXV2T8g.K980GDg_n9t_w4OfiVJqs8yCgISdi7DS-X1tUHuOeZ4g.JPEG/5.JPG?type=nfs220_220" length="0" type="image/JPG"/>
+            <content:encoded><![CDATA[기업이 주식시장에 상장했다는 것은 일정 기준을 통과해 일반 투자자들이 쉽게 투자할 수 있는 시장에 입점했다는 것과 같다. 상장 회사는 매년 장부를 맞게 썼는지 전문가에게 확인을 받는데 여기서 적정하다는 의견을 받고도 몇 년 이내에 상장폐지가 되는 경우가 있다. 왜 이런 일이 발생하는 것일까. 기업의 장부인 재무제표는 한 해 동안 수익과 비용이 얼마인지, 자산·부]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMjhfMTA4/MDAxNjQwNjcyNjU3NDIw.cxgI-TmYnL-83O5qTvl2kVakeuImrd6XBGU3-oxbK3Qg.Zw63woPaXtaQio7arJhR-jP_0W2kn4_krb1HESHDBAYg.JPEG/GettyImages-1319410350.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[얼음낚시 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -781,12 +857,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjNfNjYg/MDAxNjQ1NTgwNTMzMjc3.e3EF5qR_JJkNtyQykaGLMptQA_sa_95ZSeFfzsAH3Ycg.jA4s0a1nKK6kBgRQPLV9pAhayNoluMU4RLg33ZjZG0kg.JPEG/%EC%88%98%EC%88%98%EB%B0%942rgb.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[우량주] 구글은 역시 강하다...올해도 주가 두 자릿 수 성장 기대 -  알파벳A(구글) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/220223084219963Fj</link>
-            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/220223084219963Fj</guid>
+            <title><![CDATA[“이젠 떠날래” 탈샤오미 외치는 생태 기업… 샤오미 생태계 몰락할까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/chinalab/bizntech/contents/220214142240658Xf</link>
+            <guid>https://contents.premium.naver.com/chinalab/bizntech/contents/220214142240658Xf</guid>
             <pubDate>Tue, 01 Mar 2022 15:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[빅데이터로 찾은 '미국주식 우량주 사전'에서 선정한 101개 기업을 아래 5가지 내용을 중심으로 영상을 통해 빠르게 요약해 드립니다.  사업개요 주가분석 실적분석 종목진단 배당매력 오늘 소개 할 26번째 우량주 기업은 바로 알파벳A(구글)입니다. 구글을 운영하는 모회사입니다. ☞ 프리미엄 회원으로 가입하시면 영상에 포함된 교재 원본을 다운로드 받을 수 있습니다. ★교재]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMThfMiAg/MDAxNjQ1MTU2MTIyMTUz.8uZYv2q5L-R5BjJUN3PCYx4jzcJd0ZncZEjb3rnaOJog.dic7Jt78E0BT0FLzfRsWpKIFcpjqZHDz-XwnwK3trDMg.JPEG/solen-feyissa-UWVJaDvXW_c-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[‘대륙의 실수’로 가성비 열풍을 불러일으켰던 전자제품 제조 및 판매 기업 샤오미. 우리나라에서도 ‘가성비의 대명사’로 명성이 익히 알려져 보조배터리, 공기청정기, 미밴드, 로봇 청소기 등이 불티나게 팔렸다. ​ 샤오미의 공식 홈페이지를 살펴보면 IT 기기 제조업체라는 명성에 걸맞은 스마트폰과 이어폰, 태블릿 등의 상품군이 즐비해 있다.  ​ 그러나 다음 카테고리]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTRfODMg/MDAxNjQ0ODEyNjIxMzE1.Ys8IL7BOJKCdkQfk5bzzA9p-2GwqN9E7g-AuHvXV2T8g.K980GDg_n9t_w4OfiVJqs8yCgISdi7DS-X1tUHuOeZ4g.JPEG/5.JPG?type=nfs220_220" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[[人터뷰] 서승훈 더위크앤리조트 “반려동물과 함께 친환경 호텔리조트..서울 인근 최고의 바다뷰” (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -797,12 +873,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjNfMjEz/MDAxNjQ1NTkzMDU1MjE3.YbtTHM1aC1uSRsQ42y-jaIp459u2oAFnSHKLOGBox5og.u8z4fBBPrKR243zi4Mzv2Ona9Wb5m3WYMn--L3RIsw4g.PNG/%EB%A6%AC%EC%A1%B0%ED%8A%B8%EC%A0%84%EA%B2%BD11.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[상사가 원하는 스타일에 맞춰서 문서를 쓴다. 그러면 한 번에 결재받을 수 있다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/bigpicture/moreandmore/contents/220223114255224Sd</link>
-            <guid>https://contents.premium.naver.com/bigpicture/moreandmore/contents/220223114255224Sd</guid>
+            <title><![CDATA[[우량주] 구글은 역시 강하다...올해도 주가 두 자릿 수 성장 기대 -  알파벳A(구글) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/220223084219963Fj</link>
+            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/220223084219963Fj</guid>
             <pubDate>Tue, 01 Mar 2022 15:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[보고서, 기획서, 제안서, 기안서 등  지금 문서를 쓰고 있다면, 하나만 묻겠다.  "누구를 위해서 문서를 쓰는가?"  여러 명의 직원이 문서를 작성해서 한 사람이 읽을 때도 있고,  한 명의 직원이 문서를 작성해서 여러 사람이 읽을 때도 있다.  한 사람이 읽든 여러 사람이 읽든 모든 문서는 읽는 사람이 있다.  (때로는 사업을 완료한 후에 쓰는 결과 보고서 가운데 일부는 철해놓기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjNfMTk0/MDAxNjQ1NTgzODUwODc4.i1jSr6HwYJV0qGqGnWOiKlLKkuQTgBqOyfPSc4qpfdUg.Oz2Y7d_5JpLS_A4FJUZwZuSMC9rxmuuDZ7KjceoX1SAg.JPEG/%EB%AC%B8%EC%84%9C%EC%9D%BD%EB%8A%94%EC%83%81%EC%82%AC%EB%B6%84%EC%84%9D_%EC%A0%95%EA%B2%BD%EC%88%98%EC%9D%98%EB%8D%94%EB%8D%94%EB%8D%94.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[빅데이터로 찾은 '미국주식 우량주 사전'에서 선정한 101개 기업을 아래 5가지 내용을 중심으로 영상을 통해 빠르게 요약해 드립니다.  사업개요 주가분석 실적분석 종목진단 배당매력 오늘 소개 할 26번째 우량주 기업은 바로 알파벳A(구글)입니다. 구글을 운영하는 모회사입니다. ☞ 프리미엄 회원으로 가입하시면 영상에 포함된 교재 원본을 다운로드 받을 수 있습니다. ★교재]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMThfMiAg/MDAxNjQ1MTU2MTIyMTUz.8uZYv2q5L-R5BjJUN3PCYx4jzcJd0ZncZEjb3rnaOJog.dic7Jt78E0BT0FLzfRsWpKIFcpjqZHDz-XwnwK3trDMg.JPEG/solen-feyissa-UWVJaDvXW_c-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[데일리 캐시우드]  팔란티어 주식 이번엔 '절반' 매도 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -813,12 +889,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjNfNjAg/MDAxNjQ1NTkzNjU2MTYy.XSqx_g5RkxwGSWlk8vrdwPJxwU0VmLiKWJUMIhYe_nQg.5KiQmyQHFOtI31Y2EU1tRu93OHkxdJ8Ar5dW_lFZ410g.JPEG/cathie.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[베를린에서 만난 꿈의 세계 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/writerinseoul/readingtheworld/contents/220223131556024RB</link>
-            <guid>https://contents.premium.naver.com/writerinseoul/readingtheworld/contents/220223131556024RB</guid>
+            <title><![CDATA[상사가 원하는 스타일에 맞춰서 문서를 쓴다. 그러면 한 번에 결재받을 수 있다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bigpicture/moreandmore/contents/220223114255224Sd</link>
+            <guid>https://contents.premium.naver.com/bigpicture/moreandmore/contents/220223114255224Sd</guid>
             <pubDate>Tue, 01 Mar 2022 15:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[우디 앨런 감독의 영화 &lt;카이로의 붉은 장미&gt;는 생활고에 영혼을 저당 잡힌 여인 시실리아 이야기이다. 시실리아는 저녁마다 영화관에 간다. 현실을 잊기 위해, 그리고 꿈을 꾸기 위해서. 어둠 속에서 스크린을 볼 때 그녀의 표정은 생생하고 빛이 넘친다. 사랑에 빠진 사람이 얼굴에서 사랑을 숨길 수 없듯이 시실리아의 표정은 영화관의 어둠을 뚫고 꿈으로 빛난다. 시실리아가]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjNfMjEy/MDAxNjQ1NTg5MTM5MTQx.HdALVcf49q8CH_EMImdWPy9XELIDXMqAD94kq6M7OjEg.aKCRjBzFkv_zoZUTHrnKcg-zBOttDid_bJwTAJ_vTEog.JPEG/20191120_162614.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[보고서, 기획서, 제안서, 기안서 등  지금 문서를 쓰고 있다면, 하나만 묻겠다.  "누구를 위해서 문서를 쓰는가?"  여러 명의 직원이 문서를 작성해서 한 사람이 읽을 때도 있고,  한 명의 직원이 문서를 작성해서 여러 사람이 읽을 때도 있다.  한 사람이 읽든 여러 사람이 읽든 모든 문서는 읽는 사람이 있다.  (때로는 사업을 완료한 후에 쓰는 결과 보고서 가운데 일부는 철해놓기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjNfMTk0/MDAxNjQ1NTgzODUwODc4.i1jSr6HwYJV0qGqGnWOiKlLKkuQTgBqOyfPSc4qpfdUg.Oz2Y7d_5JpLS_A4FJUZwZuSMC9rxmuuDZ7KjceoX1SAg.JPEG/%EB%AC%B8%EC%84%9C%EC%9D%BD%EB%8A%94%EC%83%81%EC%82%AC%EB%B6%84%EC%84%9D_%EC%A0%95%EA%B2%BD%EC%88%98%EC%9D%98%EB%8D%94%EB%8D%94%EB%8D%94.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자동차 부품회사도 탄소중립!  ㅣ   홈디포, 커민스, 전기차, 소파이테크, 핀테크ㅣ오늘 머하뉴?🗽 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220223152407475ae</link>
+            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220223152407475ae</guid>
+            <pubDate>Tue, 01 Mar 2022 17:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[머니네버슬립팀의 하루 뉴스! '오늘 머하뉴?🗽' [2022년 2월 23일] :메리터 인수하는 커민스 🚚메리터 인수하는 커민스🚚 :  미국 트럭 엔진업체 커민스가 자동차 부품 메이커 메리터를 인수합니다. 전기 및 하이브리드 파워트레인 기업으로의 전환을 꿈꾸는 커민스의 꿈을 이뤄줄까요?  🏠홈디포, 저가매수 기회일까🏠 : 2022년 일상으로의 복귀가 시작되가는 가운데, 코로나19 수혜주였]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjNfMjc4/MDAxNjQ1NTk3NDk0NzA2.M2iKSGscCDGVfUPT9Gd3sEKFabSmxwIcXuGIARy4LxQg.yknTdrPDl-HfHW6UjQ6_GXBy2qUb7NaWgeHXiZDkkFYg.PNG/0223-%EC%84%AC%EB%84%A4%EC%9D%BC.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
