@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 21:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 22:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -293,6 +293,22 @@
             <content:encoded><![CDATA[팬데믹이 다시 심해지고 있어요. 이럴 때 할 말은 아니지만, 봄옷 살 시기도 다가왔어요. 그런데 백화점 분위기가 좀 이상해요. 할인 행사도 잘 하지 않고, 침체돼 있달까? 우리나라<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[외식업 브랜드를 시작하게 만드는 질문들 (폴인)]]></title>
+            <link>https://www.folin.co/story/2097</link>
+            <guid>https://www.folin.co/story/2097</guid>
+            <pubDate>Thu, 03 Mar 2022 22:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>조직문화</li>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[삼전 개발자에서 식당 사장으로, 외식업의 혁신을 말하다 (폴인)]]></title>
+            <link>https://www.folin.co/story/2096</link>
+            <guid>https://www.folin.co/story/2096</guid>
+            <pubDate>Thu, 03 Mar 2022 22:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[투자 없이 창업, 6년간 800만 권 판매한 모트모트 (폴인)]]></title>
             <link>https://www.folin.co/story/2091</link>
             <guid>https://www.folin.co/story/2091</guid>
@@ -562,22 +578,6 @@
             <guid>https://www.folin.co/story/2046</guid>
             <pubDate>Sun, 27 Feb 2022 15:46:29 GMT</pubDate>
             <content:encoded><![CDATA[<li>워크</li>
-                                <li>커리어</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[에디터가 추천하는 숨은 보석 스토리  TOP4 (폴인)]]></title>
-            <link>https://www.folin.co/story/2051</link>
-            <guid>https://www.folin.co/story/2051</guid>
-            <pubDate>Sun, 27 Feb 2022 15:46:29 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>커리어</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[폴인 멤버들이 가장 많이 하이라이트한 스토리 TOP 5 (폴인)]]></title>
-            <link>https://www.folin.co/story/2050</link>
-            <guid>https://www.folin.co/story/2050</guid>
-            <pubDate>Sun, 27 Feb 2022 15:46:29 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>커리어</li>]]></content:encoded>
         </item>
         <item>
