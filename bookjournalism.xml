@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-03-06T22:13:54.710Z</updated>
+    <updated>2022-03-06T23:13:35.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 일곱 번째 - 대선 이후 4420만명의 대한민국 유권자 모두가 이겼다고 느낄 수 있기를.]]></title>
+        <id>https://www.bookjournalism.com/books/49399</id>
+        <link href="https://www.bookjournalism.com/books/49399"/>
+        <updated>2022-03-06T23:13:26.255Z</updated>
+        <content type="html"><![CDATA[대선 너머]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[북저널리즘 라디오 에피소드 #26에선, 푸틴의 증오와 우크라이나의 운명, 대선의 막판 변수 단일화 효과,〈소년심판〉이 제기하는 촉법소년 문제에 대해 이야기합니다.]]></title>
         <id>https://www.bookjournalism.com/audio/49380</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/49023"/>
         <updated>2022-03-06T16:16:50.718Z</updated>
         <content type="html"><![CDATA[애드 아스트라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부스터슛을 띄우고 나선 이재명 후보는 과연 막판 대역전에 성공할 수 있을까? 조금씩 어긋나 있는 이 후보의 선거전략을 분석한다.]]></title>
-        <id>https://www.bookjournalism.com/books/48997</id>
-        <link href="https://www.bookjournalism.com/books/48997"/>
-        <updated>2022-03-06T16:16:50.722Z</updated>
-        <content type="html"><![CDATA[이재명의 부스터슛이 오프사이드인 이유]]></content>
     </entry>
 </feed>
