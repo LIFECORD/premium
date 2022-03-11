@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2022-03-11T06:17:17.188Z</updated>
+    <updated>2022-03-11T07:14:49.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/227</id>
         <link href="https://www.longblack.co/note/227"/>
         <updated>2022-03-10T15:18:44.900Z</updated>
-        <content type="html"><![CDATA[‘키친 마이야르kitchen maillard’. 2022년 1월, 도산대로에 문을 연 레스토랑입니다. 오픈한 지 두 달 밖에 안 됐는데<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[‘키친마이야르kitchen maillard’. 2022년 1월, 도산대로에 문을 연 레스토랑입니다. 오픈한 지 두 달 밖에 안 됐는데 웨이팅이 엄청나요. 독<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 06:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 07:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6661?fr=category</guid>
             <pubDate>Sun, 27 Feb 2022 15:45:59 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[멤버십 회원 전용] 트렌드 레터보다 한 주 일찍 보는 Z세대 유행템 (캐릿)]]></title>
+            <link>https://www.careet.net/672</link>
+            <guid>https://www.careet.net/672</guid>
+            <pubDate>Fri, 11 Mar 2022 07:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대가 빠진 웹예능, 비건 뷰티 아이템, 테스트 트렌드 모았음!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/38e230ad-eb58-46ec-9b0e-f397e315d52b_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[캐릿 유튜브] 인터넷에서 본 Z세대 유행어 ‘어쩔티비’ 진짜 쓴다고? (영상 있음) (캐릿)]]></title>
@@ -354,7 +362,7 @@
             <link>https://www.longblack.co/note/227</link>
             <guid>https://www.longblack.co/note/227</guid>
             <pubDate>Thu, 10 Mar 2022 15:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[‘키친 마이야르kitchen maillard’. 2022년 1월, 도산대로에 문을 연 레스토랑입니다. 오픈한 지 두 달 밖에 안 됐는데<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[‘키친마이야르kitchen maillard’. 2022년 1월, 도산대로에 문을 연 레스토랑입니다. 오픈한 지 두 달 밖에 안 됐는데 웨이팅이 엄청나요. 독<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[까탈로그, 유튜브 이어 패션브랜드 뛰어든 '디에디트' (폴인)]]></title>
