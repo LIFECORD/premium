@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 00:54:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 02:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,20 +78,28 @@
             <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Z세대가 세일러 문, 왕가위를 안다고? OTT 역주행 콘텐츠 활용법 (캐릿)]]></title>
-            <link>https://www.careet.net/667</link>
-            <guid>https://www.careet.net/667</guid>
-            <pubDate>Thu, 10 Mar 2022 08:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[밀레니얼도 Z세대와 대화할 수 있는 1990 ~ 2000년대 콘텐츠]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/19668a4d-36bd-4fc1-b7dd-745cb25c14cb_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[캐릿 유튜브] 인터넷에서 본 Z세대 유행어 ‘어쩔티비’ 진짜 쓴다고? (영상 있음) (캐릿)]]></title>
             <link>https://www.careet.net/670</link>
             <guid>https://www.careet.net/670</guid>
             <pubDate>Thu, 10 Mar 2022 14:12:16 GMT</pubDate>
             <content:encoded><![CDATA[08년생은 친구들이랑 뭐하고 노는지 궁금한 사람 클릭!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/fd01be89-69db-4034-8dea-f9e788821404_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[당장 써 먹는 유행어] 너 혹시… 뭐 돼? (캐릿)]]></title>
+            <link>https://www.careet.net/669</link>
+            <guid>https://www.careet.net/669</guid>
+            <pubDate>Fri, 11 Mar 2022 02:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[잘난 척 하는 친구를 구박하고 싶을 때 쓰는 말!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/35421a81-39d4-42ef-9c48-783a4b54c51c_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Z세대가 세일러 문, 왕가위를 안다고? OTT 역주행 콘텐츠 활용법 (캐릿)]]></title>
+            <link>https://www.careet.net/667</link>
+            <guid>https://www.careet.net/667</guid>
+            <pubDate>Thu, 10 Mar 2022 08:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[밀레니얼도 Z세대와 대화할 수 있는 1990 ~ 2000년대 콘텐츠]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/19668a4d-36bd-4fc1-b7dd-745cb25c14cb_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] MZ가 사랑하는 브랜드, 쿠캣 팀장이 공개하는 영업 비밀! (캐릿)]]></title>
