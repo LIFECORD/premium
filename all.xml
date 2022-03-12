@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 02:01:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 02:38:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -653,12 +653,88 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[사랑하고야 마는 마음을 담아 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/maumbam/surisee/contents/220207142112210HX</link>
-            <guid>https://contents.premium.naver.com/maumbam/surisee/contents/220207142112210HX</guid>
-            <pubDate>Fri, 11 Mar 2022 15:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[한동안 품절되었던 책 &lt;우리는 이렇게 사랑하고야 만다&gt;가 리커버 에디션으로 출간되었다. 첫 책 &lt;우리는 달빛에도 걸을 수 있다&gt; 개정증보판과 나란히 어울리는 얼굴로. 두 권의 책을 나는 '우리는' 연작 에세이라고 부르고 싶다. 우리는 달빛에도 걸을 수 있다. 우리는 이렇게 사랑하고야 만다. 내 인생의 비포 선라이즈와 비포 선셋. '우달빛'이 밤책이라면 '우이사'는 저녁책이]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMDdfMTcz/MDAxNjQ0MjExNDIyMzc2.BHwDrxe6TZIBGyds-Tng3krmvA-_TKHSwl3WqD4pbzkg.Y0_8Q0hgzzkGHhiFLkuMJBJSUM3UUlhMuOLFZXrN52cg.JPEG/KakaoTalk_20220207_140520307_07.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #27에선, 드디어 막을 내린 20대 대선에 대해 이야기 나눠봅니다. 사상 초유의 박빙 승부로 탄생한 윤석열 정부의 미래는 어떤 모습일까요? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/49508</link>
+            <guid>https://www.bookjournalism.com/audio/49508</guid>
+            <pubDate>Sat, 12 Mar 2022 02:37:58 GMT</pubDate>
+            <content:encoded><![CDATA[광화문 앞길은 꽃길인가 가시밭길인가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MZ 세대는 왜 새로운 스포츠에 주목할까? 스포츠는 어디까지 확장할까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49483</link>
+            <guid>https://www.bookjournalism.com/books/49483</guid>
+            <pubDate>Sat, 12 Mar 2022 02:37:58 GMT</pubDate>
+            <content:encoded><![CDATA[MZ의 스포츠는 콘텐츠다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 국민의힘 대선후보가 대한민국 20대 대통령에 당선됐다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49441</link>
+            <guid>https://www.bookjournalism.com/books/49441</guid>
+            <pubDate>Sat, 12 Mar 2022 02:37:58 GMT</pubDate>
+            <content:encoded><![CDATA[20대 대통령 윤석열 당선]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[러시아는 언론 통제를 강화하고 글로벌 기업들은 러시아를 보이콧 한다. 푸틴은 여론을 잠재울 수 있을 것인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49423</link>
+            <guid>https://www.bookjournalism.com/books/49423</guid>
+            <pubDate>Sat, 12 Mar 2022 02:37:58 GMT</pubDate>
+            <content:encoded><![CDATA[센서드 러시아]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 일곱 번째 - 대선 이후 4420만명의 대한민국 유권자 모두가 이겼다고 느낄 수 있기를. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49399</link>
+            <guid>https://www.bookjournalism.com/books/49399</guid>
+            <pubDate>Sat, 12 Mar 2022 02:37:58 GMT</pubDate>
+            <content:encoded><![CDATA[대선 너머]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #26에선, 푸틴의 증오와 우크라이나의 운명, 대선의 막판 변수 단일화 효과,〈소년심판〉이 제기하는 촉법소년 문제에 대해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/49380</link>
+            <guid>https://www.bookjournalism.com/audio/49380</guid>
+            <pubDate>Sat, 12 Mar 2022 02:37:58 GMT</pubDate>
+            <content:encoded><![CDATA[악마 푸틴과 단일화 뒤 악마의 유혹 그리고 소년악마]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[만일 단일화로 대선에서 승리한다면, 윤석열과 안철수는 정말 권력을 나눌 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49348</link>
+            <guid>https://www.bookjournalism.com/books/49348</guid>
+            <pubDate>Sat, 12 Mar 2022 02:37:58 GMT</pubDate>
+            <content:encoded><![CDATA[악마의 유혹]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[택배 파업이 두 달 넘게 이어진 끝에 마무리 되었다. 21세기에 벌어진 20세기 노동쟁의였다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49300</link>
+            <guid>https://www.bookjournalism.com/books/49300</guid>
+            <pubDate>Sat, 12 Mar 2022 02:37:58 GMT</pubDate>
+            <content:encoded><![CDATA[택배파업, 우리 삶도 파손주의]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[푸틴는 왜 우크라이나의 동쪽 절반을 노리는가? 푸틴을 어디서 어떻게 저지할 것인가? 우크라이나 전선이 무너지면 푸틴은 어디까지 노릴 것인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49282</link>
+            <guid>https://www.bookjournalism.com/books/49282</guid>
+            <pubDate>Sat, 12 Mar 2022 02:37:58 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나 라인]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[형법 제9조에 따라 만 14세 미만의 행위는 벌할 수 없다. 촉법소년 연령, 낮춰야 하나. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49274</link>
+            <guid>https://www.bookjournalism.com/books/49274</guid>
+            <pubDate>Sat, 12 Mar 2022 02:37:58 GMT</pubDate>
+            <content:encoded><![CDATA[죄를 물을 수 없는 아이들]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코로나19로 국경이 닫히고 도시는 활기를 잃었다. 이제 도시를 되살릴 방법을 궁리해야 할 때다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49207</link>
+            <guid>https://www.bookjournalism.com/books/49207</guid>
+            <pubDate>Sat, 12 Mar 2022 02:37:58 GMT</pubDate>
+            <content:encoded><![CDATA[코로나 시대, 도시의 부활 전략]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 여섯 번째 - 2022년 2월 24일 오전 5시 러시아가 우크라이나를 침공했습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49178</link>
+            <guid>https://www.bookjournalism.com/books/49178</guid>
+            <pubDate>Sat, 12 Mar 2022 02:37:58 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[다빈치 리졸브 작업환경설정 및 pc 사양 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -669,12 +745,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDVfOTEg/MDAxNjQ2NDQ0NzkzNDgz.8Ibq121XMV_kf-b1tctq06WFfnQfED6-PD9gL_mQ-aMg.UMEZgCVJd-tbPLroh2mKM2Qu43qITW5PL5dtkCEE7S0g.JPEG/01_1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[35층룰 폐지…대단지 재건축이 더 오른다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/backbriefing/news/contents/220305133929497Jt</link>
-            <guid>https://contents.premium.naver.com/backbriefing/news/contents/220305133929497Jt</guid>
+            <title><![CDATA[사랑하고야 마는 마음을 담아 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/maumbam/surisee/contents/220207142112210HX</link>
+            <guid>https://contents.premium.naver.com/maumbam/surisee/contents/220207142112210HX</guid>
             <pubDate>Fri, 11 Mar 2022 15:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[서울시의 주거지역에서 아파트를 최대 35층까지 지을 수 있는 이른바 '35층룰'이 8년 만에 폐지됐습니다. 35층룰은 지난 2014년 박원순 서울시장 시절 만든 '2030서울플랜'에 담긴 개념입니다. 서울플랜은 최상위 도시계획입니다. 사실상 서울에서 아파트를 지을 때 무조건 따라야하는 규칙같은 것입니다. 35층룰이 도입된 뒤 서울에서는 새로 짓는 아파트가 최고 35층을 넘길 수 없었]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDVfMTQg/MDAxNjQ2NDU0NjczNTEy.8b8g0DJ8sguUyPkBWkbgbfOlmSzQEnOCTQuRZISo4mIg.T_oIAA96B9fQjUvb3ISJ42RzalaXuZkC3Q71MbIqvFIg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
+            <content:encoded><![CDATA[한동안 품절되었던 책 &lt;우리는 이렇게 사랑하고야 만다&gt;가 리커버 에디션으로 출간되었다. 첫 책 &lt;우리는 달빛에도 걸을 수 있다&gt; 개정증보판과 나란히 어울리는 얼굴로. 두 권의 책을 나는 '우리는' 연작 에세이라고 부르고 싶다. 우리는 달빛에도 걸을 수 있다. 우리는 이렇게 사랑하고야 만다. 내 인생의 비포 선라이즈와 비포 선셋. '우달빛'이 밤책이라면 '우이사'는 저녁책이]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMDdfMTcz/MDAxNjQ0MjExNDIyMzc2.BHwDrxe6TZIBGyds-Tng3krmvA-_TKHSwl3WqD4pbzkg.Y0_8Q0hgzzkGHhiFLkuMJBJSUM3UUlhMuOLFZXrN52cg.JPEG/KakaoTalk_20220207_140520307_07.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[경제상식]  애플, 워렌버핏의 새 코카콜라 되다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -685,12 +761,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDVfMjAw/MDAxNjQ2NDU1MDQwODU3.cmUtl3LG1jWgRtYz1GlNOiJLXANEwUybKhhzUuzL3Msg.iFEmm_qhcOP__5dyRFBJ5MPnGVa2Bre7vbTljQLAiRMg.JPEG/gettyimages-492446672.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[게임업계 ‘큰 형님’ 故김정주의 장면들 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/potg/potgbypnn/contents/220305143211880kP</link>
-            <guid>https://contents.premium.naver.com/potg/potgbypnn/contents/220305143211880kP</guid>
+            <title><![CDATA[35층룰 폐지…대단지 재건축이 더 오른다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/backbriefing/news/contents/220305133929497Jt</link>
+            <guid>https://contents.premium.naver.com/backbriefing/news/contents/220305133929497Jt</guid>
             <pubDate>Fri, 11 Mar 2022 15:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요. 주간 게임 하이라이트 레터, POTG의 허새롬 기자입니다. 지난 3월 1일, NXC 故김정주 이사가 세상을 떠났다는 소식이 알려졌습니다. 한 달 만에 돌아온 레터를 무거운 소식으로 시작하게 되네요. 어떤 전조도 없이 갑작스레 전해진 소식이어서 게임업계의 충격도 컸는데요. 그도 그럴 것이 故김정주 이사는 게임회사 넥슨을 만든, 그야말로 국내 게임업계 1세대 창업자]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDVfMjQw/MDAxNjQ2NDU2NzgxMDE5.DfezjTbULm3IgGikSJu76-LbpUAZu5ApBuOO7SIaTV8g.IHph3zKAp0a7WpEjslSK64mCJefJzWCNMrND7B5S36og.PNG/%EB%B0%94%EB%9E%8C%EC%9D%98_%EB%82%98%EB%9D%BC_1996_%EA%B9%80%EC%A0%95%EC%A3%BC%EC%99%80_%EC%86%A1%EC%9E%AC%EA%B2%BD.png?type=nfs220_220" length="0" type="image/png"/>
+            <content:encoded><![CDATA[서울시의 주거지역에서 아파트를 최대 35층까지 지을 수 있는 이른바 '35층룰'이 8년 만에 폐지됐습니다. 35층룰은 지난 2014년 박원순 서울시장 시절 만든 '2030서울플랜'에 담긴 개념입니다. 서울플랜은 최상위 도시계획입니다. 사실상 서울에서 아파트를 지을 때 무조건 따라야하는 규칙같은 것입니다. 35층룰이 도입된 뒤 서울에서는 새로 짓는 아파트가 최고 35층을 넘길 수 없었]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDVfMTQg/MDAxNjQ2NDU0NjczNTEy.8b8g0DJ8sguUyPkBWkbgbfOlmSzQEnOCTQuRZISo4mIg.T_oIAA96B9fQjUvb3ISJ42RzalaXuZkC3Q71MbIqvFIg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[D급 전문 어사일럼의 드라마 ‘블랙 섬머’ - 에 대하여 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -701,12 +777,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjZfMTg4/MDAxNjQ1ODQ2MDI5NzAz.fz4cclabDoewPKrorgyWxsyoJGithkk0XsZwNKvwDxwg.KjVMUnX7lgvNU6nnmMSyXRtg3sBotlq0U08SyJ8nL9kg.PNG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_(65).png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[드라마 ‘일지매’ - 에 대한 짧은생각 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/i21/21/contents/220305161115881fV</link>
-            <guid>https://contents.premium.naver.com/i21/21/contents/220305161115881fV</guid>
+            <title><![CDATA[게임업계 ‘큰 형님’ 故김정주의 장면들 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/potg/potgbypnn/contents/220305143211880kP</link>
+            <guid>https://contents.premium.naver.com/potg/potgbypnn/contents/220305143211880kP</guid>
             <pubDate>Fri, 11 Mar 2022 15:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 [일지매]는 ‘일지매’라는 조선 시대 괴도를 모델로 한 작품이다.   SBS에서 2008년 5월 21일~7월 24일 방영했으며, 최란 작가가 극본을 집필했고, 이용석 PD가 연출을 담당했다. 또 배우 이준기, 한효주, 이영아 등이 출연했다.   이 드라마는 인조 시대에 인조가 동생 이원호를 시기해 죽여버리고, 나중에 그 진실을 안 ‘이원호’의 아들 ‘이겸’이 일지매가 되어 복수하는]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDVfMTEz/MDAxNjQ2NDY0MTY1MjM4.u1kf3v6fJ8C2WQhyb9vHyHBeGikP3AjN1XcNr8lPQU8g.mBvCisnv0OH9W9AUf3EmBQK-YfB5uRS3YAmnEFlnutkg.PNG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_(67).png?type=nfs220_220" length="0" type="image/png"/>
+            <content:encoded><![CDATA[안녕하세요. 주간 게임 하이라이트 레터, POTG의 허새롬 기자입니다. 지난 3월 1일, NXC 故김정주 이사가 세상을 떠났다는 소식이 알려졌습니다. 한 달 만에 돌아온 레터를 무거운 소식으로 시작하게 되네요. 어떤 전조도 없이 갑작스레 전해진 소식이어서 게임업계의 충격도 컸는데요. 그도 그럴 것이 故김정주 이사는 게임회사 넥슨을 만든, 그야말로 국내 게임업계 1세대 창업자]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDVfMjQw/MDAxNjQ2NDU2NzgxMDE5.DfezjTbULm3IgGikSJu76-LbpUAZu5ApBuOO7SIaTV8g.IHph3zKAp0a7WpEjslSK64mCJefJzWCNMrND7B5S36og.PNG/%EB%B0%94%EB%9E%8C%EC%9D%98_%EB%82%98%EB%9D%BC_1996_%EA%B9%80%EC%A0%95%EC%A3%BC%EC%99%80_%EC%86%A1%EC%9E%AC%EA%B2%BD.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[영국 드라마 ‘내 이웃의 비밀’ - 에 대하여 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -717,12 +793,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjZfMjkg/MDAxNjQ1ODQ1NTIwODI4.lsRMnXz2xNAvj2LRunZCOqJ69QLkNFM3r-NUa6ikzLcg.5jnTsoXdCvoYLjfhm3w3jx3--wuYJM-z4Vx1tbwpZeAg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_-_2022-02-26T121641.897.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[드라마 ‘너의 목소리가 들려’ - 에 대하여 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/i21/21/contents/220226125536668wp</link>
-            <guid>https://contents.premium.naver.com/i21/21/contents/220226125536668wp</guid>
-            <pubDate>Sat, 12 Mar 2022 00:46:37 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 [너의 목소리가 들려]는 2013년 6월 5일~8월 1일 방영됐고, 작품성과 시청률 두 마리의 토끼를 모두 잡으며 당시 SBS 수목드라마의 전성기를 이끌었다.   박혜련 작가가 극본을 맡았고, 조수원‧신승우 감독이 연출을 맡았다.    배우는 이종석, 이보영, 윤상현, 이다희, 정웅인, 김해숙 등이 출연해 열연을 펼쳤다. 특히, 배우 정웅인의 경우 이 작품을 통해 큰 인상을 남겨 재발]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjZfODAg/MDAxNjQ1ODQ3NjA2MDc5.xYV65cKfUbEvT08INNZ94eoKW6LHqEXCXN6efs7bkrsg.5O_0TwJ9MWstLeYfvjlLZro4hSMgeIE-tA2Wja7_SgMg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_-_2022-02-26T125202.554.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[드라마 ‘일지매’ - 에 대한 짧은생각 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/i21/21/contents/220305161115881fV</link>
+            <guid>https://contents.premium.naver.com/i21/21/contents/220305161115881fV</guid>
+            <pubDate>Fri, 11 Mar 2022 15:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[드라마 [일지매]는 ‘일지매’라는 조선 시대 괴도를 모델로 한 작품이다.   SBS에서 2008년 5월 21일~7월 24일 방영했으며, 최란 작가가 극본을 집필했고, 이용석 PD가 연출을 담당했다. 또 배우 이준기, 한효주, 이영아 등이 출연했다.   이 드라마는 인조 시대에 인조가 동생 이원호를 시기해 죽여버리고, 나중에 그 진실을 안 ‘이원호’의 아들 ‘이겸’이 일지매가 되어 복수하는]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDVfMTEz/MDAxNjQ2NDY0MTY1MjM4.u1kf3v6fJ8C2WQhyb9vHyHBeGikP3AjN1XcNr8lPQU8g.mBvCisnv0OH9W9AUf3EmBQK-YfB5uRS3YAmnEFlnutkg.PNG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_(67).png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[드라마 ‘이태원 클라쓰’ - 에 대한 짧은 생각 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/i21/21/contents/220226120942991QC</link>
+            <guid>https://contents.premium.naver.com/i21/21/contents/220226120942991QC</guid>
+            <pubDate>Sat, 12 Mar 2022 02:38:07 GMT</pubDate>
+            <content:encoded><![CDATA[드라마 [이태원 클라쓰]는 2020년 1월 31일~3월 21일 방영된 JTBC 금토 드라마다. 광진 작가의 동명의 웹툰인 이태원 클라쓰를 원작으로 하며, 원작처럼 빠른 전개로 좋은 평을 받았다.    다만, 11화부터 전개가 너무 느리고 개연성 없는 장면이 많아 답답함을 남겼다는 의견도 있다.   이 드라마는 세계를 압축해 놓은 듯한 이태원이라는 작은 거리에서 각자의 가치관으로 자유를 쫓는]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjZfMTUg/MDAxNjQ1ODQ0ODg1MDc4.1ySeu68cStat7qF5Itba3LgUQ9R_kNeBcJ6N_vJzaeIg.03yJpTqku77HT_-rrSwLQKnCOXcrFmHpVZzcdRaEYmUg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_-_2022-02-26T120543.219.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
