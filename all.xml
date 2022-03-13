@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 00:48:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 02:04:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -656,12 +656,88 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[팟캐스트]떨쳐버리기 힘든 윤석열의 '꼰대' 이미지 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/koreaherald/englishcafe/contents/220302114643095uF</link>
-            <guid>https://contents.premium.naver.com/koreaherald/englishcafe/contents/220302114643095uF</guid>
-            <pubDate>Sat, 12 Mar 2022 15:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[아래 콘텐츠는 영어신문 코리아헤럴드가 매주 말행하는 팟캐스트 서비스입니다. 여러분들의 영어실력향상을 위해 영문기사에 나오는 단어, 표현 등을 음성으로 자세하게 설명해주는 코너입니다. 팟캐스트를 이용해서 음성으로 들으시고, 시사상식도 쌓고 영어 실력도 키워보세요. ▶'쩍벌' 습관, 기차 좌석에 구둣발 올리기 등 보수 진영의 대선주자 윤석열 후보 독단적이고 완]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDJfOTUg/MDAxNjQ2MTg3OTIzMTUx.ftygMVf9TnZDLIWx9IwVIU1tzdUrXu9fDqPLmjXfeHgg.B2r0r2Tc30BauYDHDbEDdI_pbZQ-jWRe5pvjRrfZ8d8g.JPEG/20220223000001_0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #27에선, 드디어 막을 내린 20대 대선에 대해 이야기 나눠봅니다. 사상 초유의 박빙 승부로 탄생한 윤석열 정부의 미래는 어떤 모습일까요? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/49508</link>
+            <guid>https://www.bookjournalism.com/audio/49508</guid>
+            <pubDate>Sun, 13 Mar 2022 02:04:13 GMT</pubDate>
+            <content:encoded><![CDATA[광화문 앞길은 꽃길인가 가시밭길인가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MZ 세대는 왜 새로운 스포츠에 주목할까? 스포츠는 어디까지 확장할까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49483</link>
+            <guid>https://www.bookjournalism.com/books/49483</guid>
+            <pubDate>Sun, 13 Mar 2022 02:04:13 GMT</pubDate>
+            <content:encoded><![CDATA[MZ의 스포츠는 콘텐츠다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 국민의힘 대선후보가 대한민국 20대 대통령에 당선됐다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49441</link>
+            <guid>https://www.bookjournalism.com/books/49441</guid>
+            <pubDate>Sun, 13 Mar 2022 02:04:13 GMT</pubDate>
+            <content:encoded><![CDATA[20대 대통령 윤석열 당선]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[러시아는 언론 통제를 강화하고 글로벌 기업들은 러시아를 보이콧 한다. 푸틴은 여론을 잠재울 수 있을 것인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49423</link>
+            <guid>https://www.bookjournalism.com/books/49423</guid>
+            <pubDate>Sun, 13 Mar 2022 02:04:13 GMT</pubDate>
+            <content:encoded><![CDATA[센서드 러시아]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 일곱 번째 - 대선 이후 4420만명의 대한민국 유권자 모두가 이겼다고 느낄 수 있기를. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49399</link>
+            <guid>https://www.bookjournalism.com/books/49399</guid>
+            <pubDate>Sun, 13 Mar 2022 02:04:13 GMT</pubDate>
+            <content:encoded><![CDATA[대선 너머]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #26에선, 푸틴의 증오와 우크라이나의 운명, 대선의 막판 변수 단일화 효과,〈소년심판〉이 제기하는 촉법소년 문제에 대해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/49380</link>
+            <guid>https://www.bookjournalism.com/audio/49380</guid>
+            <pubDate>Sun, 13 Mar 2022 02:04:13 GMT</pubDate>
+            <content:encoded><![CDATA[악마 푸틴과 단일화 뒤 악마의 유혹 그리고 소년악마]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[만일 단일화로 대선에서 승리한다면, 윤석열과 안철수는 정말 권력을 나눌 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49348</link>
+            <guid>https://www.bookjournalism.com/books/49348</guid>
+            <pubDate>Sun, 13 Mar 2022 02:04:13 GMT</pubDate>
+            <content:encoded><![CDATA[악마의 유혹]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[택배 파업이 두 달 넘게 이어진 끝에 마무리 되었다. 21세기에 벌어진 20세기 노동쟁의였다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49300</link>
+            <guid>https://www.bookjournalism.com/books/49300</guid>
+            <pubDate>Sun, 13 Mar 2022 02:04:13 GMT</pubDate>
+            <content:encoded><![CDATA[택배파업, 우리 삶도 파손주의]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[푸틴는 왜 우크라이나의 동쪽 절반을 노리는가? 푸틴을 어디서 어떻게 저지할 것인가? 우크라이나 전선이 무너지면 푸틴은 어디까지 노릴 것인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49282</link>
+            <guid>https://www.bookjournalism.com/books/49282</guid>
+            <pubDate>Sun, 13 Mar 2022 02:04:13 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나 라인]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[형법 제9조에 따라 만 14세 미만의 행위는 벌할 수 없다. 촉법소년 연령, 낮춰야 하나. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49274</link>
+            <guid>https://www.bookjournalism.com/books/49274</guid>
+            <pubDate>Sun, 13 Mar 2022 02:04:13 GMT</pubDate>
+            <content:encoded><![CDATA[죄를 물을 수 없는 아이들]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코로나19로 국경이 닫히고 도시는 활기를 잃었다. 이제 도시를 되살릴 방법을 궁리해야 할 때다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49207</link>
+            <guid>https://www.bookjournalism.com/books/49207</guid>
+            <pubDate>Sun, 13 Mar 2022 02:04:13 GMT</pubDate>
+            <content:encoded><![CDATA[코로나 시대, 도시의 부활 전략]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 여섯 번째 - 2022년 2월 24일 오전 5시 러시아가 우크라이나를 침공했습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49178</link>
+            <guid>https://www.bookjournalism.com/books/49178</guid>
+            <pubDate>Sun, 13 Mar 2022 02:04:13 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[RM이 선택한 그 작가 ② 윤형근 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -672,12 +748,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMjRfNTkg/MDAxNjQ1Njk2MTQ4MDM5.cF_lrqcEqxpc8JlpWM2HvHEWp8D-2wK9nQi3m5z8gkQg.GvXfjIeMU1K9n1cc6F75qLqeAc6Swa9SZqxWLeUqKTcg.JPEG/2.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[봄날은 간다(2001) : 지나간 사랑의 흔적 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/joyjun7/aboutmovie/contents/220303205320183ny</link>
-            <guid>https://contents.premium.naver.com/joyjun7/aboutmovie/contents/220303205320183ny</guid>
+            <title><![CDATA[[팟캐스트]떨쳐버리기 힘든 윤석열의 '꼰대' 이미지 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/koreaherald/englishcafe/contents/220302114643095uF</link>
+            <guid>https://contents.premium.naver.com/koreaherald/englishcafe/contents/220302114643095uF</guid>
             <pubDate>Sat, 12 Mar 2022 15:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[**어바웃 무비 채널의 모든 글은 스포일러를 포함하고 있습니다. **이 글 속에 등장하는 &lt;캐스트 어웨이&gt;, &lt;8월의 크리스마스&gt;, &lt;봄날은 간다&gt;는 현재 넷플릭스 등을 통해 관람할 수 있습니다. 무인도에 떨어진 한 남자가 있다. 회사로부터 긴급한 호출을 받게 된 그는 말레이시아로 향하는 화물 비행기에 탑승한 참이었다. 비행 도중 폭풍우를 만나 계획되어 있던 항로를 벗어나게]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDNfNjEg/MDAxNjQ2MzA3MTkyMDYz.rQk9YpcV2w4GZEFMtQKx_5GtcDUA05rR-MMV3IiaWOQg.CyBv4Oa1746rXSJalb7At-jg69EvJB8k9tUsXut0IZIg.JPEG/12110210A770FD709C.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[아래 콘텐츠는 영어신문 코리아헤럴드가 매주 말행하는 팟캐스트 서비스입니다. 여러분들의 영어실력향상을 위해 영문기사에 나오는 단어, 표현 등을 음성으로 자세하게 설명해주는 코너입니다. 팟캐스트를 이용해서 음성으로 들으시고, 시사상식도 쌓고 영어 실력도 키워보세요. ▶'쩍벌' 습관, 기차 좌석에 구둣발 올리기 등 보수 진영의 대선주자 윤석열 후보 독단적이고 완]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDJfOTUg/MDAxNjQ2MTg3OTIzMTUx.ftygMVf9TnZDLIWx9IwVIU1tzdUrXu9fDqPLmjXfeHgg.B2r0r2Tc30BauYDHDbEDdI_pbZQ-jWRe5pvjRrfZ8d8g.JPEG/20220223000001_0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[문이과 통합]정시 이과 침공, 취업유학에서 STEM계열 약진 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -687,12 +763,12 @@
             <content:encoded><![CDATA[안녕하세요, 꿈붕어입니다.  ​ 역대급 변수가 많았던 22년 수능 결과가 하나씩 나오고 있습니다. ​ 예상했던대로 이과의 문과 침공이 매우매우 많이 일어났습니다.  의대를 목표로 삼수를 했다가 SKY 인문/상경계열에 합격한 주변 친구들도 많네요. 잘 생각해보면..... 문과를 선택하는 학생에게 엄청난 불이익이 생기는 구조입니다. [인터뷰]임성호 "통합수능으로 고교 문과 몰락]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[넷플릭스 드라마 ‘진실의 늪’ - 에 대한 짧은 생각 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/i21/21/contents/220305163119391XI</link>
-            <guid>https://contents.premium.naver.com/i21/21/contents/220305163119391XI</guid>
+            <title><![CDATA[봄날은 간다(2001) : 지나간 사랑의 흔적 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/joyjun7/aboutmovie/contents/220303205320183ny</link>
+            <guid>https://contents.premium.naver.com/joyjun7/aboutmovie/contents/220303205320183ny</guid>
             <pubDate>Sat, 12 Mar 2022 15:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[‘구관이 명관이다.’라는 속담이 있듯이, 때로는 현대적인 감각이나 새로운 이야기보다 진득하게 이야기를 끌고 나가는 것도 상당히 흥미롭다.    어찌 됐든 새로운 것을 시도하다가 시도하지 않은 것만도 못하고 중요한 것은 놓칠 때가 많다.    번뜩이는 소재만으로 이야기를 풀어나가더니, 정작 중요한 이야기는 하나도 없듯이 말이다. 아니면 우리에게 너무 어색한 표현들]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDVfMjA3/MDAxNjQ2NDY1Mzk1Mzc2.TKTEIJXBjzj3pe6pJt3Rwmi-xPYoW6sbTticvUU_ooYg.sK4Erim75WsACEC5Yxr4h7TIU75BFWvyoVdhx5bG_20g.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_-_2022-03-05T162742.664.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[**어바웃 무비 채널의 모든 글은 스포일러를 포함하고 있습니다. **이 글 속에 등장하는 &lt;캐스트 어웨이&gt;, &lt;8월의 크리스마스&gt;, &lt;봄날은 간다&gt;는 현재 넷플릭스 등을 통해 관람할 수 있습니다. 무인도에 떨어진 한 남자가 있다. 회사로부터 긴급한 호출을 받게 된 그는 말레이시아로 향하는 화물 비행기에 탑승한 참이었다. 비행 도중 폭풍우를 만나 계획되어 있던 항로를 벗어나게]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDNfNjEg/MDAxNjQ2MzA3MTkyMDYz.rQk9YpcV2w4GZEFMtQKx_5GtcDUA05rR-MMV3IiaWOQg.CyBv4Oa1746rXSJalb7At-jg69EvJB8k9tUsXut0IZIg.JPEG/12110210A770FD709C.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팟캐스트]성별 분리 스터디 카페부터 공유 승차까지, 왜 한국인들은 단일 성별 공간을 더 선호할까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -703,12 +779,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDJfMzcg/MDAxNjQ2MTg4MjgxNzE4.Nd4x0aZwCqMGPErreX4a4vQmBSntEFyXFxZihyvf6rYg.7a7LSrabJOKd-5aCdfYQy9zJPFDURcQVC7c65qkex3Mg.JPEG/20220217000520_0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[드라마 ‘그녀의 사생활’ - 에 대한 짧은 생각 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/i21/21/contents/220305163606646cg</link>
-            <guid>https://contents.premium.naver.com/i21/21/contents/220305163606646cg</guid>
+            <title><![CDATA[넷플릭스 드라마 ‘진실의 늪’ - 에 대한 짧은 생각 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/i21/21/contents/220305163119391XI</link>
+            <guid>https://contents.premium.naver.com/i21/21/contents/220305163119391XI</guid>
             <pubDate>Sat, 12 Mar 2022 15:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 &lt;그녀의 사생활&gt;은 2019년 4월 10일~5월 30일 방영된 tvN 수목 드라마다. &lt;마이 시크릿 호텔&gt;‧&lt;디어 마이 프렌즈&gt;‧&lt;명불허전&gt;‧&lt;라이프&gt; 등을 연출한 홍종찬 PD가 연출했으며, 카카오페이지 김성연 작가의 웹소설 [누나팬닷컴]이 원작이다.   배우 박민영, 김재욱이 출연해 실제 커플 같은 사랑스러운 케미를 자랑했다.    특히, OCN 드라마 &lt;보이스&gt;의 모태구나 같은 OCN 드라마 &lt;]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDVfNTYg/MDAxNjQ2NDY1NjE5Mjkw.WQMAupj7syXDHdwe7xXREeCvXyMyFsfAst83DBHJ1w8g.QWLOJS3gdMlUy1_1UyeqYhQNIN7FFjMgNUR2cFxqOnog.JPEG/be4d499fd49c4ad384cca8aecb0268f9.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[‘구관이 명관이다.’라는 속담이 있듯이, 때로는 현대적인 감각이나 새로운 이야기보다 진득하게 이야기를 끌고 나가는 것도 상당히 흥미롭다.    어찌 됐든 새로운 것을 시도하다가 시도하지 않은 것만도 못하고 중요한 것은 놓칠 때가 많다.    번뜩이는 소재만으로 이야기를 풀어나가더니, 정작 중요한 이야기는 하나도 없듯이 말이다. 아니면 우리에게 너무 어색한 표현들]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDVfMjA3/MDAxNjQ2NDY1Mzk1Mzc2.TKTEIJXBjzj3pe6pJt3Rwmi-xPYoW6sbTticvUU_ooYg.sK4Erim75WsACEC5Yxr4h7TIU75BFWvyoVdhx5bG_20g.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_-_2022-03-05T162742.664.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[필독] 업비트 매매법 콘텐츠 계획+구독자분들에게 드릴 말씀 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -719,12 +795,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDZfMTc1/MDAxNjQ2NTU4ODk1NTcx.V5GC52aA0m8ToOxhJv65PSv2JjJWWCEYp6cLHH64K-og.1XVdiFhymm7JcJ30JyIsQbpCzoh-d4fHvgVoj1yEaRQg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[상처 줄 자격 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/shoostory/sundayessay/contents/220306114735615uL</link>
-            <guid>https://contents.premium.naver.com/shoostory/sundayessay/contents/220306114735615uL</guid>
-            <pubDate>Sun, 13 Mar 2022 00:48:58 GMT</pubDate>
-            <content:encoded><![CDATA[코로나가 바꿔놓은 삶이 유일하게 도움이 된 것은, 주변 관계를 돌아보게 만들었다는 것이다. 당연한 일상에 제약이 생기면서 나름의 기준으로  만남을 선택해야만 했고, 그 과정에서 스스로도 몰랐던 사실을 깨달았다. '자주 볼 땐 몰랐는데 그 사람이 내 인생에 정말 많은 부분을 차지하고 있었구나' 싶은 반면 '그 사람이 없으니 내 인생이 훨씬 나아졌구나' 싶기도 하다. 그리]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDZfNzIg/MDAxNjQ2NTI5ODE0MTk5.ggcKTk7925bwnJ_A_2HzWZ1AfIFriKllNjE5HMG4fjYg.uj4Wm9VOr8Q5IIPyIcRdsRxcIqar-Btre4cqJ3v71N4g.JPEG/photo-1562176952-3b39db7af417.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+            <title><![CDATA[드라마 ‘그녀의 사생활’ - 에 대한 짧은 생각 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/i21/21/contents/220305163606646cg</link>
+            <guid>https://contents.premium.naver.com/i21/21/contents/220305163606646cg</guid>
+            <pubDate>Sat, 12 Mar 2022 15:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[드라마 &lt;그녀의 사생활&gt;은 2019년 4월 10일~5월 30일 방영된 tvN 수목 드라마다. &lt;마이 시크릿 호텔&gt;‧&lt;디어 마이 프렌즈&gt;‧&lt;명불허전&gt;‧&lt;라이프&gt; 등을 연출한 홍종찬 PD가 연출했으며, 카카오페이지 김성연 작가의 웹소설 [누나팬닷컴]이 원작이다.   배우 박민영, 김재욱이 출연해 실제 커플 같은 사랑스러운 케미를 자랑했다.    특히, OCN 드라마 &lt;보이스&gt;의 모태구나 같은 OCN 드라마 &lt;]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDVfNTYg/MDAxNjQ2NDY1NjE5Mjkw.WQMAupj7syXDHdwe7xXREeCvXyMyFsfAst83DBHJ1w8g.QWLOJS3gdMlUy1_1UyeqYhQNIN7FFjMgNUR2cFxqOnog.JPEG/be4d499fd49c4ad384cca8aecb0268f9.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#6. 어제가 있기에 오늘이 고마운 날인 것처럼 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/jinsimda/geureoryeoni/contents/220306194206494Ej</link>
+            <guid>https://contents.premium.naver.com/jinsimda/geureoryeoni/contents/220306194206494Ej</guid>
+            <pubDate>Sun, 13 Mar 2022 02:04:20 GMT</pubDate>
+            <content:encoded><![CDATA[불안   불을 끄고 뒤척이다 손을 뻗어 핸드폰을 켠다 무의미하게 이 사람 저 사람의 소식을 뒤척인다 아니 오늘의 내 마음을 뒤적인다   째깍째깍 울리는 초침 소리가 귀에서 멀어진 지 오래다 오늘을 살까 하다가 멀뚱히 쉬이 지나친 하루를 맞았다   통증 없이 걸러지는 하루는 통증으로 기억되는 하루보다 아프다   몇 시인지 모를 새벽 무의미하게 누르는 핸드폰과의 교감은]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDZfODcg/MDAxNjQ2NTYyNjI4ODc1.PpIIveDRPJw9MC9wPr1h8vqh_8Ue32Gxv7bw27KNf50g.B7ZL4pgXwVz70U9a2cNMbQxQhBx9r5VarfvMvEsIoXog.JPEG/%EC%A0%80%EB%85%81-%ED%95%B8%EB%93%9C%ED%8F%B0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
