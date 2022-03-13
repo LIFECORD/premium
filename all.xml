@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 15:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 16:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -362,7 +362,7 @@
             <link>https://www.longblack.co/note/228</link>
             <guid>https://www.longblack.co/note/228</guid>
             <pubDate>Sun, 13 Mar 2022 15:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L5일만에 2만병. 원소주WON SOJU의 팝업 스<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;5일만에 2만병. 원소주WON SOJU<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[까탈로그, 유튜브 이어 패션브랜드 뛰어든 '디에디트' (폴인)]]></title>
