@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 23:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 00:53:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘힙한 브랜드’라고 소문 나는 법! Z세대가 칭찬한 콜라보 레퍼런스 3]]></title>
+            <link>https://www.careet.net/666</link>
+            <guid>https://www.careet.net/666</guid>
+            <pubDate>Mon, 14 Mar 2022 00:51:39 GMT</pubDate>
+            <content:encoded><![CDATA[이 정도는 해야 신박하다는 칭찬을 받죠!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/c321c1ce-dd24-4510-879b-9c6374f62e62_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[멤버십 회원 전용] 트렌드 레터보다 한 주 일찍 보는 Z세대 유행템]]></title>
             <link>https://www.careet.net/672</link>
