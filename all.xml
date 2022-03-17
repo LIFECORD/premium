@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 08:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 09:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[픽사 스토리텔링: 고객의 마음을 사로잡는 스토리 법칙 (퍼블리)]]></title>
+            <link>https://publy.co/content/6729?fr=category</link>
+            <guid>https://publy.co/content/6729?fr=category</guid>
+            <pubDate>Thu, 17 Mar 2022 09:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[공간 속 숨은 영감을 찾는 기획자의 기록법 (퍼블리)]]></title>
             <link>https://publy.co/content/6679?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6719?fr=category</guid>
             <pubDate>Mon, 07 Mar 2022 09:13:33 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[작은 조직의 그로스는 어떻게? 데이터와 실험으로 성장하는 서비스 만들기 (퍼블리)]]></title>
-            <link>https://publy.co/content/6722?fr=category</link>
-            <guid>https://publy.co/content/6722?fr=category</guid>
-            <pubDate>Mon, 07 Mar 2022 09:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 15분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Z세대가 직접 알려주는 샘플 키트 좋은 예 vs. 나쁜 예 (캐릿)]]></title>
@@ -683,6 +683,90 @@
             <pubDate>Sun, 27 Feb 2022 15:46:29 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[장애인의 직업은 왜 단순·반복 노동에 한정되어 왔나. 핸디캡을 넘어 좋아하는 일에 도전하는 일곱 명이 모였다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49573</link>
+            <guid>https://www.bookjournalism.com/books/49573</guid>
+            <pubDate>Thu, 17 Mar 2022 09:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[비욘드 핸디캡]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MZ세대는 역사상 가장 가난한 세대다. 무엇이 이들을 부채로 내몰았나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49671</link>
+            <guid>https://www.bookjournalism.com/books/49671</guid>
+            <pubDate>Thu, 17 Mar 2022 09:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[빚쟁이가 되어버린 MZ를 아시오?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[16년 만에 돌아온 포켓몬빵이 빵터졌다. 띠부씰의 혁신은 무엇인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49624</link>
+            <guid>https://www.bookjournalism.com/books/49624</guid>
+            <pubDate>Thu, 17 Mar 2022 09:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[너로 정했다! 제빵왕 피카츄]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[춘식이가 핑크제국을 노린다. 카카오는 어떻게 SM인수전에서 앞섰나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49548</link>
+            <guid>https://www.bookjournalism.com/books/49548</guid>
+            <pubDate>Thu, 17 Mar 2022 09:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[카카오와 SM의 라춘댄스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 여덟 번째 - 바야흐로 한국 자본주의에는 건강한 시장이 필요합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49520</link>
+            <guid>https://www.bookjournalism.com/books/49520</guid>
+            <pubDate>Thu, 17 Mar 2022 09:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[건강한 시장]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[도심에서 백화점이 사라지고 있다. 그 자리를 무엇으로 메꿔야 할까? 도시가 고민할 차례다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49492</link>
+            <guid>https://www.bookjournalism.com/books/49492</guid>
+            <pubDate>Thu, 17 Mar 2022 09:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[백화점 멸종의 시대]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #27에선, 드디어 막을 내린 20대 대선에 대해 이야기 나눠봅니다. 사상 초유의 박빙 승부로 탄생한 윤석열 정부의 미래는 어떤 모습일까요? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/49508</link>
+            <guid>https://www.bookjournalism.com/audio/49508</guid>
+            <pubDate>Thu, 17 Mar 2022 09:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[광화문 앞길은 꽃길인가 가시밭길인가]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MZ 세대는 왜 새로운 스포츠에 주목할까? 스포츠는 어디까지 확장할까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49483</link>
+            <guid>https://www.bookjournalism.com/books/49483</guid>
+            <pubDate>Thu, 17 Mar 2022 09:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[MZ의 스포츠는 콘텐츠다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 국민의힘 대선후보가 대한민국 20대 대통령에 당선됐다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49441</link>
+            <guid>https://www.bookjournalism.com/books/49441</guid>
+            <pubDate>Thu, 17 Mar 2022 09:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[20대 대통령 윤석열 당선]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[러시아는 언론 통제를 강화하고 글로벌 기업들은 러시아를 보이콧 한다. 푸틴은 여론을 잠재울 수 있을 것인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49423</link>
+            <guid>https://www.bookjournalism.com/books/49423</guid>
+            <pubDate>Thu, 17 Mar 2022 09:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[센서드 러시아]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 일곱 번째 - 대선 이후 4420만명의 대한민국 유권자 모두가 이겼다고 느낄 수 있기를. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49399</link>
+            <guid>https://www.bookjournalism.com/books/49399</guid>
+            <pubDate>Thu, 17 Mar 2022 09:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[대선 너머]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #26에선, 푸틴의 증오와 우크라이나의 운명, 대선의 막판 변수 단일화 효과,〈소년심판〉이 제기하는 촉법소년 문제에 대해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/49380</link>
+            <guid>https://www.bookjournalism.com/audio/49380</guid>
+            <pubDate>Thu, 17 Mar 2022 09:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[악마 푸틴과 단일화 뒤 악마의 유혹 그리고 소년악마]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[👁저 거친 러시아와, 불안한 서방과, 그걸 지켜보는 중국(feat.세계패권전쟁) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
