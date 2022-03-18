@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 08:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 09:47:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사용자를 끌어당기는 UX 속 심리학 법칙 (퍼블리)]]></title>
+            <link>https://publy.co/content/6708?fr=category</link>
+            <guid>https://publy.co/content/6708?fr=category</guid>
+            <pubDate>Fri, 18 Mar 2022 09:45:43 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[픽사 스토리텔링: 고객의 마음을 사로잡는 스토리 법칙 (퍼블리)]]></title>
             <link>https://publy.co/content/6729?fr=category</link>
@@ -71,13 +78,6 @@
             <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한번에 통과되는 기획서는 '논리'가 있다 (퍼블리)]]></title>
-            <link>https://publy.co/content/6719?fr=category</link>
-            <guid>https://publy.co/content/6719?fr=category</guid>
-            <pubDate>Mon, 07 Mar 2022 09:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[라떼는 모르는 Z세대 사진 꿀팁! 전신 사진을 위에서 찍는다고? (캐릿)]]></title>
             <link>https://www.careet.net/680</link>
             <guid>https://www.careet.net/680</guid>
@@ -94,7 +94,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/8f369e70-723c-4f42-857f-7d5b28d5d38a_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[등산, 골프에 이어 이젠 테니스까지 배우는 Z세대 근황 (캐릿)]]></title>
+            <title><![CDATA[등산, 골프에 이어 테니스까지 배우는 Z세대 근황 (캐릿)]]></title>
             <link>https://www.careet.net/676</link>
             <guid>https://www.careet.net/676</guid>
             <pubDate>Fri, 18 Mar 2022 01:23:47 GMT</pubDate>
