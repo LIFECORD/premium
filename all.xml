@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 09:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 10:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사용성 테스트, 지금 당장 해야 하는 이유와 방법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6694?fr=category</link>
+            <guid>https://publy.co/content/6694?fr=category</guid>
+            <pubDate>Thu, 24 Mar 2022 10:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[입문자를 위한 프로그래밍 학습의 핵심 요소 (퍼블리)]]></title>
             <link>https://publy.co/content/6720?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6737?fr=category</guid>
             <pubDate>Mon, 14 Mar 2022 08:15:23 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팝업스토어 운영기: 이태원 좁은 골목에 4만 명을 불러모으다 (퍼블리)]]></title>
-            <link>https://publy.co/content/6728?fr=category</link>
-            <guid>https://publy.co/content/6728?fr=category</guid>
-            <pubDate>Mon, 14 Mar 2022 08:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[데이터] MZ세대 46%는 기프티콘으로 OOO을 받고 싶어 한다! (캐릿)]]></title>
