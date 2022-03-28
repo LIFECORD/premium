@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 21:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 22:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -509,6 +509,22 @@
             <content:encoded><![CDATA[한 분야의 최고인 사람들! 전 요즘 그런 사람들에게 관심이 많아요. 한 마디로 레전드들이요! 각계 각층의 레전드를 공부하다 보면, 꼭 내 분야가 아니더라도 배울 점이 있더라고요.<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[현대차 스마트오피스에 '파란색'이 없는 이유 (폴인)]]></title>
+            <link>https://www.folin.co/story/2137</link>
+            <guid>https://www.folin.co/story/2137</guid>
+            <pubDate>Mon, 28 Mar 2022 22:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[<li>공간</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NEW·워너브라더스 거쳐 콘텐츠업계 10년, 변승민대표 (폴인)]]></title>
+            <link>https://www.folin.co/story/2128</link>
+            <guid>https://www.folin.co/story/2128</guid>
+            <pubDate>Mon, 28 Mar 2022 22:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>커리어</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[현대차 'H-워크 스테이션' 기획 비하인드 (폴인)]]></title>
             <link>https://www.folin.co/story/2136</link>
             <guid>https://www.folin.co/story/2136</guid>
@@ -779,22 +795,6 @@
             <pubDate>Mon, 28 Feb 2022 22:12:51 GMT</pubDate>
             <content:encoded><![CDATA[<li>공간</li>
                                 <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[커리어 패스 바꾼 신세계I&C팀장들이 일하는 법 (폴인)]]></title>
-            <link>https://www.folin.co/story/2081</link>
-            <guid>https://www.folin.co/story/2081</guid>
-            <pubDate>Sun, 27 Feb 2022 22:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>테크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[창업 후 해마다 매출 3배 성장한 메타버스 테크기업 (폴인)]]></title>
-            <link>https://www.folin.co/story/2065</link>
-            <guid>https://www.folin.co/story/2065</guid>
-            <pubDate>Sun, 27 Feb 2022 22:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>테크</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[항공우주청 설립이 가시화 됐다. K-NASA의 탄생일까? (북저널리즘)]]></title>
