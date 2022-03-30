@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 07:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 08:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차박과 호텔의 만남,  ‘오토캠프’의 브랜드 스토리 (퍼블리)]]></title>
+            <link>https://publy.co/content/6753?fr=category</link>
+            <guid>https://publy.co/content/6753?fr=category</guid>
+            <pubDate>Wed, 30 Mar 2022 08:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[개발 시간 줄여주는 노하우: 주석 쓰기 편 (퍼블리)]]></title>
             <link>https://publy.co/content/6754?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6741?fr=category</guid>
             <pubDate>Mon, 21 Mar 2022 09:13:04 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[UX 디자인 속 심리학 법칙 2편: 사용자 행동 이해하기 (퍼블리)]]></title>
-            <link>https://publy.co/content/6708?fr=category</link>
-            <guid>https://publy.co/content/6708?fr=category</guid>
-            <pubDate>Fri, 18 Mar 2022 09:45:43 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[거래 경험 TOP2는 카카오뱅크, 토스? MZ세대의 주거래 은행은 따로 있다! (캐릿)]]></title>
