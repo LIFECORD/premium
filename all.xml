@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 21:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 22:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -533,6 +533,14 @@
             <content:encoded><![CDATA[청담동에 그로서리 스토어 다녀왔어. 뭐 샀냐고? 폰케이스랑 볼펜이랑 수세미. 이렇게 얘기하니까 어디 다녀왔는지 알겠지? 맞아, 2월에 오픈한 ‘시몬스 그로서리 스토어 청담’.<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[콘텐츠 전문가 노가영 "다음은 K예능의 시대 올 것" (폴인)]]></title>
+            <link>https://www.folin.co/story/2140</link>
+            <guid>https://www.folin.co/story/2140</guid>
+            <pubDate>Thu, 31 Mar 2022 22:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>커리어</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[MZ가 사랑한 공룡, 조구만 스튜디오의 기획 비하인드 (폴인)]]></title>
             <link>https://www.folin.co/story/2142</link>
             <guid>https://www.folin.co/story/2142</guid>
@@ -811,14 +819,6 @@
             <pubDate>Wed, 02 Mar 2022 22:13:26 GMT</pubDate>
             <content:encoded><![CDATA[<li>라이프스타일</li>
                                 <li>커리어</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[네이버 16년·이직 4번 디자이너의 커리어, 어땠을까 (폴인)]]></title>
-            <link>https://www.folin.co/story/2086</link>
-            <guid>https://www.folin.co/story/2086</guid>
-            <pubDate>Wed, 02 Mar 2022 22:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[대기업들이 너나없이 로봇 산업에 뛰어들고 있다. 미래는 이미 와 있는 걸까? (북저널리즘)]]></title>
