@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 18:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 19:11:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -821,12 +821,88 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[베드제드 플래닛's 브랜드스토리] 01.진정한 나를 찾고 싶었다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220119130643846Lr</link>
-            <guid>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220119130643846Lr</guid>
-            <pubDate>Thu, 31 Mar 2022 15:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[[베드제드 플래닛's 브랜드스토리] ​ 01. &lt;진정한 나를 찾고 싶었다.&gt; ​ 허황한 욕망 속에서, ​ 살다 보니 그렇다. 인생은 언제나 편안할 수만은 없었다. 복잡하고 때론 아프고 혼란스럽기도 한 삶 속에서, 이제는 차분함을 유지하며 행복하게 살아가고 싶은 마음뿐이다. 어질어질 복잡함의 세계에 눈을 떴었던 과거의 시간. 자아를 찾기 위해 고민했던 시간. 나도 모르게 시끄러]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTlfMTcz/MDAxNjQyNTY0MzUzNTA2.ylaDuR8QM_QPh78oaADodJTGrGONsQ85SjO3KWiJCK0g.lkonS5NmmcVQ15NNP72hb9fztE4JLi7477OiXFcvt1Yg.JPEG/1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[대기업들이 너나없이 로봇 산업에 뛰어들고 있다. 미래는 이미 와 있는 걸까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49896</link>
+            <guid>https://www.bookjournalism.com/books/49896</guid>
+            <pubDate>Thu, 31 Mar 2022 19:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[삐빅, 로봇입니다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[대기업이 중고차 시장에 뛰어든다. 오토 금융도 요동친다. MZ의 선택은 어디로 향할까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49889</link>
+            <guid>https://www.bookjournalism.com/books/49889</guid>
+            <pubDate>Thu, 31 Mar 2022 19:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[오토론 대전]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[50조를 들여 소상공인·자영업자를 돕는다고 모든 문제가 해결되는 것은 아니다. 이들에 대한 인식 변화 없이는 우리 경제의 미래가 불투명하다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49865</link>
+            <guid>https://www.bookjournalism.com/books/49865</guid>
+            <pubDate>Thu, 31 Mar 2022 19:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[왜 사장님만 울어야 하나요]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[항공우주청 설립이 가시화했다. K-NASA의 탄생일까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49854</link>
+            <guid>https://www.bookjournalism.com/books/49854</guid>
+            <pubDate>Thu, 31 Mar 2022 19:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[제2의 나사가 될 수 있을까?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #29에선, 오미크론이 꺾이기만을 기다리고 있는 여행업계와 야놀자의 미래, 쿠팡이 닿지 못하는 지역이 상징하는 수도권 과몰입 시대, 윤석열 정부의 시작과 함께 도래 할 대출과잉의 한국, 그리고 빚쟁이가 되어버린 MZ세대의 씁쓸한 미래를 짚어봅니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/49840</link>
+            <guid>https://www.bookjournalism.com/audio/49840</guid>
+            <pubDate>Thu, 31 Mar 2022 19:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[쿠팡이 만든 이상한 나라의 빚쟁이 MZ세대]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이 비극적인 전쟁을 이해하려면 지난 몇 달의 시간은 물론 블라디미르 푸틴의 시간도 거슬러 올라가 볼 필요가 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49800</link>
+            <guid>https://www.bookjournalism.com/books/49800</guid>
+            <pubDate>Thu, 31 Mar 2022 19:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[전쟁을 막을 수는 없었을까?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[올리브영이 역대 최고 실적을 올렸다. 성공 배경에는 오프라인과 온라인을 아우르는 옴니채널 전략이 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49809</link>
+            <guid>https://www.bookjournalism.com/books/49809</guid>
+            <pubDate>Thu, 31 Mar 2022 19:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[이것은 화장품 가게가 아니다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 당선인은 대출 규제를 완화하겠다고 한다. 벌써 시중 은행들은 곳간 문을 열었다. 잔치의 시간인가, 폭탄의 시간인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49778</link>
+            <guid>https://www.bookjournalism.com/books/49778</guid>
+            <pubDate>Thu, 31 Mar 2022 19:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[부채가 부실이 되지 않으려면]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[해외 입국자의 자가 격리 의무가 해제됐다. 숙박 및 여행 업계의 전쟁이 시작됐다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49767</link>
+            <guid>https://www.bookjournalism.com/books/49767</guid>
+            <pubDate>Thu, 31 Mar 2022 19:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[야놀자 스테이트 오브 마인드]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쿠팡 새벽배송 지역이 전국 국토의 11.8퍼센트에 불과하다. 지역의 격차가 서비스의 격차로 드러나고 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49748</link>
+            <guid>https://www.bookjournalism.com/books/49748</guid>
+            <pubDate>Thu, 31 Mar 2022 19:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[쿠세권이 바꾼 세상]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #28에선, SM엔터테인먼트 인수를 위한 막판 협상을 벌이고 있는 카카오의 미래, 16년만에 돌아와 빵 터져버린 포켓몬빵 현상, 변혁의 기로에 선 넷플릭스와 콘텐츠 구독시장에 대해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/49708</link>
+            <guid>https://www.bookjournalism.com/audio/49708</guid>
+            <pubDate>Thu, 31 Mar 2022 19:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[제빵왕 피카츄와 춘식이의 핑크제국 입성]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[넷플릭스가 이용자간 계정 공유를 막는다고 밝혔다. 정체된 콘텐츠 구독 시장은 새로운 과금 모델을 찾을 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/49684</link>
+            <guid>https://www.bookjournalism.com/books/49684</guid>
+            <pubDate>Thu, 31 Mar 2022 19:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[구독의 미래]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빠르게 변화하는 세상. 나와 우리, 지구를 위한 '지속 가능한 삶'으로, 행복의 미래를 모색하는 <베드제드 플래닛> (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -837,12 +913,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTZfMjUx/MDAxNjQyMjY2MjkzOTEy.NlB2SEOeBOQ13nq0J3w7RKEXoF7lCsPlpyAsQvyF2VMg.GbhYqHqzsKvzcrNSjJfjiu2mfmmSHElUr4-QdVvxrlYg.JPEG/vincent-ledvina-t_N2U9wjB8k-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[베드제드 플래닛's 브랜드스토리] 03. 내게 필요한 건, '비움'이었다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220202203954049GL</link>
-            <guid>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220202203954049GL</guid>
+            <title><![CDATA[[베드제드 플래닛's 브랜드스토리] 01.진정한 나를 찾고 싶었다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220119130643846Lr</link>
+            <guid>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220119130643846Lr</guid>
             <pubDate>Thu, 31 Mar 2022 15:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[[베드제드 플래닛's 브랜드스토리] ​ ​ 03. &lt;내게 필요한 건, '비움'이었다.&gt; ​ 음지의 꽃 ​ 칠흑 같던 어두운 밤, 짙고 캄캄했던 밤하늘. 지금 생각해 보면, 5년이란 시간은 너무나 길었다. 금쪽같은 시간은 흘러만 가고, 하루하루 조금씩 나이를 먹어 가는 속절없는 자동 흐름에, 시간의 소중함이 뼈저리게 느껴져 온다. 내가 보통 사람들과 다를 바 없는 아프지 않고 건강했던]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjdfOTYg/MDAxNjQzMjU2OTczMzEy.pjdKoM0ceoRst9_G5x8xOV7cw9g1OEJOBTGgAnDzSVcg.HCkZXl2FwuMQst07ZUN6dyCxUa821Ry0fsZqD87LV30g.JPEG/255.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[[베드제드 플래닛's 브랜드스토리] ​ 01. &lt;진정한 나를 찾고 싶었다.&gt; ​ 허황한 욕망 속에서, ​ 살다 보니 그렇다. 인생은 언제나 편안할 수만은 없었다. 복잡하고 때론 아프고 혼란스럽기도 한 삶 속에서, 이제는 차분함을 유지하며 행복하게 살아가고 싶은 마음뿐이다. 어질어질 복잡함의 세계에 눈을 떴었던 과거의 시간. 자아를 찾기 위해 고민했던 시간. 나도 모르게 시끄러]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMTlfMTcz/MDAxNjQyNTY0MzUzNTA2.ylaDuR8QM_QPh78oaADodJTGrGONsQ85SjO3KWiJCK0g.lkonS5NmmcVQ15NNP72hb9fztE4JLi7477OiXFcvt1Yg.JPEG/1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[베드제드 플래닛's 브랜드스토리] 02. 환청 / 영들과의 만남 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -853,12 +929,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjdfMjAg/MDAxNjQzMjU3MzA5MDE1.a9X0tCSxZB9DCX4rtq1M1-k_9UEUzMfeIqAb6lWwMDcg.cnDV56u-iLDpm873ymc2H4IDfpX4BrGYMF5nxvHbKE0g.JPEG/261.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [구독 첫 달 무료 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Thu, 31 Mar 2022 16:18:11 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[[베드제드 플래닛's 브랜드스토리] 03. 내게 필요한 건, '비움'이었다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220202203954049GL</link>
+            <guid>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220202203954049GL</guid>
+            <pubDate>Thu, 31 Mar 2022 15:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[[베드제드 플래닛's 브랜드스토리] ​ ​ 03. &lt;내게 필요한 건, '비움'이었다.&gt; ​ 음지의 꽃 ​ 칠흑 같던 어두운 밤, 짙고 캄캄했던 밤하늘. 지금 생각해 보면, 5년이란 시간은 너무나 길었다. 금쪽같은 시간은 흘러만 가고, 하루하루 조금씩 나이를 먹어 가는 속절없는 자동 흐름에, 시간의 소중함이 뼈저리게 느껴져 온다. 내가 보통 사람들과 다를 바 없는 아프지 않고 건강했던]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMjdfOTYg/MDAxNjQzMjU2OTczMzEy.pjdKoM0ceoRst9_G5x8xOV7cw9g1OEJOBTGgAnDzSVcg.HCkZXl2FwuMQst07ZUN6dyCxUa821Ry0fsZqD87LV30g.JPEG/255.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[베드제드 플래닛's 브랜드스토리] 04. 조금은 변화하고 싶다. / 마이 유니버스, <BedZED> 세계관을 그리다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -869,12 +945,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTVfMjIg/MDAxNjQ3MzI5MDk1MDg4.6e6ok-GVhJXjZ71D95Dg8UtkTEm1y-DRBIxs3mtpqSIg.1N_DUyeWu-QDgFusmtriRWbbux8V-tlgfmvyzpZ2i_Yg.JPEG/1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[혼자 사업자내기 홈텍스실전편2 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/taxjangsh/taxjangsh99/contents/220317214702307AH</link>
-            <guid>https://contents.premium.naver.com/taxjangsh/taxjangsh99/contents/220317214702307AH</guid>
-            <pubDate>Thu, 31 Mar 2022 15:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[홈텍스 혼자(셀프)사업자 내기 (실전편-2편) 안녕하세요 ~기장하는 형입니다. 지난시간 홈텍스 혼자(셀프)사업자 내기(실전편-1편) 에 대하여 포스팅하였습니다. 혹시!!!~~ 못보신분 있다면 홈텍스 혼자(셀프)사업자 내기(실전편-1편) 을 보시기를 꼭 추천 드립니다. 출처 국세청 홈텍스 지난 시간 *사업명과 각종 인적사항 그리고 업종선택(주업종과 부업종)에 대하여 이야기 하였습]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTdfMTE4/MDAxNjQ3NTIxMTkzMTYy.E9Kh7hsybd99UN085NJo9x6V6MC5ZrVC1CWGDn6ERoMg.5Vq7xPRKh125ykMK1iRQv1_4-KimM9xUNW0BuiSRkVIg.JPEG/pexels-rfstudio-3810792.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [구독 첫 달 무료 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Thu, 31 Mar 2022 16:18:11 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[👩‍💻니혼게이자이신문 "시련투성이 「초보대통령」..혹독한 시련 기다리고 있다" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -885,12 +961,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjNfMTIx/MDAxNjQ3OTk4MzM4Nzg3.JX5Rx_RpkrebxuZbGhe8PeGDLXvoloVKlLcKhwTsQp8g.wEQLDe6EUDc7pCClDefrjU26-zNG0oQ7dj9Lmi8rMFog.JPEG/sdsds.JPG?type=nfs220_220" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[[지속 가능한 삶은, 미니멀 라이프] 01. 나는 단순하게 살기로 했다. / 나에게도 좋고, 지구에게도 좋고, 소소한 생활의 행복. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220324002138564mZ</link>
-            <guid>https://contents.premium.naver.com/bedzedplanet/jujusunshine1987/contents/220324002138564mZ</guid>
-            <pubDate>Thu, 31 Mar 2022 17:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[[베드제드 플래닛 / 지속 가능한 삶은, 미니멀 라이프] 01. ​ 나는 단순하게 살기로 했다.  ​ &lt;나에게도 좋고, 지구에게도 좋고, 소소한 생활의 행복.&gt; ​ 시끄러운 고통의 생활을 접고, 제2의 인생을 시작해나가기 위해, 무엇인가 좋은 것을 채우기 위한 ‘비움’이 나에겐 꼭 필요했다. 무엇인가 복잡하고 혼란스러운 나의 머릿속을 비워내고, 매일매일 홀가분해지고 싶은 욕망이]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjNfNDAg/MDAxNjQ4MDQ0NDI3MTQ4.NlMbu5XAb8Hlx4FyOkmxKAhLGurvM33CCfVfy38SIF8g.p_9GaGL6Yafx5vZmON8WXFa8UxHQhddEJP42rl_xnvMg.JPEG/1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[혼자 사업자내기 홈텍스실전편2 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/taxjangsh/taxjangsh99/contents/220317214702307AH</link>
+            <guid>https://contents.premium.naver.com/taxjangsh/taxjangsh99/contents/220317214702307AH</guid>
+            <pubDate>Thu, 31 Mar 2022 15:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[홈텍스 혼자(셀프)사업자 내기 (실전편-2편) 안녕하세요 ~기장하는 형입니다. 지난시간 홈텍스 혼자(셀프)사업자 내기(실전편-1편) 에 대하여 포스팅하였습니다. 혹시!!!~~ 못보신분 있다면 홈텍스 혼자(셀프)사업자 내기(실전편-1편) 을 보시기를 꼭 추천 드립니다. 출처 국세청 홈텍스 지난 시간 *사업명과 각종 인적사항 그리고 업종선택(주업종과 부업종)에 대하여 이야기 하였습]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMTdfMTE4/MDAxNjQ3NTIxMTkzMTYy.E9Kh7hsybd99UN085NJo9x6V6MC5ZrVC1CWGDn6ERoMg.5Vq7xPRKh125ykMK1iRQv1_4-KimM9xUNW0BuiSRkVIg.JPEG/pexels-rfstudio-3810792.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전국택배노조는 왜 파업 종료 후에도 ‘강원도’서 농성 중일까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/byline/commercebn/contents/220325092811453ER</link>
+            <guid>https://contents.premium.naver.com/byline/commercebn/contents/220325092811453ER</guid>
+            <pubDate>Thu, 31 Mar 2022 19:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2일 민주노총 전국택배노동조합(택배노조)의 파업이 장장 65일 만에 끝났다. 택배노조와 CJ대한통운 대리점연합은 ‘표준계약서 부속합의서 개선’을 합의했고, 절차를 거쳐 조합원들의 현장 복귀를 추진했다. 그러다 21일, 택배노조는 돌연 CJ대한통운 춘천 터미널과 강릉 터미널 두 곳을 대상으로 농성에 돌입한다. 어떤 이유에서일까. 왜 택배노조와 택배사 간의 갈등은]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjVfMTQ1/MDAxNjQ4MTY4MDA4ODA0.-S3rAHkGpsBgbwkIJi4mR9XZN74oCt7xIYJFAHxkh4Yg.fBP-m4yKHJlwR_fuTj_9E5xXzUtNEI3F3eIVaxSET5gg.JPEG/%EA%B0%95%EC%9B%90%EB%A9%94%EC%9D%B8.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
