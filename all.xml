@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 21:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 22:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -397,6 +397,14 @@
             <content:encoded><![CDATA[새싹이 돋아난 나무를 보고 봄이 온 걸 알았습니다. 문득 그런 생각이 들더군요. 지구의 주인은 어쩌면 인간이 아니라 나무인지도 모르겠다고. 100년도 채 살지 못하는 인간이 수백 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[1인 경영자의 시간 관리법 (폴인)]]></title>
+            <link>https://www.folin.co/story/2151</link>
+            <guid>https://www.folin.co/story/2151</guid>
+            <pubDate>Thu, 07 Apr 2022 22:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[창작자 vs. 경영자, 조구만 스튜디오가 일하는 방식 (폴인)]]></title>
             <link>https://www.folin.co/story/2148</link>
             <guid>https://www.folin.co/story/2148</guid>
@@ -673,14 +681,6 @@
             <link>https://www.folin.co/story/2104</link>
             <guid>https://www.folin.co/story/2104</guid>
             <pubDate>Wed, 09 Mar 2022 22:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[디자이너에서 그로스 해커를 거쳐 CMO까지, 원동력은? (폴인)]]></title>
-            <link>https://www.folin.co/story/2092</link>
-            <guid>https://www.folin.co/story/2092</guid>
-            <pubDate>Tue, 08 Mar 2022 22:14:48 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content:encoded>
         </item>
