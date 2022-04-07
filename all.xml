@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 04:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 05:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -769,6 +769,14 @@
             <content:encoded><![CDATA[전쟁을 막을 수는 없었을까?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [구독 첫 달 무료 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Thu, 07 Apr 2022 05:13:08 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[중국판 로미오와 줄리엣? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/i21/21/contents/220325130927665Uo</link>
             <guid>https://contents.premium.naver.com/i21/21/contents/220325130927665Uo</guid>
@@ -831,14 +839,6 @@
             <pubDate>Wed, 06 Apr 2022 15:13:52 GMT</pubDate>
             <content:encoded><![CDATA[굿모닝러너 챌린지 [35일차] 굿모닝러너님, 오늘하루, "되고 싶은 나의 모습"을 생각해보세요. 생각의 방향은 어느 새 바라던 꿈을 이루게 해줄거에요 :) 굿모닝러너_챌린지_35일차 #20220331 #AM06:00 당신이나 내가 해결해야 할 가장 큰 문제, 사실 거의 유일한 문제는  "올바른 생각" 을 선택하는 것이라고 자신 있게 말할 수 있다. 로마제국을 통치했던 위대한 철학자  마르쿠스아울렐]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzFfNjQg/MDAxNjQ4NjcyODAyNDY4.JqN_CNmvo_Eez_NwVNoF8M29kpv5BaUmPvELAvVUVFAg.NecoYjdrSmzmnmf0gkwjHgYAyafoDHmXvbhMe9CmKX0g.JPEG/KakaoTalk_20220331_053644821.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채소가 싫은 어린이를 위한 과학적 변명 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/scienceboy/sboy/contents/220331175642982rN</link>
-            <guid>https://contents.premium.naver.com/scienceboy/sboy/contents/220331175642982rN</guid>
-            <pubDate>Thu, 07 Apr 2022 02:26:39 GMT</pubDate>
-            <content:encoded><![CDATA[어른이 되면 없어서 못 먹는 채소지만, 어렸을 때를 돌아보면 한번쯤은 채소를 골라내고 먹은 기억이 한 번쯤은 있으실 겁니다. 그만큼 어릴 때부터 채소를 좋아하는 경우는 매우 드문데요. 어린아이들이 채소를 싫어하는 근본적인 이유에 대해 과학적인 답을 찾아보겠습니다. 많은 사람이 어릴 때 채소를 싫어하는 걸 보면 ‘어렸을 때 채소를 싫어하는 행동’이 ‘생존에 어떤]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzFfMjg3/MDAxNjQ4NzE2Nzk5MjUz.6fL6tzSYqgLMoJKc9zPoQDoopJHA8Wk9Tr5m7MNB8Z4g.G741fM7pw4Wextm0MxNPXLCQrEGZRt2Sf8iV43ymA_Ug.JPEG/GettyImages-1370712154.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
