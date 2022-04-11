@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 07:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 08:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어느 날 팀원이 퇴사하겠다고 말했다 (feat. 팀장의 대처법) (퍼블리)]]></title>
+            <link>https://publy.co/content/6751?fr=category</link>
+            <guid>https://publy.co/content/6751?fr=category</guid>
+            <pubDate>Mon, 11 Apr 2022 08:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 15분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[달라도 너무 달라! 케바케 팀원에 따른 팀장의 평가 피드백 방법은? (퍼블리)]]></title>
             <link>https://publy.co/content/6743?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6754?fr=category</guid>
             <pubDate>Tue, 29 Mar 2022 08:18:45 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 6분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[임팩트를 만드는 UX리서치 노하우 (퍼블리)]]></title>
-            <link>https://publy.co/content/6745?fr=category</link>
-            <guid>https://publy.co/content/6745?fr=category</guid>
-            <pubDate>Tue, 29 Mar 2022 08:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 16분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[참여 허들 높은데도 1만 명 참여한 이벤트가 있다? Z세대가 칭찬한 브랜드 3 (캐릿)]]></title>
@@ -801,14 +801,6 @@
             <content:encoded><![CDATA[왜 사장님만 울어야 하나요]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Q. 신·구축 관계없이 25평 전후 4억~5억 원대 아파트를 찾아주세요 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/booding/home/contents/220328011009019em</link>
-            <guid>https://contents.premium.naver.com/booding/home/contents/220328011009019em</guid>
-            <pubDate>Sun, 10 Apr 2022 15:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[Q. 신·구축 관계없이 25평 전후 4억~5억 원대 아파트를 찾아주세요  1. 가족구성원: 38세 남편, 33세 아내(맞벌이 신혼부부)  2. 현 거주지: 서울시 중구 신당동 소재 빌라(전세 2억5000만 원)  3. 순자본 / 대출: 1억4000만 원(현금 9000만 원+전세금 여분 5000만 원) / 서울시 신혼부부 전세대출 2억 원  4. 월수입: 720만 원  5. 허용 가능한 월 원리금 상환액: 400만 원  6. 현 주택 소유 여부: 무주]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTA1MjlfMjIx/MDAxNjIyMjc2MzA3ODQy.yvnHGeqkq-RhTNHFJ5RdMBsq7rebRZp93kLUQQqR2PAg.bACHFGcyTNFKTgT4jpfHu6wK5KxoIFM-yVKWIFKCh5og.JPEG/KakaoTalk_20210529_170740114.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
             <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
@@ -871,6 +863,13 @@
             <pubDate>Mon, 11 Apr 2022 00:56:43 GMT</pubDate>
             <content:encoded><![CDATA[투자업계에서 국내 최대 큰손은 단연 국민연금입니다. 국민연금이 올해 출자사업의 닻을 올리면서 사모투자펀드(PEF) 운용사들의 움직임도 분주해졌습니다. 올해 정기 출자사업에 참여하는 운용사들의 경쟁은 한층 치열해질 전망입니다. 출자 규모가 줄어들면서 위탁운용사 단 3곳만 출자를 받을 수 있기 때문입니다. 2020년과 2021년 각각 5곳, 4곳을 선정한 데 이어 올해 그 수가]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDFfMTEz/MDAxNjQ4NzkzMTcyNjc3.KLAHg5ReCiYvU8fIXB3Ek5_Kta-6SDyOZ-ldWuAB7-Ig.u8XcE8AxRjbUTy_5rVWliKcUc8kfl5USB7GIEyrFO3Yg.JPEG/%EA%B5%AD%EB%AF%BC%EC%97%B0%EA%B8%88_02.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1994년의 어떤 순간 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/rabbitgumi/rabbitgumi2/contents/220330170101220Xa</link>
+            <guid>https://contents.premium.naver.com/rabbitgumi/rabbitgumi2/contents/220330170101220Xa</guid>
+            <pubDate>Mon, 11 Apr 2022 08:16:49 GMT</pubDate>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzBfMTI1/MDAxNjQ4NjI2NzQ2NTcy.XrI6UWfrOPKZEDbkAeqF9EhMerCU5FYd2WeKYcx9xbIg.JUidGTR9Z4VZSB14q99QYBWYlH-Z2V01ZRdCnnFTyHcg.JPEG/aaaaa.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
