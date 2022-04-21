@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 23:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 01:04:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -492,13 +492,6 @@
             <pubDate>Wed, 02 Mar 2022 03:14:23 GMT</pubDate>
             <content:encoded><![CDATA[센스 있는 채널은 한 끗이 다름! 유튜브 채널 200% 활용법]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/88199642-5f4d-4ba8-9730-69ccc5b5dfb2_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[바마셀 : 1세대 스타 바리스타, 6평 에스프레소 바에서 혼자 일하는 이유 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/269</link>
-            <guid>https://www.longblack.co/note/269</guid>
-            <pubDate>Wed, 20 Apr 2022 15:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[에스프레소, 사실 좀 어렵잖아요. 그래서 우리는 물을 탄 아메리카노, 우유를 탄 라떼를 마시곤 했죠. 그런데 언제부터인가 에스프레소espresso* 인기가 뜨거워졌어요. 깜찍한 사<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[12년차 데이터 사이언티스트의 3개국 커리어 패스 (폴인)]]></title>
