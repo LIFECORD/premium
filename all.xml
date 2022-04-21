@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 07:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 08:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제는 피할 수 없다: 전면 교체되는 GA4 포인트 핵심정리 (퍼블리)]]></title>
+            <link>https://publy.co/content/6778?fr=category</link>
+            <guid>https://publy.co/content/6778?fr=category</guid>
+            <pubDate>Thu, 21 Apr 2022 08:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 마케터가 꼭 알아야 할 NFT 사용법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6781?fr=category</link>
+            <guid>https://publy.co/content/6781?fr=category</guid>
+            <pubDate>Thu, 21 Apr 2022 08:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 17분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[90년대생도 팀장이 된다 : <문명특급> 밍키 PD가 말하는 요즘 리더십 (퍼블리)]]></title>
             <link>https://publy.co/content/6765?fr=category</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/6751?fr=category</guid>
             <pubDate>Mon, 11 Apr 2022 08:16:03 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 15분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[달라도 너무 달라! 케바케 팀원에 따른 팀장의 평가 피드백 방법은? (퍼블리)]]></title>
-            <link>https://publy.co/content/6743?fr=category</link>
-            <guid>https://publy.co/content/6743?fr=category</guid>
-            <pubDate>Fri, 08 Apr 2022 08:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마켓컬리 PM은 고객경험을 위해 어떤 고민을 할까? (퍼블리)]]></title>
-            <link>https://publy.co/content/6709?fr=category</link>
-            <guid>https://publy.co/content/6709?fr=category</guid>
-            <pubDate>Thu, 07 Apr 2022 09:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[버추얼 아이돌 ‘이세돌’ 모르면, 메타버스 트렌드 반만 아는 것입니다 (캐릿)]]></title>
