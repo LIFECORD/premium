@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 04:39:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 05:34:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6709?fr=category</guid>
             <pubDate>Thu, 07 Apr 2022 09:13:09 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[버추얼 아이돌 ‘이세돌’ 모르면, 메타버스 트렌드 반만 아는 것입니다 (캐릿)]]></title>
+            <link>https://www.careet.net/722</link>
+            <guid>https://www.careet.net/722</guid>
+            <pubDate>Thu, 21 Apr 2022 05:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[이제 버추얼 아이돌까지 생겼다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/73443ffb-6c41-4769-9c26-2ac74b540e0d_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[포켓몬빵, 넷플릭스 팝업, 아이돌 포토 카드! 성공한 마케팅의 공통점 = 랜덤 뽑기? (캐릿)]]></title>
