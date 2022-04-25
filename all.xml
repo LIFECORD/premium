@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 22:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 23:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -541,6 +541,14 @@
             <content:encoded><![CDATA[하이브로우, 요즘 여기서 만든 밀크 박스가 자주 보입니다. 이태원 카페의 야외 테라스, 음악 페스티벌, 심지어 오늘의집 자취방 인테리어에도 등장하죠. 캠핑용 의자에서 휴대용 책장까<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[참이슬 백팩 기획한 15년 차 하이트진로 브랜드 매니저 (폴인)]]></title>
+            <link>https://www.folin.co/story/2147</link>
+            <guid>https://www.folin.co/story/2147</guid>
+            <pubDate>Mon, 25 Apr 2022 23:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[<li>비즈니스</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['환승연애', '술도녀'... 티빙의 콘텐츠 기획 비결 (폴인)]]></title>
             <link>https://www.folin.co/story/2166</link>
             <guid>https://www.folin.co/story/2166</guid>
@@ -817,14 +825,6 @@
             <link>https://www.folin.co/story/2125</link>
             <guid>https://www.folin.co/story/2125</guid>
             <pubDate>Mon, 21 Mar 2022 22:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[<li>공간</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['협업=회의실' 공식 깬 GS, '킫'을 만들다 (폴인)]]></title>
-            <link>https://www.folin.co/story/2121</link>
-            <guid>https://www.folin.co/story/2121</guid>
-            <pubDate>Mon, 21 Mar 2022 07:14:47 GMT</pubDate>
             <content:encoded><![CDATA[<li>공간</li>
                                 <li>워크</li>]]></content:encoded>
         </item>
