@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 16:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 17:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -829,6 +829,13 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[프랑스 국민은 다시 한 번 마크롱을 지지했다. 그러나 싸움은 지금부터 시작이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50540</link>
+            <guid>https://www.bookjournalism.com/books/50540</guid>
+            <pubDate>Mon, 25 Apr 2022 17:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[톨레랑스는 죽었다]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[4월 넷째 주 - 맛있게 먹기 참 좋은 시대입니다. 그런데 왜 입맛은 쓸까요? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/50511</link>
             <guid>https://www.bookjournalism.com/books/50511</guid>
@@ -904,13 +911,6 @@
             <guid>https://www.bookjournalism.com/books/50114</guid>
             <pubDate>Mon, 25 Apr 2022 16:18:18 GMT</pubDate>
             <content:encoded><![CDATA[규석기 시대의 생존 전략]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[암호 화폐 세계에는 당신이 상상하는 투기꾼들만 있는 것이 아니다. 평범한 사람들이 공평한 기회를 찾아 뛰어들고 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/50086</link>
-            <guid>https://www.bookjournalism.com/books/50086</guid>
-            <pubDate>Mon, 25 Apr 2022 16:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[카지노는 언제나 우리를 유혹한다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[베드제드 플래닛's 브랜드스토리] 01.진정한 나를 찾고 싶었다. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
