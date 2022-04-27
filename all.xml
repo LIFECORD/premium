@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 21:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 22:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -565,6 +565,14 @@
             <content:encoded><![CDATA[워크워크WORKWORK. 인력사무소인가, 싶은 이름이지만 워크웨어workwear 브랜드입니다. 요즘<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[건축→씨티뱅크→블록체인, '경험'으로 쌓은 커리어 (폴인)]]></title>
+            <link>https://www.folin.co/story/2168</link>
+            <guid>https://www.folin.co/story/2168</guid>
+            <pubDate>Wed, 27 Apr 2022 22:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[<li>라이프스타일</li>
+                                <li>커리어</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2000억 투자 받은 리멤버의 성장은 무엇이 달랐나 (폴인)]]></title>
             <link>https://www.folin.co/story/2154</link>
             <guid>https://www.folin.co/story/2154</guid>
@@ -843,14 +851,6 @@
             <pubDate>Tue, 22 Mar 2022 22:15:03 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[매출40배, 일회용품 200만개 줄인 트래쉬버스터즈 (폴인)]]></title>
-            <link>https://www.folin.co/story/2115</link>
-            <guid>https://www.folin.co/story/2115</guid>
-            <pubDate>Tue, 22 Mar 2022 22:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>라이프스타일</li>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[윤석열 정부가 토종 OTT를 키우기 위해 시동을 건다. 글로벌 시장에 막 발을 들인 토종 OTT의 미래는 밝을까? (북저널리즘)]]></title>
