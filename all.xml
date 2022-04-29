@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 07:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 08:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모두의 이해를 높이는 원 페이저 작성법 (노션 템플릿 제공) (퍼블리)]]></title>
+            <link>https://publy.co/content/6787?fr=category</link>
+            <guid>https://publy.co/content/6787?fr=category</guid>
+            <pubDate>Fri, 29 Apr 2022 08:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[답장받고 싶은 마케터를 위한 콜드 메일 작성법 (feat. 스티비 이루리) (퍼블리)]]></title>
             <link>https://publy.co/content/6775?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6764?fr=category</guid>
             <pubDate>Tue, 19 Apr 2022 08:16:29 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘원소주’를 만든 ‘원팀’의 워크로그 : 브랜드를 성공으로 이끈 WON동력 (퍼블리)]]></title>
-            <link>https://publy.co/content/6749?fr=category</link>
-            <guid>https://publy.co/content/6749?fr=category</guid>
-            <pubDate>Mon, 18 Apr 2022 08:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[엔데믹 시작? 예약 대기만 2,000명인 팝업스토어 (캐릿)]]></title>
