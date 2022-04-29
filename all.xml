@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 23:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 01:00:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,7 +15,7 @@
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[누적 50만 뷰 <멋있으면 다 언니> 기획자가 생각하는 스페셜리스트 (퍼블리)]]></title>
+            <title><![CDATA[누적 50만 뷰 <멋있으면 다 언니> 기획자가 생각하는 스페셜리스트는? (퍼블리)]]></title>
             <link>https://publy.co/content/6763?fr=category</link>
             <guid>https://publy.co/content/6763?fr=category</guid>
             <pubDate>Wed, 27 Apr 2022 08:16:33 GMT</pubDate>
