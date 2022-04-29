@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 01:00:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 03:07:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,30 @@
             <guid>https://publy.co/content/6749?fr=category</guid>
             <pubDate>Mon, 18 Apr 2022 08:17:17 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[엔데믹 시작? 예약 대기만 2,000명인 팝업스토어 (캐릿)]]></title>
+            <link>https://www.careet.net/735</link>
+            <guid>https://www.careet.net/735</guid>
+            <pubDate>Fri, 29 Apr 2022 03:07:14 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대는 오프라인에서 ‘자랑할 거’ 만드는 중]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/5a8bbf1f-1937-438c-822a-4f0b744fb344_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[포즈에 진심인 Z세대! 갸루브이 따라 하는 진짜 이유 (캐릿)]]></title>
+            <link>https://www.careet.net/732</link>
+            <guid>https://www.careet.net/732</guid>
+            <pubDate>Fri, 29 Apr 2022 03:07:14 GMT</pubDate>
+            <content:encoded><![CDATA[콩순이 포즈도 유행 중이라고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/bd7c67a6-028d-4185-9cc4-3269e023c484_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[캐릿 유튜브] Z세대 최애 캐릭터, ‘잔망 루피 커버 메이크업’ 후기(Feat. 이사배) (캐릿)]]></title>
+            <link>https://www.careet.net/729</link>
+            <guid>https://www.careet.net/729</guid>
+            <pubDate>Fri, 29 Apr 2022 03:07:14 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대 유행 메이크업과 커버 메이크업에 도전!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202204/f6dc92bc-7af9-4062-8741-a325a7adf644_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[혼토이즘? 혼놀로그? 혼자 노는 Z세대 문화, 마케팅에 활용하는 법 (캐릿)]]></title>
@@ -861,12 +885,88 @@
                                 <li>조직문화</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[커머스 사업에 자신감 충만한 네이버 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/byline/commercebn/contents/220422074414504xp</link>
-            <guid>https://contents.premium.naver.com/byline/commercebn/contents/220422074414504xp</guid>
-            <pubDate>Thu, 28 Apr 2022 15:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[네이버가 2021년 1분기 실적을 발표했습니다. 지난 1분기는 코로나19 특수가 마무리되는 시점이었는데요, 그럼에도 네이버의 성장 속도는 나쁘지 않아 보입니다. 네이버의 1분기 매출은 전년 동기 대비 23.1% 성장한 1조8452억원을 기록했습니다. 다만 영업이익은 4.5%밖에 늘어나지 않은 3018억원으로 집계됐습니다. 영업비용이 27.5%나 늘었기 때문입니다. 비용이 크게 늘어난 원인은]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjJfOTYg/MDAxNjUwNTgwOTk2ODQ2.MKI0iARksw_-iUdjtfzm8P9COyy8eJtXoR3ouzpkD2Eg.zHuXMFMWgn_qusDkgA8bfu_Kx6TYbuDWhCkL6Jj-1aAg.JPEG/naver.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+            <title><![CDATA[S의 공포가 현실이 되고 있다. 물가는 치솟는데 월급은 그대로인 시대다. 고통의 크기는 공정하지 않다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50591</link>
+            <guid>https://www.bookjournalism.com/books/50591</guid>
+            <pubDate>Fri, 29 Apr 2022 03:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[잔인한 S의 계절]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 정부가 토종 OTT를 키우기 위해 시동을 건다. 글로벌 시장에 막 발을 들인 토종 OTT의 미래는 밝을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50578</link>
+            <guid>https://www.bookjournalism.com/books/50578</guid>
+            <pubDate>Fri, 29 Apr 2022 03:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[토종 OTT 살리기 프로젝트]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미국과 중국이라는 초강대국들이 서로를 향해 돌진하고 있다. 비극을 막기 위한 방법론이 필요하다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50569</link>
+            <guid>https://www.bookjournalism.com/books/50569</guid>
+            <pubDate>Fri, 29 Apr 2022 03:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[미·중 전쟁을 막아라]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[가습기 살균제 피해자 단체가 시위에 돌입했다. 피해자가 속출했던 사건은 왜 11년째 해결되지 않았나. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50546</link>
+            <guid>https://www.bookjournalism.com/books/50546</guid>
+            <pubDate>Fri, 29 Apr 2022 03:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[해결된 적 없는 미래]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[프랑스 국민은 다시 한 번 마크롱을 지지했다. 그러나 싸움은 지금부터 시작이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50540</link>
+            <guid>https://www.bookjournalism.com/books/50540</guid>
+            <pubDate>Fri, 29 Apr 2022 03:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[톨레랑스는 죽었다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[4월 넷째 주 - 맛있게 먹기 참 좋은 시대입니다. 그런데 왜 입맛은 쓸까요? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50511</link>
+            <guid>https://www.bookjournalism.com/books/50511</guid>
+            <pubDate>Fri, 29 Apr 2022 03:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[맛있는 시대]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #33에선, 팬데믹이 남긴 새로운 진료 경험 비대면 진료, 주류 소비 트렌드를 통해 살펴 본 리오프닝의 키워드, SNS를 부정하는 SNS BeReal의 심상치 않은 인기와 그 함의, 코로나로 인해 자취를 감춘 학생 자치 문화의 미래를 짚어봅니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/50500</link>
+            <guid>https://www.bookjournalism.com/audio/50500</guid>
+            <pubDate>Fri, 29 Apr 2022 03:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[다시 일상이다. 전혀 다른 일상이다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[교육계에도 리오프닝이 찾아왔다. 코로나로 인해 자취를 감춘 학생 자치 문화는 부활할 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50459</link>
+            <guid>https://www.bookjournalism.com/books/50459</guid>
+            <pubDate>Fri, 29 Apr 2022 03:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[소멸된 학생 자치에도 꽃이 필까요?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[안티 소셜 미디어를 표방하는 비리얼의 인기가 심상치 않다. 우리가 알던 소셜 미디어의 판도가 바뀔지도 모른다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50438</link>
+            <guid>https://www.bookjournalism.com/books/50438</guid>
+            <pubDate>Fri, 29 Apr 2022 03:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[소셜 미디어의 조건]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[의류 브랜드 GAP은 시대를 풍미했지만, 몰락의 길을 걷고 있다. 카니예 웨스트와의 콜라보는 부활의 열쇠가 될 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50420</link>
+            <guid>https://www.bookjournalism.com/books/50420</guid>
+            <pubDate>Fri, 29 Apr 2022 03:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[GAP의 몰락]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[일상이다. 주류업계는 리오프닝을 꿈꾸고 전국의 부장님들은 회식을 꿈꾸지만, 지난 2년 동안 주류 소비의 트렌드는 급격히 변화했다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50312</link>
+            <guid>https://www.bookjournalism.com/books/50312</guid>
+            <pubDate>Fri, 29 Apr 2022 03:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[소맥의 시대는 끝났다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코로나19로 임시 허용됐던 비대면 진료의 합법화가 검토 중이다. 팬데믹은 저물었으나, 비대면 진료는 이제 시작이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50255</link>
+            <guid>https://www.bookjournalism.com/books/50255</guid>
+            <pubDate>Fri, 29 Apr 2022 03:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[슬기로운 환자생활]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -877,12 +977,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA["이 안건 반대합니다" 운용사 주총 표행사 뜯어보니 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/thebell/stock/contents/220422063930196AH</link>
-            <guid>https://contents.premium.naver.com/thebell/stock/contents/220422063930196AH</guid>
+            <title><![CDATA[커머스 사업에 자신감 충만한 네이버 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/byline/commercebn/contents/220422074414504xp</link>
+            <guid>https://contents.premium.naver.com/byline/commercebn/contents/220422074414504xp</guid>
             <pubDate>Thu, 28 Apr 2022 15:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[기업들의 정기 주주총회가 마무리되면서 자산운용사들의 의결권 행사 내역들이 속속 공개되고 있습니다. 특히 스튜어드십코드 활동 여부에 관심이 쏠리는데요. 일부 운용사들은 적극적인 주주 의사결정에 참여하는 모습을 보여줬습니다. 라자드코리아자산운용도 그런 곳 가운데 하나입니다. 피투자 기업의 이사회 감시에 집중해 의결권을 행사했습니다. 명확한 근거가 없는]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjFfMjcw/MDAxNjUwNTI1MTgxNTk5.5O6blLYmzPj5lIgyY7gCxV7pqnqiUy36zdzrcy6ngTYg.9e3f44VCStQdCEAEC1GRc08vyotxkqRoinso8iREEYwg.JPEG/%EC%A3%BC%EC%A3%BC%EC%B4%9D%ED%9A%8C.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[네이버가 2021년 1분기 실적을 발표했습니다. 지난 1분기는 코로나19 특수가 마무리되는 시점이었는데요, 그럼에도 네이버의 성장 속도는 나쁘지 않아 보입니다. 네이버의 1분기 매출은 전년 동기 대비 23.1% 성장한 1조8452억원을 기록했습니다. 다만 영업이익은 4.5%밖에 늘어나지 않은 3018억원으로 집계됐습니다. 영업비용이 27.5%나 늘었기 때문입니다. 비용이 크게 늘어난 원인은]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjJfOTYg/MDAxNjUwNTgwOTk2ODQ2.MKI0iARksw_-iUdjtfzm8P9COyy8eJtXoR3ouzpkD2Eg.zHuXMFMWgn_qusDkgA8bfu_Kx6TYbuDWhCkL6Jj-1aAg.JPEG/naver.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[굿모닝러너 챌린지 [51일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -893,12 +993,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjJfOTcg/MDAxNjUwNTcyNzExNTAz.OTee_0LjmDM_CirYsAvBb9KXcDzAZZ5ljhMOwfnTDtQg.WfTa1NecfV3s5Oh2CrtrqgaClEQ4Vsme8hVhYgG7Zwgg.JPEG/KakaoTalk_20220422_052255350.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[커넥트레터] 네이버가 ‘버티컬 커머스’, ‘멤버십’에 꽂힌 이유 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/connectx/us/contents/220422125821235fH</link>
-            <guid>https://contents.premium.naver.com/connectx/us/contents/220422125821235fH</guid>
+            <title><![CDATA["이 안건 반대합니다" 운용사 주총 표행사 뜯어보니 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/thebell/stock/contents/220422063930196AH</link>
+            <guid>https://contents.premium.naver.com/thebell/stock/contents/220422063930196AH</guid>
             <pubDate>Thu, 28 Apr 2022 15:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[[커넥트레터 무료 구독하기] [카카오톡으로 매일 유통물류 소식 받기(무료)] 미디어 업자가 먹고 사는 법 예전부터 많은 사람들에게 왕왕 듣던 질문이 있습니다. 민감한 질문이라 생각될 수 있어 그런지 몰라도 조심스레 이야기를 꺼내곤 하죠. “정말 궁금한데, 거긴 어떻게 먹고 살아요?” 사실 고용보험과 안녕하고 하드코어 인생을 살고 있는 최근에도 한 번 비슷한 질문을 받]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjJfMTE2/MDAxNjUwNTk5ODY5MDgz.YpuWvqI8omj44mI273JjTM7KrCIRP4ZWuTqgfhf3olsg.9G7oQlZ5NvPXkr04QKbfGrJzfi8Mn8B5ToZqrAf-C7Qg.JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%BD%98%ED%85%90%EC%B8%A0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[기업들의 정기 주주총회가 마무리되면서 자산운용사들의 의결권 행사 내역들이 속속 공개되고 있습니다. 특히 스튜어드십코드 활동 여부에 관심이 쏠리는데요. 일부 운용사들은 적극적인 주주 의사결정에 참여하는 모습을 보여줬습니다. 라자드코리아자산운용도 그런 곳 가운데 하나입니다. 피투자 기업의 이사회 감시에 집중해 의결권을 행사했습니다. 명확한 근거가 없는]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjFfMjcw/MDAxNjUwNTI1MTgxNTk5.5O6blLYmzPj5lIgyY7gCxV7pqnqiUy36zdzrcy6ngTYg.9e3f44VCStQdCEAEC1GRc08vyotxkqRoinso8iREEYwg.JPEG/%EC%A3%BC%EC%A3%BC%EC%B4%9D%ED%9A%8C.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아마존 10억 달러 펀딩 조성, 어디에 쓸까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -909,11 +1009,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjJfMTIw/MDAxNjUwNTgzNTgwODE4.zwFdc3d0q-7dOGyQ4zxUoUp-2WFZzIzaHZQNWgULj6Eg.nmuHDDC3meuw2ou5RcacWS4qKLNwAW4Exxoba7rB9e4g.JPEG/christian-wiediger-rymh7EZPqRs-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[붕괴]의 저자 애덤 투즈 단독 인터뷰: "우크라이나 비극의 씨앗은 2008년 금융위기" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/joongang/gmoney/contents/220422115114648Cq</link>
-            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/220422115114648Cq</guid>
-            <pubDate>Thu, 28 Apr 2022 16:21:02 GMT</pubDate>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjJfMjk4/MDAxNjUwNTgzMDY2NTc1.ouGX16JNY2ksnr0UABBQUZkUs81q0B3SieF5NxCKaIog.Osl67JMLGs2QH_axOiWYVs2nm5kX8uPvnXQRIdORAbQg.JPEG/%EC%95%A0%EB%8D%A4_%ED%88%AC%EC%A6%88_%EC%BB%AC%EB%9F%BC%EB%B9%84%EC%95%84%EB%8C%80.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[커넥트레터] 네이버가 ‘버티컬 커머스’, ‘멤버십’에 꽂힌 이유 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/connectx/us/contents/220422125821235fH</link>
+            <guid>https://contents.premium.naver.com/connectx/us/contents/220422125821235fH</guid>
+            <pubDate>Thu, 28 Apr 2022 15:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[[커넥트레터 무료 구독하기] [카카오톡으로 매일 유통물류 소식 받기(무료)] 미디어 업자가 먹고 사는 법 예전부터 많은 사람들에게 왕왕 듣던 질문이 있습니다. 민감한 질문이라 생각될 수 있어 그런지 몰라도 조심스레 이야기를 꺼내곤 하죠. “정말 궁금한데, 거긴 어떻게 먹고 살아요?” 사실 고용보험과 안녕하고 하드코어 인생을 살고 있는 최근에도 한 번 비슷한 질문을 받]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjJfMTE2/MDAxNjUwNTk5ODY5MDgz.YpuWvqI8omj44mI273JjTM7KrCIRP4ZWuTqgfhf3olsg.9G7oQlZ5NvPXkr04QKbfGrJzfi8Mn8B5ToZqrAf-C7Qg.JPEG/%EB%84%A4%EC%9D%B4%EB%B2%84_%EC%BD%98%ED%85%90%EC%B8%A0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다들 '주 기자'였던 적, 있잖아요 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -924,12 +1025,19 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDNfNDMg/MDAxNjQ4OTk3NjIzNDc4.AaUkQXVLS4ZOa-sXbfdQqUBVcZmn_14aVJJV5dvG8Nwg.Nc8H8EGQxpIPxrR_Z5VBpZ4LHyRTQwEQfDSHkgRUHYog.JPEG/54f8b0b5-5abf-4269-980a-d116504ff54a.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이유를 알 수 없는 일을 받아들이는 자세 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/writerinseoul/readingtheworld/contents/220422220538972Mt</link>
-            <guid>https://contents.premium.naver.com/writerinseoul/readingtheworld/contents/220422220538972Mt</guid>
-            <pubDate>Thu, 28 Apr 2022 22:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[어떤 일이 일어나는 데는 인과 관계가 있다고 믿었던 적이 있다. 하지만 비운 밥그릇 수가 쌓이면 인생은 필연이 아니라 우연의 합집합이라고 생각을 고쳐먹게 된다. 뜻대로 착착 흘러가는 일은 드물고, 이유를 알 수 없는 일이 들이닥치곤 한다. 일상을 뒤흔들 정도로 큰일이라면 어떻게 받아들여야 하는지 아무도 모른다.    &lt;환상의 빛&gt;은 유미코가 까닭을 알 수 없는 일을 겪고]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjJfMTI0/MDAxNjUwNjMyNDA1NDU0.b2tfzvovxJRgh7Lb1wKS7r_UIg-bdQUnBwodVLhdJh8g.alnb4pHdngQfs2DpdYYsrkhTEfcI38oVL5bk1NksPgcg.JPEG/MV5BOWJmM2ZjZGMtNzY2Yi00ZjAzLTg3MDgtYTNkNDliMjNmZjc1XkEyXkFqcGdeQXVyNzI1NzMx.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[붕괴]의 저자 애덤 투즈 단독 인터뷰: "우크라이나 비극의 씨앗은 2008년 금융위기" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/joongang/gmoney/contents/220422115114648Cq</link>
+            <guid>https://contents.premium.naver.com/joongang/gmoney/contents/220422115114648Cq</guid>
+            <pubDate>Thu, 28 Apr 2022 16:21:02 GMT</pubDate>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjJfMjk4/MDAxNjUwNTgzMDY2NTc1.ouGX16JNY2ksnr0UABBQUZkUs81q0B3SieF5NxCKaIog.Osl67JMLGs2QH_axOiWYVs2nm5kX8uPvnXQRIdORAbQg.JPEG/%EC%95%A0%EB%8D%A4_%ED%88%AC%EC%A6%88_%EC%BB%AC%EB%9F%BC%EB%B9%84%EC%95%84%EB%8C%80.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[귀찮아 죽겠을 때 이렇게 해보세요 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/hodupen/gzgz/contents/220326222036393SU</link>
+            <guid>https://contents.premium.naver.com/hodupen/gzgz/contents/220326222036393SU</guid>
+            <pubDate>Fri, 29 Apr 2022 03:07:49 GMT</pubDate>
+            <content:encoded><![CDATA[가끔 그럴 때가 있습니다. 정말 선처럼 가만히 누워 아무것도 하고 싶지 않을 때. 이미 아무것도 안하고 있지만, 더욱 격렬하게 아무것도 하고 싶지 않을 때. 공교롭게도 그런 감정이 들 때면 꼭 무언가 과업들이 주어져 있기 마련입니다. 예를 들어 마감날이 닥쳤는데 글이 잘 나오지 않는다든가, 그런 거요.  예. 물론 제 이야기입니다. 벌써(고작) 세 번째 글을 써내려가고 있습]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjVfMTkz/MDAxNjQ4MTM1MjY2NjY0.aKI3rkTBs3UpRkYqdsOzrSUqPsD2XUbiVdjjv2bKnNwg.i0kk-nCBIBAgnyj5SpbAospdirQU8Qw9qRbiLqGb2nYg.PNG/SE-a790cc12-abf1-48a1-b774-13bcb208c959.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
