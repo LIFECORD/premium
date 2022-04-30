@@ -4,9 +4,17 @@
         <title>네이버 프리미엄콘텐츠 ─ 무료 프로모션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 15:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 16:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!]]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Sat, 30 Apr 2022 16:17:48 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[싱글 몰트 위스키의 자존심, 글렌피딕(Glenfiddich)]]></title>
             <link>https://contents.premium.naver.com/whiskystory/projectwhiksy/contents/220419190918353Xx</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 30 Apr 2022 15:15:04 GMT</pubDate>
             <content:encoded><![CDATA[|우주, 점점 가까워지나 봐! 지금까지 우주는 소설이나 영화에서나 보던 미지의 영역이었다. 하지만 지금은 다르다. 지난해에만 ‘블루오리진’, ‘버진갤럭틱’, ‘스페이스X’ 등 세 곳의 민간 기업이 우주여행에 성공했다. 그야말로 본격적인 우주여행 시대가 시작된 것이다. 알고 보면 우주는 생각보다우리 생활 속에 가까이 와 있다. 인터넷, 스마트폰, GPS를 가능하게 만드]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMjFfMjk1/MDAxNjQ3ODQwMTYwNzkz.7Chz0tjKkGtm2gY8f4NzYw76Fv_KBEHAhi1GNVcrL_sg.Nb77PUeGNUhRpZgbAUIUw4Jb7BIrFSEWxX20oDBrE5cg.JPEG/49971436642_cbf70a9f4d_o.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[형광등은 왜 깜빡거리다 켜질까?]]></title>
-            <link>https://contents.premium.naver.com/sciencepick/sciencenow/contents/220318113229240YD</link>
-            <guid>https://contents.premium.naver.com/sciencepick/sciencenow/contents/220318113229240YD</guid>
-            <pubDate>Sat, 30 Apr 2022 15:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[‘으음, 오늘도 내가 1등이군’ 나는 원래 다른 친구들보다 훨씬 빨리 등교하는 편이다. 하지만 요즘은 별로 그러고 싶지 않다. 왜냐하면, 이건 진짜 비밀인데… 아무도 없는 교실의 문을 열고 불을 켜는 순간이 좀 무섭기 때문이다. 해가 점점 늦게 뜨기 시작하면서 교실은 아직도 어두운 채다. 드르륵. 문을 열고 전등 스위치를 켜는 순간, 나는 바로 이 순간이 제일 싫다. 깜빡,]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMThfMjM1/MDAxNjQ3NTY5NjY0NjMw.uasaGSgPRkKAvqLwTxL8N1Cx2lJ2PRDvjAu9cklxQH4g.a1q14n6wfYFQbkfdMGcj5aA8UDbmykC2xiFua9rnhBMg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
