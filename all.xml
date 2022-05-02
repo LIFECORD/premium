@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 23:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 01:03:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6764?fr=category</guid>
             <pubDate>Tue, 19 Apr 2022 08:16:29 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[가정의 달 이벤트 준비 중이시죠? 레퍼런스 모아 왔어요 (캐릿)]]></title>
+            <link>https://www.careet.net/731</link>
+            <guid>https://www.careet.net/731</guid>
+            <pubDate>Mon, 02 May 2022 01:02:55 GMT</pubDate>
+            <content:encoded><![CDATA[어린이날부터 성년의 날까지!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/834515c4-a816-4c88-b78a-b4c4b9e6de7e_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[엔데믹 시작? 예약 대기만 2,000명인 팝업스토어 (캐릿)]]></title>
@@ -332,262 +340,6 @@
             <pubDate>Fri, 01 Apr 2022 01:01:22 GMT</pubDate>
             <content:encoded><![CDATA[마흔다섯 신입부원 용명이의 펜싱 도전기]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/ca1a5d3d-a255-4372-b098-4cf1c228e880_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 기념일마다 칭찬받는 이벤트 장인 <로오히>의 영업 비밀 (캐릿)]]></title>
-            <link>https://www.careet.net/693</link>
-            <guid>https://www.careet.net/693</guid>
-            <pubDate>Thu, 31 Mar 2022 09:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[모바일 게임 &lt;로드 오브 히어로즈&gt;가 ‘겜알못’ Z세대까지 끌어모은 비법 4]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/c1289e3c-eaef-4566-a0cd-13340ab537fb_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[거래 경험 TOP2는 카카오뱅크, 토스? MZ세대의 주거래 은행은 따로 있다! (캐릿)]]></title>
-            <link>https://www.careet.net/694</link>
-            <guid>https://www.careet.net/694</guid>
-            <pubDate>Wed, 30 Mar 2022 05:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 뜨는 마이데이터, MZ세대는 얼마나 이용할까?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/449d38fe-ae2e-434f-9e03-fbe4d77073bd_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 핫플 특징=의자가 없음! 스탠딩바는 왜 트렌드가 됐을까? (캐릿)]]></title>
-            <link>https://www.careet.net/690</link>
-            <guid>https://www.careet.net/690</guid>
-            <pubDate>Wed, 30 Mar 2022 02:33:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022 오프라인 공간 트렌드 예언합니다]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/d2ce93f7-2a3c-4ec6-a9c9-49ab3a2b4fc7_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이거 찾으셨죠? 만우절 마케팅 사례 모음.ZIP (캐릿)]]></title>
-            <link>https://www.careet.net/692</link>
-            <guid>https://www.careet.net/692</guid>
-            <pubDate>Mon, 28 Mar 2022 02:39:16 GMT</pubDate>
-            <content:encoded><![CDATA[만우절 마케팅 레퍼런스 모았습니다!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/fa0d22a1-61a8-43fb-8c2f-119167b6740f_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 대세 AI 면접 어때? Z세대 솔직한 반응 모음.zip (캐릿)]]></title>
-            <link>https://www.careet.net/691</link>
-            <guid>https://www.careet.net/691</guid>
-            <pubDate>Mon, 28 Mar 2022 02:39:16 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 채용 트렌드 AI 면접, 이건 꼭 보완해줬으면 좋겠어요]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/f841c0c7-01b9-4981-907c-90acba479196_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Z세대가 갑자기 전통 악기 소고를 찾는 이유는? 이주의 유행템 4 (캐릿)]]></title>
-            <link>https://www.careet.net/689</link>
-            <guid>https://www.careet.net/689</guid>
-            <pubDate>Fri, 25 Mar 2022 02:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[수세미떡이 무엇인지 모른다면 클릭!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/c747ab66-4166-4cdc-b8eb-9eb499315234_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[캐릿 유튜브] 4000만 틱톡커 본인 등판! 원정맨이 알려주는 틱톡 꿀팁(feat.틱톡 천재 김용명) (캐릿)]]></title>
-            <link>https://www.careet.net/686</link>
-            <guid>https://www.careet.net/686</guid>
-            <pubDate>Fri, 25 Mar 2022 02:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대가 아니어도 틱톡 할 수 있을까? 78년생 용명도 할 수 있다!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/bc86d6f9-5bc2-4995-874b-d707c38f7bbc_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 사진 트렌드: Z세대는 인생네컷을 왜 그렇게 좋아할까? (캐릿)]]></title>
-            <link>https://www.careet.net/684</link>
-            <guid>https://www.careet.net/684</guid>
-            <pubDate>Fri, 25 Mar 2022 02:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[인생네컷에 이어 필름 현상소까지 찾아가는 Z세대 근황]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/b305f4bc-9e0d-4cc7-ac43-78ae440879ab_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[데이터] MZ세대 46%는 기프티콘으로 OOO을 받고 싶어 한다! (캐릿)]]></title>
-            <link>https://www.careet.net/685</link>
-            <guid>https://www.careet.net/685</guid>
-            <pubDate>Thu, 24 Mar 2022 02:24:24 GMT</pubDate>
-            <content:encoded><![CDATA[5조 원 규모로 성장한 모바일 교환권 시장! MZ세대는 어떻게 이용하고 있을까?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/99423f42-e169-434c-b5c5-b061dc2329a0_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신입사원이 ‘선배 최고!’ 외치게 만드는 피드백, 그거 어떻게 하는 건데? (캐릿)]]></title>
-            <link>https://www.careet.net/687</link>
-            <guid>https://www.careet.net/687</guid>
-            <pubDate>Thu, 24 Mar 2022 00:53:41 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대 후배 열정러로 성장시키는 좋은 피드백 노하우]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/fce92ace-004a-4656-b681-b48f57730f7f_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[중국 Z세대 트렌드 모음] 24시간 틱톡 라이브 방송 켜 놓는 게 대세라고? (캐릿)]]></title>
-            <link>https://www.careet.net/681</link>
-            <guid>https://www.careet.net/681</guid>
-            <pubDate>Wed, 23 Mar 2022 02:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 Z세대보다 지출 2배 많은 중국 Z세대는 요즘 뭘 좋아할까?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/a10ecd81-c45f-41fb-bc21-c656d2c77591_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[노션으로 소개팅을 한다고? 갓생사는 Z세대가 연애하는 법 (캐릿)]]></title>
-            <link>https://www.careet.net/675</link>
-            <guid>https://www.careet.net/675</guid>
-            <pubDate>Tue, 22 Mar 2022 02:26:38 GMT</pubDate>
-            <content:encoded><![CDATA[“노션 소개팅에 이력서 올리는 사람은 왠지 불순한 의도가 없을 것 같아요.”]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/3c26491e-8d32-459e-a921-a03c65491db4_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 드라마의 신박한 홍보 방식! 주인공 방을 VR 쇼룸으로 만든다고? (캐릿)]]></title>
-            <link>https://www.careet.net/683</link>
-            <guid>https://www.careet.net/683</guid>
-            <pubDate>Mon, 21 Mar 2022 02:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[MZ세대에게 ‘메타버스 마케팅 맛집’으로 소문나는 법]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/ce5c25cb-6d07-4910-8ddc-35e2c12a01b7_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Z세대에게 ‘10분 전 출근’하라고 하면 꼰대인 걸까? (캐릿)]]></title>
-            <link>https://www.careet.net/682</link>
-            <guid>https://www.careet.net/682</guid>
-            <pubDate>Mon, 21 Mar 2022 02:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[“10분 전 출근은 근로자의 배려이지 의무가 아니예요”]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/a836a761-1420-4123-8fe9-1403f38c50fc_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[라떼는 모르는 Z세대 사진 꿀팁! 전신 사진을 위에서 찍는다고? (캐릿)]]></title>
-            <link>https://www.careet.net/680</link>
-            <guid>https://www.careet.net/680</guid>
-            <pubDate>Fri, 18 Mar 2022 01:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[항공샷=음식 사진이라고 생각하셨나요?]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/13ee49fe-7419-4488-bbb2-078c6031896a_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[캐릿 유튜브] 라이브 방송은 어떻게 하는 거야? 생초보 김용명의 라방 도전기 (캐릿)]]></title>
-            <link>https://www.careet.net/678</link>
-            <guid>https://www.careet.net/678</guid>
-            <pubDate>Fri, 18 Mar 2022 01:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[라이브 방송의 주제는 바로 ‘요즘 학교 신문물 썰 대회’]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/8f369e70-723c-4f42-857f-7d5b28d5d38a_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[등산, 골프에 이어 테니스까지 배우는 Z세대 근황 (캐릿)]]></title>
-            <link>https://www.careet.net/676</link>
-            <guid>https://www.careet.net/676</guid>
-            <pubDate>Fri, 18 Mar 2022 01:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대 힙한 아웃도어 취미, 또 생겼다!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/be0fcf9b-0290-4682-bb96-7783857d0bd3_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Z세대가 직접 알려주는 샘플 키트 좋은 예 vs. 나쁜 예 (캐릿)]]></title>
-            <link>https://www.careet.net/677</link>
-            <guid>https://www.careet.net/677</guid>
-            <pubDate>Thu, 17 Mar 2022 02:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[대학별 입학 키트를 참고해보세요!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/ae362b43-1e47-4a22-b084-e34923226dc1_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[멤버십 회원 전용] 월간 알파세대 트렌드 (캐릿)]]></title>
-            <link>https://www.careet.net/673</link>
-            <guid>https://www.careet.net/673</guid>
-            <pubDate>Wed, 16 Mar 2022 02:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[상상도 못한 초·중학생 문화, 랜덤 채팅 앱으로 MBTI 대화상대 찾고, QR 코드로 캐릭터 키운다!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/830985cf-177b-46ed-98c7-48c5afe956ff_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[힙합 트렌드 놓치면 Z세대도 놓치는 것! 힙합 씬 5분 과외 (캐릿)]]></title>
-            <link>https://www.careet.net/674</link>
-            <guid>https://www.careet.net/674</guid>
-            <pubDate>Tue, 15 Mar 2022 03:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[아직도 에픽하이에 멈춰있나요? 이제는 OO도 알아야 합니다!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/66e58a5d-8e05-488c-b8d6-2762a72ed8d9_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[‘힙한 브랜드’라고 소문 나는 법! Z세대가 칭찬한 콜라보 레퍼런스 3 (캐릿)]]></title>
-            <link>https://www.careet.net/666</link>
-            <guid>https://www.careet.net/666</guid>
-            <pubDate>Mon, 14 Mar 2022 00:51:39 GMT</pubDate>
-            <content:encoded><![CDATA[이 정도는 해야 신박하다는 칭찬을 받죠!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/c321c1ce-dd24-4510-879b-9c6374f62e62_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[멤버십 회원 전용] 트렌드 레터보다 한 주 일찍 보는 Z세대 유행템 (캐릿)]]></title>
-            <link>https://www.careet.net/672</link>
-            <guid>https://www.careet.net/672</guid>
-            <pubDate>Fri, 11 Mar 2022 07:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대가 빠진 웹예능, 비건 뷰티 아이템, 테스트 트렌드 모았음!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/38e230ad-eb58-46ec-9b0e-f397e315d52b_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[캐릿 유튜브] 인터넷에서 본 Z세대 유행어 ‘어쩔티비’ 진짜 쓴다고? (영상 있음) (캐릿)]]></title>
-            <link>https://www.careet.net/670</link>
-            <guid>https://www.careet.net/670</guid>
-            <pubDate>Thu, 10 Mar 2022 14:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[08년생은 친구들이랑 뭐하고 노는지 궁금한 사람 클릭!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/fd01be89-69db-4034-8dea-f9e788821404_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[당장 써 먹는 유행어] 너 혹시… 뭐 돼? (캐릿)]]></title>
-            <link>https://www.careet.net/669</link>
-            <guid>https://www.careet.net/669</guid>
-            <pubDate>Fri, 11 Mar 2022 02:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[잘난 척 하는 친구를 구박하고 싶을 때 쓰는 말!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/35421a81-39d4-42ef-9c48-783a4b54c51c_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Z세대가 세일러 문, 왕가위를 안다고? OTT 역주행 콘텐츠 활용법 (캐릿)]]></title>
-            <link>https://www.careet.net/667</link>
-            <guid>https://www.careet.net/667</guid>
-            <pubDate>Thu, 10 Mar 2022 08:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[밀레니얼도 Z세대와 대화할 수 있는 1990 ~ 2000년대 콘텐츠]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/19668a4d-36bd-4fc1-b7dd-745cb25c14cb_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] MZ가 사랑하는 브랜드, 쿠캣 팀장이 공개하는 영업 비밀! (캐릿)]]></title>
-            <link>https://www.careet.net/664</link>
-            <guid>https://www.careet.net/664</guid>
-            <pubDate>Tue, 08 Mar 2022 05:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[대기업이 550억원에 인수한 ‘쿠캣’의 디테일]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/843dd727-6138-4b0d-a495-a76c1d1c0881_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 여성의 날 이제는 챙기셔야 합니다 feat. 레퍼런스 모음 (캐릿)]]></title>
-            <link>https://www.careet.net/665</link>
-            <guid>https://www.careet.net/665</guid>
-            <pubDate>Mon, 07 Mar 2022 02:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[내년 여성의 날 마케팅은 이렇게 준비해보세요!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/b4c1a7f5-edae-46aa-8b4e-14a1d92fe559_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[캐릿 유튜브] Z세대는 취미로 ‘보컬 트레이닝’배운다고? (영상 있음) (캐릿)]]></title>
-            <link>https://www.careet.net/663</link>
-            <guid>https://www.careet.net/663</guid>
-            <pubDate>Fri, 04 Mar 2022 07:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[‘보컬 트레이닝은 가수 지망생이 받는 거 아냐?’라고 생각한 사람 클릭!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/4ece67eb-23ee-4b25-9d9c-1b908eb4ad13_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지금이 몇 년도야? 포켓몬빵이 유행이고 노키아폰이 돌아왔다고? (캐릿)]]></title>
-            <link>https://www.careet.net/662</link>
-            <guid>https://www.careet.net/662</guid>
-            <pubDate>Fri, 04 Mar 2022 02:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[90년대생 Z세대를 벅차오르게 한 떡상템]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/6d80cdbf-2a06-4c22-9061-9f4ef7f2dfd5_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[이게 왜 유행이야?] 깻잎 논쟁, 유래부터 종결까지! 타임라인 총정리 (캐릿)]]></title>
-            <link>https://www.careet.net/660</link>
-            <guid>https://www.careet.net/660</guid>
-            <pubDate>Fri, 04 Mar 2022 02:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[2019년에 시작된 깻잎 논쟁이 갑자기 Z세대 핫이슈가 된 이유!]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/c360e127-3568-46ad-af9c-346835674710_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈 3일 만에 6억 원 매출? 와인 전문 매장 ‘보틀벙커’ 체험기 (캐릿)]]></title>
-            <link>https://www.careet.net/657</link>
-            <guid>https://www.careet.net/657</guid>
-            <pubDate>Thu, 03 Mar 2022 03:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대가 생각하는 ‘보틀벙커’가 잠실의 새로운 랜드마크가 된 이유]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202203/dca07fbc-0ab7-4496-b285-ff9fdad9d4dc_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Z세대가 유튜브 볼 때 썸네일만큼 중요하게 생각하는 것=OOOO? (캐릿)]]></title>
-            <link>https://www.careet.net/653</link>
-            <guid>https://www.careet.net/653</guid>
-            <pubDate>Wed, 02 Mar 2022 03:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[센스 있는 채널은 한 끗이 다름! 유튜브 채널 200% 활용법]]></content:encoded>
-            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202202/88199642-5f4d-4ba8-9730-69ccc5b5dfb2_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[마르디 메크르디 : 실패를 승리로 바꾸는 단 하나의 방법은 복기다 (롱블랙)]]></title>
@@ -885,14 +637,6 @@
                                 <li>조직문화</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Sun, 01 May 2022 17:16:36 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[굿모닝러너 챌린지 [52일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
             <link>https://contents.premium.naver.com/gmrc/runner/contents/220425055043067ZN</link>
             <guid>https://contents.premium.naver.com/gmrc/runner/contents/220425055043067ZN</guid>
@@ -901,12 +645,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjVfMjYz/MDAxNjUwODMzNDIxMDc5.aZ7jHRv2LhblW3e3DcN40C-qHHcCg09NSMJtA53ck-Ag.vysg0N2Kfq4EwXc9oUY77tN8G0A4AsCIXNDjXjeKeq8g.JPEG/KakaoTalk_20220425_054644691.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[스낵에세이] 후회할지도 모를 일 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/shoostory/sundayessay/contents/220425013144877rv</link>
-            <guid>https://contents.premium.naver.com/shoostory/sundayessay/contents/220425013144877rv</guid>
-            <pubDate>Sun, 01 May 2022 15:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[사람마다 전보다 나이가 든 것 같다고 느끼는 순간은 언제일까. 몰랐던 주름을 발견할 때일까. 눈에 띄게 떨어진 체력을 실감할 때일까. 나 같은 경우, 결정을 내리는 시간이 전보다 오래 걸릴 때인 것 같다. '일단 해보자'라고 마음먹기까지 전보다 두려움은 커지고, 고민의 시간은 길어진다. 그렇게 겁 많은 어른이 되어버린 것만 같은 기분이 들면, 10년 뒤의 내가 이때를 돌아보]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjVfNjkg/MDAxNjUwODE3MTQzODg5.4bJDnhI5Fn3sbqZd_m-Rz53LWipxIFnVeWJi89UkH1cg.FkwGxhG0SP-wwspV8YCIhoFlKn6bVKzunQOgKypYTWgg.JPEG/photo-1585543253202-04d3d9f11961.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Sun, 01 May 2022 17:16:36 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[주요이슈] 머스크 인수전에 주목하는 트위터 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -917,12 +661,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjVfMjAw/MDAxNjUwODQzNDMwNzU1.2CrftFsEJVYfw8dDd9mf41YC9RHvSnnRQliM4eyNuxwg.k4AixBo1PCpxZmojXYOdRGhv6uiAXDTyWXBKA4NzGlwg.PNG/Musk-Twitter-stake.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[금융지주 샀어야…1분기에 조단위 실적 낸 금융지주들, 500억에 1위 갈렸다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/thebell/stock/contents/220422185336196eg</link>
-            <guid>https://contents.premium.naver.com/thebell/stock/contents/220422185336196eg</guid>
+            <title><![CDATA[[스낵에세이] 후회할지도 모를 일 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/shoostory/sundayessay/contents/220425013144877rv</link>
+            <guid>https://contents.premium.naver.com/shoostory/sundayessay/contents/220425013144877rv</guid>
             <pubDate>Sun, 01 May 2022 15:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[올 들어 주식 시장은 횡보장을 보이고 있습니다. 2700선에 갇혀 오르지도 못하고 내리지도 못합니다. 그래도 눈에 띄는 종목은 있겠죠. 단연 금융업종은 횡보장 속에서 두각을 나타내고 있습니다. 우리금융지주가 26% 넘는 주가 상승률을 보였고 하나금융(13%) 신한지주(11%) KB금융(9%)의 상승률을 각각 보였습니다. 이런 주가 상승률엔 이유가 있었습니다. 금융지주들이 1분기에도 역]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjJfMjkg/MDAxNjUwNjIwNzM2MjEx.LIhzKCwr_5pKa4OO78-wENMtdOroD-mrfMg9Y49Yn-sg.R97eZYENeiiD0r9EZBUTvADZJdFFtfqBFqgL75oNau8g.JPEG/KB%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[사람마다 전보다 나이가 든 것 같다고 느끼는 순간은 언제일까. 몰랐던 주름을 발견할 때일까. 눈에 띄게 떨어진 체력을 실감할 때일까. 나 같은 경우, 결정을 내리는 시간이 전보다 오래 걸릴 때인 것 같다. '일단 해보자'라고 마음먹기까지 전보다 두려움은 커지고, 고민의 시간은 길어진다. 그렇게 겁 많은 어른이 되어버린 것만 같은 기분이 들면, 10년 뒤의 내가 이때를 돌아보]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjVfNjkg/MDAxNjUwODE3MTQzODg5.4bJDnhI5Fn3sbqZd_m-Rz53LWipxIFnVeWJi89UkH1cg.FkwGxhG0SP-wwspV8YCIhoFlKn6bVKzunQOgKypYTWgg.JPEG/photo-1585543253202-04d3d9f11961.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[일본 ‘나홀로족’의 연애…정말 연애 약자? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -933,12 +677,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDlfNzgg/MDAxNjQ5NDY3NDU3NDYy.wOgbHA8je31Ix8wTJ6qS_K76e8bwKHyf8_Bp6pHUPvEg.rboSJlBhwcPFlICicQaGvNFVw3At5SqtTTc754bVSxsg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_(16).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[MBK, 롯데카드 인수 3년만에 60% 높여 받겠다는데…희망 몸값 3조 평가 가능할까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/thebell/stock/contents/220422064303646Ed</link>
-            <guid>https://contents.premium.naver.com/thebell/stock/contents/220422064303646Ed</guid>
+            <title><![CDATA[금융지주 샀어야…1분기에 조단위 실적 낸 금융지주들, 500억에 1위 갈렸다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/thebell/stock/contents/220422185336196eg</link>
+            <guid>https://contents.premium.naver.com/thebell/stock/contents/220422185336196eg</guid>
             <pubDate>Sun, 01 May 2022 15:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[몇년간 잠잠했던 금융 산업 M&amp;A 소식이 연이어 들려오고 있습니다. 부실금융기관에 지정된 MG손해보험은 조만간 예금보험공사 중심의 매각 작업이 진행될 겁니다. 산업은행이 주식매매계약 해제를 통보한 KDB생명보험 매각작업도 다시 진행됩니다. 롯데카드 매각 전도 빠르면 연내, 늦어도 내년 초엔 진행될 것으로 보입니다. 벌써부터 원매 후보와 매각가에 대한 다양한 해석이]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjFfMTk4/MDAxNjUwNTI2NjYzODc1.lTPZK1QmdftcdQa5-uQO4ytlbY2xgdhBTZ1sbRdd5V4g.OGHAOkbx9fW1xBcff25q1cy1rFVYcdOd_w_K2g7OQ5kg.PNG/%EB%A1%AF%EB%8D%B0%EC%B9%B4%EB%93%9C.PNG?type=nfs220_220" length="0" type="image/PNG"/>
+            <content:encoded><![CDATA[올 들어 주식 시장은 횡보장을 보이고 있습니다. 2700선에 갇혀 오르지도 못하고 내리지도 못합니다. 그래도 눈에 띄는 종목은 있겠죠. 단연 금융업종은 횡보장 속에서 두각을 나타내고 있습니다. 우리금융지주가 26% 넘는 주가 상승률을 보였고 하나금융(13%) 신한지주(11%) KB금융(9%)의 상승률을 각각 보였습니다. 이런 주가 상승률엔 이유가 있었습니다. 금융지주들이 1분기에도 역]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjJfMjkg/MDAxNjUwNjIwNzM2MjEx.LIhzKCwr_5pKa4OO78-wENMtdOroD-mrfMg9Y49Yn-sg.R97eZYENeiiD0r9EZBUTvADZJdFFtfqBFqgL75oNau8g.JPEG/KB%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[익명성을 악용한 범죄…지울 수 없는 디지털 상처 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -949,12 +693,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDlfMjA0/MDAxNjQ5NDY2OTkyMDg3.HsaZyz1HNb4XLxiKlEn9KBhgljTVKIUNLpbMfkTkiT4g.ot6pO34_atjYvvVhrLpQ8tRDfHP2Z07aQN_IdMjTDCEg.JPEG/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C_(13).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[캐시 우드, 하락장에 또 '베팅' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220425082718406eh</link>
-            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220425082718406eh</guid>
-            <pubDate>Sun, 01 May 2022 22:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[무슨 일이지? 지난주(4월 18일~22일) 미국 자산운용사 아크인베스트의 수장 캐서린 우드가 공격적인 주식 매수 행보를 보였습니다. 넷플릭스 실적 충격과 금리 인상 이슈로 뉴욕증시가 일제히 하락한 가운데 이뤄진 예상밖 행보입니다.  그녀가 운용하는 주요 ETF 중에는 'ARK Innovation ETF'가 있습니다. 지난주 이 펀드가 대거 매수한 종목은 쇼피파이(1만 642주), 줌(32만 9073주), 로블록]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjVfMTQx/MDAxNjUwODQyNzA4MjAw.qVKvraM8nXkJczUDowuPaRA1LxZcZ6WIjhHcZRWzB68g.CFPD_5zpAdzDNNS5y4CYRp_nS6TBmYhytHfh-nOPcvAg.JPEG/20220425_%EB%A1%9C%EC%BF%A0.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[MBK, 롯데카드 인수 3년만에 60% 높여 받겠다는데…희망 몸값 3조 평가 가능할까 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/thebell/stock/contents/220422064303646Ed</link>
+            <guid>https://contents.premium.naver.com/thebell/stock/contents/220422064303646Ed</guid>
+            <pubDate>Sun, 01 May 2022 15:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[몇년간 잠잠했던 금융 산업 M&amp;A 소식이 연이어 들려오고 있습니다. 부실금융기관에 지정된 MG손해보험은 조만간 예금보험공사 중심의 매각 작업이 진행될 겁니다. 산업은행이 주식매매계약 해제를 통보한 KDB생명보험 매각작업도 다시 진행됩니다. 롯데카드 매각 전도 빠르면 연내, 늦어도 내년 초엔 진행될 것으로 보입니다. 벌써부터 원매 후보와 매각가에 대한 다양한 해석이]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjFfMTk4/MDAxNjUwNTI2NjYzODc1.lTPZK1QmdftcdQa5-uQO4ytlbY2xgdhBTZ1sbRdd5V4g.OGHAOkbx9fW1xBcff25q1cy1rFVYcdOd_w_K2g7OQ5kg.PNG/%EB%A1%AF%EB%8D%B0%EC%B9%B4%EB%93%9C.PNG?type=nfs220_220" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[9. 삽살개 짖는 마을 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/leeatelmag/cultureartstory/contents/220216164517065ns</link>
+            <guid>https://contents.premium.naver.com/leeatelmag/cultureartstory/contents/220216164517065ns</guid>
+            <pubDate>Mon, 02 May 2022 01:03:34 GMT</pubDate>
+            <content:encoded><![CDATA[1981년 어린이 문학가 김원석씨 집을 처음 방문했다. 안에 들어서니 자그마한 방에 3m는 족히 되어 보이는 기다란 책상과 책이 빼곡히 꽂힌 책장이 있었다. 짐작했던 바였다. 그리고 그 위에 족자 하나. 거기에 쓰인 글이 내 눈길을 사로잡았다. 紫槿房자근방.   아! 탄성이 절로 새어나왔다. ‘작은 방’이면서 ‘보랏빛 무궁화를 좋아하는 사람 서재’! 내 또래인 그가 이렇게 멋진]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAyMTZfMjAg/MDAxNjQ0OTg5ODkzNjI1.DBg-IXq1nuEZEYOZf7KRlY56HkNcrH6r_SbpCiLP7bcg.xrx7xa5WFBvoVHk_AOgzACIuEgRco0bgfXCXu6gHh8og.JPEG/pr_wh_rec_bnr_mint.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
