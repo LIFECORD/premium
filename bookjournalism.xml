@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-05-04T18:16:43.185Z</updated>
+    <updated>2022-05-04T19:12:22.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://www.bookjournalism.com/books/50690</id>
         <link href="https://www.bookjournalism.com/books/50690"/>
         <updated>2022-05-04T18:16:33.019Z</updated>
-        <content type="html"><![CDATA[DT시대를 잇는 에이블테크]]></content>
+        <content type="html"><![CDATA[초연결 사회의 에이블테크]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[현대의 바다는 인간이 만들어내는 각종 소음이 뒤섞여 해양 생명체들을 위협하고있다. 우리는 이 사태를 해결할 수 있다. 그런데 왜 행동하지 않는가?]]></title>
