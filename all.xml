@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 08:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 09:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -677,6 +677,13 @@
                                 <li>커리어</li>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #35에선, 에듀테크 앱 ‘콴다’가 그리는 평등한 교육의 시대, 장애를 비장애로 바꾸는 에이블테크의 세계, 전 세계가 주목하고 있는 배양육 시장과 대체 단백질의 미래에 대해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/50711</link>
+            <guid>https://www.bookjournalism.com/audio/50711</guid>
+            <pubDate>Fri, 06 May 2022 09:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[기술의 진보는 격차를 좁힐 수 있을까?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[김포국제공항에 시각 장애인용 무인 항공권 발급기가 도입됐다. 편의를 증진하는 에이블테크에선 어떤 미래를 엿볼 수 있을까. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/50690</link>
             <guid>https://www.bookjournalism.com/books/50690</guid>
@@ -752,13 +759,6 @@
             <guid>https://www.bookjournalism.com/books/50546</guid>
             <pubDate>Fri, 06 May 2022 07:13:15 GMT</pubDate>
             <content:encoded><![CDATA[해결된 적 없는 미래]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[프랑스 국민은 다시 한 번 마크롱을 지지했다. 그러나 싸움은 지금부터 시작이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/50540</link>
-            <guid>https://www.bookjournalism.com/books/50540</guid>
-            <pubDate>Fri, 06 May 2022 07:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[톨레랑스는 죽었다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[세상에서 제일 빠른 주린이 탈출법🙊 [리치톡 프리미엄 콘텐츠 OPEN] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
