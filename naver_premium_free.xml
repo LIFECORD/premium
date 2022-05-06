@@ -4,9 +4,17 @@
         <title>네이버 프리미엄콘텐츠 ─ 무료 프로모션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 23:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 00:56:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!]]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Fri, 06 May 2022 00:56:27 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[세상에서 제일 빠른 주린이 탈출법🙊 [리치톡 프리미엄 콘텐츠 OPEN]]]></title>
             <link>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220419112937300vG</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 05 May 2022 15:14:21 GMT</pubDate>
             <content:encoded><![CDATA[사람이 하는 '일상의 많은 서비스'들이 기계로 대체되고 있다. 돌이켜보면, 가장 충격적이었던 변화는 바로 15년전쯤이었가, 지하철의 무인발매기 도입으로 교통카드 충전을 매표소에서 하지 않고 기계에서 하게 되었다. 충전뿐만이 아니라 지하철표를 끊는 것도 기계에서 하게 된 것이다. 그때는 정말 충격적일 만큼 놀라운 변화였다. 항상 매표소에 가서 역무원분께 인사하며]]></content:encoded>
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjlfNTIg/MDAxNjUxMjEyODY1Njk5.-kxCnr1WUdf5nvzoS2O_FNvIsi_Peg9c6bMMmt1dT7kg.kqI1gpfE9Bp4TJ8oKjG9lEOKxob6Y8AhhRSmzV2ox0Qg.JPEG/SE-653d1710-17f8-4b75-a3a5-c985f7b174ec.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3월 산업생산 1.5% 늘었지만…소비·투자 감소]]></title>
-            <link>https://contents.premium.naver.com/infostockdaily/isd/contents/220429134253834Ir</link>
-            <guid>https://contents.premium.naver.com/infostockdaily/isd/contents/220429134253834Ir</guid>
-            <pubDate>Thu, 05 May 2022 23:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[지난달 전산업생산이 3개월 만에 오름세로 전환했지만, 소비와 투자는 줄어들면서 불안한 회복세를 이어갔다.  29일 통계청이 발표한 '3월 산업활동동향'에 따르면 3월 전산업 생산(계절조정·농림어업 제외) 지수는 117.1(2015년=100)로 전월보다 1.5% 늘었다. 전산업 생산은 올해 들어 1월(-0.3%), 2월(-0.3%) 2개월 연속 내림세를 보이다가 3개월 만에 증가세로 돌아섰다. 지난 달에는 서비]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MjlfMjIy/MDAxNjUxMjA3MzQzOTky.9kX5K6lAmbXV5aICVgOaeP8UQ5rpxlViJ69XpTX7v6Eg.tbVns8stCXN_GJDufPXMhv0ZY3CzW3us7m_uZi8h8MQg.JPEG/171755_138088_2211.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
