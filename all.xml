@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 07:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 08:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틱톡 개발자가 실리콘밸리에서 면접 기회를 얻은 방법(템플릿 제공) (퍼블리)]]></title>
+            <link>https://publy.co/content/6736?fr=category</link>
+            <guid>https://publy.co/content/6736?fr=category</guid>
+            <pubDate>Fri, 06 May 2022 08:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인플루언서 마케팅 따라하기: 서치부터 메일 작성법까지 (퍼블리)]]></title>
+            <link>https://publy.co/content/6790?fr=category</link>
+            <guid>https://publy.co/content/6790?fr=category</guid>
+            <pubDate>Fri, 06 May 2022 08:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[떠나는 고객을 붙잡는 법, OTT 플랫폼 별 오프보딩 설계 전략 (퍼블리)]]></title>
             <link>https://publy.co/content/6746?fr=category</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/6785?fr=category</guid>
             <pubDate>Wed, 27 Apr 2022 08:16:33 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[더현대 서울 인사이트: 확고한 취향의 시대에 살아남는 공간 (퍼블리)]]></title>
-            <link>https://publy.co/content/6774?fr=category</link>
-            <guid>https://publy.co/content/6774?fr=category</guid>
-            <pubDate>Tue, 26 Apr 2022 08:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 18분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[100세 커리어, 우리에겐 아직 충분한 시간이 남아 있다 (퍼블리)]]></title>
-            <link>https://publy.co/content/6768?fr=category</link>
-            <guid>https://publy.co/content/6768?fr=category</guid>
-            <pubDate>Mon, 25 Apr 2022 08:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Z세대 유행어 또 생겼어? 누구나 쉽게 응용 가능한 드립 3 (캐릿)]]></title>
