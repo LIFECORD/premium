@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-05-10T23:14:47.528Z</updated>
+    <updated>2022-05-11T01:12:13.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[카카오모빌리티 유승일 CTO가 주목하는 '넥스트 기술']]></title>
+        <title type="html"><![CDATA[카카오모빌리티 유승일 CTO가 주목하는 '넥스트 테크']]></title>
         <id>https://www.folin.co/story/2183</id>
         <link href="https://www.folin.co/story/2183"/>
         <updated>2022-05-10T22:13:49.421Z</updated>
