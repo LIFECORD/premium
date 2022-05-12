@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.folin.co/story</id>
     <title>폴인</title>
-    <updated>2022-05-12T08:17:22.618Z</updated>
+    <updated>2022-05-12T09:24:53.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.folin.co/favicon.ico</icon>
     <entry>
@@ -30,7 +30,7 @@
                                 <li>커리어</li>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주간배짱이X우아한형제들 컨퍼런스 기획 비하인드]]></title>
+        <title type="html"><![CDATA[주간배짱이&우아한형제들 컨퍼런스 기획 비하인드]]></title>
         <id>https://www.folin.co/story/2177</id>
         <link href="https://www.folin.co/story/2177"/>
         <updated>2022-05-09T22:13:48.707Z</updated>
