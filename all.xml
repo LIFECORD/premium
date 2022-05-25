@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 21:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 22:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220525/1653440858eba1226a2d468c3720782a4900bf93fd.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[시몬스 디자인 스튜디오가 일하는 법 (폴인)]]></title>
+            <link>https://www.folin.co/story/2202</link>
+            <guid>https://www.folin.co/story/2202</guid>
+            <pubDate>Wed, 25 May 2022 22:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[<li>공간</li>
+                                <li>워크</li>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[시몬스 그로서리 스토어에 '화살표'가 없는 이유 (폴인)]]></title>
             <link>https://www.folin.co/story/2178</link>
             <guid>https://www.folin.co/story/2178</guid>
@@ -802,14 +810,6 @@
             <link>https://www.folin.co/story/2145</link>
             <guid>https://www.folin.co/story/2145</guid>
             <pubDate>Mon, 18 Apr 2022 22:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[<li>비즈니스</li>
-                                <li>워크</li>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[퓨처플레이는 대기업 사내 벤처를 어떻게 바꾸나 (폴인)]]></title>
-            <link>https://www.folin.co/story/2123</link>
-            <guid>https://www.folin.co/story/2123</guid>
-            <pubDate>Sun, 17 Apr 2022 22:12:50 GMT</pubDate>
             <content:encoded><![CDATA[<li>비즈니스</li>
                                 <li>워크</li>]]></content:encoded>
         </item>
