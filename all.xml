@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 07:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 08:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['순서 파괴'로 보는 지표를 제대로 설정하고 관리하는 방법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6782?fr=category</link>
+            <guid>https://publy.co/content/6782?fr=category</guid>
+            <pubDate>Thu, 26 May 2022 08:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 15분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[팀워크는 친해지는 것만으로 해결되지 않는다 (feat. 팀장의 빌드업 노하우) (퍼블리)]]></title>
             <link>https://publy.co/content/6812?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6761?fr=category</guid>
             <pubDate>Tue, 24 May 2022 02:19:56 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[만만한 사람이 되지 않는 멘탈 관리법 (퍼블리)]]></title>
-            <link>https://publy.co/content/6796?fr=category</link>
-            <guid>https://publy.co/content/6796?fr=category</guid>
-            <pubDate>Tue, 24 May 2022 02:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[최신 데이터로 알아보는 MZ세대 가전·전자 제품 위시리스트 (캐릿)]]></title>
