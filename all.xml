@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 03:48:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 05:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6761?fr=category</guid>
             <pubDate>Tue, 24 May 2022 02:19:56 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SNS 바닥글에 쓸 드립이 바닥났다면? 당장 써 먹는 드립 3 (캐릿)]]></title>
+            <link>https://www.careet.net/770</link>
+            <guid>https://www.careet.net/770</guid>
+            <pubDate>Fri, 27 May 2022 05:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[구독자 여러분의 유행어 서치 시간을 줄여드릴게요(물리)]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/54990dd6-1ccd-4d2d-8032-86bd7c22200d_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[인스타 가오픈 성지 탄생? 이주의 떡상템4 (캐릿)]]></title>
