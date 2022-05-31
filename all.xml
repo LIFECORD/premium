@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 08:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 09:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[솔루션을 생각해내는 힘, 프로덕트 감각을 키우는 학습법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6827?fr=category</link>
+            <guid>https://publy.co/content/6827?fr=category</guid>
+            <pubDate>Tue, 31 May 2022 09:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[데이터를 해석할 때 하기 쉬운 N가지 실수 (퍼블리)]]></title>
             <link>https://publy.co/content/6766?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6755?fr=category</guid>
             <pubDate>Tue, 24 May 2022 02:19:56 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[완판을 부르는 푸드 상세페이지 작성법 (퍼블리)]]></title>
-            <link>https://publy.co/content/6824?fr=category</link>
-            <guid>https://publy.co/content/6824?fr=category</guid>
-            <pubDate>Tue, 24 May 2022 02:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 17분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인스타그램 다음 SNS는 뭘까? 해외 Z세대 유행템으로 알아보는 글로벌 트렌드 (캐릿)]]></title>
