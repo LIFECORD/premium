@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 06:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 07:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -671,13 +671,6 @@
         </item>
         <item>
             <title><![CDATA[밀리의 서재에서 해킹으로 인해 개인 정보가 유출됐다. 스타트업에게 사이버 보안은 사치인가 필수인가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51509</link>
-            <guid>https://www.bookjournalism.com/books/51509</guid>
-            <pubDate>Thu, 09 Jun 2022 06:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[보안이라는 사치]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[밀리의 서재에서 해킹으로 인해 개인 정보가 유출됐다. 스타트업에게 사이버 보안은 사치인가 필수인가. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/51448</link>
             <guid>https://www.bookjournalism.com/books/51448</guid>
             <pubDate>Thu, 09 Jun 2022 05:13:26 GMT</pubDate>
@@ -752,6 +745,13 @@
             <guid>https://www.bookjournalism.com/books/51127</guid>
             <pubDate>Thu, 09 Jun 2022 05:13:26 GMT</pubDate>
             <content:encoded><![CDATA[기적의 치료제]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[6월 첫째 주 - 우리에게 잡지가 필요하지 않았던 시대는 없었습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51102</link>
+            <guid>https://www.bookjournalism.com/books/51102</guid>
+            <pubDate>Thu, 09 Jun 2022 07:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[잡지의 탄생]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
