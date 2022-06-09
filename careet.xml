@@ -4,7 +4,7 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 08:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 09:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 03 Jun 2022 02:51:10 GMT</pubDate>
             <content:encoded><![CDATA[팝업 스토어부터 F&amp;B 신제품 소식까지! 알차게 준비했습니다]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/83d6bc86-adf8-4642-9311-01ac05c2d73a_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[커피 한 잔에 2만 원? Z세대가 명품 브랜드 카페에 가는 의외의 이유 5]]></title>
+            <link>https://www.careet.net/777</link>
+            <guid>https://www.careet.net/777</guid>
+            <pubDate>Thu, 09 Jun 2022 09:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[커틀러리, 라뗴 아트 구경하러 간다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/95c728b5-52f7-4560-8a00-05b21f5094aa_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[캐릿 유튜브] 요즘 인싸들이 가는 성수 핫플은 어디?]]></title>
