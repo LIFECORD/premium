@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 15:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 16:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -402,7 +402,7 @@
             <link>https://www.longblack.co/note/323</link>
             <guid>https://www.longblack.co/note/323</guid>
             <pubDate>Fri, 10 Jun 2022 15:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B &nbsp;지난 한 주, 유난히 ‘창조성’에 대해 깊이 생각하게 됐습니다. 다음 주에 있을 디자이너스 위크를 위해 세계적 디자이너를 만나고, 이들이 해결책을 찾는 과정을 <span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B &nbsp;최근 ‘창조성’에 대해 깊이 생각하고 있습니다. 다음 주에 있을 롱블랙 디자이너스 위크를 위해 세계적 디자이너를 만난 덕분인 것 같습니다. 이들이 해결책을 찾는<span class="circle-punctuation"></span>]]></content:encoded>
             <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220607/1654576435d2fa33a8e498ee5cc71eae807ca3a876.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -694,88 +694,12 @@
                                 <li>워크</li>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[북저널리즘 라디오 에피소드 #40에선, 보복경험 시대를 맞아 변신하고 있는 대형마트, 7차 핵실험을 눈앞에 두고 별의 순간을 맞은 북한, 연달아 터지고 있는 스타트업 보안 문제, 스트리밍 세대를 위한 세로운 한국 문학에 관해 이야기 합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/51600</link>
-            <guid>https://www.bookjournalism.com/audio/51600</guid>
-            <pubDate>Fri, 10 Jun 2022 15:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[달라졌다, 북한도 마트도 소설도]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[블러썸크리에이티브와 CJ E&M이 IP 제휴 계획을 밝혔다. 콘텐츠 업계와 문학계의 콜라보는 성공할 수 있을까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51509</link>
-            <guid>https://www.bookjournalism.com/books/51509</guid>
-            <pubDate>Fri, 10 Jun 2022 15:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[스트리밍 세대를 위한 소설]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[모두가 MBTI를 말하지만 아무도 MBTI를 모른다. 어쩌다 MBTI는 우리 시대의 언어가 되었나? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51138</link>
-            <guid>https://www.bookjournalism.com/books/51138</guid>
-            <pubDate>Fri, 10 Jun 2022 15:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[당신이 몰랐던 MBTI]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[밀리의 서재에서 해킹으로 인해 개인 정보가 유출됐다. 스타트업에게 사이버 보안은 사치인가 필수인가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51448</link>
-            <guid>https://www.bookjournalism.com/books/51448</guid>
-            <pubDate>Fri, 10 Jun 2022 15:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[보안이라는 사치]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고대 이집트의 큐빗(cubit) 단위에서부터 현대의 건강 추적 앱에 이르기까지 인류는 수많은 방식들을 활용하여 세계와 우리 자신을 측정해왔다. 이러한 측정은 우리에게 어떤 의미인가? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51468</link>
-            <guid>https://www.bookjournalism.com/books/51468</guid>
-            <pubDate>Fri, 10 Jun 2022 15:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[우리 삶을 측정하다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북한의 집중 도발과 핵실험 징후, 진짜 위기가 도래할까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51396</link>
-            <guid>https://www.bookjournalism.com/books/51396</guid>
-            <pubDate>Fri, 10 Jun 2022 15:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[별의 순간이 왔다, 북한에]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[새 옷을 입은 마트가 날고 있다. 이 날개는 어떤 모습일까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51239</link>
-            <guid>https://www.bookjournalism.com/books/51239</guid>
-            <pubDate>Fri, 10 Jun 2022 15:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[마트, 다녀오셨어요?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 신간《기본소득 101》의 저자인 김찬휘 녹색당 공동대표에게 왜 기본소득이 시대적 의제인지 물었습니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/51241</link>
-            <guid>https://www.bookjournalism.com/audio/51241</guid>
-            <pubDate>Fri, 10 Jun 2022 15:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜 북토크 ; 기본소득 101]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 라디오 에피소드 #39에선, 박찬욱 감독의 칸 수상 뒤의 진정한 승리자 CJ, 알약도 물약도 아닌 디지털 치료제의 미래, 그리고 의료 서비스 플랫폼 강남언니의 민낯에 관해 이야기 합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/51211</link>
-            <guid>https://www.bookjournalism.com/audio/51211</guid>
-            <pubDate>Fri, 10 Jun 2022 15:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[성형과 영화와 치유의 욕망]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[강남언니에 홍보 수수료를 지급한 의사가 벌금형을 선고받았다. 미용과 의료의 불분명한 경계에 선 강남언니는 어떤 향방을 보일까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51221</link>
-            <guid>https://www.bookjournalism.com/books/51221</guid>
-            <pubDate>Fri, 10 Jun 2022 15:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[언니를 만나도, 고민은 계속된다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[칸에서 들어올린 트로피 뒤에는 CJ의 미디어제국이 있다. 제국의 역사는 계속될 수 있을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51203</link>
-            <guid>https://www.bookjournalism.com/books/51203</guid>
-            <pubDate>Fri, 10 Jun 2022 15:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[CJ의 다음 미장센은?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[《THREAD》가 만들어지기까지 어떤 사람들이, 어떤 마음으로, 어떻게 일했는지 소개합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51171</link>
-            <guid>https://www.bookjournalism.com/books/51171</guid>
-            <pubDate>Fri, 10 Jun 2022 15:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[《THREAD》가 태어났습니다]]></content:encoded>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Fri, 10 Jun 2022 16:19:38 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[정부의 세금 인하, 무조건 좋은 걸까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -839,14 +763,6 @@
             <guid>https://contents.premium.naver.com/tachyon/analysis/contents/220610183326656ub</guid>
             <pubDate>Fri, 10 Jun 2022 15:20:00 GMT</pubDate>
             <content:encoded><![CDATA[삼성전기가 테슬라 납품 관련해서 9일 조회 공시로 답변했다. 한국거래소는 이날 삼성전기에 "테슬라에 5조대 카메라 모듈 공급" 보도에 대한 조회 공시를 요구했다. 한국거래소는 주가에 영향을 줄 만한 기사나 풍문을 접수하면, 해당 상장사에 진위 여부를 묻는 조회 공시를 요구한다.  삼성전기는 "현재 고객과 협의 중인 단계여서 거래 규모, 금액 등 세부 사항을 밝힐 수 없다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[18. 모든 일상이 꿈이 될까 봐 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/jinsimda/geureoryeoni/contents/220604180129929zk</link>
-            <guid>https://contents.premium.naver.com/jinsimda/geureoryeoni/contents/220604180129929zk</guid>
-            <pubDate>Fri, 10 Jun 2022 15:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[일상의 언어   비 오던 날, 내가 뛰어놀던 공간에 당신의 촉감이 있어요   고요하게 나만 걷던 길에 조용히 내려놓았던 고독인데 그 고독에 손 내밀어 주는 당신의 손이 있어요   소주잔에 술은  혼자서 채우는 게 익숙했는데 이제는 당신이 채워주는 술이 달아요   일상의 언어가 당신으로 물들어서 좋아요. 때로는 겁나요   모든 일상이 꿈이 될까 봐. "오? 나 왜 여기 있지? 얘는]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDRfMjYy/MDAxNjU0MzMyNzgzMjIx.jCpysZnZHFfGj1KHMgxgcdsIKd7oJ0Kj8BdUsVfYjzog.dUABWicRHn-QfvlQkzByWXQWXFwSs6c3gaR_ZkFMjSAg.PNG/K-005.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

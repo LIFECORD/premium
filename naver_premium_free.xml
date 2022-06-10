@@ -4,9 +4,17 @@
         <title>네이버 프리미엄콘텐츠 ─ 무료 프로모션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 15:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 16:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!]]]></title>
+            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
+            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
+            <pubDate>Fri, 10 Jun 2022 16:19:38 GMT</pubDate>
+            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정부의 세금 인하, 무조건 좋은 걸까?]]></title>
             <link>https://contents.premium.naver.com/maekyung/jobschool/contents/220531101129166ci</link>
@@ -69,14 +77,6 @@
             <guid>https://contents.premium.naver.com/tachyon/analysis/contents/220610183326656ub</guid>
             <pubDate>Fri, 10 Jun 2022 15:20:00 GMT</pubDate>
             <content:encoded><![CDATA[삼성전기가 테슬라 납품 관련해서 9일 조회 공시로 답변했다. 한국거래소는 이날 삼성전기에 "테슬라에 5조대 카메라 모듈 공급" 보도에 대한 조회 공시를 요구했다. 한국거래소는 주가에 영향을 줄 만한 기사나 풍문을 접수하면, 해당 상장사에 진위 여부를 묻는 조회 공시를 요구한다.  삼성전기는 "현재 고객과 협의 중인 단계여서 거래 규모, 금액 등 세부 사항을 밝힐 수 없다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[18. 모든 일상이 꿈이 될까 봐]]></title>
-            <link>https://contents.premium.naver.com/jinsimda/geureoryeoni/contents/220604180129929zk</link>
-            <guid>https://contents.premium.naver.com/jinsimda/geureoryeoni/contents/220604180129929zk</guid>
-            <pubDate>Fri, 10 Jun 2022 15:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[일상의 언어   비 오던 날, 내가 뛰어놀던 공간에 당신의 촉감이 있어요   고요하게 나만 걷던 길에 조용히 내려놓았던 고독인데 그 고독에 손 내밀어 주는 당신의 손이 있어요   소주잔에 술은  혼자서 채우는 게 익숙했는데 이제는 당신이 채워주는 술이 달아요   일상의 언어가 당신으로 물들어서 좋아요. 때로는 겁나요   모든 일상이 꿈이 될까 봐. "오? 나 왜 여기 있지? 얘는]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDRfMjYy/MDAxNjU0MzMyNzgzMjIx.jCpysZnZHFfGj1KHMgxgcdsIKd7oJ0Kj8BdUsVfYjzog.dUABWicRHn-QfvlQkzByWXQWXFwSs6c3gaR_ZkFMjSAg.PNG/K-005.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
