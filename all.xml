@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 07:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 08:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초기 브랜드를 위한 마케팅 성장론: 스몰 브랜드의 고객 관리법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6853?fr=category</link>
+            <guid>https://publy.co/content/6853?fr=category</guid>
+            <pubDate>Mon, 13 Jun 2022 08:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[초기 브랜드를 위한 마케팅 성장론: 스몰 브랜드의 성장법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6836?fr=category</link>
+            <guid>https://publy.co/content/6836?fr=category</guid>
+            <pubDate>Mon, 13 Jun 2022 08:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[대신 읽어드림 : 책<결정, 흔들리지 않고 마음먹은 대로> (퍼블리)]]></title>
             <link>https://publy.co/content/6843?fr=category</link>
@@ -62,20 +76,6 @@
             <guid>https://publy.co/content/6797?fr=category</guid>
             <pubDate>Fri, 03 Jun 2022 08:15:12 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[하루 참석 회의만 3개? 팀장의 유형별 회의 컨트롤 방법 (퍼블리)]]></title>
-            <link>https://publy.co/content/6814?fr=category</link>
-            <guid>https://publy.co/content/6814?fr=category</guid>
-            <pubDate>Fri, 03 Jun 2022 08:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[당근마켓 PM이 사용자의 정성적인 경험에 주목하는 이유 (퍼블리)]]></title>
-            <link>https://publy.co/content/6829?fr=category</link>
-            <guid>https://publy.co/content/6829?fr=category</guid>
-            <pubDate>Fri, 03 Jun 2022 08:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[10만 명 방문한 서울국제도서전에서 가장 인기 있었던 부스는 어디? (캐릿)]]></title>
