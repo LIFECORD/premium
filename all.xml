@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 19:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 20:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -422,12 +422,88 @@
             <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220609/16547394845685ee9f6c9fffda5b6971c18c05e46b.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[🎨일론 머스크 + 트위터 : 인수 후에 뭘 해야할까?_2편 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/techsnack/techsnack10/contents/220608154607857xa</link>
-            <guid>https://contents.premium.naver.com/techsnack/techsnack10/contents/220608154607857xa</guid>
-            <pubDate>Tue, 14 Jun 2022 15:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[👀11분 07초 안에 확인 할 수 있는 Today's Key Points: 1️⃣ 광고 이외에  섭스크립션 / 커머스 비즈니스의 현황 &amp; 문제점 2️⃣ 목표 실적 달성을 위해 일론 머스크의 트위터가 앞으로 나아가야 하는 방향 1편에서는 트위터 광고 비즈니스의 현황을 살펴 봤음. 2편 에서는 섭스크립션 / 커머스를 포함한 기타 사항 그리고 실적 측면에서의 목표 달성을 위해 일론 머스크가 취할 수 있는]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDhfMTgz/MDAxNjU0NjY4NjQ0MTc2.8VVknhftVdMqrFB-ECgc2XJvGSXAxPx3PdPUojHKIrog.jRzCq_rKRNxWpABi4PQMwTL2gjX2sZUyngsRrqk8VVYg.JPEG/%EC%9D%BC%EB%A1%A0%EB%A8%B8%EC%8A%A4%ED%81%AC_2%ED%83%84.JPG?type=nfs220_220" length="0" type="image/JPG"/>
+            <title><![CDATA[가상인간이 쏟아져 나온다. 전략과 시도도 다양해지고 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51685</link>
+            <guid>https://www.bookjournalism.com/books/51685</guid>
+            <pubDate>Tue, 14 Jun 2022 20:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[가상인간은 메시지다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[화물연대와 정부의 협상이 결렬됐다. 이 시위, 어떻게 바라봐야 할까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51656</link>
+            <guid>https://www.bookjournalism.com/books/51656</guid>
+            <pubDate>Tue, 14 Jun 2022 20:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[분노의 섀도복싱]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[6월 셋째 주 - 변화에는 늘 끝맺음이 필요합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51643</link>
+            <guid>https://www.bookjournalism.com/books/51643</guid>
+            <pubDate>Tue, 14 Jun 2022 20:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[마침표]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #40에선, 보복경험 시대를 맞아 변신하고 있는 대형마트, 7차 핵실험을 눈앞에 두고 별의 순간을 맞은 북한, 연달아 터지고 있는 스타트업 보안 문제, 스트리밍 세대를 위한 세로운 한국 문학에 관해 이야기 합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/51600</link>
+            <guid>https://www.bookjournalism.com/audio/51600</guid>
+            <pubDate>Tue, 14 Jun 2022 20:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[달라졌다, 북한도 마트도 소설도]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[블러썸크리에이티브와 CJ E&M이 IP 제휴 계획을 밝혔다. 콘텐츠 업계와 문학계의 콜라보는 성공할 수 있을까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51509</link>
+            <guid>https://www.bookjournalism.com/books/51509</guid>
+            <pubDate>Tue, 14 Jun 2022 20:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[스트리밍 세대를 위한 소설]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[모두가 MBTI를 말하지만 아무도 MBTI를 모른다. 어쩌다 MBTI는 우리 시대의 언어가 되었나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51138</link>
+            <guid>https://www.bookjournalism.com/books/51138</guid>
+            <pubDate>Tue, 14 Jun 2022 20:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[당신이 몰랐던 MBTI]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[밀리의 서재에서 해킹으로 인해 개인 정보가 유출됐다. 스타트업에게 사이버 보안은 사치인가 필수인가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51448</link>
+            <guid>https://www.bookjournalism.com/books/51448</guid>
+            <pubDate>Tue, 14 Jun 2022 20:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[보안이라는 사치]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[고대 이집트의 큐빗(cubit) 단위에서부터 현대의 건강 추적 앱에 이르기까지 인류는 수많은 방식들을 활용하여 세계와 우리 자신을 측정해왔다. 이러한 측정은 우리에게 어떤 의미인가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51468</link>
+            <guid>https://www.bookjournalism.com/books/51468</guid>
+            <pubDate>Tue, 14 Jun 2022 20:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[우리 삶을 측정하다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북한의 집중 도발과 핵실험 징후, 진짜 위기가 도래할까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51396</link>
+            <guid>https://www.bookjournalism.com/books/51396</guid>
+            <pubDate>Tue, 14 Jun 2022 20:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[별의 순간이 왔다, 북한에]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[새 옷을 입은 마트가 날고 있다. 이 날개는 어떤 모습일까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51239</link>
+            <guid>https://www.bookjournalism.com/books/51239</guid>
+            <pubDate>Tue, 14 Jun 2022 20:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[마트, 다녀오셨어요?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 신간《기본소득 101》의 저자인 김찬휘 녹색당 공동대표에게 왜 기본소득이 시대적 의제인지 물었습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/51241</link>
+            <guid>https://www.bookjournalism.com/audio/51241</guid>
+            <pubDate>Tue, 14 Jun 2022 20:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜 북토크 ; 기본소득 101]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오 에피소드 #39에선, 박찬욱 감독의 칸 수상 뒤의 진정한 승리자 CJ, 알약도 물약도 아닌 디지털 치료제의 미래, 그리고 의료 서비스 플랫폼 강남언니의 민낯에 관해 이야기 합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/51211</link>
+            <guid>https://www.bookjournalism.com/audio/51211</guid>
+            <pubDate>Tue, 14 Jun 2022 20:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[성형과 영화와 치유의 욕망]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[친구를 잘 만나야 한다는 말…과학적일까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -438,12 +514,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MDZfMTY1/MDAxNjQ5MjIzNDI1NTAz.-J31KEcmnHgJSaHcr4RIkCWzNoQ4QCGhMSuaANul9I8g.Tz3Fa6s6ARP9jEQgD0wjGZ7Iad1ustLtL4kaPGPJCmIg.JPEG/%EA%B7%B8%EB%A6%BC3.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세계경제포럼, ‘그레이트 리셋’ 추진을 위한 9가지 계획 [팩트 매터] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/epochkorea/epic/contents/220609045201817tm</link>
-            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220609045201817tm</guid>
+            <title><![CDATA[🎨일론 머스크 + 트위터 : 인수 후에 뭘 해야할까?_2편 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/techsnack/techsnack10/contents/220608154607857xa</link>
+            <guid>https://contents.premium.naver.com/techsnack/techsnack10/contents/220608154607857xa</guid>
             <pubDate>Tue, 14 Jun 2022 15:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하십니까! 보시는 화면은 세계경제포럼입니다. 스위스 다보스에서 열리는 연례 회의로 전 세계 엘리트들이 개인 전용기를 타고 모여 우리의 미래를 계획한다는데 그러면서도 세계적으로 탄소발자국을 줄이기 위한 토대를 마련하겠답니다. 이 행사는 우리 같은 평범한 사람들도 여기 모인 사람들의 생각을 엿볼 수 있게 해 줍니다. 왜냐하면 세계경제포럼은 그간 조용했던]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDlfMTUg/MDAxNjU0NzE3NzU3MDM3.bkPvKtPacfDUAuoIZHL1jDm4HurwPBKP3SNLqeN5toUg.gKjQOTMmNNMkeD-gP_hZ_iDQS_la0L9wCZlrUJGkowIg.JPEG/maxresdefault.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+            <content:encoded><![CDATA[👀11분 07초 안에 확인 할 수 있는 Today's Key Points: 1️⃣ 광고 이외에  섭스크립션 / 커머스 비즈니스의 현황 &amp; 문제점 2️⃣ 목표 실적 달성을 위해 일론 머스크의 트위터가 앞으로 나아가야 하는 방향 1편에서는 트위터 광고 비즈니스의 현황을 살펴 봤음. 2편 에서는 섭스크립션 / 커머스를 포함한 기타 사항 그리고 실적 측면에서의 목표 달성을 위해 일론 머스크가 취할 수 있는]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDhfMTgz/MDAxNjU0NjY4NjQ0MTc2.8VVknhftVdMqrFB-ECgc2XJvGSXAxPx3PdPUojHKIrog.jRzCq_rKRNxWpABi4PQMwTL2gjX2sZUyngsRrqk8VVYg.JPEG/%EC%9D%BC%EB%A1%A0%EB%A8%B8%EC%8A%A4%ED%81%AC_2%ED%83%84.JPG?type=nfs220_220" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[2022 신중년 골프트렌드 모음 Zip. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -454,12 +530,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MTJfMjcw/MDAxNjUyMzM3MTA0NjM2.-USopMYpHNFymNWmAuXOzAO5wx14NGgGmh4vKSNyXbQg.RArSNIsgzEAKAYaLneFzII6FiOQtDd_D48OtNb2LvK0g.JPEG/%EA%B3%A8%ED%94%84.JPG?type=nfs220_220" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[쓰레기통 버려진 국기, 예우 갖춰 수거한 美 청소업자 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/epochkorea/epic/contents/220609051824939ol</link>
-            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220609051824939ol</guid>
+            <title><![CDATA[세계경제포럼, ‘그레이트 리셋’ 추진을 위한 9가지 계획 [팩트 매터] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/epochkorea/epic/contents/220609045201817tm</link>
+            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220609045201817tm</guid>
             <pubDate>Tue, 14 Jun 2022 15:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[Patriotic Garbage Collector Sees Flag in Trash, Rescues, Folds It ‘When Nobody Else Was Watching’ 쓰레기통 버려진 국기, 예우 갖춰 수거한 美 청소업자 A Utah garbage collector who once served in the U.S. Marine Corps was caught on camera rescuing an American flag from the trash, to fold it and treat it with the honor it deserves. 미국 유타주의 한 쓰레기 수거업자가 쓰레기통에서 국기인 성조기를 건져 올려 고이 접어 조수석에 따로 싣]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDlfMTY4/MDAxNjU0NzE5MjgyNDQ4.mzKY6wkj8kmHVZUpHrk0ngEouvzjG-A-LympsxJb3t4g.8-zIOlz9gHjWfoSAzX4Ouvy1vn59W6tvbQBv8lzDotIg.JPEG/et-web-Brooke-Cowley-6-1200x720-795x447.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+            <content:encoded><![CDATA[안녕하십니까! 보시는 화면은 세계경제포럼입니다. 스위스 다보스에서 열리는 연례 회의로 전 세계 엘리트들이 개인 전용기를 타고 모여 우리의 미래를 계획한다는데 그러면서도 세계적으로 탄소발자국을 줄이기 위한 토대를 마련하겠답니다. 이 행사는 우리 같은 평범한 사람들도 여기 모인 사람들의 생각을 엿볼 수 있게 해 줍니다. 왜냐하면 세계경제포럼은 그간 조용했던]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDlfMTUg/MDAxNjU0NzE3NzU3MDM3.bkPvKtPacfDUAuoIZHL1jDm4HurwPBKP3SNLqeN5toUg.gKjQOTMmNNMkeD-gP_hZ_iDQS_la0L9wCZlrUJGkowIg.JPEG/maxresdefault.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[힘들 때 생각나는 사람 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -470,12 +546,12 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDhfNzcg/MDAxNjU0NjE2MDk2NzI2.HTibspTK_qS0u8yF4MTERolJNTiwU3Ws_jG0nug-erog.YZsWA8bbB7W1h2Fa7sLj3oXWUUGaGf9n1e4eLY0_Cskg.PNG/SE-1d9ab31f-b284-4dae-abf0-3ff472c2559c.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[백수인 나, '실업자'는 아니라고요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/220608165839939dx</link>
-            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/220608165839939dx</guid>
+            <title><![CDATA[쓰레기통 버려진 국기, 예우 갖춰 수거한 美 청소업자 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/epochkorea/epic/contents/220609051824939ol</link>
+            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220609051824939ol</guid>
             <pubDate>Tue, 14 Jun 2022 15:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[지난 달 통계청이 발표한 우리나라 실업률은 2.7%다. 최근 물가가 급등하고, 주식시장 등 자산 시장의 가격이 급락하면서 실물경제가 어렵다는 의견이 많다. 경제가 어려운데 통계청 발표를 보면 실업률을 살펴보면 생각보다 높지 않은 것이 아니라 일반인들이 체감하는 노동시장과는  큰 차이를 보인다. 앞서 살펴본 통계대로라면 내 주변에 있는 사람들 100명 가운데 실업자는]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDhfMTA3/MDAxNjU0Njc0OTc4Mzc1.G_1qwoLoX8l2js-TpGKqsP_nftTV9kdxdKBF4ZYdyacg.dZOJ22BndiwqXTsIIcV803zhidf3xM6XxLutNE_hlPAg.JPEG/GettyImages-1244526077.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[Patriotic Garbage Collector Sees Flag in Trash, Rescues, Folds It ‘When Nobody Else Was Watching’ 쓰레기통 버려진 국기, 예우 갖춰 수거한 美 청소업자 A Utah garbage collector who once served in the U.S. Marine Corps was caught on camera rescuing an American flag from the trash, to fold it and treat it with the honor it deserves. 미국 유타주의 한 쓰레기 수거업자가 쓰레기통에서 국기인 성조기를 건져 올려 고이 접어 조수석에 따로 싣]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDlfMTY4/MDAxNjU0NzE5MjgyNDQ4.mzKY6wkj8kmHVZUpHrk0ngEouvzjG-A-LympsxJb3t4g.8-zIOlz9gHjWfoSAzX4Ouvy1vn59W6tvbQBv8lzDotIg.JPEG/et-web-Brooke-Cowley-6-1200x720-795x447.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[미국시장(6/7): 소프트웨어, 우라늄, 에너지, 당뇨치료제 상승 원인 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
@@ -486,12 +562,20 @@
             <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDhfMTgy/MDAxNjU0NjM5MjkxOTM3.tKMC4_JaqEXlAKpdXzP2jhtwHhYPw8REjfLS3cUPlngg.A3Oe-8wdYrmbkMTdqxODRl2OLZ1rAgUD01kwxWY5HLIg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[(증여#1)아버지가 아들에게 빌라 증여 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/sdph/sdphpremium/contents/220608223602164fx</link>
-            <guid>https://contents.premium.naver.com/sdph/sdphpremium/contents/220608223602164fx</guid>
-            <pubDate>Tue, 14 Jun 2022 18:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요,  증여세에 관한 케이스 스터디 #1. 아들에게 빌라를 증여하는 방법에 관한 내용입니다. 다양한 케이스를 통해 가장 이상적인 방법으로 미래의 절세 계획을 세우시는데 도움이 되셨으면 좋겠습니다. 아버지에게 공시지가 3천만원이 조금 넘는 빌라를 12월 중에 증여 받으려고 합니다. 그런데 증여 받으려는 빌라의 평수와 비슷한 평수가 올 6월 10일에 8천만원에 계약된]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDhfMjQz/MDAxNjU0Njk1MzEzNDky.sX6CW108MVZwSKv-I1IoMgKdzsO_VUJtQdkcGa0USb0g.N3L0D-5QpniIg5ayOlK5iKoP5jcWs3tplzxJGGMd4Pwg.PNG/%EC%A0%9C%EB%AA%A9%EC%9D%84_%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001_(40).png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[백수인 나, '실업자'는 아니라고요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/maekyung/jobschool/contents/220608165839939dx</link>
+            <guid>https://contents.premium.naver.com/maekyung/jobschool/contents/220608165839939dx</guid>
+            <pubDate>Tue, 14 Jun 2022 15:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[지난 달 통계청이 발표한 우리나라 실업률은 2.7%다. 최근 물가가 급등하고, 주식시장 등 자산 시장의 가격이 급락하면서 실물경제가 어렵다는 의견이 많다. 경제가 어려운데 통계청 발표를 보면 실업률을 살펴보면 생각보다 높지 않은 것이 아니라 일반인들이 체감하는 노동시장과는  큰 차이를 보인다. 앞서 살펴본 통계대로라면 내 주변에 있는 사람들 100명 가운데 실업자는]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDhfMTA3/MDAxNjU0Njc0OTc4Mzc1.G_1qwoLoX8l2js-TpGKqsP_nftTV9kdxdKBF4ZYdyacg.dZOJ22BndiwqXTsIIcV803zhidf3xM6XxLutNE_hlPAg.JPEG/GettyImages-1244526077.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[굿모닝러너 챌린지 [82일차] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/gmrc/runner/contents/220608082435190jh</link>
+            <guid>https://contents.premium.naver.com/gmrc/runner/contents/220608082435190jh</guid>
+            <pubDate>Tue, 14 Jun 2022 20:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[굿모닝러너 챌린지 [82일차] 굿모닝러너님, 오늘 하루, 긍정으로 시작하세요~ 굿모닝러너_챌린지_82일차 #20220608 #AM06:00 굿모닝러너 챌린지 인증 댓글을 남겨주세요~ 🌄굿모닝러너 챌린지 인증 방법🌅🌇 📍첫 구독 후, 다짐보드에 다짐 댓글을 달아주셔야 챌린지 참여가 완료됩니다. - 등록 예시) 닉네임  / 목표: 월,수,금 주 3회 이상, 3Km 모닝런 도전하기! - 댓글은 되도록 공개로 작성]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDhfMjA4/MDAxNjU0NjQ0MjA0NDM3.5XoG4TulZ8fpSuhOPdd4HQwt8Eu8e_w08X5grTNVxtIg.etPrahRlfVx8p6FycIdaFx2kkz83wzew7FdvPOMMk8Qg.JPEG/KakaoTalk_20220608_082151875.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
