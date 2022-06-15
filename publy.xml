@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-06-15T07:13:52.462Z</updated>
+    <updated>2022-06-15T08:20:31.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(전)아디다스코리아 상품기획 디렉터가 알려주는 3단계 가격 설계법]]></title>
+        <id>https://publy.co/content/6850?fr=category</id>
+        <link href="https://publy.co/content/6850?fr=category"/>
+        <updated>2022-06-15T08:19:45.100Z</updated>
+        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(웹소설) 팀장의 파워 게임 : 아군 만들기 [ep.2]]]></title>
         <id>https://publy.co/content/6835?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/6837?fr=category"/>
         <updated>2022-06-07T08:17:03.774Z</updated>
         <content type="html"><![CDATA[아티클 · 15분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(웹소설) 팀장의 파워 게임 : 정치력이 필요한 순간 [ep.1]]]></title>
-        <id>https://publy.co/content/6828?fr=category</id>
-        <link href="https://publy.co/content/6828?fr=category"/>
-        <updated>2022-06-07T08:17:03.775Z</updated>
-        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
     </entry>
 </feed>
