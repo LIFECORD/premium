@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 15:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 16:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -450,7 +450,7 @@
             <link>https://www.bookjournalism.com/books/51660</link>
             <guid>https://www.bookjournalism.com/books/51660</guid>
             <pubDate>Thu, 16 Jun 2022 15:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[중국의 Z세대는 참지 않지]]></content:encoded>
+            <content:encoded><![CDATA[Z세대는 참지 않지]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[애플TV+가 미국 프로축구리그 경기를 독점 중계한다. 스포츠 콘텐츠는 OTT 레드 오션의 틈새 시장이 될 수 있을까. (북저널리즘)]]></title>
