@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 08:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 09:23:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[목적 지향적 팀 세팅을 위한 PM의 현실적인 노하우 (퍼블리)]]></title>
+            <link>https://publy.co/content/6820?fr=category</link>
+            <guid>https://publy.co/content/6820?fr=category</guid>
+            <pubDate>Tue, 21 Jun 2022 09:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[사소하지만 합격률을 비약적으로 높여줄 이직 면접 팁 (퍼블리)]]></title>
             <link>https://publy.co/content/6841?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6811?fr=category</guid>
             <pubDate>Sat, 18 Jun 2022 22:11:41 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 16분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사용자가 원하는 걸 빨리 찾게 하려면? 검색 UX 총정리 (퍼블리)]]></title>
-            <link>https://publy.co/content/6842?fr=category</link>
-            <guid>https://publy.co/content/6842?fr=category</guid>
-            <pubDate>Sat, 18 Jun 2022 22:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사진이 곧 정체성, ‘포토프레스(PhotoPress) 세대’를 아시나요? (캐릿)]]></title>
