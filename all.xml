@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 14:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 15:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -478,168 +478,84 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/834515c4-a816-4c88-b78a-b4c4b9e6de7e_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이상인 : 유튜브 광고 디자인 시스템 총괄이 말하는 직업인으로서의 디자이너 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/326</link>
-            <guid>https://www.longblack.co/note/326</guid>
-            <pubDate>Tue, 21 Jun 2022 15:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;지난주 디자이너스 위크 반응이 아주 뜨거웠어요. 저 역시 영감에 흠뻑 젖어, 디자이너의 세계를 더 깊게 파 보고 싶어졌습니다. 친구한테 이 얘길 하니 책을 한 권<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220617/1655442828acce8b576988ce80cb62da9ee7267de8.png" length="0" type="image/png"/>
+            <title><![CDATA[세서미 스트리트 : 세대가 3번 바뀌어도 콘텐츠는 계속 된다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/328</link>
+            <guid>https://www.longblack.co/note/328</guid>
+            <pubDate>Wed, 22 Jun 2022 15:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;회사에서 요즘 어떤 콘텐츠가 제일 잘 나가는지 알아보래요! 신나서 찾아봤죠. 6월 둘째 주, 미국에서 제일 잘나가는 콘텐츠* 1위는, 기묘한 이야기였어요. 2위는<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220616/1655347630aa3e558add666530c66222a276af67cd.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[독일은 러시아의 석유와 가스에 지나치게 의존해 왔다. 러시아의 우크라이나 침공으로 이 끔찍한 실수의 정체가 드러났다. 어디서부터 잘못된 것일까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51907</link>
-            <guid>https://www.bookjournalism.com/books/51907</guid>
-            <pubDate>Wed, 22 Jun 2022 08:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[잘못된 선택]]></content:encoded>
+            <title><![CDATA[네가 꼬옥 행복하면 좋겠어 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/sunharoo/heewoo/contents/220418191807964mG</link>
+            <guid>https://contents.premium.naver.com/sunharoo/heewoo/contents/220418191807964mG</guid>
+            <pubDate>Wed, 22 Jun 2022 15:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[친구가 고양이와 함께 살기 시작했다. 고양이라니! 나만 고양이가 없는 게 슬프지만 이제부터 한 생명의 대모가 되기로 했다. 미끄럼 방지 패드의 색상을 머리를 맞대고 골랐다. 털이 회색과 하얀색이니까 밝은 게 좋겠어. 아니다, 조금 어두운 걸 좋아하려나? 사소한 고민들이 달콤했다.  드디어 고양님을 만나러 가는 날, 설렘을 가득 안고 지하철에 올랐다. 고양이와 친해지지]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MThfODEg/MDAxNjUwMjc2NjU0MDc2.FwuFIfE_O8QA53iDWoztpOmZZxbW-F0jKl-Wjppz2MEg.W-2s7xRL4Nz21k2XlxclBSTPe8YP7xNWzyrEFm9SwR8g.JPEG/SE-ad145cbd-5bf0-4b44-a770-629b7464c226.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[텔레그램이 유료 서비스를 출시한다. 메신저 앱은 광고와의 경쟁에서 승리할 수 있을까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51912</link>
-            <guid>https://www.bookjournalism.com/books/51912</guid>
-            <pubDate>Wed, 22 Jun 2022 03:28:32 GMT</pubDate>
-            <content:encoded><![CDATA[메신저는 거들 뿐]]></content:encoded>
+            <title><![CDATA['제로 웨이스트 챌린지 플로깅'을 우리 말로 바꾸면? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/science2005/science/contents/220616075040426ko</link>
+            <guid>https://contents.premium.naver.com/science2005/science/contents/220616075040426ko</guid>
+            <pubDate>Wed, 22 Jun 2022 15:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[경기도의 한 초등학교 앞에 현수막이 걸렸다. "제로 웨이스트 챌린지 플로깅(Plogging) 캠페인" 평소 환경 교육과 기후변화에 관심 높은 선생님들이 지자체 예산을 지원받아 준비한 교육 행사였다. 학생들뿐 아니라 학부모와 지역주민들까지 동참했으면 하는 바람으로 현수막까지 만들어 교문 앞에 내건 것이다. 그러나 지나다가 이 현수막을 본 사람들은 그저 무심한 표정으로 가]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTZfMjcx/MDAxNjU1MzMzMTgyNzY4.EPvsrHLdwMaCx7Ddn491wqZbEuNi0-MnCCsYO7VwHrkg.xRQRpOgPlgP4MLmSzO8mIeGwEmayt6GGUySsl2wkHKog.JPEG/%EC%99%B8%EA%B5%AD%EC%96%B4%ED%98%84%EC%88%98%EB%A7%89_%EA%B4%91%EA%B5%90%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90_220615.JPG?type=nfs220_220" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[스마트워치 시장이 날로 커지고 있다. 제2의 스마트 혁명은 스마트워치가 주도할까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51858</link>
-            <guid>https://www.bookjournalism.com/books/51858</guid>
-            <pubDate>Wed, 22 Jun 2022 03:28:32 GMT</pubDate>
-            <content:encoded><![CDATA[제2의 스마트혁명?]]></content:encoded>
+            <title><![CDATA[요즘 초등학교에서 살아남기 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/danhobak/danhoback/contents/220615195511689zp</link>
+            <guid>https://contents.premium.naver.com/danhobak/danhoback/contents/220615195511689zp</guid>
+            <pubDate>Wed, 22 Jun 2022 15:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[친구들이 아무도 저랑 놀아주지 않아요.   제 명찰 때문인 것 같아요.   선생님이 달아주신 제 명찰에는 ‘임대 아파트 임정훈’이라고 쓰여 있어요.   ⁕⁕⁕   안녕하세요, 반갑습니다. 저는 호박 초등학교에 다니고 있는 1학년 3반 임정훈이라고 합니다.   친구 관계에 문제가 있으면 117번에 연락하는 거라고 며칠 전에 배웠어요.   저는 친구가 한 명도 없어요. 도와주세요, 상담]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTVfNTcg/MDAxNjU1Mjg5NzU2NjEx.8BMrJsiPRroCxr0zWMh3cNOfu6UbGrBRnpQ7zqMFdqUg.wKP1Ynt53Kzx46CIoal0ItoPOq5ZEhAmqvwu7JfIyX8g.JPEG/students-g8a547c0f3_1920.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[불법 스테로이드 처벌이 강화된다. 그 의미와 예고되는 후폭풍은 가볍지 않다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51807</link>
-            <guid>https://www.bookjournalism.com/books/51807</guid>
-            <pubDate>Wed, 22 Jun 2022 03:28:32 GMT</pubDate>
-            <content:encoded><![CDATA[노 모어 스테로이드]]></content:encoded>
+            <title><![CDATA[[우량주] 못 가는 지역은 없다! 어디든 배송해드림! 배당금 파격 53%인상! - 페덱스 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/220616082652924yk</link>
+            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/220616082652924yk</guid>
+            <pubDate>Wed, 22 Jun 2022 15:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[빅데이터로 찾은 '미국주식 우량주 사전'에서 선정한 101개 기업을 아래 5가지 내용을 중심으로 영상을 통해 빠르게 요약해 드립니다.  사업개요 주가분석 실적분석 종목진단 배당매력 오늘 소개 할 38번째 우량주 기업은 바로 페덱스(FDX)입니다. 세계 최대의 특송 운송 회사입니다.  ☞ 프리미엄 회원으로 가입하시면 영상에 포함된 교재 원본을 다운로드 받을 수 있습니다. ★교]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTVfMTg2/MDAxNjU1MjczNTQwNTUz.wTnV-I_aOEjC90ANdJrgXdsydhb3DUC8DEG87Ba4eWsg.s2vavDS8sbexUo2wVbcF-ZJfNFSiG3TJHe1aUiDFRyAg.JPEG/bannon-morrissy-BfP3E4rpxl8-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북저널리즘 라디오 에피소드 #41에선, 중국의 변화를 만들고 있는 90년대생, 스포츠를 넘보는 OTT들의 행보, 유아인말고 무아인이 뜨는 이유, 그리고 화물연대의 파업에 관해 이야기 합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/51801</link>
-            <guid>https://www.bookjournalism.com/audio/51801</guid>
-            <pubDate>Wed, 22 Jun 2022 03:28:32 GMT</pubDate>
-            <content:encoded><![CDATA[애플은 축구를 하고 가상인간은 데뷔를 하지!]]></content:encoded>
+            <title><![CDATA[미국시장 테마(6월 16일 아침): 고성장/고밸류 기업들 초강세 vs. 전통에너지 기업은 부진 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/barbarian/stockideas/contents/220616072658220yq</link>
+            <guid>https://contents.premium.naver.com/barbarian/stockideas/contents/220616072658220yq</guid>
+            <pubDate>Wed, 22 Jun 2022 15:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[상승 테마 1) 고성장/고밸류에이션 테마 - 소프트웨어, 플랫폼, 이커머스, 신재생에너지, 바이오테크, 헬스테크 등 고성장/고밸류에이션 테마 전반 주가 상승 두드러져. FOMC 불확실성 해소, ECB의 긴축속도 일부 조절 등 우호적 매크로 환경 반영  2) 미디어스트리밍 - Netflix(NFLX) 7.5%, Roku(ROKU) 11.7% 상승하는 등 주요 미디어스트리밍 기업들 주가 강세 - Cowen이 Netflix가 준비 중인 광고]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTZfMjcg/MDAxNjU1MzMxNzMzOTg4.OB0LkUF-Ph4IgOe9ZaC1oHBWfW3KqSC8quaEiM9yV3Ug.yYLv1l8MvltdXIdXrqdEx2Kg5rPj8p9-tQnWojLIC7Qg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[중국에서 제로 코로나 정책에 반발하는 학생 시위가 연일 열린다. 시진핑 연임을 앞두고, 90년대생이 새로운 변수가 될까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51660</link>
-            <guid>https://www.bookjournalism.com/books/51660</guid>
-            <pubDate>Wed, 22 Jun 2022 03:28:32 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대는 참지 않지]]></content:encoded>
+            <title><![CDATA[새로운 '럭셔리 전기차' 준비하는 GM (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220616084000656sj</link>
+            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220616084000656sj</guid>
+            <pubDate>Wed, 22 Jun 2022 15:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[💬 무슨 일이지? 제너럴모터스(GM)가 15일(현지시간) 새로운 전기 플래그십 세단인 캐딜락 셀레스티크 생산을 발표했습니다. 플래그십이라는 이름답게 셀레스티크는 매년 수백 대의 한정수량만 생산될 예정인데요. 이는 셀레스티크 생산이 '수작업'으로 이뤄지기 때문입니다. GM에 따르면 조립 라인에서 생산되는 일반 차량과 달리, 사람이 직접 차량을 조립하는 기계를 조종한다]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTZfMTI5/MDAxNjU1MzM2MjU1MzMx.CS_CsdYRV8cdpbKXjJtr8l4Rju2Tw0sfPCE315ENofAg.5XP66y2ClLH3bqZUSQLgBmNkd610XAjyHVIoxV8feT0g.PNG/1._GM_(%EC%B6%9C%EC%B2%98_=_%EC%BA%90%EB%94%9C%EB%9D%BD_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80).png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[애플TV+가 미국 프로축구리그 경기를 독점 중계한다. 스포츠 콘텐츠는 OTT 레드 오션의 틈새 시장이 될 수 있을까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51719</link>
-            <guid>https://www.bookjournalism.com/books/51719</guid>
-            <pubDate>Wed, 22 Jun 2022 03:28:32 GMT</pubDate>
-            <content:encoded><![CDATA[OTT로 넘어간 축구공]]></content:encoded>
+            <title><![CDATA[어떤 사람의 땀 냄새는 왜 지독한 걸까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/scienceboy/sboy/contents/220616150729618do</link>
+            <guid>https://contents.premium.naver.com/scienceboy/sboy/contents/220616150729618do</guid>
+            <pubDate>Wed, 22 Jun 2022 15:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[가만히 있어도 땀이 흐르는 계절입니다. 이렇게 더운 날이면 유독 어떤 부위의 땀내가 심하거나, 특정 사람의 땀내가 지독한 경우가 있는데요. 기분 탓이 아니라, 과학적 근거가 있는 냄새입니다. 오늘은 땀 냄새를 과학적으로 맡아(?) 보겠습니다.   땀이라고 다 같은 땀이 아닙니다. 땀은 피부 표면에 있는 ‘땀샘’에서 나오는데요. 땀샘은 크게 ‘에크린 땀샘’과 ‘아포크린]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTZfMjQz/MDAxNjU1MzU4OTgwOTA2.OQC6G_3omQotPLZHHw6EWGG320VWKbvtjYVAIZPyoNcg.w-P-XdyqczB7oK-O9PEF1ilpXJDe4fZPfdXJeQd58FAg.JPEG/GettyImages-150492508.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[해를 거듭할수록 홍수는 더 자주, 더 무참하게 도시를 습격한다. 중국 정부가 새로운 대응 방안을 내놓았다. 과연 성공할 수 있을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51699</link>
-            <guid>https://www.bookjournalism.com/books/51699</guid>
-            <pubDate>Wed, 22 Jun 2022 03:28:32 GMT</pubDate>
-            <content:encoded><![CDATA[치수(治水)가 만사(萬事)]]></content:encoded>
+            <title><![CDATA[스포티파이, 빅테크 고용 긴축 행렬 합류 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220616090805469lp</link>
+            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220616090805469lp</guid>
+            <pubDate>Wed, 22 Jun 2022 15:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[무슨 일이지?  15일(현지시간) 다니엘 에크 스포티파이 최고경영자(CEO)는 직원들에게 보낸 이메일을 통해 "인재 채용 속도를 25%까지 줄이겠다"고 말했습니다. 그는 "회사는 고용과 성장을 계속할 것이지만, 단지 그 속도를 늦추고 당분간 신입사원 채용 규모 확대에 대해 신중한 입장을 취할 것이다"고 덧붙였습니다. 그래서?  스포티파이가 기술기업들의 '고용 긴축' 행보에 동참]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTZfNTMg/MDAxNjU1MzM3OTk0NTcy.STel02Cmpl6HXrM3SDrRyh6lagGXOeE9hgBatCDNkfkg.64M8I2eOBNX6opFYnGn7SvlVYOFrwEBzBV7BT-IcYbMg.JPEG/Photo_by_Alexander_Shatov_on_Unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가상인간이 쏟아져 나온다. 전략과 시도도 다양해지고 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51685</link>
-            <guid>https://www.bookjournalism.com/books/51685</guid>
-            <pubDate>Wed, 22 Jun 2022 03:28:32 GMT</pubDate>
-            <content:encoded><![CDATA[가상인간은 메시지다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[화물연대와 정부의 협상이 결렬됐다. 이 시위, 어떻게 바라봐야 할까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51656</link>
-            <guid>https://www.bookjournalism.com/books/51656</guid>
-            <pubDate>Wed, 22 Jun 2022 03:28:32 GMT</pubDate>
-            <content:encoded><![CDATA[분노의 섀도복싱]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[6월 셋째 주 - 변화에는 늘 끝맺음이 필요합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51643</link>
-            <guid>https://www.bookjournalism.com/books/51643</guid>
-            <pubDate>Wed, 22 Jun 2022 03:28:32 GMT</pubDate>
-            <content:encoded><![CDATA[마침표]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 라디오 에피소드 #40에선, 보복경험 시대를 맞아 변신하고 있는 대형마트, 7차 핵실험을 눈앞에 두고 별의 순간을 맞은 북한, 연달아 터지고 있는 스타트업 보안 문제, 스트리밍 세대를 위한 세로운 한국 문학에 관해 이야기 합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/51600</link>
-            <guid>https://www.bookjournalism.com/audio/51600</guid>
-            <pubDate>Wed, 22 Jun 2022 03:28:32 GMT</pubDate>
-            <content:encoded><![CDATA[달라졌다, 북한도 마트도 소설도]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ISA계좌에 대해 알아보기 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/padakkr/padak/contents/220610153451041yo</link>
-            <guid>https://contents.premium.naver.com/padakkr/padak/contents/220610153451041yo</guid>
-            <pubDate>Tue, 21 Jun 2022 15:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[재테크에서 버는 것도 중요하지만 절세도 중요한 부분이라고 생각합니다. 조금이라도 더 절세하기 위해 많은 분들이 찾아보시는 상품이 ISA계좌인데요. ISA의 개념과 참고할만한 항목에 대해 작성하였습니다. 국내, 해외주식 계좌개설 수수료 혜택 이벤트 모음과 같이 매월 ISA 계좌개설 이벤트를 정리해드릴 예정이오니 참고해주시기를 바랍니다:)  ISA는 개인종합자산관리계좌의]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTBfMTgw/MDAxNjU0ODQyNzk5OTAz.GlGoxVojSMoQGgNnCactCCXiqVWyf-U9WdzPLUJcauQg.TMqRRNSHjlV5DkvK6DY5T33y60X7CfzwRlI2KsgSB8wg.JPEG/images_(4).jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Tue, 21 Jun 2022 17:27:30 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[마지막 종례의 전달 사항 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/3091201/xmas/contents/220615002658390ph</link>
-            <guid>https://contents.premium.naver.com/3091201/xmas/contents/220615002658390ph</guid>
-            <pubDate>Tue, 21 Jun 2022 15:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[작년 가을에, 강원도 모 지역의 고등학교에 강연하러 갔다가 국어교사 L과 만났다. 그는 나와 한 살 차이가 나는 남자였다. 나의 강연을 끝까지 들은 그는 나에게 자신의 차로 역까지 태워다 주겠다고 했다. 무척 선한 얼굴이었다고 나는 기억하고 있다. 그는 차 안에서 나에게 계속 말을 걸어왔다. 나의 글이 좋다고, 언젠가 밥을 함께 먹고 싶다고, 내가 KT위즈의 팬인 것을 SNS에]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTVfMjg5/MDAxNjU1MjIwMTQwMTUz.vbC6VMbxk39CA4F7_TsalYDfDYygtwCe2xM7sSGsNokg.t5Ox56C2gUFXpBVTRJ9MZ_NSZlO-aXkKTRhOUC2eP4sg.JPEG/KakaoTalk_20220615_001834086.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["윤석열 시대 세무조사? 이런 기업은 특히 긴장하세요" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/reaItyoo/zipoopro/contents/220614105807032ni</link>
-            <guid>https://contents.premium.naver.com/reaItyoo/zipoopro/contents/220614105807032ni</guid>
-            <pubDate>Tue, 21 Jun 2022 15:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[[땅집고] “배달전문업체·대부업체 등 호황 업종이라면 국세청으로부터 비정기 세무조사 받을 가능성을 염두에 둬야 합니다. 미리 소명 자료를 준비하거나 관련 판례를 찾아보기를 추천합니다.” 윤석열 정부 출범 이후 세무조사가 어떤 방향으로 진행될지에 관심이 쏠린다. 정권이 바뀔 때마다 정책이나 경제 상황에 따라 세무조사 방향도 달라졌기 때문이다. 강역종 강역종]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTRfNzIg/MDAxNjU1MTYyNDE5NDgw.pcSK3lnh2xn7QGsooTu6q9z05CmXOc2kHZ9sHhRxSp8g.2mxLc4gMtfDareOguN85GWpzaFFcA-QD62TjFy2AHCEg.JPEG/%EA%B0%95%EC%97%AD%EC%A2%851.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기초 SKILL 번외편 - 그림판] 그림판(PAINT)를 포토샵 대신 활용하기 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/kondaedocs/documents/contents/220615101158688st</link>
-            <guid>https://contents.premium.naver.com/kondaedocs/documents/contents/220615101158688st</guid>
-            <pubDate>Tue, 21 Jun 2022 15:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요, 꼰대행정병입니다. 지난 시간까지 워드, 한글, 파워포인트의 기초 SKILL 시리즈를 다뤘습니다. 이제 EXCEL의 기초 SKILL로 넘어갈 차례입니다.  그 전에 쉬어가는 페이지, 번외편 정도로 오늘은 꼰대행정병이 잘 활용하는 윈도우즈 기본 제공 프로그램인 "그림판(PAINT)"의 활용에 대해 한 편으로 요약해서 소개하고자 합니다. 그림판(PAINT)을 포토샵 대신 활용하기   제목은]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTVfMTc4/MDAxNjU1MjUzODkzMDEx.DKSB3gOErAqyw5KzOHAamoZs-Jbj6MRkD6UZ3NCDOEwg.X0t8nd04hITYnRCvaA91vRTjXRAGH9AYrlENB2td1pYg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[해외로 나가는 금융지주 회장들…엔데믹·금리상승·최대실적까지 "한국 은행주 장 열렸다" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/thebell/stock/contents/220526171642146vn</link>
-            <guid>https://contents.premium.naver.com/thebell/stock/contents/220526171642146vn</guid>
-            <pubDate>Tue, 21 Jun 2022 15:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[한국은행이 기준금리를 다시 한번 올렸습니다. 두달 연속 금리를 올린 것은 무려 15년만의 일이랍니다. 금리 인상으로 가장 수혜를 보는 종목은 은행주입니다. 최근 금융주들이 강세를 보이는 건 당연한 수순입니다. 하지만 금융지주들은 여전히 저평가 중이라고 항변합니다. 글로벌 은행들과 비교하면 PBR 등의 지표에서 20~30%는 더 상승폭이 있다고 말합니다. 엔데믹 상황과 금]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MjZfNSAg/MDAxNjUzNTUyNzkyNjcw.HlssBN5fcX1BtHmk8kdflTaDyjIzscfdf5aF_qtLCq4g.32lcfZrBiR5DkVzWJxVwDz3Z93Y5V7cBLsg--j4CiOkg.JPEG/%EC%82%AC%EB%B3%B8_-%EC%98%88%EC%A0%81%EA%B8%88_%EA%B8%88%EB%A6%AC_%EC%9D%B8%EC%83%81%ED%95%98%EB%8A%94_%EC%8B%9C%EC%A4%91%EC%9D%80%ED%96%89.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국시장 테마(6월 15일 아침): 석유정제, 중국ADR, 완성차 주가 강세 vs. 천연가스, 방어주 테마 약세 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/barbarian/stockideas/contents/220615080038372yy</link>
-            <guid>https://contents.premium.naver.com/barbarian/stockideas/contents/220615080038372yy</guid>
-            <pubDate>Tue, 21 Jun 2022 15:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[상승 테마 1) 전통 에너지: 석유정제 - 장초반 원유 가격 강세로 주요 오일 서플라이체인 주가 강세. 다만, 늦은 오후들어 유가가 하락 전환하며 업종 전반 주가 약해져   - 다만, Phillips 66(PSX), Marathon Petroleum(MPC), Valero Energy(VLO) 등 대형 석유정제 기업들은 상승추세 유지. Wells Fargo가 Phillips 66에 대해 단기, 중가 사이클이 예상보다 더 긍정적이라 언급하며 목표주가를 127달러(vs. 기존]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTVfMTUg/MDAxNjU1MjQ3Njc4Njk3.KFgwGk2kyf3C4Hp8oHwFbIN2EDB_0HFxtUi-YdQp2UMg.LR1R_fHMRQKnuVn5GfemK91Iaui4SogVs_vciWB027cg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[조용병 신한지주 회장의 바쁜 해외 출장길…'지속성·투명성' 무기로 투심 잡는다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/thebell/stock/contents/220613181238225ej</link>
-            <guid>https://contents.premium.naver.com/thebell/stock/contents/220613181238225ej</guid>
-            <pubDate>Tue, 21 Jun 2022 15:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[금융주가 침체기 주식 시장의 대안이 될 수 있을까요. 증시가 약세를 보이자 금융주도 속절없이 하락세를 보이고 있습니다. 하지만 상대적으로 하락폭은 덜 하지요. 금융지주는 배당이 상대적으로 큽니다. 외국인 투자자들의 투자 여부가 향후 주가를 가늠하는 잣대가 될 겁니다. 금융지주 CEO들도 외국인 투자자들의 마음을 사로잡기 위해 동분서주하고 있습니다. 조용병 신한]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTNfMjY5/MDAxNjU1MTA0NjI5ODM0.Pm44Wzq4l6XHB1oUlb-HJP6dN3W2GxJ2-leU7Iz3d04g.xfp0KHZOENVRLlONUWf6qPYEg54IOkhzFe3WlLLrttUg.JPEG/%EC%A1%B0%EC%9A%A9%EB%B3%91_%EC%8B%A0%ED%95%9C%EA%B8%88%EC%9C%B5%EA%B7%B8%EB%A3%B9_%ED%9A%8C%EC%9E%A5.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은행주 최대 시총 KB금융,  '어게인 2017' 노린다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/thebell/stock/contents/220601064014111ze</link>
-            <guid>https://contents.premium.naver.com/thebell/stock/contents/220601064014111ze</guid>
-            <pubDate>Wed, 22 Jun 2022 14:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[KB금융지주는 이름처럼 '국민주' 대접을 받습니다. 국내 금융주 가운데 최대 시가총액을 보입니다. 최근 시가총액은 25조원에 육박합니다. 신한지주는 22조원, 하나금융이나 우리금융은 14조원~10조원 수준이지요. 금리 상승기엔 은행과 같은 금융업종이 주목을 받습니다. KB금융도 올해 금리 상승기에 맞춰 적극적인 해외 IR에 나서고 호재들을 어필하고 있습니다. KB금융은 최대 규]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDFfMTA0/MDAxNjU0MDMzMDA3OTg1.pueyZSJFHy06bUzsWxTI_dLfivlMOEUBdc-280Y-UoIg.hptmz_kbV0VNl9N-9n4YSiyQYCNm_7ZYkMFQ11WSOBsg.JPEG/KB%EA%B5%AD%EB%AF%BC%EC%9D%80%ED%96%89_%EC%8B%A0%EA%B4%80.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[[커넥트레터] 공룡도 철수하는 새벽배송을 위한 변명 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/connectx/us/contents/220616164311320zq</link>
+            <guid>https://contents.premium.naver.com/connectx/us/contents/220616164311320zq</guid>
+            <pubDate>Wed, 22 Jun 2022 15:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[[커넥트레터 무료 구독하기] [카카오톡으로 매일 유통물류 소식 받기(무료)] 미래 공간의 변화라고요? 몇 주 전 어느 날이었습니다. 의도치 않게 식단 공유 공간이 돼버린 제 인스타그램에 낯선 이의 DM 한 통이 도착했죠. L사 교육팀 직원인데 ‘미래 공간의 변화’를 주제로 임원 대상 교육 프로그램을 준비하고 있다고요. 프로그램을 준비하는 중에 제 책을 읽었는데, 혹시 공간]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTZfMjcy/MDAxNjU1MzY0OTQ0NDU5.ys3re_EVR4uM57GDbo-zgGiRlPEdfLquYr0ZlGWakqog.8V7pBUWcwWEPOE-QM_mzavmOtgzKBy3_2_OtCM8kUmAg.JPEG/%EB%84%A4%EC%98%A4_%EB%AC%BC%EB%A5%98%EC%84%BC%ED%84%B0_%EC%82%AC%EC%A7%84.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
