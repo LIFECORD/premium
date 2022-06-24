@@ -4,7 +4,7 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 01:05:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 03:39:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,7 +40,7 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/c18f2664-b37c-4c3f-9628-109a108ae0cc_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[MZ세대 10명 중 7명, ‘예약 서비스’ 제공하는 장소 선호한다. 왤까?]]></title>
+            <title><![CDATA[MZ세대 10명 중 7명, ‘예약 서비스’ 제공하는 장소 선호한다. 왜일까?]]></title>
             <link>https://www.careet.net/798</link>
             <guid>https://www.careet.net/798</guid>
             <pubDate>Thu, 23 Jun 2022 01:04:42 GMT</pubDate>
