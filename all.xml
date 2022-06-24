@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 10:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 11:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -575,13 +575,6 @@
             <content:encoded><![CDATA[노 모어 스테로이드]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[북저널리즘 라디오 에피소드 #41에선, 중국의 변화를 만들고 있는 90년대생, 스포츠를 넘보는 OTT들의 행보, 유아인말고 무아인이 뜨는 이유, 그리고 화물연대의 파업에 관해 이야기 합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/51801</link>
-            <guid>https://www.bookjournalism.com/audio/51801</guid>
-            <pubDate>Fri, 24 Jun 2022 10:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[애플은 축구를 하고 가상인간은 데뷔를 하지!]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[중국에서 제로 코로나 정책에 반발하는 학생 시위가 연일 열린다. 시진핑 연임을 앞두고, 90년대생이 새로운 변수가 될까. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/51660</link>
             <guid>https://www.bookjournalism.com/books/51660</guid>
@@ -608,6 +601,13 @@
             <guid>https://www.bookjournalism.com/books/51685</guid>
             <pubDate>Fri, 24 Jun 2022 10:15:12 GMT</pubDate>
             <content:encoded><![CDATA[가상인간은 메시지다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[화물연대와 정부의 협상이 결렬됐다. 이 시위, 어떻게 바라봐야 할까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/51656</link>
+            <guid>https://www.bookjournalism.com/books/51656</guid>
+            <pubDate>Fri, 24 Jun 2022 11:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[분노의 섀도복싱]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이벤트] 세상에서 제일 빠른 주린이 탈출법🙊 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
