@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 08:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 09:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하룻밤 만에 완성하는 프로모션 결과보고서 작성법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6876?fr=category</link>
+            <guid>https://publy.co/content/6876?fr=category</guid>
+            <pubDate>Tue, 28 Jun 2022 09:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[토스에서 소개한 C.C(Carrying capacity) 개념 한번에 정리해드림 (퍼블리)]]></title>
             <link>https://publy.co/content/6847?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6854?fr=category</guid>
             <pubDate>Sat, 18 Jun 2022 22:11:41 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[GA4 첫 단추! 보고서 해석보다 중요한 3단계 데이터 수집법 (퍼블리)]]></title>
-            <link>https://publy.co/content/6809?fr=category</link>
-            <guid>https://publy.co/content/6809?fr=category</guid>
-            <pubDate>Sat, 18 Jun 2022 22:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Z세대가 여름 시즌 굿즈로 추천한 의외의 아이템 5 (캐릿)]]></title>
