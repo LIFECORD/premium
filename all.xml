@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 14:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 15:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -542,12 +542,19 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/834515c4-a816-4c88-b78a-b4c4b9e6de7e_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[범블 : 틴더를 뒤쫓는 미국 2위 데이팅 앱, 데이트의 지형을 바꾸다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/340</link>
-            <guid>https://www.longblack.co/note/340</guid>
-            <pubDate>Mon, 27 Jun 2022 15:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;그거 알아? 요즘 Z 세대는 데이팅 앱으로 사람을 만난대. 난 솔직히 선입견이 살짝 생기더라고. 그런데 우리나라와 달리 미국에서는 앱을 통한 데이트가 보편화돼 있<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220623/1655962122aefcee4a6c78042d57c6bb1ea400f4ac.png" length="0" type="image/png"/>
+            <title><![CDATA[모티프원 : 파주 헤이리의 게스트하우스, 지친 여행객의 마음을 '대화'로 위로한 이유 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/338</link>
+            <guid>https://www.longblack.co/note/338</guid>
+            <pubDate>Tue, 28 Jun 2022 15:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;지난 6개월을 쉼 없이 달렸어요. 휴가가 필요했죠. 혼자 명상 좀 하고 오겠다 했더니, 친구가 게스트하우스 모티프원motif #1을 추천했어요! 저같은 직장인에게<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220627/1656300630f98f1d6e6b3128f2c780917a2a0a87c2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[경력직 채용 플랫폼이 커진다. 이 성장은 무엇을 의미할까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/52085</link>
+            <guid>https://www.bookjournalism.com/books/52085</guid>
+            <pubDate>Tue, 28 Jun 2022 15:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[안전한 직원 찾기 프로젝트]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[로 대 웨이드 판결이 뒤집혔다. 미국이 내세웠던 가치도 낙태 접근성과 함께 사라지고 있다. (북저널리즘)]]></title>
@@ -627,83 +634,76 @@
             <content:encoded><![CDATA[노 모어 스테로이드]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[중국에서 제로 코로나 정책에 반발하는 학생 시위가 연일 열린다. 시진핑 연임을 앞두고, 90년대생이 새로운 변수가 될까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51660</link>
-            <guid>https://www.bookjournalism.com/books/51660</guid>
-            <pubDate>Tue, 28 Jun 2022 14:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[Z세대는 참지 않지]]></content:encoded>
+            <title><![CDATA[주말 트렌드 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/tudal/master/contents/220617163322927ce</link>
+            <guid>https://contents.premium.naver.com/tudal/master/contents/220617163322927ce</guid>
+            <pubDate>Tue, 28 Jun 2022 15:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[때때로 나무와 숲을 주식시장에 인용하죠.   특히 올해처럼 인플레이션이 뚜렷한 시기는  나무(개별종목)보다 숲(주가지수, 섹터‧업종지수)을 보게 합니다.    더불어 주식을 벗어나 채권, 외환, 상품(원자재, 금 등), 가상화폐,  부동산 등의 자산 트렌드를 살펴 볼 필요가 있습니다.    왜냐하면 주식은 전체 금융시장의 나무이기도 하니까요.    주말 트렌드는 한주간 금융시장의]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTdfNTYg/MDAxNjU1NDUwNjY2NDYx.3F2Tf3TvNHeajH6DiaXc2KWqSFmrJG6s2r-BtU8r3Vwg.eMBAcQEDbTHuyRA9sAn1eXhMUn2bCYh7ImekYQgn2VUg.PNG/%EA%B8%80%EB%A1%9C02.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[김소연 에세이] 피부 뜯기 장애 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/bookcrew/essaycat/contents/220620172501713io</link>
-            <guid>https://contents.premium.naver.com/bookcrew/essaycat/contents/220620172501713io</guid>
-            <pubDate>Mon, 27 Jun 2022 15:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[피부 뜯기 장애 내 몸에는 흉터가 구석구석 숨겨져 있는데 이것들은 모두 내가 만들어낸 것이다. 아주 작은 상처에 자꾸 손을 대 딱지를 뜯어내다 보면 굳이 흉터로 남지 않을 상처까지 흉터가 된다. 이런 버릇이 일종의 강박인 줄은 익히 알고 있었지만 그 강박의 이름이 ‘피부 뜯기 장애’인 줄은 얼마 전에 알았다. 상처에 대처하는 태도가 엉망이고 결과적으로 흉터를 남기]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjBfMjQg/MDAxNjU1NzEzNDU0Njc2.9rM0ihcNi1BFCadzBn24ROMdFOjv0_0LQQuP7OQzPwwg.kXGAmOSz_biUWBQ2CbQFMbdo_b6AgAhXX8UTyutE4hIg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[로또학 박사 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/danhobak/danhoback/contents/220620112938884zq</link>
+            <guid>https://contents.premium.naver.com/danhobak/danhoback/contents/220620112938884zq</guid>
+            <pubDate>Tue, 28 Jun 2022 15:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[(소설입니다. 재미로만 봐주세요.) 한국은 실패자들의 나라이다. 살아남기 가혹한 곳. 초졸, 중졸, 고졸, 좋은 대학, 취업, 정규직, 결혼, 육아, 승진, 투자, 정년퇴임 등 고정된 길에서 살짝 벗어나거나 조금만 틀어져도, 그렇게 불려 버린다. 30대 중반에 아무것도 하지 않고 있는 나는 실패한 인생의 끝이라고 할 수 있다.  독륜차(獨輪車)를 처음 몰아보는 사람처럼, 정해진 길에서]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjZfODIg/MDAxNjU2MTc4MDc4ODQ1.90_DMxjZHDAcl5ASFqKvESHTqBbuhVAPw_fwOpvSU6kg.JbCl4L1n3UvgmJDeEuvimB2kPp4RUfGmkxCvT-S9BVsg.JPEG/lotto-864035_1920.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[이벤트] 세상에서 제일 빠른 주린이 탈출법🙊 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220419112937300vG</link>
-            <guid>https://contents.premium.naver.com/richtalk/richtalk1118/contents/220419112937300vG</guid>
-            <pubDate>Tue, 28 Jun 2022 03:40:54 GMT</pubDate>
-            <content:encoded><![CDATA[우리나라 경제활동 인구 2800만명 중, 무려 절반가량이 주식투자를 하고 있는데요 어느날 고개를 들어 주위를 둘러보니 엄마 친구 아들부터 내 옆자리 직장동료, 심지어는 십년지기 친구까지 알고보니 나만 빼고 다~ 주식을 하고 있어요🤔 "뒤쳐지긴 싫다, 나도 불로소득 좀 땡겨볼까?" 급한 마음에 일단 시작은 했는데 아무래도 막막...한 투자😱 지금 여러분의 투자는 안녕하신가]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA0MTlfNDMg/MDAxNjUwMzM1Mjk5Njky.lZGpdrBmTeXqnaAQQfWbMsU-m7rqFz5APw628ZmGumYg.6ko1l4hLioa8WP6Q9H6Y9kr8PPJazFEFjBLNWGYvEdsg.PNG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2022-04-19_%EC%98%A4%EC%A0%84_11.28.04.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[미국시장 테마(6월 22일 아침): 전통에너지, 기술/성장주 강세 vs. 철강주 하락 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/barbarian/stockideas/contents/220622081855239cb</link>
+            <guid>https://contents.premium.naver.com/barbarian/stockideas/contents/220622081855239cb</guid>
+            <pubDate>Tue, 28 Jun 2022 15:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[상승 테마 1) 전통 에너지(oil &amp; gas) - 지난주 크게 하락했던 유가 반등하는 모습 보이며 업종 전반 주가 강세 - 특히, Credit Suisse가 Exxon Mobil의 목표주가 125달러 제시하며 buy call 보고서 발표. 중장기 견고한 오일 수요를 바탕으로 회사가 매력적인 프로젝트에 투자하고 있다는 의견. 회사 주가 6% 상승 - 또한, Exxon Mobil은 QatarEnergy와 290억달러 규모 Qatar의 gas 프로젝트에 공동 투자한다]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjJfMyAg/MDAxNjU1ODUyMjYwNjc0.fAISUJLcLSneN2dLWMWiQC5Z6dyiNfcWnRxar0l-DFsg.zFRAFkBvJe9Sae7b2b79dN7FJAX6rbQacaClvFojl1cg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[ESG가 아직도 너무 어려운 팀장님께 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/teamleadersclub/pro/contents/220530095724919py</link>
-            <guid>https://contents.premium.naver.com/teamleadersclub/pro/contents/220530095724919py</guid>
-            <pubDate>Mon, 27 Jun 2022 15:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[2020년부터 ESG(Environment, Society, Governance : 기업의 비재무적 요소인 친환경, 사회적 책임경영, 지배구조 개선을 고려한 경영전략 / *일반적으로 Environmental, Social &amp; Governance라고 한다.)라는 단어를 접했습니다. 그동안 몇 권의 ESG 관련 책도 읽어보고, 세미나, 컨퍼런스도 참여하면서 ESG가 향후 비즈니스에서 중요한 화두이자 기준인 것은 알겠는데 이해하기 쉽지 않더군요. 중요성은]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MDNfMjAx/MDAxNjUxNTY2MzY0NzA3._v0eJfYRrUKtLCETGy5RDWV1dr0rfLjgsmqrAt2_fpgg.uhcrUIQuTLr-vuJsCnPPLLgdUcTUXuz-jByGq5Xfthsg.JPEG/01.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[테마주-결제 : 이렇게 간편하게 결제하기 있기 없기? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/220622093021939yd</link>
+            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/220622093021939yd</guid>
+            <pubDate>Tue, 28 Jun 2022 15:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19로 비대면 거래 성장! 현금없는 사회는 성큼 다가오는 중! 온라인 결제가 늘수록 혜택보는 결제관련주 환율과 높은 금리 우려되지만 장기적으론 시장 성장할 것으로 전망! #미국주식 #결제관련주 #전자결제 집콕으로  온라인 구매율이 높아지고 있다!? 어마어마한 7천조원 시장! 전자결제는 트렌드에 맞춰 BNPL서비스 (선구매후지불) 가상회폐 결제 지원계획 등 결제시장은]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjJfNzYg/MDAxNjU1ODU3NjI4NDAw.ytnYuq3UHKhOJuuUgcJZfQWteHbHZCgD1CN0dkuZISsg.hVJwhS9Ud0p_yKkl_S5MMPD5sZg1IZLptYItd-w2CdQg.PNG/1.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[변호사가 PICK한 5월의 뉴스 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/lawmission/startupforest/contents/220531165958016kr</link>
-            <guid>https://contents.premium.naver.com/lawmission/startupforest/contents/220531165958016kr</guid>
-            <pubDate>Mon, 27 Jun 2022 15:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[🖋 이 글은 법무법인 미션의 변호사들과 스타트업 포레스트가 만드는 뉴스레터 '로스규이'의 5월 30일 월요일 발행분입니다.  🖋 스타트업 전문 로펌의 변호사로서, 더욱 많은 스타트업 관계자들에게 도움을 드리기 위해 매주 월요일에 레터를 무료로 보내드립니다. #로스규이 신청하기 링크 🖋 변호사의 관점으로 한 주간 스타트업 씬에서 일어난 일 혹은 스타트업 종사자들이 알]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA1MzFfNjcg/MDAxNjUzOTgyOTAzMDA3.mU2tw1c2JN3UxWCm_iKWt2JHoHiEbjbgkvB-V0D7A4Ag.S9eVEfSMPY1Ni2Xfb1aoIRPXJ1YHeC6Z4bY1Ep0pjf4g.PNG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2022-04-25_%EC%98%A4%ED%9B%84_9.41.29.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[메타가 드러낸 메타버스 사업 야심 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220622083618491ko</link>
+            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220622083618491ko</guid>
+            <pubDate>Tue, 28 Jun 2022 15:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[💬 무슨 일이지? 메타가 온라인 간담회에서 개발 중인 여러 종류의 가상현실(VR) 기기 시제품을 공개했습니다. 메타는 이미 가상현실(VR)과 증강현실(AR) 기술 연구 및 개발에만 100억 달러 이상을 썼는데요. 이 투자를 바탕으로 현재까지 메타가 얼마나 많은 진전을 이루고 있는지를 보였습니다.  메타 CEO 마크 저커버그는 메타가 현실적인 경험을 제공하도록 설계된 차세대 가상현]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjJfNTIg/MDAxNjU1ODU0NDI4MTA5.J9qg5-Zdwoy9Gbm7gGjG2ZCZwCbQzFsPK1lH1Il0onIg.Na12aGTweyojEf9jFD0Yyh4bqRg8-bcR0MxigERLoDQg.JPEG/%EB%A9%94%ED%83%80.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세상에서 가장 비싸지만, 가장 가치 있는 점심가격 1900백만 달러 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/lskjhc/wisdom/contents/220621100122734sm</link>
-            <guid>https://contents.premium.naver.com/lskjhc/wisdom/contents/220621100122734sm</guid>
-            <pubDate>Tue, 28 Jun 2022 08:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[Berkshire Hathaway의 회장이자 CEO인 91세의 버핏은 2000년에 시작된 21번의 경매에서 글라이드를 위해 5,320만 달러 이상을 모금했습니다. eBay 대변인은 점심이 회사 웹사이트에서 자선단체에 기부하기 위해 판매된 가장 비싼 품목이라고 말했습니다. COVID-19 전염병으로 인해 2020년과 2021년에는 경매가 열리지 않았습니다. 버핏은 2004년에 사망한 그의 첫 번째 아내 수잔이 그녀가 자원봉]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjFfMjgz/MDAxNjU1NzcyOTM3ODk5.5OVv-6fYPwel6c1dPcwkLBeqdwhF06VUYOE9dO7fuzYg.L12hFP8yGG8EJyyAnCIy-I_4fpOmXCcUK2rXRtEzek8g.JPEG/MicrosoftTeams_image__6.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[아무 문장이나 한 문장씩 익힌다고 영어가 늘까요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/winningstory/wnshadowing/contents/220330155617418TA</link>
+            <guid>https://contents.premium.naver.com/winningstory/wnshadowing/contents/220330155617418TA</guid>
+            <pubDate>Tue, 28 Jun 2022 15:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[어느 날 새로운 표현을 익히게 되면  이런 생각을 하지 않으셨나요? “그래, 이렇게 하루 한 문장씩  새로운 문장을 익히면  몇 년 후엔 영어를 잘 할 수 있을거야.” 이런 생각을 하시는 분들은 많지만, 실제로 한 문장씩 익혀서  영어를 잘 하게 되었다는 분들을  만나기는 쉽지 않습니다. 일단 꾸준히 한 문장씩 익히는 분들을  만나기가 쉽지 않습니다.  (제 주변에만 없는걸까요]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzBfMjk5/MDAxNjQ4NjEzMTcyODYy.Ocjuhb4WS1TYHr_wvXym7xTnYDAy2O_g3ohBR7O6PRAg.489rU7g2GBUt5YyrkrqfCNgd5HXI1mr22mmeY2FooVwg.JPEG/n2.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[中, 마약 산업을 무기화…“알약 하나로 미국을 무너뜨린다” [차이나 인 포커스] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/epochkorea/epic/contents/220614061332224bz</link>
-            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220614061332224bz</guid>
-            <pubDate>Mon, 27 Jun 2022 15:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[아주 작지만 치명적인 것이 있습니다. 어느 때보다 많은 미국민들이 약물 과다복용으로 사망하고 있습니다. 불법 마약이 국경을 넘어 쏟아져 들어오고 있습니다. 하지만 그것들은 수천 마일을 건너왔습니다. 오늘 특집 보도에서는 중국이 어떻게 마약 산업을 무기화했는지와 함께 모든 미국민들에게 영향을 미친 방법과 그것을 막기 위해 어떻게 하고 있는지에 대해 알아봅니다]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTRfMTEg/MDAxNjU1MTU0NjYwNzUx.PAf18qJY6OEj2iDk2KdKf0hT9Wc2bLvrXyym4jFYOYog.Ayqf5Cob7MlE3YS9OdU0xUf_r1oal5g0mauoX8jOaksg.JPEG/maxresdefault.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
+            <title><![CDATA[테슬라 "인력 감축, 계획대로 한다" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220622083743828sj</link>
+            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220622083743828sj</guid>
+            <pubDate>Tue, 28 Jun 2022 15:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[💬 무슨 일이지? 미국 전기차기업 테슬라가 사전 통보 없이 직원들을 대규모 해고한 혐의로 소송을 당한 가운데 일론 머스크 CEO가 직원 감축 의사를 재차 드러냈습니다. 머스크 CEO는 21일(현지시간) 블룸버그통신 주최로 열린 카타르 경제포럼에서 "앞으로 3개월 동안 전체 인력의 3.0~3.5%를 감축할 예정"이라며 "우리는 정규직 인력이라는 측면에서 너무 빨리 성장했으며, 이는 아]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjJfMjQ0/MDAxNjU1ODU0MzQ5Njk0.-0oBQYfmAzF5hJux2X7Nuvgi09-ZCgfTQwzJvz0T6Vcg.4T6VRWtOsxCShqNeX50z8rw8-xaWCj0Lxv87L7jyZDIg.JPEG/0x0-ModelS_03.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뤼팽이 본 감자튀김 실종사건 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/science2005/science/contents/220621101539997td</link>
-            <guid>https://contents.premium.naver.com/science2005/science/contents/220621101539997td</guid>
-            <pubDate>Tue, 28 Jun 2022 10:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[아르센 뤼팽의 첫 번째 편지 사랑하는 클레르에게,   나는 이곳 케냐에서 매우 흥미로운 사건을 지켜보고 있소. 이름하여 감자튀김 실종사건이랄까, 며칠 전 내가 좋아하는 치킨 매장에 가서 반 마리 세트 메뉴를 시켰는데 거기서 놀라운 풍경이 펼쳐진 거요. 예전 같으면 당연히 따라 나와야 할 감자튀김이 사라지고 대신 양배추 무침과 치킨 너깃 중 하나를 선택하라고 하더군.]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjFfMjk3/MDAxNjU1NzczNDM3NTYz.bkqkJgoEmf2nKY3uaCM9LO4VrsEJm2zr6tCch6QxQ84g.qi9vtfJEZ_v8U8Qx7w8AnTwbqcJanWdYm5ybrP1F-cIg.JPEG/%EB%A4%BC%ED%8C%BD_brands-people-M2cFm9iHXSc-unsplash.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[행복할 수 있는 매우 간단한 방법 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/cecilcompany/cecil/contents/220622223504396sd</link>
+            <guid>https://contents.premium.naver.com/cecilcompany/cecil/contents/220622223504396sd</guid>
+            <pubDate>Tue, 28 Jun 2022 15:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[좋은 강의를 읽어보는 수요일입니다.  오늘은 많은 분들이 좋아하시는 아주대 심리학과 김경일 교수님의 강의를 준비했습니다.  최근 강의 중, '투자, 의사결정, 행복'에 대한 매우 흥미진진한 강의가 있어서  여러분께 소개해 드리고자 합니다.  강의 내용을 토대로 제 생각을 가미해 정리했으니 참고해 주시면 되겠습니다.  긍정적 의사결정은 어떻게 잘 할 수 있을까?  여러분은]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjJfMTk2/MDAxNjU1OTA0NTU5NzAx.9bUMmh32NM4LqMo-hfx4j0KLSYfyLtNRH35XjOqZjoUg.C--7c1mVc5ZSCwVZdaxk2GF52_nOx4NsHIh7aEVi4cMg.JPEG/KakaoTalk_20210819_224615218.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[파리 콜드플레이스 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/milabo/parislogue/contents/220613105952951di</link>
-            <guid>https://contents.premium.naver.com/milabo/parislogue/contents/220613105952951di</guid>
-            <pubDate>Mon, 27 Jun 2022 15:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[파리에서 제일 시원한 곳 에어컨 없는 도시에서 여름 나기   유럽의 여름은 덥고, 에어컨에 인색합니다.  여름 파리를 여행하다 보면 시원한 곳을 찾게 되는데요. 그러다 보면 프랑스 국교가 가톨릭이었다는 것에 감사하게 됩니다. 돌로 지어진 성당들은 에어컨이 없어도 그나마 시원하거든요. 물론 한 여름에는 소용이 없습니다.   파리에서 에어컨이 나오는 곳은 백화점입니다.]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTNfOTMg/MDAxNjU1MDgyNTIxMDc4.KISvzFYbPkELmj9jki3yMFKr8hHA2KwTV-DYOeZGSJcg.jVQKp_Ly0XnbZxjXUE8rhxzUMLfOx6jaMv0tJ6otlj4g.JPEG/SE-340fccf1-4c16-454f-80f7-1ceb0dbdf4d2.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EVANS - 내돈내산 사용기 2부 - 11년 되어가는 BMW에 에반스 시공, 그 험난했던 이야기 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/lefthand/premium/contents/220621145911101lh</link>
-            <guid>https://contents.premium.naver.com/lefthand/premium/contents/220621145911101lh</guid>
-            <pubDate>Tue, 28 Jun 2022 13:36:30 GMT</pubDate>
-            <content:encoded><![CDATA[EVANS, waterless engine coolant 내돈내산 사용기 - 2부  11년 되어가는 BMW에 에반스 시공, 그 험난했던 이야기 햇빛이 뜨거웠던 어느 6월의 여름날. 서울 시내를 달리고 있던 저의 BMW 535i (N55 엔진) 는 유난히 냉각팬이 자주 작동하면서 "우웅~위잉~" 소리를 내기 시작합니다. 이제 여름이 오고 있음을 실감합니다. 이제 곧 있으면 만 11년이 되어가는 이 차와 아직도 최소 3년은 더 함께 하고]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjBfMTM3/MDAxNjU1Njk2NjMzNzU2._WMILKWt47WAR93RdKBgJNIS8jvRqF5c_PME2pSirZ4g.1CH55kHDFN4j-9B3IhSqPqHXSndkivFhe7TGFqd8fR4g.JPEG/SE-40574bf7-18b6-4345-a204-e2e7eff019bc.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[말문트기(5)  운전 경력은 얼마나 되세요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/winningstory/wnshadowing/contents/220330160037731hV</link>
+            <guid>https://contents.premium.naver.com/winningstory/wnshadowing/contents/220330160037731hV</guid>
+            <pubDate>Tue, 28 Jun 2022 15:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[위닝스토리 하루한문장 영어쉐도잉 오늘 연습할 문장은 운전 경력은 얼마나 되세요? 입니다. 이 질문을 활용할 맥락과 영어 의문문을 다양한 상황에서 익혀보고 싶은 분들은 위의 영상을 활용해 보세요~ 오늘 연습할 문장은 다음과 같습니다.  have been ing  같은 시제 나오면 덜컥 겁부터 나세요? 어렵게 생각하지 말고, 오늘 질문과 같은 상황에서  일단 이 표현을 쓸 수 있다는 것]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzBfMjEw/MDAxNjQ4NjM1MjY1MDMx.aufMnQlw9E1xLjlasqMJD65ghodOP7meJO4S1TzrUp8g.dc460tm0iyWiGHE17CHOtKc6i5Kd7gjAhMvlAoW5nfgg.JPEG/sa5.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
