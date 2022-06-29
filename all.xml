@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 14:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 15:45:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -550,12 +550,19 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/834515c4-a816-4c88-b78a-b4c4b9e6de7e_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[모티프원 : 파주 헤이리의 게스트하우스, 지친 여행객의 마음을 '대화'로 위로한 이유 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/338</link>
-            <guid>https://www.longblack.co/note/338</guid>
-            <pubDate>Tue, 28 Jun 2022 15:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;지난 6개월을 쉼 없이 달렸어요. 휴가가 필요했죠. 혼자 명상 좀 하고 오겠다 했더니, 친구가 게스트하우스 모티프원motif #1을 추천했어요! 저같은 직장인에게<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220627/1656300630f98f1d6e6b3128f2c780917a2a0a87c2.png" length="0" type="image/png"/>
+            <title><![CDATA[달러 제너럴 : 미국판 다이소, 확실한 컨셉으로 미국 시골을 점령하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/339</link>
+            <guid>https://www.longblack.co/note/339</guid>
+            <pubDate>Wed, 29 Jun 2022 15:44:45 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;얼마 전에 마우스에 넣을 건전지를 사러 집 근처 다이소에 갔습니다. 요새 소비자 물가가 많이 올랐잖아요. 조금이라도 더 저렴한 물건을 찾게 됩니다. 저 같은 사람<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220627/1656303463c4881b01ea8d75b3650686c5a6a029b0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[엔터계의 ESG 경영이 화제다. 음반 마케팅으로 매출을 올리는 음악 산업의 구조는 변할 수 있을까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/52111</link>
+            <guid>https://www.bookjournalism.com/books/52111</guid>
+            <pubDate>Wed, 29 Jun 2022 15:45:07 GMT</pubDate>
+            <content:encoded><![CDATA[앨범의 홍수]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인터넷의 역사를 이야기할 때 구글이나 페이스북, 아마존을 빼놓을 수는 없다. 그러나 인터넷을 가장 먼저 정복한 기업은 이베이였다. (북저널리즘)]]></title>
@@ -635,83 +642,76 @@
             <content:encoded><![CDATA[메신저는 거들 뿐]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스마트워치 시장이 날로 커지고 있다. 제2의 스마트 혁명은 스마트워치가 주도할까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/51858</link>
-            <guid>https://www.bookjournalism.com/books/51858</guid>
-            <pubDate>Wed, 29 Jun 2022 13:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[제2의 스마트혁명?]]></content:encoded>
+            <title><![CDATA['신창환의 실전투자 교실' 1강 (OBV, 이동평균선) (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/kiwoom/thestock/contents/211008170722220FZ</link>
+            <guid>https://contents.premium.naver.com/kiwoom/thestock/contents/211008170722220FZ</guid>
+            <pubDate>Wed, 29 Jun 2022 15:45:16 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 청송촌놈 신창환입니다. 평소 유튜브로만 찾아뵙다가 이렇게 ‘THE STOCK’을 통해서 투자교실을 오픈하게 되었습니다. 앞으로 알찬 기법 강의들 계속 올릴 예정이니 많은 사랑 부탁드립니다.  이번 보조지표 강의는 [이동평균선 + 일목균형표 + RENKO + OBV + 스토캐스틱] 을 종합적으로 사용하실 수 있는 패키지로 총 2강으로 준비했습니다. 지금까지 공개하지 않은 디테]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEwMDhfNDUg/MDAxNjMzNjgwNDE3NTE4.jOX7WHAZZ3IhJ2cQFcLYjux_-lFnaZwkhcn-GAYYGnEg.JV2yC6myEtcaN0ensy2qmLSyNLOWE42G4wqKmcvVF58g.PNG/%EC%8B%A0%EC%B0%BD%ED%99%98_%EA%B0%95%EC%9D%98_%EC%8D%B8%EB%84%A4%EC%9D%BC.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[주말 트렌드 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/tudal/master/contents/220617163322927ce</link>
-            <guid>https://contents.premium.naver.com/tudal/master/contents/220617163322927ce</guid>
-            <pubDate>Tue, 28 Jun 2022 15:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[때때로 나무와 숲을 주식시장에 인용하죠.   특히 올해처럼 인플레이션이 뚜렷한 시기는  나무(개별종목)보다 숲(주가지수, 섹터‧업종지수)을 보게 합니다.    더불어 주식을 벗어나 채권, 외환, 상품(원자재, 금 등), 가상화폐,  부동산 등의 자산 트렌드를 살펴 볼 필요가 있습니다.    왜냐하면 주식은 전체 금융시장의 나무이기도 하니까요.    주말 트렌드는 한주간 금융시장의]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTdfNTYg/MDAxNjU1NDUwNjY2NDYx.3F2Tf3TvNHeajH6DiaXc2KWqSFmrJG6s2r-BtU8r3Vwg.eMBAcQEDbTHuyRA9sAn1eXhMUn2bCYh7ImekYQgn2VUg.PNG/%EA%B8%80%EB%A1%9C02.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[정여울의 살롱 드 뮤즈 2회: 끝없이 솟아오르는 영감의 보물창고, 월든 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/yeoul/salondemuse/contents/211119151035734VT</link>
+            <guid>https://contents.premium.naver.com/yeoul/salondemuse/contents/211119151035734VT</guid>
+            <pubDate>Wed, 29 Jun 2022 15:45:16 GMT</pubDate>
+            <content:encoded><![CDATA[여기서부터는 '월든 존'입니다, 이제 그 무거운 신발을 벗어도 좋습니다! 오늘도 과연 내 길이 맞는가 의심하며 자신을 괴롭혔는지요. 타인의 시선을 신경쓰며 너무 피곤한 하루를 보내는 우리들. 사회적 시선에 지치고 감정노동에 지친 여러분께, 나는 초대장을 내밀고 싶습니다. 여기서부터는 ‘월든 존’이라고. 이제부터 감정노동은 쉬어도 되지만, 지적이고 생동감 넘치는]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMTlfMTAg/MDAxNjM3MzAxMjMxNjU4.eBuRNaarIhDjyxVTtbhyJvxXJFhuB5s94oy1Hs3yp1gg.HGYAz2VT_V0g5iaZeVDC_ACYbbqsKWgH6qdMCtQA2Ggg.JPEG/01_%EC%86%8C%EB%A1%9C%EA%B0%80_%ED%8F%89%EC%83%9D_%EC%82%AC%EB%9E%91%ED%96%88%EB%8D%98_%EC%9B%94%EB%93%A0_%ED%98%B8%EC%88%98(%EC%88%98%EC%A0%95)_.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[로또학 박사 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/danhobak/danhoback/contents/220620112938884zq</link>
-            <guid>https://contents.premium.naver.com/danhobak/danhoback/contents/220620112938884zq</guid>
-            <pubDate>Tue, 28 Jun 2022 15:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[(소설입니다. 재미로만 봐주세요.) 한국은 실패자들의 나라이다. 살아남기 가혹한 곳. 초졸, 중졸, 고졸, 좋은 대학, 취업, 정규직, 결혼, 육아, 승진, 투자, 정년퇴임 등 고정된 길에서 살짝 벗어나거나 조금만 틀어져도, 그렇게 불려 버린다. 30대 중반에 아무것도 하지 않고 있는 나는 실패한 인생의 끝이라고 할 수 있다.  독륜차(獨輪車)를 처음 몰아보는 사람처럼, 정해진 길에서]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjZfODIg/MDAxNjU2MTc4MDc4ODQ1.90_DMxjZHDAcl5ASFqKvESHTqBbuhVAPw_fwOpvSU6kg.JbCl4L1n3UvgmJDeEuvimB2kPp4RUfGmkxCvT-S9BVsg.JPEG/lotto-864035_1920.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[MZ세대 무주택자를 위한 부동산 콘텐츠, 부딩 대표 이영균 인터뷰 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/big/highres/contents/211227160307759Uv</link>
+            <guid>https://contents.premium.naver.com/big/highres/contents/211227160307759Uv</guid>
+            <pubDate>Wed, 29 Jun 2022 15:45:16 GMT</pubDate>
+            <content:encoded><![CDATA[관련글: 우리는 언제쯤 부모를 극복할 수 있을까: 에세이 작가 오소희 인터뷰 (naver.com) 인터뷰어: 이기원 여러 잡지사에서 에디터로 일했습니다. 최근에는 여러 기업의 브랜드 콘텐츠를 만들고 있습니다. 인터뷰이: 이영균 아무것도 하지 않는 게 가장 큰 리스크다! 밀레니얼을 위한 부동산 콘텐츠 ‘부딩’ 대표입니다. BOODING+ : 네이버 프리미엄콘텐츠 (naver.com) 요즘 가장 중요한]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMjdfMjE0/MDAxNjQwNTg4MjYxMzI3.7ES92L0DFkU0HNDJiABij1LRgO6LgZAaQriwZeT7e0og.hu5nJj_NJHbgElx7DW86yBOp-kOcg1XXAA0cLMxRtjog.JPEG/%EA%B7%B8%EB%A6%BC15.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미국시장 테마(6월 22일 아침): 전통에너지, 기술/성장주 강세 vs. 철강주 하락 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/barbarian/stockideas/contents/220622081855239cb</link>
-            <guid>https://contents.premium.naver.com/barbarian/stockideas/contents/220622081855239cb</guid>
-            <pubDate>Tue, 28 Jun 2022 15:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[상승 테마 1) 전통 에너지(oil &amp; gas) - 지난주 크게 하락했던 유가 반등하는 모습 보이며 업종 전반 주가 강세 - 특히, Credit Suisse가 Exxon Mobil의 목표주가 125달러 제시하며 buy call 보고서 발표. 중장기 견고한 오일 수요를 바탕으로 회사가 매력적인 프로젝트에 투자하고 있다는 의견. 회사 주가 6% 상승 - 또한, Exxon Mobil은 QatarEnergy와 290억달러 규모 Qatar의 gas 프로젝트에 공동 투자한다]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjJfMyAg/MDAxNjU1ODUyMjYwNjc0.fAISUJLcLSneN2dLWMWiQC5Z6dyiNfcWnRxar0l-DFsg.zFRAFkBvJe9Sae7b2b79dN7FJAX6rbQacaClvFojl1cg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA[살롱드뮤즈 5회:나의 아름다운 벗, 황광수선생님께 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/yeoul/salondemuse/contents/211126094759298gF</link>
+            <guid>https://contents.premium.naver.com/yeoul/salondemuse/contents/211126094759298gF</guid>
+            <pubDate>Wed, 29 Jun 2022 15:45:16 GMT</pubDate>
+            <content:encoded><![CDATA[정여울의 살롱드뮤즈 5회    나의 다정한 스승, 황광수선생님께 보내는 편지   이제 다시는 그런 사랑을 받을 수 없겠지   부치지 못한 편지, 그러나 언젠가는 꼭 가닿을 편지   “이제 다시는 그런 사랑을 받을 수 없겠구나.”  “넌 다시는 그 어디서도 그런 사랑은 받을 수가 없겠구나.”  선생님이 세상을 떠나신 뒤, 제 마음속에서 자꾸만 떠오르던 문장입니다. 저도 모르게 자]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjZfNiAg/MDAxNjM3ODY2Mzk3Nzk0.h3RexNkokt6GHdQQDdYUC4lfWkv2QmQF4WlMksOmjmcg.rinJ4y2OguVumcOb47_uoOCbeMR2jgqQvnykKTrYXFcg.PNG/untitled.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[테마주-결제 : 이렇게 간편하게 결제하기 있기 없기? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/usstock/stockmarket/contents/220622093021939yd</link>
-            <guid>https://contents.premium.naver.com/usstock/stockmarket/contents/220622093021939yd</guid>
-            <pubDate>Tue, 28 Jun 2022 15:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19로 비대면 거래 성장! 현금없는 사회는 성큼 다가오는 중! 온라인 결제가 늘수록 혜택보는 결제관련주 환율과 높은 금리 우려되지만 장기적으론 시장 성장할 것으로 전망! #미국주식 #결제관련주 #전자결제 집콕으로  온라인 구매율이 높아지고 있다!? 어마어마한 7천조원 시장! 전자결제는 트렌드에 맞춰 BNPL서비스 (선구매후지불) 가상회폐 결제 지원계획 등 결제시장은]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjJfNzYg/MDAxNjU1ODU3NjI4NDAw.ytnYuq3UHKhOJuuUgcJZfQWteHbHZCgD1CN0dkuZISsg.hVJwhS9Ud0p_yKkl_S5MMPD5sZg1IZLptYItd-w2CdQg.PNG/1.png?type=nfs220_220" length="0" type="image/png"/>
+            <title><![CDATA["올해 집값 폭락할까요?" 부동산 전문가 8명에게 물으니 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/reaItyoo/zipoopro/contents/220103154335307Yw</link>
+            <guid>https://contents.premium.naver.com/reaItyoo/zipoopro/contents/220103154335307Yw</guid>
+            <pubDate>Wed, 29 Jun 2022 15:45:16 GMT</pubDate>
+            <content:encoded><![CDATA[땅집고가 새해를 맞이해 부동산 전문가 8명 대상으로 주택 시장 전망에 대해 물었습니다. 그 결과를 4회에 걸쳐 싣습니다. 1회는 새해 집값 전망, 2회는 새해 투자 유망지역, 3회는 주택 보유 상황별 전략, 4회는 대선 후보 공약 집중 분석입니다. 설문에 응답해 주신 분은 권대중 명지대 교수, 김경민 서울대 환경대학원 교수, 김학렬 스마트튜브부동산조사연구소장, 심교언 건국대]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMDNfMTE5/MDAxNjQxMTkxNDU3NzI3.Bk730qK_B55QW2spAbBGAkTKkf6MnjMffdp4SxAiWYIg.bjMzj_D0qzc1kQxmE2axT4fHGGZ2bNuDxLwYFSbPjZsg.JPEG/111.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[메타가 드러낸 메타버스 사업 야심 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220622083618491ko</link>
-            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220622083618491ko</guid>
-            <pubDate>Tue, 28 Jun 2022 15:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[💬 무슨 일이지? 메타가 온라인 간담회에서 개발 중인 여러 종류의 가상현실(VR) 기기 시제품을 공개했습니다. 메타는 이미 가상현실(VR)과 증강현실(AR) 기술 연구 및 개발에만 100억 달러 이상을 썼는데요. 이 투자를 바탕으로 현재까지 메타가 얼마나 많은 진전을 이루고 있는지를 보였습니다.  메타 CEO 마크 저커버그는 메타가 현실적인 경험을 제공하도록 설계된 차세대 가상현]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjJfNTIg/MDAxNjU1ODU0NDI4MTA5.J9qg5-Zdwoy9Gbm7gGjG2ZCZwCbQzFsPK1lH1Il0onIg.Na12aGTweyojEf9jFD0Yyh4bqRg8-bcR0MxigERLoDQg.JPEG/%EB%A9%94%ED%83%80.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[경제전파사, 늦은 인사 드립니다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/economy/economywave/contents/211201172421468SM</link>
+            <guid>https://contents.premium.naver.com/economy/economywave/contents/211201172421468SM</guid>
+            <pubDate>Wed, 29 Jun 2022 15:45:16 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 경제전파사를 운영하는 강예지, 이원종입니다. 9월 30일 처음 네이버 프리미엄 콘텐츠에 글을 올리고 두 달이 다 되어서야 소개글을 올립니다. 인사가 늦어 죄송합니다. 오늘은 저희를 제대로 소개하고, 미약하지만 그간의 운영성과와 저희의 고민, 그리고 독자분들께 어떤 콘텐츠를 드릴지에 대한 계획까지 말씀드리고자 해요. 저희가 첫 이벤트를 진행하니 많은 성]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTExMjJfMTY4/MDAxNjM3NTY3MTM5MDQw.Xofg0e5pUiT7BylsrPEqPdRp86_EfFog7mEVzp3N2qEg.V3p5etzrvbnSGhTUmgj0nc50LaCxGjePTAFixFW_nCQg.PNG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2021-11-22_%EC%98%A4%ED%9B%84_4.37.32.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[아무 문장이나 한 문장씩 익힌다고 영어가 늘까요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/winningstory/wnshadowing/contents/220330155617418TA</link>
-            <guid>https://contents.premium.naver.com/winningstory/wnshadowing/contents/220330155617418TA</guid>
-            <pubDate>Tue, 28 Jun 2022 15:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[어느 날 새로운 표현을 익히게 되면  이런 생각을 하지 않으셨나요? “그래, 이렇게 하루 한 문장씩  새로운 문장을 익히면  몇 년 후엔 영어를 잘 할 수 있을거야.” 이런 생각을 하시는 분들은 많지만, 실제로 한 문장씩 익혀서  영어를 잘 하게 되었다는 분들을  만나기는 쉽지 않습니다. 일단 꾸준히 한 문장씩 익히는 분들을  만나기가 쉽지 않습니다.  (제 주변에만 없는걸까요]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzBfMjk5/MDAxNjQ4NjEzMTcyODYy.Ocjuhb4WS1TYHr_wvXym7xTnYDAy2O_g3ohBR7O6PRAg.489rU7g2GBUt5YyrkrqfCNgd5HXI1mr22mmeY2FooVwg.JPEG/n2.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA['새해 투자 유망 지역' 전문가들이 콕 집은 이곳 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/reaItyoo/zipoopro/contents/220103155012706wF</link>
+            <guid>https://contents.premium.naver.com/reaItyoo/zipoopro/contents/220103155012706wF</guid>
+            <pubDate>Wed, 29 Jun 2022 15:45:16 GMT</pubDate>
+            <content:encoded><![CDATA[땅집고가 새해를 앞두고 부동산 전문가 8명 대상으로 주택 시장 전망에 대해 물었습니다. 그 결과를 4회에 걸쳐 싣습니다. 1회는 새해 집값 전망, 2회는 새해 투자 유망지역, 3회는 주택 보유 상황별 전략, 4회는 대선 후보 공약 집중 분석입니다. 설문에 응답해 주신 분은 권대중 명지대 교수, 김경민 서울대 환경대학원 교수, 김학렬 스마트튜브부동산조사연구소장, 심교언 건국대]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMDNfNzcg/MDAxNjQxMTkyMzMzMDc3.nNxh5g3qkiBbJVLGIkgrhleLNKdw2RBGKgbdweK7zzsg.VEpWAqEWp4XyvniF1REgl29BNzxyp9OQtwY_y4da3vwg.JPEG/111.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[테슬라 "인력 감축, 계획대로 한다" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220622083743828sj</link>
-            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220622083743828sj</guid>
-            <pubDate>Tue, 28 Jun 2022 15:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[💬 무슨 일이지? 미국 전기차기업 테슬라가 사전 통보 없이 직원들을 대규모 해고한 혐의로 소송을 당한 가운데 일론 머스크 CEO가 직원 감축 의사를 재차 드러냈습니다. 머스크 CEO는 21일(현지시간) 블룸버그통신 주최로 열린 카타르 경제포럼에서 "앞으로 3개월 동안 전체 인력의 3.0~3.5%를 감축할 예정"이라며 "우리는 정규직 인력이라는 측면에서 너무 빨리 성장했으며, 이는 아]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjJfMjQ0/MDAxNjU1ODU0MzQ5Njk0.-0oBQYfmAzF5hJux2X7Nuvgi09-ZCgfTQwzJvz0T6Vcg.4T6VRWtOsxCShqNeX50z8rw8-xaWCj0Lxv87L7jyZDIg.JPEG/0x0-ModelS_03.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[우리는 언제쯤 부모를 극복할 수 있을까: 에세이 작가 오소희 인터뷰 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/big/highres/contents/211227160301361Hj</link>
+            <guid>https://contents.premium.naver.com/big/highres/contents/211227160301361Hj</guid>
+            <pubDate>Wed, 29 Jun 2022 15:45:16 GMT</pubDate>
+            <content:encoded><![CDATA[관련글: MZ세대 무주택자를 위한 부동산 콘텐츠, 부딩 대표 이영균 인터뷰 (naver.com) 인터뷰어: 김송희 필명 늘그니. &lt;빅이슈&gt; 편집장. 전 &lt;씨네21&gt;, &lt;캠퍼스 씨네21&gt; 기자. &lt;나일론&gt;, &lt;한겨레&gt;, &lt;하이컷&gt;, &lt;여성 중앙&gt;, &lt;페이퍼&gt;, 텐아시아, 카카오 등 온오프라인의 수많은 매체에서 글을 써왔다. 인터뷰이: 오소희 작가. 언제 어디에 머물러 있든, 자기만의 세계를 가꾸는 여성들의 멘토.]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMTEyMjdfMTAg/MDAxNjQwNTg3NzEzMzAy.aUc8We7bI5e-8kvTOvYd3hFJYbk0_CcPoN0-5iofbn8g.Lz8xT1tWuQfAfL7mTyqI04zaOLiy6RpYGjVcrG30h5Ag.JPEG/%EA%B7%B8%EB%A6%BC3.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[행복할 수 있는 매우 간단한 방법 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/cecilcompany/cecil/contents/220622223504396sd</link>
-            <guid>https://contents.premium.naver.com/cecilcompany/cecil/contents/220622223504396sd</guid>
-            <pubDate>Tue, 28 Jun 2022 15:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[좋은 강의를 읽어보는 수요일입니다.  오늘은 많은 분들이 좋아하시는 아주대 심리학과 김경일 교수님의 강의를 준비했습니다.  최근 강의 중, '투자, 의사결정, 행복'에 대한 매우 흥미진진한 강의가 있어서  여러분께 소개해 드리고자 합니다.  강의 내용을 토대로 제 생각을 가미해 정리했으니 참고해 주시면 되겠습니다.  긍정적 의사결정은 어떻게 잘 할 수 있을까?  여러분은]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjJfMTk2/MDAxNjU1OTA0NTU5NzAx.9bUMmh32NM4LqMo-hfx4j0KLSYfyLtNRH35XjOqZjoUg.C--7c1mVc5ZSCwVZdaxk2GF52_nOx4NsHIh7aEVi4cMg.JPEG/KakaoTalk_20210819_224615218.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[말문트기(5)  운전 경력은 얼마나 되세요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/winningstory/wnshadowing/contents/220330160037731hV</link>
-            <guid>https://contents.premium.naver.com/winningstory/wnshadowing/contents/220330160037731hV</guid>
-            <pubDate>Wed, 29 Jun 2022 11:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[위닝스토리 하루한문장 영어쉐도잉 오늘 연습할 문장은 운전 경력은 얼마나 되세요? 입니다. 이 질문을 활용할 맥락과 영어 의문문을 다양한 상황에서 익혀보고 싶은 분들은 위의 영상을 활용해 보세요~ 오늘 연습할 문장은 다음과 같습니다.  have been ing  같은 시제 나오면 덜컥 겁부터 나세요? 어렵게 생각하지 말고, 오늘 질문과 같은 상황에서  일단 이 표현을 쓸 수 있다는 것]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzBfMjEw/MDAxNjQ4NjM1MjY1MDMx.aufMnQlw9E1xLjlasqMJD65ghodOP7meJO4S1TzrUp8g.dc460tm0iyWiGHE17CHOtKc6i5Kd7gjAhMvlAoW5nfgg.JPEG/sa5.jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[이재명·윤석열 부동산 공약 본 전문가들 "이걸 어떻게…" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/reaItyoo/zipoopro/contents/220103155703103Nu</link>
+            <guid>https://contents.premium.naver.com/reaItyoo/zipoopro/contents/220103155703103Nu</guid>
+            <pubDate>Wed, 29 Jun 2022 15:45:16 GMT</pubDate>
+            <content:encoded><![CDATA[땅집고가 새해를 앞두고 부동산 전문가 8명 대상으로 주택 시장 전망에 대해 물었습니다. 그 결과를 4회에 걸쳐 싣습니다. 1회는 새해 집값 전망, 2회는 내년 투자 유망지역, 3회는 주택 보유 상황별 전략, 4회는 대선 후보 공약 집중 분석입니다. 설문에 응답해 주신 분은 권대중 명지대 교수, 김경민 서울대 환경대학원 교수, 김학렬 스마트튜브부동산조사연구소장, 심교언 건국대]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAxMDNfMTMw/MDAxNjQxMTkyNzQ0MjAz.hGFtS6nakL9FTXYYj97cQ6ROhIgZHL2x-p5O6H83BD8g.IPJveMu0nW1OXyqxrwN9Y92292Tr5mFdI-ytdqlZQtgg.JPEG/111.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
