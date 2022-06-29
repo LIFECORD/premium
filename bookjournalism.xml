@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-06-29T08:21:17.010Z</updated>
+    <updated>2022-06-29T09:13:35.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://www.bookjournalism.com/books/52103</id>
         <link href="https://www.bookjournalism.com/books/52103"/>
         <updated>2022-06-29T08:21:07.863Z</updated>
-        <content type="html"><![CDATA[이베이, 인터넷을 기회로 만들다]]></content>
+        <content type="html"><![CDATA[이베이, 돈 되는 인터넷의 창세기]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[경력직 채용 플랫폼이 커진다. 이 성장은 무엇을 의미할까?]]></title>
