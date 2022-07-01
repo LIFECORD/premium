@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-07-01T09:14:14.478Z</updated>
+    <updated>2022-07-01T10:15:27.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://www.bookjournalism.com/audio/52184</id>
         <link href="https://www.bookjournalism.com/audio/52184"/>
         <updated>2022-07-01T09:14:04.663Z</updated>
-        <content type="html"><![CDATA[<em>제목 없음</em>]]></content>
+        <content type="html"><![CDATA[혐오와 생존의 시대, 사랑을 위한 스트리밍]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[요즘 연애의 조건이 ‘정치 성향’이라는 분석이 제기됐다. 사실과 다르다.]]></title>
