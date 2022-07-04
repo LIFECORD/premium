@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 08:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 09:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일 잘하는 리더에겐 '이것'이 있다 - 민음사 조아란 편 (퍼블리)]]></title>
+            <link>https://publy.co/content/6859?fr=category</link>
+            <guid>https://publy.co/content/6859?fr=category</guid>
+            <pubDate>Mon, 04 Jul 2022 09:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[데이터 분석가& 마케터가 반드시 알아야 할 어트리뷰션 이야기 (퍼블리)]]></title>
             <link>https://publy.co/content/6881?fr=category</link>
@@ -68,13 +75,6 @@
             <link>https://publy.co/content/6825?fr=category</link>
             <guid>https://publy.co/content/6825?fr=category</guid>
             <pubDate>Thu, 23 Jun 2022 08:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[상품을 잘 찾게 만드는 필터 UX, 정리해드림 (퍼블리)]]></title>
-            <link>https://publy.co/content/6858?fr=category</link>
-            <guid>https://publy.co/content/6858?fr=category</guid>
-            <pubDate>Wed, 22 Jun 2022 08:19:08 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
         </item>
         <item>
