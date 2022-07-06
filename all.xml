@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 14:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 15:26:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -382,168 +382,84 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/3346eb17-0b3e-4e29-bafb-d1ec97eea957_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[키코 코스타디노브 : 동묘를 사랑한 런던의 디자이너, 아재 패션을 MZ픽으로 만들다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/346</link>
-            <guid>https://www.longblack.co/note/346</guid>
-            <pubDate>Tue, 05 Jul 2022 15:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;지난 주말, 쇼핑하러 한남동 편집숍 비이커에 갔거든요? 시선을 확 끄는 신발이 있었어요. 푸른색에 팥죽색이 섞였고 에나멜 소재처럼 번쩍이더라고요. ‘대체 이런 신<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220701/16566395534a08a9dc3424a8c35b2ad0a968e3add5.png" length="0" type="image/png"/>
+            <title><![CDATA[윔블던 : 코트 안에서는 전통, 밖에서는 혁신으로 100년 브랜드가 되다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/341</link>
+            <guid>https://www.longblack.co/note/341</guid>
+            <pubDate>Wed, 06 Jul 2022 15:26:01 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C주변에 테니스 치는 친구가 많아졌어요. 인스타그램에 테니스 치는 사진이 그렇게 올라온단 말이죠! 지난 주말에 그 사진도 보셨어요? 롯데백화점에서 테니스를 테마로 팝<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220706/1657110762747c39d2492061b55409876a83a6e474.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[진화론을 의심해 봐야 한다는 주장이 나오고 있다. 종교에 관한 이야기가 아니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52475</link>
-            <guid>https://www.bookjournalism.com/books/52475</guid>
-            <pubDate>Wed, 06 Jul 2022 11:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[우리에겐 새로운 진화론이 필요하다]]></content:encoded>
+            <title><![CDATA[[MS] 이더리움, 알트마켓 추가반등 기준 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/cryptolerance/ctolerance/contents/220608115348458in</link>
+            <guid>https://contents.premium.naver.com/cryptolerance/ctolerance/contents/220608115348458in</guid>
+            <pubDate>Wed, 06 Jul 2022 15:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[[MS] 이더리움, 알트마켓 추가반등 기준 이더리움 TOTAL3 결론 I 이더리움(ETH) 1. 단기저항 1,890-1,915달러선에 저항구간이 형성되어 있습니다. 1.7-1.9k에는 신뢰할만한 support가 부재한 상황이기 때문에 이 저항구간 돌파가 나와주면서 support로 전환될 경우에 추가반등을 볼 수 있습니다. 현재구간에서는 매수관점은 주의가 필요합니다. 2. 상승확장레인지 1,921달러를 돌파한다면, 1,975달]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDhfODcg/MDAxNjU0NjU0NzMzMTQy.uIF1EcaxuPRlIwlX3mMo7E3-Q7bWURY0A-xTlPZ97ggg.ynqyFZfsl3uHiVC8_Ipup3PcUprfmA5DUmQ3PwhaH3sg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[새로운 제도가 묻는다, 코인 투자는 도박인지 아닌지. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52282</link>
-            <guid>https://www.bookjournalism.com/books/52282</guid>
-            <pubDate>Wed, 06 Jul 2022 11:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[빚투도 리콜이 되나요?]]></content:encoded>
+            <title><![CDATA[꼭 한 번 가보고 싶은 여행지의 재난들 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/science2005/science/contents/220623121436118hl</link>
+            <guid>https://contents.premium.naver.com/science2005/science/contents/220623121436118hl</guid>
+            <pubDate>Wed, 06 Jul 2022 15:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[남프랑스 / 옐로스톤 / 데스밸리 / 스페인 * 이 이야기는 재난 영화가 아닌 실제 상황들입니다.   데스벨리, 6월 8일 우리나라 관광객들도 그랜드캐니언이나 라스베이거스를 갈 때 꼭 한 번 가보는 세상에서 가장 더운 골짜기, 이 죽음의 계곡에 자동차 한 대가 서있었다. 자동차가 주차된 곳은 데스밸리에서도 일출과 일몰을 볼 수 있어 최고의 명소로 꼽히는 자브리스키 포인트(Zab]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjNfMTAx/MDAxNjU1OTk0Nzc2MTQ0.h5cAkkY0CvlrFZJYeEtjTaTHfIKZXRNWKdB1Sx_DWj0g.R0r9wkU-WUSAaNGi3eyqeF7y77hlHb7DLnCl2ySwgJcg.JPEG/ilona-bellotto-o_Ws2vbMlKM-unsplash_(1).jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북저널리즘 BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/50374</link>
-            <guid>https://www.bookjournalism.com/books/50374</guid>
-            <pubDate>Wed, 06 Jul 2022 11:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <title><![CDATA["우산 가져오는 걸 깜빡했어"영어로? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/easypizoo/easypizoo1/contents/220629090645398vf</link>
+            <guid>https://contents.premium.naver.com/easypizoo/easypizoo1/contents/220629090645398vf</guid>
+            <pubDate>Wed, 06 Jul 2022 15:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;긍정의 20일&gt; 13일차입니다! &lt; Mission English 참여 방법&gt; 매일 올라오는 그날의 읽기 미션을 완수하면 됩니다. 미션 완수하면 댓글에 I’m done 또는 Mission complete라고 달아주세요. 제가 응원하겠습니다. 소리 내어 반복해서 읽으면 영어로 말하기에도 익숙해지고 문장도 머릿속에  기억됩니다. 매일 리뷰하면서 계속 다음 문장들 추가해서 읽습니다. 무조건 소리 내서 읽어야 합니다.]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjlfMTEx/MDAxNjU2NDU3OTI3NDkw.auRTrhc2Uwt519rpDKvCAiT3hxKW-njgvOhTTlSMl3cg.IG8Z1cxMfqOIfVr8CLh-JfepBJuY5cIvY9SegdxZOCkg.PNG/P_P_d13-001.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[구매력 있는 노년층, A세대가 주목받는다. MZ세대에 이어 유의미한 시장 변화를 이끌 수 있을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52244</link>
-            <guid>https://www.bookjournalism.com/books/52244</guid>
-            <pubDate>Wed, 06 Jul 2022 11:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[A세대가 온다]]></content:encoded>
+            <title><![CDATA[86번가 2022년 10 서프라이즈 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/86thstreet/86th/contents/220624215825924gk</link>
+            <guid>https://contents.premium.naver.com/86thstreet/86th/contents/220624215825924gk</guid>
+            <pubDate>Wed, 06 Jul 2022 15:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[**블랙스톤 부회장 바이른 위엔은 매년 초 그 해 10 서프라이즈를 발행합니다. 시장에서는 발생 가능성을 낮게 보지만 블랙스톤 부회장이 보기엔 일어날 가능성이 꽤 높아 보이는 것들로 구성됩니다. 86번가도 매년 초 10 서프라이즈를 선정하여 발표하고 있습니다. (2021, 2022년) 1. 중국이 가장 늦게 코로나로 인한 피해를 입게 된다  위드 코로나로 나아가는 방법은 두 가지입니다.]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjRfNDQg/MDAxNjU2MDI2MzA4NDU5.ucqR7BnduFGKbZOqVYhqZT7NS7x7Ndho9oCDpsxEAi8g.t50cshpDOvcgyVTsZglHt4B9OQiNsmUb1CCnNX9fSaAg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[C테크가 기후 위기의 희망이 되고 있다. 그러나 관건은 우리 자신이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52210</link>
-            <guid>https://www.bookjournalism.com/books/52210</guid>
-            <pubDate>Wed, 06 Jul 2022 11:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[남 일 같은 이야기, 탄소]]></content:encoded>
+            <title><![CDATA[아무 문장이나 한 문장씩 익힌다고 영어가 늘까요? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/winningstory/wnshadowing/contents/220330155617418TA</link>
+            <guid>https://contents.premium.naver.com/winningstory/wnshadowing/contents/220330155617418TA</guid>
+            <pubDate>Wed, 06 Jul 2022 15:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[어느 날 새로운 표현을 익히게 되면  이런 생각을 하지 않으셨나요? “그래, 이렇게 하루 한 문장씩  새로운 문장을 익히면  몇 년 후엔 영어를 잘 할 수 있을거야.” 이런 생각을 하시는 분들은 많지만, 실제로 한 문장씩 익혀서  영어를 잘 하게 되었다는 분들을  만나기는 쉽지 않습니다. 일단 꾸준히 한 문장씩 익히는 분들을  만나기가 쉽지 않습니다.  (제 주변에만 없는걸까요]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMzBfMjk5/MDAxNjQ4NjEzMTcyODYy.Ocjuhb4WS1TYHr_wvXym7xTnYDAy2O_g3ohBR7O6PRAg.489rU7g2GBUt5YyrkrqfCNgd5HXI1mr22mmeY2FooVwg.JPEG/n2.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북저널리즘 라디오 에피소드 #43에선, 콜롬비아의 첫 좌파 대통령 당선, 엔터테인먼트계에서 확산하고 있는 ESG 경영, 미국 연방대법원의 낙태권 폐지 판결, 그리고 새로운 연애 방식으로 본 우리 사회 갈등의 현실에 관해 이야기 합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/52184</link>
-            <guid>https://www.bookjournalism.com/audio/52184</guid>
-            <pubDate>Wed, 06 Jul 2022 11:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[혐오와 생존의 시대, 사랑을 위한 스트리밍]]></content:encoded>
+            <title><![CDATA[한 그릇의 평양냉면을 만나기까지-<누들로드>, <냉면 랩소디>, <한국인의 밥상-백년의 유혹 평양냉면> (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/moku/mokumoku/contents/220607224638454ap</link>
+            <guid>https://contents.premium.naver.com/moku/mokumoku/contents/220607224638454ap</guid>
+            <pubDate>Wed, 06 Jul 2022 15:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[을지로 4가 역에 내리면 청계천 주변의 오래된 공구 상가들이 보인다. 다닥다닥 붙은 그 가게들을 헤치고 나오면 주변 건물과는 어울리지 않은 풍경이 나타난다. 주차를 기다리는 차들이 좁은 골목을 꽉 채우고 있고, 지팡이를 짚은 어르신부터 유모차에 탄 아이, 최신 명품을 몸에 두른 커플과 정장을 입은 직장인까지 족히 100여 명은 될 것 같은 사람들이 자신의 차례를 기다리]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MTJfMTQ4/MDAxNjU1MDI4Njc1Nzkz.7mTu8jVeoiuh8mVIowk93-cKLSfHuVe_8oxrBaicGwwg.Fcz39UmExuW2rQL3iWw9MhSJKw0mW2ov6B0Ox6QBq8Eg.JPEG/SE-bc8882ec-d4da-4437-a0d4-5dfb6bcf78f1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[요즘 연애의 조건이 ‘정치 성향’이라는 분석이 제기됐다. 사실과 다르다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52162</link>
-            <guid>https://www.bookjournalism.com/books/52162</guid>
-            <pubDate>Wed, 06 Jul 2022 11:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[연애의 조건]]></content:encoded>
+            <title><![CDATA[한국의 서비스 로봇 산업 어디까지 와 있을까? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/dmkglobal/technologyreview/contents/220630182634144cx</link>
+            <guid>https://contents.premium.naver.com/dmkglobal/technologyreview/contents/220630182634144cx</guid>
+            <pubDate>Wed, 06 Jul 2022 15:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[더 많은 MIT 테크놀로지 리뷰 기사를 보시려면 여기를 클릭하세요!!!  질문: 안녕하세요, &lt;MIT 테크놀로지 리뷰 코리아&gt; 편집위원 최은창입니다. 로봇들로 인해 산업 전반에서 혁신이 일어나고 있습니다. 오늘은 김요섭 우아한형제들 로봇사업실 이사, 하정우 베어로보틱스 대표, 이상호 KT AI로봇사업단장 세 분을 모시고 ‘급성장하는 서비스 로봇의 시장과 기술’에 대해 이야기]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MzBfMyAg/MDAxNjU2NTgwNzMyMTU3.4F5nH1pthO3pZspcFhraYZSF88GetbQ8_s6piwiCaKgg.3-rFc1jYMzOiZM8R7WKxXklaaB7WrCKzjclOSaIMCJkg.JPEG/%EA%B7%B8%EB%A6%BC23-1.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엔터계의 ESG 경영이 화제다. 음반 마케팅으로 매출을 올리는 음악 산업의 구조는 변할 수 있을까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52111</link>
-            <guid>https://www.bookjournalism.com/books/52111</guid>
-            <pubDate>Wed, 06 Jul 2022 11:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[앨범의 홍수]]></content:encoded>
+            <title><![CDATA[미국시장 테마(6월 30일 아침): 경기침체 우려가 휩쓴 하루 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/barbarian/stockideas/contents/220630081018411wh</link>
+            <guid>https://contents.premium.naver.com/barbarian/stockideas/contents/220630081018411wh</guid>
+            <pubDate>Wed, 06 Jul 2022 15:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[상승 테마 1) 빅테크 - Microsoft(MSFT), Amazon(AMZN), Apple(AAPL), Meta Platform(Meta) 등 빅테크 주가 1~2% 상승 - Redburn 리서치에서 발간한 In-depth 클라우드 산업 보고서에서 Microsoft와 Amazon의 클라우드 사업 성장성을 높이 평가 - 특히, Amazon의 클라우드 사업 가치가 3조달러에 이를 수 있고, 향후 AWS의 분사 가능성 언급 - 또한, 경기침체가 우려가 부각된 시장분위기 속에서 빅테크 기업들 방어주]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MzBfNzEg/MDAxNjU2NTQwODY4ODE5.JZoljC2z3qGt3du2Na4xYPygjScK3TXjqs_gFyrklWgg.TGYQ4sU493wJafLOnB-Nd-sHFmWGe_0dlPw0pgElYtwg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[인터넷의 역사를 이야기할 때 구글이나 페이스북, 아마존을 빼놓을 수는 없다. 그러나 인터넷을 가장 먼저 정복한 기업은 이베이였다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52103</link>
-            <guid>https://www.bookjournalism.com/books/52103</guid>
-            <pubDate>Wed, 06 Jul 2022 11:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[이베이, 돈 되는 인터넷의 창세기]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[경력직 채용 플랫폼이 커진다. 이 성장은 무엇을 의미할까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52085</link>
-            <guid>https://www.bookjournalism.com/books/52085</guid>
-            <pubDate>Wed, 06 Jul 2022 11:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[안전한 직원 찾기 프로젝트]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[로 대 웨이드 판결이 뒤집혔다. 미국이 내세웠던 가치도 낙태 접근성과 함께 사라지고 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52070</link>
-            <guid>https://www.bookjournalism.com/books/52070</guid>
-            <pubDate>Wed, 06 Jul 2022 11:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[미국은 깨졌다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 신간《당신이 몰랐던 MBTI》의 저자인 한국MBTI연구소 김재형 연구부장과 MBTI의 진짜 정체에 관해 이야기 나눕니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/52026</link>
-            <guid>https://www.bookjournalism.com/audio/52026</guid>
-            <pubDate>Wed, 06 Jul 2022 11:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜 북토크 ; 당신이 몰랐던 MBTI]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[빌보, 첫 인사 드리옵니다🙇‍♂️ [신규 구독자 할인 이벤트!!] (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</link>
-            <guid>https://contents.premium.naver.com/billbojs/billbo/contents/220308142345881nl</guid>
-            <pubDate>Wed, 06 Jul 2022 07:13:24 GMT</pubDate>
-            <content:encoded><![CDATA['레퍼런스', 마케팅, 브랜딩 직무 분들이 가장 많이 듣게 되는 말 중 하나죠. 요청을 받고 인터넷을 검색해 보면 너무 오래돼서 이미 3년 전 PPT 자료에 실렸던 레퍼런스, 아까 찾아서 저장해놨던 중복 레퍼런스, 우리 타깃층이 아닌 레퍼런스 등 필요 없는 자료들이 너무나도 많습니다.  이 험난한 과정을 지나서 겨우겨우 레퍼런스를 찾고나면 00에 관한 트렌드, MZ세대들의 생각...]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjAzMDhfMTMz/MDAxNjQ2NzE1MDAyMTMw.VQLYv4svrIBSAJBnKmdolZG0VbhL5e3XPfKcQq7j4W8g.nckdqFR5di8f3G_rvsaGdlt-goK_SB-VwqurdWzREDcg.PNG/BillBo_%EB%A1%9C%EA%B3%A0.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[3년만에 돌아온 페스티벌, 노쇼는 유죄? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/lawmission/startupforest/contents/220608155735477mt</link>
-            <guid>https://contents.premium.naver.com/lawmission/startupforest/contents/220608155735477mt</guid>
-            <pubDate>Tue, 05 Jul 2022 15:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[🖋 이 글은 법무법인 미션의 변호사들과 스타트업 포레스트가 만드는 뉴스레터 '로스규이'의 6월 6일 월요일 발행분입니다.  🖋 스타트업 전문 로펌의 변호사로서, 더욱 많은 스타트업 관계자들에게 도움을 드리기 위해 매주 월요일에 레터를 무료로 보내드립니다. #로스규이 신청하기 링크 🖋 변호사의 관점으로 한 주간 스타트업 씬에서 일어난 일 혹은 스타트업 종사자들이 알면]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MDhfMjAw/MDAxNjU0NjYyNjUzNTI0.swS7v_zweAzlLc3b428q92HBrVrGlM76YQQpkzKh3Fog.0QwjUCxaJyRwdbQezVnU5KmUrX4cccNSz5g9bUUoT80g.PNG/%EB%A1%9C%EC%8A%A4%EA%B7%9C%EC%9D%B4_%EC%82%AC%EC%A7%84.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[이영철의 제주여행]평생 그리움에 사무친 모자…끝내 하늘에서 만났다 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/jejunews/jj/contents/220628101426728zq</link>
-            <guid>https://contents.premium.naver.com/jejunews/jj/contents/220628101426728zq</guid>
-            <pubDate>Tue, 05 Jul 2022 15:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[한양할머니 정난주 마리아(하) 추자섬 갯바위에 남겨진 황경한...양부모 만나 친자식처럼 길러져 성인된 후 친모 존재 알았지만...생이별한 모자 살아생전 못 만나 ‘경한아, 눈을 뜨지 않아도 알 것이다. 네가 살아가게 될 땅이다. 죽어서는 아니 된다. 악착같이 살아남아 언젠가는 꼭 만나자꾸나. 그러니 잘 봐두거라. 저 마을을, 이 포구를, 그리고 어미의]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjhfMyAg/MDAxNjU2Mzc4NjgwMjE4.NgNMkG51Q8dTkk8ZwLtDA6p-jzzsJQT9Z-tdNL0hrpQg.dP-DlPGDt_4-TB3nJirbByEoYzMsmhjbrOCVx77CNo8g.JPEG/11.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美대법관 "동성결혼·피임 인정한 판결도 재검토해야" (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/epochkorea/epic/contents/220629055306239dw</link>
-            <guid>https://contents.premium.naver.com/epochkorea/epic/contents/220629055306239dw</guid>
-            <pubDate>Tue, 05 Jul 2022 15:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[Justice Thomas: Supreme Court Should Reconsider Rulings on Same-Sex Marriage, Contraception 美대법관 "동성결혼·피임 인정한 판결도 재검토해야" Supreme Court Justice Clarence Thomas wrote Friday that the high court should reconsider rulings on contraception, same-sex relationships, and same-sex marriage in a solo concurring opinion released Friday that struck down Roe v. Wade. 미국 연방대법원이 낙태를 헌법상 권리로 인정한 50년 전 판례를 "처음부터]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjlfMTEw/MDAxNjU2NDQ5NDgxNTI5.FUuL6IK91Gbq4Zwdr7BzRj8tZLHs63yKP2d9XhtDXv8g.KKrQS5MkvnwRhSGTyTVKQX4np04cAw_XPKncXOSNcOAg.JPEG/justice-clarence-thomas-1200x800-1-795x447.jpeg?type=nfs220_220" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국시장 테마(6월 29일 아침): 커져가는 경기침체 우려 속 전통 에너지 기업만 강세 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/barbarian/stockideas/contents/220629063919827gm</link>
-            <guid>https://contents.premium.naver.com/barbarian/stockideas/contents/220629063919827gm</guid>
-            <pubDate>Tue, 05 Jul 2022 15:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[상승 테마 1) 전통 에너지(oil &amp; gas) - 유가가 또 다시 상승하며 전통 oil &amp; gas 에너지 기업 전반 주가 강세 이어져 - 유가 상승의 배경은 1) 중국의 방역규제 완화에 따른 수요 증가 기대감, 2) 사우디, UAE 등 주요 산유국들이 원유 추가 공급 여력이 제한적이라는 소식 등 때문 -워렌 버핏의 버크셔 해서웨이가 Occidental Petroleum(OXY) 주식을 추가 매입해 지분을 16.4%(vs. 기존 12.7%)까지 늘렸]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjlfMjAz/MDAxNjU2NDQ5MjQ4MDY3.rCCsYBBOF2oCOiDzK1Uc5o3SpTJLUaEPqCXHUHB5gLAg.F6XpoSb-TuPCwdBrPPuvxzclbGR_ocLgi7psq4z0VKUg.PNG/image.png?type=nfs220_220" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[유가를 잡지 못하면 바이든과 미국은 무너진다, 세계패권질서 러시아로 재정립? - 유가와 인플레이션의 관계 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/stockisacompany/pklinvestment/contents/220629101434434as</link>
-            <guid>https://contents.premium.naver.com/stockisacompany/pklinvestment/contents/220629101434434as</guid>
-            <pubDate>Tue, 05 Jul 2022 15:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요 토리잘입니다. 최근 국제유가가 급등하면서 바이든 미대통령이 '하느님'까지 소환하며 석유회사들을 맹비난하고 있습니다.  2021년 1월 47달러에 불과했던 유가가 1년 사이에 110달러를 돌파하자 인플레이션 관련 대국민 연설에서 "엑손은 지난해 하느님보다 돈을 더 벌어들였다, 석유 증산 안하냐"면서 조물주 위에 석유주로 떠오른 정유업계에 불편한 기색을 드러낸]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjlfNDcg/MDAxNjU2NDY0NTQ1OTIw.9XFSsvmKDiBvL1NtqQGFN-GMryXerXLk9nUwu9-qGmYg.A78_6ompQlL7ANxiPd9PWExMUR-OzmQvgZjdiQM7wEAg.JPEG/AP22145042731893.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키, 호실적에도 주가 하락 '왜?' (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220629102857267pz</link>
-            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220629102857267pz</guid>
-            <pubDate>Tue, 05 Jul 2022 15:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[💬 무슨 일이지? 나이키가 4분기 실적을 발표했습니다. 이번 실적발표에서 나이키는 시장의 예상치를 웃도는 결과를 보여줬는데요. 이번 나이키의 매출에 대한 월가의 예상은 120억 6000만 달러였지만 실제로는 2.4% 더 높은 122억 3400만 달러를 기록했어요. 나이키의 최고경영자(CEO) 존 도나호는 "이번 4분기 실적은 우리 브랜드의 타의 추종을 불허하는 강점과 소비자와의 깊은 유대]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjlfMTc1/MDAxNjU2NDU4OTI5Nzg5.XiyewBxt3zuvBaLcZcqhFoAlkekjwFt5d3YhDXAHmlkg.V_lMLw-zwhwBMrIujwxVje2J9Vi98jsB8M_JWtgz0rcg.JPEG/fy22_q4_earnings_1920x1080_NikeNews_native_1000.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#27. 당신의 고요가 놓고 간 흔적 (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/jinsimda/geureoryeoni/contents/220629190805839ch</link>
-            <guid>https://contents.premium.naver.com/jinsimda/geureoryeoni/contents/220629190805839ch</guid>
-            <pubDate>Tue, 05 Jul 2022 15:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[당신의 흔적   당신이 간 후 채워진 줄 알았던 자리가 비었다   당신이 놓고 간 흔적에 맞춰 걸음을 맞춰보았다   당신을 안았던 촉감과 세워 나왔던 웃음이 생각나   내 옆에 아무도 없다는 걸  알고 있음에도 자주 손을 내밀어 본다.   '왜 이 사람일까...'   쉽게 잠이 들고 싶지 않은 밤이 있다. 오래 묻은 향수를 꺼내고 싶은 듯 시선에 무엇이라도 담아야 끝을 낼 수 있는 하루가]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjlfODQg/MDAxNjU2NDk2NTk0NjA0.PPUfxX35hnZhd4aTA7JZoKk1ndcXYgp0l1qBtIRkRpog.tHOrUdiPp9LSr24_UOprKzPVJuy6oe-OTFkvWtfsG3Yg.JPEG/%ED%98%BC%EC%9E%90-%EA%B3%A0%EC%9A%94.jpg?type=nfs220_220" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스피릿 인수전 '치열', 프론티어 승기 잡나? (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
-            <link>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220629104907994rt</link>
-            <guid>https://contents.premium.naver.com/snowball/moneyneversleep/contents/220629104907994rt</guid>
-            <pubDate>Wed, 06 Jul 2022 12:28:16 GMT</pubDate>
-            <content:encoded><![CDATA[💬 무슨 일이지? 스피릿 항공이 28일(현지시간) 주주총회를 앞둔 주주들에게 프론티어그룹과의 합병에 찬성 표를 던질 것을 재차 요청했습니다. 프론티어그룹과 인수 경쟁을 벌이던 제트블루는 27일(현지시간) 스피릿 항공의 마음을 돌리고자 '추가 베팅'까지 단행했는데요. 그럼에도 스피릿 항공 주주들의 마음을 돌리는 데는 역부족이었습니다. 스피릿 항공은 그동안 독과점 이]]></content:encoded>
-            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MjlfMjMw/MDAxNjU2NDY2OTc2Mjkw.nXWw0vuI6i-7HcXy43_xW5Bvxrc8S8XFUzaP38Gafv4g.COgv_YCveVmakDn8cfKcYVGdSakYqqnShHDdEP___EQg.JPEG/1._%EC%8A%A4%ED%94%BC%EB%A6%BF_%ED%95%AD%EA%B3%B5_(Photo_by_Lukas_Souza_on_Unsplash).jpg?type=nfs220_220" length="0" type="image/jpg"/>
+            <title><![CDATA[지금, '논어'를 읽으신다면. (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
+            <link>https://contents.premium.naver.com/cecilcompany/cecil/contents/220630233320408tt</link>
+            <guid>https://contents.premium.naver.com/cecilcompany/cecil/contents/220630233320408tt</guid>
+            <pubDate>Wed, 06 Jul 2022 15:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[잘나가는 CEO들의 인생을 바꿔준 책, 덕망 있는 학자들이 너나없이 읽었다는 바로 그 책, '논어'입니다.  서점에 가면 나이를 거론하며 '이제는 논어를 읽을 시간'이라고 말하는 책도 있고, 죽기 전에 꼭 읽어보라며 으름장을 놓는 책도 있습니다. 쉽게 썼다 자랑하는 책, 유명 학자가 해설을 달았다는 책 등등 논어는 정말 다양한 방식으로 재탄생하는 중입니다. 얼핏 보면 호객행]]></content:encoded>
+            <enclosure url="https://scs-phinf.pstatic.net/MjAyMjA2MzBfMTMg/MDAxNjU2NTk5MzI5MTY2.VRBTtxwpxgNaIr_wNO2MYMP_zTKjr8RbrtBVz3fogRQg.mlXBz2g23-_r--I7so5ntEZdPObCHaih5biGA9eCJfwg.JPEG/KakaoTalk_20220630_232632651.jpg?type=nfs220_220" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
