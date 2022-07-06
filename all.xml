@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 09:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 10:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[데이터 분석가& 마케터가 반드시 알아야 할 어트리뷰션 이야기 (퍼블리)]]></title>
+            <title><![CDATA[GA에서 뭔가 놓치고 있는 거 같다면? 데이터 분석가& 마케터가 반드시 알아야 할 어트리뷰션 이야기 (퍼블리)]]></title>
             <link>https://publy.co/content/6881?fr=category</link>
             <guid>https://publy.co/content/6881?fr=category</guid>
             <pubDate>Fri, 01 Jul 2022 08:17:35 GMT</pubDate>
