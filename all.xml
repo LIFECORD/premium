@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 17:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 18:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -398,6 +398,13 @@
             <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220706/165709899631bf6f93f75ebaa43160bd505a0b4eff.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[영국의 보리스 존슨 총리가 정치 생명 최대 위기 끝에 사임했다. 우리 정치도 무관하지 않다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/52528</link>
+            <guid>https://www.bookjournalism.com/books/52528</guid>
+            <pubDate>Thu, 07 Jul 2022 18:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[쇼는 계속되지 않는다]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Z세대가 오프라인으로 활동 반경을 넓히고 있다. 밈은 그들이 가진 무기다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/52468</link>
             <guid>https://www.bookjournalism.com/books/52468</guid>
@@ -473,13 +480,6 @@
             <guid>https://www.bookjournalism.com/books/52085</guid>
             <pubDate>Thu, 07 Jul 2022 14:15:05 GMT</pubDate>
             <content:encoded><![CDATA[안전한 직원 찾기 프로젝트]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[로 대 웨이드 판결이 뒤집혔다. 미국이 내세웠던 가치도 낙태 접근성과 함께 사라지고 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52070</link>
-            <guid>https://www.bookjournalism.com/books/52070</guid>
-            <pubDate>Thu, 07 Jul 2022 14:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[미국은 깨졌다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[월그린스 역성장 충격, 주가 7% ‘급락’ (네이버 프리미엄콘텐츠 ─ 무료 프로모션)]]></title>
