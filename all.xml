@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 01:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 03:56:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6877?fr=category</guid>
             <pubDate>Thu, 30 Jun 2022 08:18:14 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 15분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[퍼스널 컬러만큼 핫하다! 퍼스널 헬스케어 트렌드 5 (캐릿)]]></title>
+            <link>https://www.careet.net/817</link>
+            <guid>https://www.careet.net/817</guid>
+            <pubDate>Tue, 12 Jul 2022 03:55:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 MZ세대 건강 트렌드: ‘퍼스널 헬스케어’로 요약 가능함]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/cf38fa8b-66b2-44d0-a678-6f1f0d0cbe2b_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[지난 주말 Z세대를 성수로 향하게 한 브랜드: KBO&배달의민족 (캐릿)]]></title>
@@ -418,7 +426,7 @@
             <link>https://www.longblack.co/note/355</link>
             <guid>https://www.longblack.co/note/355</guid>
             <pubDate>Mon, 11 Jul 2022 15:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L최근 마고 로비와 라이언 고슬링 주연의 영화 「바비Barbie」가 화제야. C가 기대된다며 보여줬는데, 인형 옷 입고 있는 라이언 고슬링 사진이 완전 웃겨. 202<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;최근 마고 로비와 라이언 고슬링 주연의 영화 「바비Barbie」가 화제야. C가 기대된다며 보여줬는데, 인형 옷 입고 있는 라이언 고슬링 사진이 완전 웃겨. 20<span class="circle-punctuation"></span>]]></content:encoded>
             <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220711/16575047459e0e54344063b7d5004cd25ceccb5a7a.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -427,6 +435,13 @@
             <guid>https://www.bookjournalism.com/books/52596</guid>
             <pubDate>Tue, 12 Jul 2022 01:13:48 GMT</pubDate>
             <content:encoded><![CDATA[아베와 세 가지 종교]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/50374</link>
+            <guid>https://www.bookjournalism.com/books/50374</guid>
+            <pubDate>Tue, 12 Jul 2022 01:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아마존과 미국 음식 배달 서비스 그럽허브가 협력안을 발표했다. 배달 시장은 하락세를 극복할 수 있을까. (북저널리즘)]]></title>
@@ -448,13 +463,6 @@
             <guid>https://www.bookjournalism.com/books/52528</guid>
             <pubDate>Tue, 12 Jul 2022 01:13:48 GMT</pubDate>
             <content:encoded><![CDATA[쇼는 계속되지 않는다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/50374</link>
-            <guid>https://www.bookjournalism.com/books/50374</guid>
-            <pubDate>Tue, 12 Jul 2022 01:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Z세대가 오프라인으로 활동 반경을 넓히고 있다. 밈은 그들이 가진 무기다. (북저널리즘)]]></title>
