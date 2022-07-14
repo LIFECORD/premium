@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 23:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 01:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6866?fr=category</guid>
             <pubDate>Tue, 05 Jul 2022 09:13:12 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[요즘 10대들은 대체 어떤 커뮤니티를 눈팅할까? (캐릿)]]></title>
+            <link>https://www.careet.net/822</link>
+            <guid>https://www.careet.net/822</guid>
+            <pubDate>Thu, 14 Jul 2022 01:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[오픈채팅방, 페이스북 그룹 아님!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/f59e638e-d150-4f34-a4db-ccd30b779bac_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[기업에서 운영하는 ‘메타버스 영업점’, Z세대 51.6%는 방문할 의향이 있다 (캐릿)]]></title>
@@ -434,7 +442,7 @@
             <link>https://www.longblack.co/note/352</link>
             <guid>https://www.longblack.co/note/352</guid>
             <pubDate>Wed, 13 Jul 2022 15:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B‘한 사람이 온다는 건 그의 일생이 함께 오는 것이다’라는 말이 있지요. 에디터인 저에게는 인터뷰가 그렇습니다. 좋은 인터뷰 글은, 시만큼이나 아름다우며 자기 계발<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;‘한 사람이 온다는 건 그의 일생이 함께 오는 것이다’라는 말이 있지요. 에디터인 저에게는 인터뷰가 그렇습니다. 좋은 인터뷰 글은, 시만큼이나 아름다우며 자기 계<span class="circle-punctuation"></span>]]></content:encoded>
             <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220711/1657510113260689cd3ebcd3eb9f6112fde1c0bfb4.png" length="0" type="image/png"/>
         </item>
         <item>
