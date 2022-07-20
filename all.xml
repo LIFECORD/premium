@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 07:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 08:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[후기가 증명하는 이직 콘텐츠 Best 5 (퍼블리)]]></title>
+            <link>https://publy.co/content/6896?fr=category</link>
+            <guid>https://publy.co/content/6896?fr=category</guid>
+            <pubDate>Wed, 20 Jul 2022 08:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[핵심 기능으로 알려주는 PM을 위한 피그마 사용법 (퍼블리)]]></title>
             <link>https://publy.co/content/6839?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6863?fr=category</guid>
             <pubDate>Tue, 12 Jul 2022 09:17:20 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팀원이 알아서 일하길 바란다면? 작게 시도해보는 13가지 방법 (심화편) (퍼블리)]]></title>
-            <link>https://publy.co/content/6879?fr=category</link>
-            <guid>https://publy.co/content/6879?fr=category</guid>
-            <pubDate>Mon, 11 Jul 2022 09:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Z세대가 뽑은 ‘이제는 쓰면 안 되는 단어’ 20 (캐릿)]]></title>
@@ -502,6 +502,13 @@
             <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220715/16578122008d32953d9295b458c62305dab81bd017.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[심판의 역할은 단순히 게임 스코어를 외치는 확성기가 아니다. 신기술은 그 자리를 대체할 수 없다. 심판은 지휘자다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/53075</link>
+            <guid>https://www.bookjournalism.com/books/53075</guid>
+            <pubDate>Wed, 20 Jul 2022 08:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[윔블던의 심판들]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[네이버 하이퍼클로바가 텍스트 시장에 주목한다. 노코드 AI는 인간이 말하고 일하는 방식을 어떻게 변화시킬까. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/53134</link>
             <guid>https://www.bookjournalism.com/books/53134</guid>
@@ -577,13 +584,6 @@
             <guid>https://www.bookjournalism.com/books/52739</guid>
             <pubDate>Tue, 19 Jul 2022 19:15:11 GMT</pubDate>
             <content:encoded><![CDATA[스푼 좀 믿어줘]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아베 전 총리가 사망했다. 그의 정치인생 뒤에 숨겨진 종교가 향후 한일 관계를 풀어갈 힌트가 된다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52596</link>
-            <guid>https://www.bookjournalism.com/books/52596</guid>
-            <pubDate>Tue, 19 Jul 2022 19:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[아베와 세 가지 종교]]></content:encoded>
         </item>
     </channel>
 </rss>
