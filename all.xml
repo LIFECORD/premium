@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 14:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 15:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -502,12 +502,19 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202205/3346eb17-0b3e-4e29-bafb-d1ec97eea957_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[동래아들막걸리 : 도쿄의 소믈리에가, 캐주얼 막걸리를 만든 이유 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/361</link>
-            <guid>https://www.longblack.co/note/361</guid>
-            <pubDate>Wed, 20 Jul 2022 15:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;부산을 대표하는 술은 뭐가 있을까요? 대선, 시원소주, 생탁이 유명하죠. 올해 대한민국 주류대상에도 부산의 막걸리가 있어 소개해요. ‘동래아들막걸리’. 이름도 생<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220715/16578590397e82db1c1ca4ce72413b226a87fd9bf3.png" length="0" type="image/png"/>
+            <title><![CDATA[굿올데이즈 호텔 : 원도심 한복판의 호텔, 옛 부산의 기억을 공간에 담다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/362</link>
+            <guid>https://www.longblack.co/note/362</guid>
+            <pubDate>Thu, 21 Jul 2022 15:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;부산에서의 일정을 모두 마쳤습니다. 마지막 밤은 좀 더 의미 있는 곳에서 묵고 싶더군요. 인터넷을 검색하다가, 중앙동의 ‘굿올데이즈Good Old Days 호텔’<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220715/1657871543351fc03f1eacfc04b1d4c5f135f1ed6d.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[카메라 회사들이 DSLR을 포기한다. 사형선고는 이미 내려졌다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/53213</link>
+            <guid>https://www.bookjournalism.com/books/53213</guid>
+            <pubDate>Thu, 21 Jul 2022 15:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[R.I.P. DSLR]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[표절 논란에 휩싸인 유희열이 결국 스케치북을 덮는다. 그는 왜 그렇게 해명할 수밖에 없었나. (북저널리즘)]]></title>
@@ -585,13 +592,6 @@
             <guid>https://www.bookjournalism.com/books/52782</guid>
             <pubDate>Thu, 21 Jul 2022 14:14:54 GMT</pubDate>
             <content:encoded><![CDATA[아무도 그를 막을 수 없다?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[보리스 존슨의 런던 올림픽부지 개발은 주민들을 위한 것이 아니었다. 기업과 부자의 배만 불린 자리엔 폐허만 남았다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/52632</link>
-            <guid>https://www.bookjournalism.com/books/52632</guid>
-            <pubDate>Thu, 21 Jul 2022 14:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[폐허만 남은 런던 올림픽]]></content:encoded>
         </item>
     </channel>
 </rss>
