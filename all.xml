@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 08:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 09:13:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[했던 일인데, 다시 하려니 기억이 안 난다면? 경험사전 작성 원칙 (퍼블리)]]></title>
+            <link>https://publy.co/content/6900?fr=category</link>
+            <guid>https://publy.co/content/6900?fr=category</guid>
+            <pubDate>Fri, 22 Jul 2022 09:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뜻밖의 호캉스: 어디로 가볼까? (퍼블리)]]></title>
             <link>https://publy.co/content/6897?fr=category</link>
@@ -67,13 +74,6 @@
             <title><![CDATA[완판을 부르는 패션 커머스 상세 페이지 기획법 (퍼블리)]]></title>
             <link>https://publy.co/content/6890?fr=category</link>
             <guid>https://publy.co/content/6890?fr=category</guid>
-            <pubDate>Fri, 15 Jul 2022 08:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스타트업에서 MVP를 성장시키는 두 가지 방향 (퍼블리)]]></title>
-            <link>https://publy.co/content/6810?fr=category</link>
-            <guid>https://publy.co/content/6810?fr=category</guid>
             <pubDate>Fri, 15 Jul 2022 08:17:13 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
         </item>
