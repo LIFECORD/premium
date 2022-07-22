@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 04:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 05:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뜻밖의 호캉스: 어디로 가볼까? (퍼블리)]]></title>
+            <link>https://publy.co/content/6897?fr=category</link>
+            <guid>https://publy.co/content/6897?fr=category</guid>
+            <pubDate>Fri, 22 Jul 2022 05:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[‘파이썬  강의 듣긴 했는데…’ 서비스 기획에 어떻게 활용할지 모르겠다면 (퍼블리)]]></title>
             <link>https://publy.co/content/6895?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6810?fr=category</guid>
             <pubDate>Fri, 15 Jul 2022 08:17:13 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['이건 아닌 것 같은데...' 상사에게 반대 의견을 말하려면? (퍼블리)]]></title>
-            <link>https://publy.co/content/6888?fr=category</link>
-            <guid>https://publy.co/content/6888?fr=category</guid>
-            <pubDate>Thu, 14 Jul 2022 08:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[왕십리역에 이거 보러 간다고? Z세대가 꼽은 이주의 트렌드 4 (캐릿)]]></title>
