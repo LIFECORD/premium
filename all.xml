@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 08:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 09:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팀장의 ‘좋은’ 팀원 채용은 판타지가 아닌 절박한 실무다 (feat. 영입 노하우) (퍼블리)]]></title>
+            <link>https://publy.co/content/6883?fr=category</link>
+            <guid>https://publy.co/content/6883?fr=category</guid>
+            <pubDate>Tue, 26 Jul 2022 09:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 13분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[일주일에 딱 10분! 중요한 업무에 집중하게 만드는 시간 관리법 (퍼블리)]]></title>
             <link>https://publy.co/content/6893?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6839?fr=category</guid>
             <pubDate>Tue, 19 Jul 2022 09:21:09 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[주어진 시간 1분! 딱 한 장으로 끝내는 1P(원 페이지)보고서 작성법 (퍼블리)]]></title>
-            <link>https://publy.co/content/6777?fr=category</link>
-            <guid>https://publy.co/content/6777?fr=category</guid>
-            <pubDate>Mon, 18 Jul 2022 08:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[성수 다음은 어디? Z세대 핫플 ‘삼각지’에 주목하세요! (캐릿)]]></title>
@@ -549,7 +549,7 @@
             <content:encoded><![CDATA[스낵 서바이벌]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[북저널리즘 BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/50374</link>
             <guid>https://www.bookjournalism.com/books/50374</guid>
             <pubDate>Tue, 26 Jul 2022 06:18:41 GMT</pubDate>
