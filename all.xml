@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 08:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 09:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(전) LG 디스플레이 팀장이 말하는 리더가 가능성을 현실로 만드는 3가지 방법 (CES 도전기) (퍼블리)]]></title>
+            <link>https://publy.co/content/6861?fr=category</link>
+            <guid>https://publy.co/content/6861?fr=category</guid>
+            <pubDate>Wed, 03 Aug 2022 09:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[성과내는 퍼포먼스 마케팅, OMTM에 집중하고 있나요? (퍼블리)]]></title>
             <link>https://publy.co/content/6902?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6900?fr=category</guid>
             <pubDate>Mon, 01 Aug 2022 04:01:25 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뜻밖의 호캉스: 어디로 가볼까? (퍼블리)]]></title>
-            <link>https://publy.co/content/6897?fr=category</link>
-            <guid>https://publy.co/content/6897?fr=category</guid>
-            <pubDate>Mon, 01 Aug 2022 04:01:25 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 신생 브랜드 예일을 ‘뉴 힙 브랜드’로 떠오르게 만든 브랜딩 전략은? (캐릿)]]></title>
