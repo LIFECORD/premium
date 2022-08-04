@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-08-04T14:12:25.387Z</updated>
+    <updated>2022-08-04T15:16:27.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[민희진의 아이들 ‘뉴진스’의 인기가 심상찮다. 세계관이 지배한 아이돌 산업에서 뉴진스의 전략은 무엇일까?]]></title>
+        <id>https://www.bookjournalism.com/books/53689</id>
+        <link href="https://www.bookjournalism.com/books/53689"/>
+        <updated>2022-08-04T15:16:18.606Z</updated>
+        <content type="html"><![CDATA[모두의 것, 세계관]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문화재 반환에 있어 멕시코의 '정중한 요청' 전략이 큰 효과를 거두고 있다. '선의'라는 당연한 단어를 다시 돌아볼 때다.]]></title>
         <id>https://www.bookjournalism.com/books/53601</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/53381"/>
         <updated>2022-08-04T14:12:14.995Z</updated>
         <content type="html"><![CDATA[MZ라는 쉬운 문법]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[토종 과자 회사들이 사업 전략을 다각화하고 있다. 쏟아지는 먹거리 속에서 과자의 경쟁력은 무엇인가.]]></title>
-        <id>https://www.bookjournalism.com/books/53338</id>
-        <link href="https://www.bookjournalism.com/books/53338"/>
-        <updated>2022-08-04T14:12:14.999Z</updated>
-        <content type="html"><![CDATA[스낵 서바이벌]]></content>
     </entry>
 </feed>
