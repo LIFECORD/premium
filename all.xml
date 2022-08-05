@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 01:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 03:41:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -389,18 +389,18 @@
             <content:encoded><![CDATA[모두의 것, 세계관]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[문화재 반환에 있어 멕시코의 '정중한 요청' 전략이 큰 효과를 거두고 있다. '선의'라는 당연한 단어를 다시 돌아볼 때다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/53601</link>
-            <guid>https://www.bookjournalism.com/books/53601</guid>
-            <pubDate>Thu, 04 Aug 2022 23:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[선의가 통하는 세상?]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/50374</link>
             <guid>https://www.bookjournalism.com/books/50374</guid>
             <pubDate>Thu, 04 Aug 2022 23:13:35 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[문화재 반환에 있어 멕시코의 '정중한 요청' 전략이 큰 효과를 거두고 있다. '선의'라는 당연한 단어를 다시 돌아볼 때다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/53601</link>
+            <guid>https://www.bookjournalism.com/books/53601</guid>
+            <pubDate>Thu, 04 Aug 2022 23:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[선의가 통하는 세상?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[판데믹이 일깨운 것은 연결의 감각만이 아니다. 코로나19는 후각도 일깨웠다. 오감을 동원해 음식과 소통하라. (북저널리즘)]]></title>
