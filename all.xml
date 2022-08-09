@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 14:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 15:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -398,12 +398,19 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/3af0763d-5283-4b0a-bc6a-04656ea6f52b_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[마이너리티 디자인 : 약점을 강점으로 바꾸는 새로운 창작론 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/379</link>
-            <guid>https://www.longblack.co/note/379</guid>
-            <pubDate>Mon, 08 Aug 2022 15:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;제겐 약점이 하나 있습니다. 무엇인지는, 말씀드릴 수 없습니다. 사람마다 숨기고 싶은 게 있으니까요. 그런데 이 약점이, 점점 제 발목을 잡는 기분입니다. 업무에<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220804/16595762666b1d14569ca4afaebe85a8ca1cfa5581.png" length="0" type="image/png"/>
+            <title><![CDATA[게티이미지 : 빌 게이츠를 상대로, 세계 최대 스톡 포토 회사를 일구다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/383</link>
+            <guid>https://www.longblack.co/note/383</guid>
+            <pubDate>Tue, 09 Aug 2022 15:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;외신 기사 읽다가 재밌는 소식을 하나 봤어. ‘게티이미지Getty Images가 7월25일에 다시 상장했다’는 거야. 다시? 알고 보니, 14년 만의 재상장이래.<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220804/165957739109ad9c59c39d61c746bfca52fb36da52.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인스타그램이 NFT 게시 서비스를 확장한다. 막바지에 다다른 소셜 미디어 모델에서 탈출하기 위한 전략이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/53900</link>
+            <guid>https://www.bookjournalism.com/books/53900</guid>
+            <pubDate>Tue, 09 Aug 2022 15:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[인스타그램은 화이트 큐브의 꿈을 꾸는가?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[러시아가 가스관 밸브를 잠근 결과, 유럽이 탈석탄 흐름에서 유턴하고 있다. 에너지는 경제가 아니라 정치다. (북저널리즘)]]></title>
@@ -481,13 +488,6 @@
             <guid>https://www.bookjournalism.com/audio/53450</guid>
             <pubDate>Tue, 09 Aug 2022 13:43:32 GMT</pubDate>
             <content:encoded><![CDATA[과자와 커피는 분투하고 MZ는 지갑을 닫는다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[좋아하는 걸 좋아하라는 스타벅스의 슬로건에 왜 소비자들은 실망했나? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/53425</link>
-            <guid>https://www.bookjournalism.com/books/53425</guid>
-            <pubDate>Tue, 09 Aug 2022 13:43:32 GMT</pubDate>
-            <content:encoded><![CDATA[신세계 유니버스에서 커피 한 잔]]></content:encoded>
         </item>
     </channel>
 </rss>
