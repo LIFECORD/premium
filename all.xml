@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 01:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 03:03:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -421,18 +421,18 @@
             <content:encoded><![CDATA[인스타그램은 화이트 큐브의 꿈을 꾸는가?]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[러시아가 가스관 밸브를 잠근 결과, 유럽이 탈석탄 흐름에서 유턴하고 있다. 에너지는 경제가 아니라 정치다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/53834</link>
-            <guid>https://www.bookjournalism.com/books/53834</guid>
-            <pubDate>Tue, 09 Aug 2022 22:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[문제적 단어, GREEN]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/50374</link>
             <guid>https://www.bookjournalism.com/books/50374</guid>
             <pubDate>Tue, 09 Aug 2022 22:14:09 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[러시아가 가스관 밸브를 잠근 결과, 유럽이 탈석탄 흐름에서 유턴하고 있다. 에너지는 경제가 아니라 정치다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/53834</link>
+            <guid>https://www.bookjournalism.com/books/53834</guid>
+            <pubDate>Tue, 09 Aug 2022 22:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[문제적 단어, GREEN]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네이버 블로그 주간일기 챌린지가 화제다. 소셜 미디어가 범람하는 시대에서 블로그를 쓰는 심리는 무엇인가. (북저널리즘)]]></title>
