@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 01:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 03:25:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -437,18 +437,18 @@
             <content:encoded><![CDATA[연애하고 결혼하고 출산하라...고?]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[벤앤제리스가 이스라엘 사업권을 두고 모회사와 소송전에 돌입했다. 아이스크림 회사는 왜 중동 분쟁에 목소리를 내는가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/53929</link>
-            <guid>https://www.bookjournalism.com/books/53929</guid>
-            <pubDate>Thu, 11 Aug 2022 21:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[액티비즘 2.0]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/50374</link>
             <guid>https://www.bookjournalism.com/books/50374</guid>
             <pubDate>Thu, 11 Aug 2022 21:13:04 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[벤앤제리스가 이스라엘 사업권을 두고 모회사와 소송전에 돌입했다. 아이스크림 회사는 왜 중동 분쟁에 목소리를 내는가. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/53929</link>
+            <guid>https://www.bookjournalism.com/books/53929</guid>
+            <pubDate>Thu, 11 Aug 2022 21:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[액티비즘 2.0]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[매년 수천 대의 자전거가 버려지고 있다.
