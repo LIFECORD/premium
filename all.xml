@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 01:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 03:42:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,13 @@
             <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220811/166019363999626192d25a2f06fbf4c113bc4eaa86.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54125</link>
+            <guid>https://www.bookjournalism.com/books/54125</guid>
+            <pubDate>Tue, 16 Aug 2022 03:42:37 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[소더비가 한국 시장에 다시 진출한다. 그림을 사지 않는 우리에게 이는 어떤 의미인가. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54114</link>
             <guid>https://www.bookjournalism.com/books/54114</guid>
@@ -471,13 +478,6 @@
             <guid>https://www.bookjournalism.com/books/53957</guid>
             <pubDate>Mon, 15 Aug 2022 21:12:58 GMT</pubDate>
             <content:encoded><![CDATA[연애하고 결혼하고 출산하라...고?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/50374</link>
-            <guid>https://www.bookjournalism.com/books/50374</guid>
-            <pubDate>Mon, 15 Aug 2022 21:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[벤앤제리스가 이스라엘 사업권을 두고 모회사와 소송전에 돌입했다. 아이스크림 회사는 왜 중동 분쟁에 목소리를 내는가. (북저널리즘)]]></title>
