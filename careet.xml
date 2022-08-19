@@ -4,7 +4,7 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 01:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 03:48:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 19 Aug 2022 01:12:25 GMT</pubDate>
             <content:encoded><![CDATA[비건이 대세라는데, 실제로도 수요가 있을까?]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/3fdb8595-225c-4fc1-a15d-6fd932c04b06_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[브랜드 캐릭터 컴백쇼 보러 오픈런까지? 이주의 떡상템4]]></title>
+            <link>https://www.careet.net/857</link>
+            <guid>https://www.careet.net/857</guid>
+            <pubDate>Fri, 19 Aug 2022 03:47:27 GMT</pubDate>
+            <content:encoded><![CDATA[오프라인, F&amp;B, SNS 트렌드 한 번에 정리하기]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202208/c0ce1877-d4c6-45a7-a6e0-f0627198fa43_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[현실과 메타버스에서 동시에 사용하는 장난감이 생겼다고?]]></title>
