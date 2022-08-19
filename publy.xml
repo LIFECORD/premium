@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-08-19T08:17:38.836Z</updated>
+    <updated>2022-08-19T09:14:37.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[칼퇴를 돕는 자료조사 노하우 총 정리]]></title>
+        <id>https://publy.co/content/6938?fr=category</id>
+        <link href="https://publy.co/content/6938?fr=category"/>
+        <updated>2022-08-19T09:13:43.236Z</updated>
+        <content type="html"><![CDATA[아티클 · 1분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[타고난 리더는 없다 : <팀장으로 산다는 건> 저자의 코칭 처방전]]></title>
+        <id>https://publy.co/content/6783?fr=category</id>
+        <link href="https://publy.co/content/6783?fr=category"/>
+        <updated>2022-08-19T09:13:43.238Z</updated>
+        <content type="html"><![CDATA[아티클 · 8분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팀원 설득 시간을 반으로 줄여주는 A/B테스트 설계 문서 작성 노하우(노션 템플릿 제공)]]></title>
         <id>https://publy.co/content/6909?fr=category</id>
@@ -60,19 +74,5 @@
         <link href="https://publy.co/content/6886?fr=category"/>
         <updated>2022-08-11T09:13:40.946Z</updated>
         <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브라운백 블리스, 재구매율 99%의 비밀: B2B 마케팅은 '판매가 아니라 신뢰'다]]></title>
-        <id>https://publy.co/content/6882?fr=category</id>
-        <link href="https://publy.co/content/6882?fr=category"/>
-        <updated>2022-08-11T09:13:40.946Z</updated>
-        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['퇴사는 마렵고 퇴직은 두렵다?' 2030 팀장을 위한 퇴직 가이드 (커리어 로드맵 템플릿)]]></title>
-        <id>https://publy.co/content/6852?fr=category</id>
-        <link href="https://publy.co/content/6852?fr=category"/>
-        <updated>2022-08-11T09:13:40.948Z</updated>
-        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
     </entry>
 </feed>
