@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 14:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 15:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -486,12 +486,19 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202206/3af0763d-5283-4b0a-bc6a-04656ea6f52b_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[두루두루 아티스트 컴퍼니 : 10년 차 인디 레이블이 말하는 매니지먼트의 정의 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/394</link>
-            <guid>https://www.longblack.co/note/394</guid>
-            <pubDate>Tue, 23 Aug 2022 15:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;인디. 영어 인디펜던스Independence의 준말로 음악이나 영화 등 예술 분야에서 많이 쓰이죠. 상업화보다는 자신이 하고 싶은 작업을 하는 부류를 일컬어요.인<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220824/166130425825bb280f3bc92e044a8d31cad5b38666.png" length="0" type="image/png"/>
+            <title><![CDATA[이쿼녹스 피트니스 : 미국의 고급 피트니스 센터는 어떻게 평생 회원을 모으는가 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/374</link>
+            <guid>https://www.longblack.co/note/374</guid>
+            <pubDate>Wed, 24 Aug 2022 15:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;이래도 되나 싶어요. 월급의 절반을 운동에 쏟아붓거든요. 피트니스 클럽 이용료 내야지, 단백질 파우더 사야지, 운동복 사야지… 건강한 식단에도 눈 뜨고 있어요.그<span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220726/16588018608a4e05b8b91f79e4a5daa883468865c2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[74년간 청와대는 정치적 장소였다. 청와대는 정치를 떠나 무사히 국민 품에 안길 수 있을까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54514</link>
+            <guid>https://www.bookjournalism.com/books/54514</guid>
+            <pubDate>Wed, 24 Aug 2022 15:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[청와대의 품격]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[특유한 역사를 가진 힙합은 정치적 올바름을 요구받기도, 쿨하고 무모할 것을 요구받기도 한다. 우리에게 힙합은 ‘힙찔이’, 갱스터 음악을 넘어 그 무엇이 될 수 있을까? 혹은, 되어야 할까? (북저널리즘)]]></title>
@@ -569,13 +576,6 @@
             <guid>https://www.bookjournalism.com/books/54150</guid>
             <pubDate>Wed, 24 Aug 2022 14:13:14 GMT</pubDate>
             <content:encoded><![CDATA[반지하 바깥에는 볕이 들까요?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[소더비가 한국 시장에 다시 진출한다. 그림을 사지 않는 우리에게 이는 어떤 의미인가. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54114</link>
-            <guid>https://www.bookjournalism.com/books/54114</guid>
-            <pubDate>Wed, 24 Aug 2022 14:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[예술을 돈으로 번역한다면]]></content:encoded>
         </item>
     </channel>
 </rss>
