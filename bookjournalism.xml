@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-08-24T07:13:24.717Z</updated>
+    <updated>2022-08-24T08:17:48.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[특유한 역사를 가진 힙합은 정치적 올바름을 요구받기도, 쿨하고 무모할 것을 요구받기도 한다. 우리에게 힙합은 ‘힙찔이’, 갱스터 음악을 넘어 그 무엇이 될 수 있을까? 혹은, 되어야 할까?]]></title>
+        <id>https://www.bookjournalism.com/books/54451</id>
+        <link href="https://www.bookjournalism.com/books/54451"/>
+        <updated>2022-08-24T08:17:38.681Z</updated>
+        <content type="html"><![CDATA[어느 새부터 힙합은 안 멋져]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[글로벌 시네마 체인 시네월드가 미국 내 파산 신청을 고려 중이다. 코로나19의 직격탄을 맞은 영화관 산업은 살아날 수 있을까?]]></title>
         <id>https://www.bookjournalism.com/books/54471</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/54114"/>
         <updated>2022-08-24T04:05:41.896Z</updated>
         <content type="html"><![CDATA[예술을 돈으로 번역한다면]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폭격이 이어지는 우크라이나 한복판에서, 난민이 밀려오는 국경 밖에서 자원봉사에 나선 이들이 있다. 무엇이 이들로 하여금 죽음의 공포를 무릅쓰게 했나.]]></title>
-        <id>https://www.bookjournalism.com/books/53975</id>
-        <link href="https://www.bookjournalism.com/books/53975"/>
-        <updated>2022-08-24T04:05:41.907Z</updated>
-        <content type="html"><![CDATA[전쟁을 짊어진 사람들]]></content>
     </entry>
 </feed>

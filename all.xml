@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 07:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 08:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -494,6 +494,13 @@
             <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220824/166130425825bb280f3bc92e044a8d31cad5b38666.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[특유한 역사를 가진 힙합은 정치적 올바름을 요구받기도, 쿨하고 무모할 것을 요구받기도 한다. 우리에게 힙합은 ‘힙찔이’, 갱스터 음악을 넘어 그 무엇이 될 수 있을까? 혹은, 되어야 할까? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54451</link>
+            <guid>https://www.bookjournalism.com/books/54451</guid>
+            <pubDate>Wed, 24 Aug 2022 08:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[어느 새부터 힙합은 안 멋져]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[글로벌 시네마 체인 시네월드가 미국 내 파산 신청을 고려 중이다. 코로나19의 직격탄을 맞은 영화관 산업은 살아날 수 있을까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54471</link>
             <guid>https://www.bookjournalism.com/books/54471</guid>
@@ -569,13 +576,6 @@
             <guid>https://www.bookjournalism.com/books/54114</guid>
             <pubDate>Wed, 24 Aug 2022 04:05:41 GMT</pubDate>
             <content:encoded><![CDATA[예술을 돈으로 번역한다면]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[폭격이 이어지는 우크라이나 한복판에서, 난민이 밀려오는 국경 밖에서 자원봉사에 나선 이들이 있다. 무엇이 이들로 하여금 죽음의 공포를 무릅쓰게 했나. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/53975</link>
-            <guid>https://www.bookjournalism.com/books/53975</guid>
-            <pubDate>Wed, 24 Aug 2022 04:05:41 GMT</pubDate>
-            <content:encoded><![CDATA[전쟁을 짊어진 사람들]]></content:encoded>
         </item>
     </channel>
 </rss>
