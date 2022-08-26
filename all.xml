@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 09:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 10:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -518,6 +518,13 @@
             <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220811/166019596594237bf80156c746c54f73cba9adb117.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[북저널리즘 라디오의 에피소드 #51에선, 보그 코리아 화보가 불러온 코로나19 이후 침체하는 영화관 산업, 청와대의 품격 논란, NASA의 ‘아르테미스 계획’을 필두로 한 달 탐사 경쟁에 관해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/54570</link>
+            <guid>https://www.bookjournalism.com/audio/54570</guid>
+            <pubDate>Fri, 26 Aug 2022 10:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[영화관은 불안, 청와대는 논란, 달 탐사는 분란]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[나사(NASA)의 ‘아르테미스 계획’이 시작됐다. 달 탐사의 속사정은 생각보다 훨씬 복잡하다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54556</link>
             <guid>https://www.bookjournalism.com/books/54556</guid>
@@ -593,13 +600,6 @@
             <guid>https://www.bookjournalism.com/books/54219</guid>
             <pubDate>Fri, 26 Aug 2022 06:34:35 GMT</pubDate>
             <content:encoded><![CDATA[인플레이션 감축은 거들 뿐]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[치솟는 열기가 생태계를 불사르고 있다. 붕괴하는 것은 인간만이 아니다. 곤충도 예외는 없다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54137</link>
-            <guid>https://www.bookjournalism.com/books/54137</guid>
-            <pubDate>Fri, 26 Aug 2022 06:34:35 GMT</pubDate>
-            <content:encoded><![CDATA[멸종하거나 창궐하거나]]></content:encoded>
         </item>
     </channel>
 </rss>
