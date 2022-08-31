@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 01:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 04:29:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -557,18 +557,18 @@
             <content:encoded><![CDATA[아무도 구해주지 않는다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미국 사막에 미래형 도시 텔로사가 들어선다. 세계 억만장자들은 어떤 유토피아를 꿈꾸나? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54611</link>
-            <guid>https://www.bookjournalism.com/books/54611</guid>
-            <pubDate>Tue, 30 Aug 2022 19:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[브레이브 뉴 시티]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54125</link>
             <guid>https://www.bookjournalism.com/books/54125</guid>
             <pubDate>Tue, 30 Aug 2022 19:12:41 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미국 사막에 미래형 도시 텔로사가 들어선다. 세계 억만장자들은 어떤 유토피아를 꿈꾸나? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54611</link>
+            <guid>https://www.bookjournalism.com/books/54611</guid>
+            <pubDate>Tue, 30 Aug 2022 19:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[브레이브 뉴 시티]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[치킨의 가격에 한국인은 흔들린다. 하지만 정말, 우리의 취향은 치킨일까? (북저널리즘)]]></title>
