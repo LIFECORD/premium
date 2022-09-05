@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 07:28:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 08:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먹는 씬이 바뀐다 : 일상의 고민을 히트 상품으로 만든 일본의 음식 트렌드 (퍼블리)]]></title>
+            <link>https://publy.co/content/6954?fr=category</link>
+            <guid>https://publy.co/content/6954?fr=category</guid>
+            <pubDate>Mon, 05 Sep 2022 08:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[개발 공부, 어떻게 시작할까? 나에게 맞는 분야/학습 방법 고르기 (퍼블리)]]></title>
             <link>https://publy.co/content/6941?fr=category</link>
@@ -69,13 +76,6 @@
             <guid>https://publy.co/content/6949?fr=category</guid>
             <pubDate>Tue, 30 Aug 2022 08:18:18 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[누구한테 물어보기는 애매한 직장 생활 매너 모음 (퍼블리)]]></title>
-            <link>https://publy.co/content/6939?fr=category</link>
-            <guid>https://publy.co/content/6939?fr=category</guid>
-            <pubDate>Mon, 29 Aug 2022 09:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[개강 시즌! Z세대는 지금 학교 행사로 어떤 걸 기대하고 있을까? (캐릿)]]></title>
