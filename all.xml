@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 21:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 22:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,6 +342,13 @@
             <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220901/1661997125b715ea520e1b0ff3b268e60f4c74acc5.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[태풍이 빠져나간다. 그러나 기후재난은 더 지독하고 불공정해진다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54858</link>
+            <guid>https://www.bookjournalism.com/books/54858</guid>
+            <pubDate>Mon, 05 Sep 2022 22:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[3.5퍼센트의 모든 것]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[인공지능이 과학‧기술 영역에 뛰어든다. 중요한 건 인간처럼 변할 인공지능이 아닌, 인공지능처럼 생각하는 인간이다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54832</link>
             <guid>https://www.bookjournalism.com/books/54832</guid>
@@ -417,13 +424,6 @@
             <guid>https://www.bookjournalism.com/books/54556</guid>
             <pubDate>Mon, 05 Sep 2022 18:17:59 GMT</pubDate>
             <content:encoded><![CDATA[프로젝트 네임 아르테미스]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[74년간 청와대는 정치적 장소였다. 청와대는 정치를 떠나 무사히 국민 품에 안길 수 있을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54514</link>
-            <guid>https://www.bookjournalism.com/books/54514</guid>
-            <pubDate>Mon, 05 Sep 2022 18:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[청와대의 품격]]></content:encoded>
         </item>
     </channel>
 </rss>
