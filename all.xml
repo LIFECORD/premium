@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 23:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 01:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6939?fr=category</guid>
             <pubDate>Mon, 29 Aug 2022 09:13:34 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[개강 시즌! Z세대는 지금 학교 행사로 어떤 걸 기대하고 있을까? (캐릿)]]></title>
+            <link>https://www.careet.net/869</link>
+            <guid>https://www.careet.net/869</guid>
+            <pubDate>Mon, 05 Sep 2022 01:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[“시험 기간 간식 이벤트도 좋지만... 이런 것도 해주세요!”]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/6cacafad-1514-49a3-a654-4d15d316a6b9_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Z세대 픽 캐릭터 도구리가 또 일 냈다! 이주의 떡상템 5 (캐릿)]]></title>
@@ -322,7 +330,7 @@
             <link>https://www.longblack.co/note/405</link>
             <guid>https://www.longblack.co/note/405</guid>
             <pubDate>Sun, 04 Sep 2022 15:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 L &nbsp;친구 만나러 패스트파이브fast five 을지로점 놀러갔거든. 깜짝 놀랐어. 대형 빌딩 3개 층을 통으로 쓰더라. 이 지점만 1300평이 넘는대. 와, 패파 꽤<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L &nbsp;친구 만나러 패스트파이브FASTFIVE 을지로점 놀러갔거든. 깜짝 놀랐어. 대형 빌딩 3개 층을 통으로 쓰더라. 이 지점만 1300평이 넘는대. 와, 패파 꽤 <span class="circle-punctuation"></span>]]></content:encoded>
             <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220831/1661936146274e1ec6f2af7ec3def27d509b37b594.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
