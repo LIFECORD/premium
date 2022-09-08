@@ -4,9 +4,30 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 06:47:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 07:28:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가 저지른 실수, 골든타임 안에 수습하는  방법 (퍼블리)]]></title>
+            <link>https://publy.co/content/6957?fr=category</link>
+            <guid>https://publy.co/content/6957?fr=category</guid>
+            <pubDate>Thu, 08 Sep 2022 07:27:50 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[독자들이 가장 많이 밑줄 친 아티클  TOP 8 (퍼블리)]]></title>
+            <link>https://publy.co/content/6959?fr=category</link>
+            <guid>https://publy.co/content/6959?fr=category</guid>
+            <pubDate>Thu, 08 Sep 2022 07:27:50 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 3분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[디자이너가 생각하는 일 잘하는 PM의 특징 (퍼블리)]]></title>
+            <link>https://publy.co/content/6920?fr=category</link>
+            <guid>https://publy.co/content/6920?fr=category</guid>
+            <pubDate>Thu, 08 Sep 2022 07:27:50 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[눌러보고 싶게 만드는 제목 카피라이팅 ‘이것’만 알면 됩니다 (퍼블리)]]></title>
             <link>https://publy.co/content/6960?fr=category</link>
@@ -55,27 +76,6 @@
             <guid>https://publy.co/content/6869?fr=category</guid>
             <pubDate>Fri, 02 Sep 2022 08:17:00 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팀을 리드하고픈 팀장을 위한 팀 키트 (퍼블리)]]></title>
-            <link>https://publy.co/content/6956?fr=category</link>
-            <guid>https://publy.co/content/6956?fr=category</guid>
-            <pubDate>Thu, 01 Sep 2022 09:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[3초만에 고객을 사로잡는 상세페이지 오프닝 (퍼블리)]]></title>
-            <link>https://publy.co/content/6946?fr=category</link>
-            <guid>https://publy.co/content/6946?fr=category</guid>
-            <pubDate>Thu, 01 Sep 2022 09:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[S형? N형? 유형별 PPT 만드는 법(+템플릿 2종) (퍼블리)]]></title>
-            <link>https://publy.co/content/6952?fr=category</link>
-            <guid>https://publy.co/content/6952?fr=category</guid>
-            <pubDate>Thu, 01 Sep 2022 09:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NPC로 취직해 연봉 3천만 원 번다? 요즘 게임 트렌드 5분 요약 (캐릿)]]></title>
