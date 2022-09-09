@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 14:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 15:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -358,12 +358,19 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/27a5beb7-2e20-4156-b23d-d72ec010f302_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[경기떡집 : 64년 망원동 떡집, 삼형제가 말하는 ‘오래 가는 전통’의 조건 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/412</link>
-            <guid>https://www.longblack.co/note/412</guid>
-            <pubDate>Thu, 08 Sep 2022 15:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;추석 연휴입니다. 오늘은 서울 망원동의 떡집으로 떠나봅니다. 일 년 중 가장 바쁜 한 주를 보내고 있다고요.&nbsp;명절에만 바쁜 건 아닙니다. 이곳은 떡을 좋아하는 사<span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220901/1662019636f0f3ea49a5fd929f7b9b338ad27c4b3f.png" length="0" type="image/png"/>
+            <title><![CDATA[숨결이 바람 될 때 : 서른여섯 의사가 남긴, 살아감에 대한 이야기 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/420</link>
+            <guid>https://www.longblack.co/note/420</guid>
+            <pubDate>Fri, 09 Sep 2022 15:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;&nbsp;모처럼 만의 연휴입니다. 사두고 펼치지 않았던 책을 한 권 집어 들었어요. 첫 장부터 눈길을 끕니다.“진단은 명확했다. 무수한 종양이 폐를 덮고 있었다. 암이 <span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220906/1662429782c7f103e455217961f70235e302871110.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 라디오의 에피소드 #53에선, 태풍 힌남노가 남긴 기후위기에 관한 질문, 인공지능을 닮아가는 인류의 미래, 빅테크 규제 정책 뒤에 숨겨진 미국과 EU사이의 팽팽한 줄다리기에 관해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/54985</link>
+            <guid>https://www.bookjournalism.com/audio/54985</guid>
+            <pubDate>Fri, 09 Sep 2022 15:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[태풍이 남긴 숙제, AI가 내놓은 정답, 빅테크의 벌금]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[고기로 가득 채워진 명절 밥상 앞 죽음 없는 식탁을 꿈꾸는 사람들이 있다. 비건과 논비건 모두 행복한 명절은 가능할까? (북저널리즘)]]></title>
@@ -441,13 +448,6 @@
             <guid>https://www.bookjournalism.com/books/54713</guid>
             <pubDate>Fri, 09 Sep 2022 10:16:53 GMT</pubDate>
             <content:encoded><![CDATA[언어의 줄다리기]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[기후 참사로 삶의 터전을 잃은 사람들이 늘어나고 있다. 고령화가 진행 중인 국가들은 해답이 될 수 있을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54692</link>
-            <guid>https://www.bookjournalism.com/books/54692</guid>
-            <pubDate>Fri, 09 Sep 2022 10:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[탄소 전쟁이 만든 난민]]></content:encoded>
         </item>
     </channel>
 </rss>
