@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Sep 2022 14:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 15:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -358,12 +358,21 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202207/27a5beb7-2e20-4156-b23d-d72ec010f302_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[숨결이 바람 될 때 : 서른여섯 의사가 남긴, 살아감에 대한 이야기 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/420</link>
-            <guid>https://www.longblack.co/note/420</guid>
-            <pubDate>Fri, 09 Sep 2022 15:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;&nbsp;모처럼 만의 연휴입니다. 사두고 펼치지 않았던 책을 한 권 집어 들었어요. 첫 장부터 눈길을 끕니다.“진단은 명확했다. 무수한 종양이 폐를 덮고 있었다. 암이 <span class="circle-punctuation"></span>]]></content:encoded>
-            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220906/1662429782c7f103e455217961f70235e302871110.png" length="0" type="image/png"/>
+            <title><![CDATA[롱블랙 선데이 에디션 (롱블랙)]]></title>
+            <link>https://www.longblack.co/weekend</link>
+            <guid>https://www.longblack.co/weekend</guid>
+            <pubDate>Sat, 10 Sep 2022 15:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[B가 공유하고 싶은 지난주 롱블랙의 문장
+
+“인생은 직선이 아닌 곡선이고, 지그재그로 뻗어 나가요. 저도 마찬가지로 다양한 과정을 거쳐, 지금의 일을 찾게 되었죠. 이런저런 관심사를 넓히다 보면, 늦게 갈 수밖에 없는 것도 맞아요. 중요한 건 과정에서 스스로 동기 <span class="circle-punctuation"></span>]]></content:encoded>
+            <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220908/1662617634c662d0d64e2247006246681a2990da33.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[NFT는 혁신인가 사기인가. 투자자와 컬렉터의 마음을 뒤흔든 NFT 아트의 이상과 현실을 조명한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54371</link>
+            <guid>https://www.bookjournalism.com/books/54371</guid>
+            <pubDate>Sat, 10 Sep 2022 15:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[NFT 아트로 읽는 뉴밸리에이션 시대]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[북저널리즘 라디오의 에피소드 #53에선, 태풍 힌남노가 남긴 기후위기에 관한 질문, 인공지능을 닮아가는 인류의 미래, 빅테크 규제 정책 뒤에 숨겨진 미국과 EU사이의 팽팽한 줄다리기에 관해 이야기합니다. (북저널리즘)]]></title>
@@ -441,13 +450,6 @@
             <guid>https://www.bookjournalism.com/books/54771</guid>
             <pubDate>Sat, 10 Sep 2022 14:13:38 GMT</pubDate>
             <content:encoded><![CDATA[양안 관계의 뉴 노멀]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[문해력 논란이 잊을 만하면 반복되고 있다. 이는 세대 갈등이란 문제를 읽어내지 못한 우리 사회 전체의 문해력 부족을 뜻한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54713</link>
-            <guid>https://www.bookjournalism.com/books/54713</guid>
-            <pubDate>Sat, 10 Sep 2022 14:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[언어의 줄다리기]]></content:encoded>
         </item>
     </channel>
 </rss>
