@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 23:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 01:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/6954?fr=category</guid>
             <pubDate>Mon, 05 Sep 2022 08:17:38 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[하이틴 다음은? 유럽 중세시대 콘셉트가 뜬다! (캐릿)]]></title>
+            <link>https://www.careet.net/870</link>
+            <guid>https://www.careet.net/870</guid>
+            <pubDate>Wed, 14 Sep 2022 01:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[유럽 귀족풍 드레스 빌려 입고 호캉스 한다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202209/b536b83b-7dca-404b-9316-b981bf5e6115_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[ESG 마케팅할 때 참고하세요! Z세대가 원하는 기부 이벤트는 이런 것 (캐릿)]]></title>
@@ -378,7 +386,7 @@
             <link>https://www.longblack.co/note/418</link>
             <guid>https://www.longblack.co/note/418</guid>
             <pubDate>Tue, 13 Sep 2022 15:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K깜짝 놀랐어요. C가 지난 주말에 고기 먹으려고 4시간이나 웨이팅했다는 거예요. 도대체 어떤 식당이냐고 물었더니, 우대갈비*로 유명한 삼각지 몽탄이었죠.*육류 신조<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;깜짝 놀랐어요. C가 지난 주말에 고기 먹으려고 4시간이나 웨이팅했다는 거예요. 도대체 어떤 식당이냐고 물었더니, 우대갈비*로 유명한 삼각지 몽탄이었죠.*육류 신<span class="circle-punctuation"></span>]]></content:encoded>
             <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220908/16626209589bef9f0be27470770eb1489139ff12b9.png" length="0" type="image/png"/>
         </item>
         <item>
