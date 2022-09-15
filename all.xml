@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 20:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 21:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -398,6 +398,13 @@
             <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220907/16625335347a0c883c1b5327996ea1017cda8d58da.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[친환경 소재 스타트업에 투자가 몰리고 있다. 투자 불황기, 돈의 흐름은 무엇을 말하고 있나. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/55259</link>
+            <guid>https://www.bookjournalism.com/books/55259</guid>
+            <pubDate>Thu, 15 Sep 2022 21:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[유에서 무, 무에서 유]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[근로 시간 외 카톡과 조용한 퇴직이 이슈다. 업무와 삶을 분리할 수 없는 지금, 직장은 무엇을 지향해야 하나? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/55221</link>
             <guid>https://www.bookjournalism.com/books/55221</guid>
@@ -473,13 +480,6 @@
             <guid>https://www.bookjournalism.com/books/54941</guid>
             <pubDate>Thu, 15 Sep 2022 14:22:28 GMT</pubDate>
             <content:encoded><![CDATA[신뢰 종말 시대의 음모론]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전쟁은 정치의 문제가 아니라 생사의 문제다. 평범한 삶을 부수고 사랑하는 가족을 앗아간다. 즉, 인간을 무너뜨린다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54903</link>
-            <guid>https://www.bookjournalism.com/books/54903</guid>
-            <pubDate>Thu, 15 Sep 2022 14:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[이것이 전쟁이다]]></content:encoded>
         </item>
     </channel>
 </rss>

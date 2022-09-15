@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-09-15T20:16:35.266Z</updated>
+    <updated>2022-09-15T21:15:26.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[친환경 소재 스타트업에 투자가 몰리고 있다. 투자 불황기, 돈의 흐름은 무엇을 말하고 있나.]]></title>
+        <id>https://www.bookjournalism.com/books/55259</id>
+        <link href="https://www.bookjournalism.com/books/55259"/>
+        <updated>2022-09-15T21:15:16.628Z</updated>
+        <content type="html"><![CDATA[유에서 무, 무에서 유]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[근로 시간 외 카톡과 조용한 퇴직이 이슈다. 업무와 삶을 분리할 수 없는 지금, 직장은 무엇을 지향해야 하나?]]></title>
         <id>https://www.bookjournalism.com/books/55221</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/54941"/>
         <updated>2022-09-15T14:22:28.702Z</updated>
         <content type="html"><![CDATA[신뢰 종말 시대의 음모론]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전쟁은 정치의 문제가 아니라 생사의 문제다. 평범한 삶을 부수고 사랑하는 가족을 앗아간다. 즉, 인간을 무너뜨린다.]]></title>
-        <id>https://www.bookjournalism.com/books/54903</id>
-        <link href="https://www.bookjournalism.com/books/54903"/>
-        <updated>2022-09-15T14:22:28.706Z</updated>
-        <content type="html"><![CDATA[이것이 전쟁이다]]></content>
     </entry>
 </feed>
