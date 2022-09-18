@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 18:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 19:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -414,6 +414,13 @@
             <enclosure url="https://longblack-contens.s3.ap-northeast-2.amazonaws.com/image/20220913/16630323702d4c3139bd2ff4f3e3f0d0f45b85a378.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[엘리자베스 2세가 서거하며 영연방이 흔들리고 있다. 대영제국의 잔상도 영면에 들고 있다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/55356</link>
+            <guid>https://www.bookjournalism.com/books/55356</guid>
+            <pubDate>Sun, 18 Sep 2022 19:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[더 라스트 크라운]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[친환경 소재 스타트업에 투자가 몰리고 있다. 투자 불황기, 돈의 흐름은 무엇을 말하고 있나. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/55259</link>
             <guid>https://www.bookjournalism.com/books/55259</guid>
@@ -489,13 +496,6 @@
             <guid>https://www.bookjournalism.com/books/54201</guid>
             <pubDate>Sun, 18 Sep 2022 17:21:47 GMT</pubDate>
             <content:encoded><![CDATA[한국이 만든 MZ세대]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[7퍼센트는 백신에 괴생명체가 산다고 믿는다. 음모론은 이 시대에 어떤 물음을 던지나? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54941</link>
-            <guid>https://www.bookjournalism.com/books/54941</guid>
-            <pubDate>Sun, 18 Sep 2022 17:21:47 GMT</pubDate>
-            <content:encoded><![CDATA[신뢰 종말 시대의 음모론]]></content:encoded>
         </item>
     </channel>
 </rss>
