@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 01:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 03:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,18 +348,18 @@
             <content:encoded><![CDATA[보이지 않는 손]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세계 2위 암호화폐 거래소가 파산했다. 코인 시장에 남은 참여자들은 어떤 가능성을 보는가? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/56691</link>
-            <guid>https://www.bookjournalism.com/books/56691</guid>
-            <pubDate>Wed, 16 Nov 2022 17:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[네트워크에 투자합니다]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54125</link>
             <guid>https://www.bookjournalism.com/books/54125</guid>
             <pubDate>Wed, 16 Nov 2022 17:18:24 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세계 2위 암호화폐 거래소가 파산했다. 코인 시장에 남은 참여자들은 어떤 가능성을 보는가? (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/56691</link>
+            <guid>https://www.bookjournalism.com/books/56691</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[네트워크에 투자합니다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[만져야 비로소 알 수 있는 것들이 있다. 이끼가 머금고 있는 지구의 기억 같은 것들 말이다. (북저널리즘)]]></title>
