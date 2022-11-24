@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 01:06:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 02:51:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -396,6 +396,13 @@
             <content:encoded><![CDATA[디즈니 살리기 대작전]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/54125</link>
+            <guid>https://www.bookjournalism.com/books/54125</guid>
+            <pubDate>Wed, 16 Nov 2022 17:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[산맥과 바다는 국가의 가능성을 결정했다. 그러나 이 모든 것이 바뀐다. 지정학의 시대는 끝났다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/56818</link>
             <guid>https://www.bookjournalism.com/books/56818</guid>
@@ -408,13 +415,6 @@
             <guid>https://www.bookjournalism.com/books/56804</guid>
             <pubDate>Tue, 22 Nov 2022 17:16:34 GMT</pubDate>
             <content:encoded><![CDATA[소통의 조건]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/54125</link>
-            <guid>https://www.bookjournalism.com/books/54125</guid>
-            <pubDate>Wed, 16 Nov 2022 17:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘잠 못 드는 세대’가 3조원 대 슬리포노믹스를 만들었다. 현대인들이 잠 못 드는 이유는 무엇일까? (북저널리즘)]]></title>
