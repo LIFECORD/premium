@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2022-11-30T06:17:57.756Z</updated>
+    <updated>2022-11-30T07:14:36.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 기획자를 위한 트렌드 모니터: 2023년판 새로운 ‘만원의 행복’]]></title>
+        <id>https://publy.co/content/7052?fr=category</id>
+        <link href="https://publy.co/content/7052?fr=category"/>
+        <updated>2022-11-30T07:12:16.667Z</updated>
+        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팬덤 없어도 팔린다! 캐릭터/IP 세계관을 이용한 상세페이지 노하우]]></title>
+        <id>https://publy.co/content/7033?fr=category</id>
+        <link href="https://publy.co/content/7033?fr=category"/>
+        <updated>2022-11-30T07:12:16.667Z</updated>
+        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데일리 로그: 일상 속 작은 것도 놓치지 않는 기록법(노션 템플릿 제공)]]></title>
         <id>https://publy.co/content/7067?fr=category</id>
@@ -59,20 +73,6 @@
         <id>https://publy.co/content/7048?fr=category</id>
         <link href="https://publy.co/content/7048?fr=category"/>
         <updated>2022-11-23T09:12:47.937Z</updated>
-        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무작정 검색은 그만! 뇌피셜을 오피셜로 만드는 자료 조사 방법(feat. 자료 사이트)]]></title>
-        <id>https://publy.co/content/7047?fr=category</id>
-        <link href="https://publy.co/content/7047?fr=category"/>
-        <updated>2022-11-22T08:18:25.597Z</updated>
-        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 리더의 한 해 돌아보기: 연간 회고법 (템플릿 제공)]]></title>
-        <id>https://publy.co/content/7022?fr=category</id>
-        <link href="https://publy.co/content/7022?fr=category"/>
-        <updated>2022-11-22T08:18:25.598Z</updated>
         <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
     </entry>
 </feed>
