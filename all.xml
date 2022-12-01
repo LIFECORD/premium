@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 23:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 01:09:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -332,6 +332,14 @@
             <pubDate>Wed, 16 Nov 2022 17:17:49 GMT</pubDate>
             <content:encoded><![CDATA[마뗑킴, 시엔느, 시눈, 세터, 코드그라피 처음 들어보시는 분?]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202210/45a5e3ed-3285-4848-9b56-a700d418597a_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[IP 비즈니스 시대, ‘머글’에게도 통한 쿠킹덤 영업비밀 (캐릿)]]></title>
+            <link>https://www.careet.net/905</link>
+            <guid>https://www.careet.net/905</guid>
+            <pubDate>Thu, 01 Dec 2022 01:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[디즈니, BTS와 ‘해볼 만하다’고 생각한 이유는?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/86add735-5b37-48ba-b1e5-1674394d3009_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[마뗑킴 모르세요? Z세대가 샤넬 대신 국내 디자이너 브랜드 찾는 이유 (캐릿)]]></title>
