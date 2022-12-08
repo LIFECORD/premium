@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘</title>
-    <updated>2022-12-08T15:13:23.722Z</updated>
+    <updated>2022-12-08T16:18:28.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://www.bookjournalism.com/books/57292</id>
         <link href="https://www.bookjournalism.com/books/57292"/>
         <updated>2022-12-08T15:13:10.453Z</updated>
-        <content type="html"><![CDATA[노동조합이란 이름표]]></content>
+        <content type="html"><![CDATA[집단 속의 개인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[번아웃은 나약한 개인의 잘못일까, 조직이 고민해야 하는 문화의 병폐일까. 행복한 직장을 만들기 위해 세대를 고민할 때다.]]></title>
