@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 17:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 18:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -300,6 +300,13 @@
             <pubDate>Thu, 01 Dec 2022 01:07:39 GMT</pubDate>
             <content:encoded><![CDATA[디즈니, BTS와 ‘해볼 만하다’고 생각한 이유는?]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202211/86add735-5b37-48ba-b1e5-1674394d3009_770x426.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이솝 : 호주 스킨케어 브랜드, 한국 핸드크림 시장을 장악하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/540</link>
+            <guid>https://www.longblack.co/note/540</guid>
+            <pubDate>Tue, 10 Jan 2023 18:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;생일 맞은 친구가 그러더라. 카카오톡 선물로 한 브랜드의 핸드크림만 세 개 받았다고. 어딘지 감이 오지? 스킨케어 브랜드 이솝Aesop이야. 이솝의 핸드크림은 수<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[주사를 맞으면 24kg을 뺄 수 있다. 마법이 아니라 현실이다. 그러나 마법이 문제를 해결하지는 않는다. (북저널리즘)]]></title>
