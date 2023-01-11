@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 08:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 09:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -321,7 +321,7 @@
             <link>https://www.bookjournalism.com/books/58111</link>
             <guid>https://www.bookjournalism.com/books/58111</guid>
             <pubDate>Wed, 11 Jan 2023 08:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[유산은 도전으로 이루어진다]]></content:encoded>
+            <content:encoded><![CDATA[과학자의 조건, 도전 정신]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[주사를 맞으면 24kg을 뺄 수 있다. 마법이 아니라 현실이다. 그러나 마법이 문제를 해결하지는 않는다. (북저널리즘)]]></title>
