@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 23:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 00:58:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -338,7 +338,7 @@
             <link>https://www.longblack.co/note/552</link>
             <guid>https://www.longblack.co/note/552</guid>
             <pubDate>Mon, 16 Jan 2023 15:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 C얼마 전 ‘2022년 가장 사랑받은 패션 아이템’*이 발표됐어요. 그 중 신발 카테고리 1위는 바로 버켄스탁Birkenstock! 버켄스탁의 사계절 샌들 ‘보스턴 <span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;얼마 전 ‘2022년 가장 사랑받은 패션 아이템’*이 발표됐어요. 그 중 신발 카테고리 1위는 바로 버켄스탁Birkenstock! 버켄스탁의 사계절 샌들 ‘보스턴<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[일본이 후쿠시마 오염수를 결국 방류한다. 우리가 할 수 있는 일이 있다. 그러나 가능성이 낮다. (북저널리즘)]]></title>
