@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 01:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 02:50:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🥕 ‘본디’가 뭐길래? 1020도 진짜 본디를 쓰는 걸까?]]></title>
+            <link>https://www.careet.net/1015</link>
+            <guid>https://www.careet.net/1015</guid>
+            <pubDate>Fri, 10 Feb 2023 02:49:32 GMT</pubDate>
+            <content:encoded><![CDATA[핫플로 떠오른 김밥집이 있다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/224d9e92-5017-4c22-935d-7f3f680ad5f1_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대 20인 심층 인터뷰 “폰에서 절대 지우지 않는 자사앱 공통점은?”]]></title>
             <link>https://www.careet.net/1002</link>

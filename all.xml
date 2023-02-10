@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 01:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 02:50:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7121?fr=category</guid>
             <pubDate>Sat, 04 Feb 2023 20:11:37 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 2분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🥕 ‘본디’가 뭐길래? 1020도 진짜 본디를 쓰는 걸까? (캐릿)]]></title>
+            <link>https://www.careet.net/1015</link>
+            <guid>https://www.careet.net/1015</guid>
+            <pubDate>Fri, 10 Feb 2023 02:49:32 GMT</pubDate>
+            <content:encoded><![CDATA[핫플로 떠오른 김밥집이 있다고?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/224d9e92-5017-4c22-935d-7f3f680ad5f1_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Z세대 20인 심층 인터뷰 “폰에서 절대 지우지 않는 자사앱 공통점은?” (캐릿)]]></title>
@@ -316,18 +324,18 @@
             <content:encoded><![CDATA[프로메테우스, 그 이후]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[국민의힘 전당대회가 연일 뉴스를 장식한다. 갈등을 해결하는 정치란 것은, 그렇게도 어려운 것일까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59200</link>
-            <guid>https://www.bookjournalism.com/books/59200</guid>
-            <pubDate>Wed, 08 Feb 2023 20:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[대통령의 야심]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/54125</link>
             <guid>https://www.bookjournalism.com/books/54125</guid>
             <pubDate>Wed, 16 Nov 2022 17:18:24 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[국민의힘 전당대회가 연일 뉴스를 장식한다. 갈등을 해결하는 정치란 것은, 그렇게도 어려운 것일까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59200</link>
+            <guid>https://www.bookjournalism.com/books/59200</guid>
+            <pubDate>Wed, 08 Feb 2023 20:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[대통령의 야심]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[당연해 보이는 사실도 논리적으로 따져 보면 당연하지 않다. 철학과 수학은 러셀의 눈을 통해 어떻게 바뀌었을까. (북저널리즘)]]></title>
