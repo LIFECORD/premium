@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 02:50:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 03:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,7 +78,7 @@
             <content:encoded><![CDATA[아티클 · 2분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[🥕 ‘본디’가 뭐길래? 1020도 진짜 본디를 쓰는 걸까? (캐릿)]]></title>
+            <title><![CDATA[‘본디’가 뭐길래? 1020도 진짜 본디를 쓰는 걸까? (캐릿)]]></title>
             <link>https://www.careet.net/1015</link>
             <guid>https://www.careet.net/1015</guid>
             <pubDate>Fri, 10 Feb 2023 02:49:32 GMT</pubDate>
