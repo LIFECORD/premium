@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 02:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 03:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -341,18 +341,18 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;관객 22만 명을 동원하며 성황리에 끝난 &lt;장 줄리앙 : 그러면, 거기&gt; 전시부터, 자동차문화 브랜드 ‘피치스Peaches’, 패션 브랜드 ‘스테레오 바이널즈St<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59400</link>
+            <guid>https://www.bookjournalism.com/books/59400</guid>
+            <pubDate>Wed, 15 Feb 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[예견된 재난의 시대는 글로벌의 대응 모델이 변해야 한다고 말한다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/59379</link>
             <guid>https://www.bookjournalism.com/books/59379</guid>
             <pubDate>Tue, 14 Feb 2023 15:13:48 GMT</pubDate>
             <content:encoded><![CDATA[지진 다시 생각하기]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59304</link>
-            <guid>https://www.bookjournalism.com/books/59304</guid>
-            <pubDate>Tue, 14 Feb 2023 02:26:52 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[방통위가 개점휴업 상태다. 종편 때문이다. 방송과 뉴스의 미래가 불안하다. (북저널리즘)]]></title>
