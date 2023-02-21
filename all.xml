@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 23:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 01:04:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7118?fr=category</guid>
             <pubDate>Wed, 08 Feb 2023 07:11:32 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 14분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Z세대 64.3% 메타버스 온라인 행사 불편하다고 느낀다 (캐릿)]]></title>
+            <link>https://www.careet.net/1019</link>
+            <guid>https://www.careet.net/1019</guid>
+            <pubDate>Tue, 21 Feb 2023 01:02:27 GMT</pubDate>
+            <content:encoded><![CDATA[메타버스 온라인 행사를 기획하신다면 필독!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202302/22c09499-42ad-4be1-a97b-d3eb20ed1262_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[매월 있는 기념일, 어떻게 챙겨야 주목 받을까? (캐릿)]]></title>
