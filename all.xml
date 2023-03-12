@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 22:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 23:12:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -298,7 +298,7 @@
             <link>https://www.longblack.co/note/609</link>
             <guid>https://www.longblack.co/note/609</guid>
             <pubDate>Sun, 12 Mar 2023 15:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B서울 종로구 런던동. 북촌한옥마을과 고즈넉한 카페가 모인 계동의 또 다른 별명입니다. 여기서 런던은 수제 베이글 가게 ‘런던베이글뮤지엄’을 말해요. 베이글을 사려는<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;서울 종로구 런던동. 북촌한옥마을과 고즈넉한 카페가 모인 계동의 또 다른 별명입니다. 여기서 런던은 수제 베이글 가게 ‘런던베이글뮤지엄’을 말해요. 베이글을 사려<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[플랫폼이 지배하는 세상이다. 알고리즘 바깥에는 무엇이 있을까. (북저널리즘)]]></title>
