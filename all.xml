@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 07:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 08:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -325,6 +325,13 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;요새 되직한 그릭요거트에 빠졌어요. 쫀득한 식감이 좋은데, 건강하기까지 하대요. 시중에 파는 제품을 하나씩 다 먹어보고 있어요.&nbsp;마켓컬리, 쿠팡 로켓프레시, B마<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[공상과학 출판사 한 곳이 AI 소설 러쉬로 마비되었다. 내 서가에도 AI 작가의 책이 있을지 모른다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/60246</link>
+            <guid>https://www.bookjournalism.com/books/60246</guid>
+            <pubDate>Wed, 15 Mar 2023 08:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[도구 없는 작가의 탄생]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[제주 대표 축제가 멈췄다. 기후 재난의 고리를 만드는 산불 때문이다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/60321</link>
             <guid>https://www.bookjournalism.com/books/60321</guid>
@@ -400,13 +407,6 @@
             <guid>https://www.bookjournalism.com/books/60043</guid>
             <pubDate>Thu, 02 Mar 2023 15:16:57 GMT</pubDate>
             <content:encoded><![CDATA[시진핑의 스마트시티, 하이난]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[간호법을 둘러싼 의료계의 갈등이 심화한다. 대중은 외면한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59966</link>
-            <guid>https://www.bookjournalism.com/books/59966</guid>
-            <pubDate>Wed, 01 Mar 2023 15:14:57 GMT</pubDate>
-            <content:encoded><![CDATA[간호법 갈등, 누구의 책임인가]]></content:encoded>
         </item>
     </channel>
 </rss>
