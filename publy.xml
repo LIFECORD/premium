@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2023-03-21T08:16:06.335Z</updated>
+    <updated>2023-03-21T09:13:10.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
+    <entry>
+        <title type="html"><![CDATA[콘텐츠 마케터의 프로젝트/디자인 기획안 작성 노하우(워드, PPT 템플릿 제공)]]></title>
+        <id>https://publy.co/content/7161?fr=category</id>
+        <link href="https://publy.co/content/7161?fr=category"/>
+        <updated>2023-03-21T09:12:19.352Z</updated>
+        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디테일의 발견 1편: 고객을 배려하는 한 끗]]></title>
         <id>https://publy.co/content/7163?fr=category</id>
@@ -67,12 +74,5 @@
         <link href="https://publy.co/content/7155?fr=category"/>
         <updated>2023-03-14T08:17:55.523Z</updated>
         <content type="html"><![CDATA[아티클 · 7분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글 스프레드 시트 대시보드 작성법(실습 파일 제공)]]></title>
-        <id>https://publy.co/content/7156?fr=category</id>
-        <link href="https://publy.co/content/7156?fr=category"/>
-        <updated>2023-03-13T07:11:03.546Z</updated>
-        <content type="html"><![CDATA[아티클 · 6분 분량]]></content>
     </entry>
 </feed>
