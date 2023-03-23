@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 02:05:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 03:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7150?fr=category</guid>
             <pubDate>Tue, 14 Mar 2023 08:17:55 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 9분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Z세대에 대한 오해와 편견, 캐릿 1020 자문단이 해명합니다 (캐릿)]]></title>
+            <link>https://www.careet.net/1037</link>
+            <guid>https://www.careet.net/1037</guid>
+            <pubDate>Thu, 23 Mar 2023 03:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[Z세대의 가치관, 소비, 일, 관계, 차별점, 오해]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/e1839baa-6215-4f5a-9888-ebfd93c27549_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[NEW 굿즈 트렌드! 부적 사려고 2시간 웨이팅하는 Z세대 근황 (캐릿)]]></title>
@@ -373,6 +381,14 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/523795/w/646/e230323.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59400</link>
+            <guid>https://www.bookjournalism.com/books/59400</guid>
+            <pubDate>Wed, 15 Feb 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/523598/w/646/note1.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[아카데미 수상작은 최고의 영화일까. 그런 기대는 필패를 불러올 것이다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/60663</link>
             <guid>https://www.bookjournalism.com/books/60663</guid>
@@ -387,14 +403,6 @@
             <pubDate>Tue, 21 Mar 2023 15:11:24 GMT</pubDate>
             <content:encoded><![CDATA[우리나라가 행복하지 않은 이유]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/523647/w/646/e230322.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59400</link>
-            <guid>https://www.bookjournalism.com/books/59400</guid>
-            <pubDate>Wed, 15 Feb 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/523542/w/646/note1.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[지금까지 우리는 정치적 효능감을 도둑맞아왔다. 다음번엔 안 된다. (북저널리즘)]]></title>
