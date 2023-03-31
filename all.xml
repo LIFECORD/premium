@@ -4,9 +4,37 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 00:57:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 02:08:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(웹소설) 팀장님, 죄송하지만 사라져주셔야겠어요 (퍼블리)]]></title>
+            <link>https://publy.co/content/7190?fr=category</link>
+            <guid>https://publy.co/content/7190?fr=category</guid>
+            <pubDate>Fri, 31 Mar 2023 02:07:15 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[장비빨은 나의 힘! 일에 진심인 직장인들을 위한 추천템 (퍼블리)]]></title>
+            <link>https://publy.co/content/7189?fr=category</link>
+            <guid>https://publy.co/content/7189?fr=category</guid>
+            <pubDate>Fri, 31 Mar 2023 02:07:15 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 5분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[맥주 고민할 시간에 한 잔이라도 더, 맥주 추천 31 (퍼블리)]]></title>
+            <link>https://publy.co/content/7188?fr=category</link>
+            <guid>https://publy.co/content/7188?fr=category</guid>
+            <pubDate>Fri, 31 Mar 2023 02:07:15 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 7분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Chat GPT도 모를걸? 테헤란로 회사원을 위한 회식 장소 30 (퍼블리)]]></title>
+            <link>https://publy.co/content/7187?fr=category</link>
+            <guid>https://publy.co/content/7187?fr=category</guid>
+            <pubDate>Fri, 31 Mar 2023 02:07:15 GMT</pubDate>
+            <content:encoded><![CDATA[아티클 · 5분 분량]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[ChatGPT 더 빠르고 쉽게 활용하려면? 구글스프레드시트 자동화 방법(템플릿 제공) (퍼블리)]]></title>
             <link>https://publy.co/content/7174?fr=category</link>
@@ -50,32 +78,12 @@
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[서비스 기획자의 문서 4종 템플릿 세트(WBS, 요구사항정의서 등) (퍼블리)]]></title>
-            <link>https://publy.co/content/7184?fr=category</link>
-            <guid>https://publy.co/content/7184?fr=category</guid>
-            <pubDate>Mon, 27 Mar 2023 08:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 5분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[일잘러가 되는 생산성 UP 노하우 모음 (퍼블리)]]></title>
-            <link>https://publy.co/content/7180?fr=category</link>
-            <guid>https://publy.co/content/7180?fr=category</guid>
-            <pubDate>Fri, 24 Mar 2023 08:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 1분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[디테일의 발견 2편: 고객의 문제를 해결해주는 한 끗 (퍼블리)]]></title>
-            <link>https://publy.co/content/7164?fr=category</link>
-            <guid>https://publy.co/content/7164?fr=category</guid>
-            <pubDate>Fri, 24 Mar 2023 08:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 11분 분량]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[기획자의 생각 정리법: 기획력을 키우는 한 끗(노션 템플릿 2종 제공) (퍼블리)]]></title>
-            <link>https://publy.co/content/7177?fr=category</link>
-            <guid>https://publy.co/content/7177?fr=category</guid>
-            <pubDate>Thu, 23 Mar 2023 08:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[아티클 · 8분 분량]]></content:encoded>
+            <title><![CDATA[한눈에 쏙! 이미지로 보는 분야별 1분기 트렌드 (캐릿)]]></title>
+            <link>https://www.careet.net/1053</link>
+            <guid>https://www.careet.net/1053</guid>
+            <pubDate>Fri, 31 Mar 2023 02:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[이거 안 보면 손해! 1분기 트렌드 총정리는 이 콘텐츠 하나로 끝내세요]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202303/84844e43-9cf2-4fba-873d-63c5efba6274_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[아이돌만큼 커진 프로게이머 팬덤! e스포츠 트렌드 5분 과외 (캐릿)]]></title>
