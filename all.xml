@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 00:49:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 01:59:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://publy.co/content/7166?fr=category</guid>
             <pubDate>Thu, 30 Mar 2023 07:10:59 GMT</pubDate>
             <content:encoded><![CDATA[아티클 · 10분 분량]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[이주의 유행템] 주말 이틀 동안 55만 명이 다녀간 팝업이 있다고? (캐릿)]]></title>
+            <link>https://www.careet.net/1058</link>
+            <guid>https://www.careet.net/1058</guid>
+            <pubDate>Fri, 07 Apr 2023 01:58:58 GMT</pubDate>
+            <content:encoded><![CDATA[만우절 유행 아이템부터 요즘 뜨는 사진 구도까지 모두 모았습니다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/4290a393-f019-4e7f-92e5-17b3324bcbb7_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[고등학교 인기 동아리를 보면 10대 트렌드가 보인다! 인기 동아리.list (캐릿)]]></title>
@@ -301,20 +309,20 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/529046/w/646/e230407.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/59400</link>
+            <guid>https://www.bookjournalism.com/books/59400</guid>
+            <pubDate>Wed, 15 Feb 2023 03:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/529076/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[입시와 취업에 학폭 가해 기록이 반영된다. 엄정한 대응은 해법이 될까. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61226</link>
             <guid>https://www.bookjournalism.com/books/61226</guid>
             <pubDate>Wed, 05 Apr 2023 15:13:27 GMT</pubDate>
             <content:encoded><![CDATA[학교 폭력을 해결할 방법]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/528523/w/646/e230406.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/59400</link>
-            <guid>https://www.bookjournalism.com/books/59400</guid>
-            <pubDate>Wed, 15 Feb 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/528707/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[네안데르탈인은 우리 인류보다 강했다. 그러나 강한 자가 살아남는 게 아니라, 살아남는 자가 강한 법이다. (북저널리즘)]]></title>
