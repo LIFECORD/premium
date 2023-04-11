@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 07:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 08:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -57,7 +57,7 @@
             <content:encoded><![CDATA[아티클 · 12분 분량]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[ChatGPT를 나만의 영어 멘토로: 영어 공부 활용법(단어장 템플릿 제공) (퍼블리)]]></title>
+            <title><![CDATA[챗GPT를 나만의 영어 멘토로: 영어 공부 활용법(단어장 템플릿 제공) (퍼블리)]]></title>
             <link>https://publy.co/content/7194?fr=category</link>
             <guid>https://publy.co/content/7194?fr=category</guid>
             <pubDate>Mon, 03 Apr 2023 07:11:31 GMT</pubDate>
