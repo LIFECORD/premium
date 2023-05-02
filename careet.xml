@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 00:56:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 02:03:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[X세대와 Z세대의 마음을 동시에 사로잡으려면? ‘#엄빠랑’에 주목하세요]]></title>
+            <link>https://www.careet.net/1069</link>
+            <guid>https://www.careet.net/1069</guid>
+            <pubDate>Tue, 02 May 2023 02:02:21 GMT</pubDate>
+            <content:encoded><![CDATA[‘가정의 달’ 이벤트 준비 전 필독!]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/1149bcae-5f61-4c56-99b4-aa81b22510b2_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[가정의 달 이벤트 준비 중이시죠? 레퍼런스 모아 왔어요]]></title>
             <link>https://www.careet.net/731</link>
