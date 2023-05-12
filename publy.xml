@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://publy.co/topic/all?fr=top-navi</id>
     <title>퍼블리</title>
-    <updated>2023-05-12T06:15:06.830Z</updated>
+    <updated>2023-05-12T07:11:26.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://publy.co/static/images/favicon/favicon-16.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
-        <id>https://publy.co/content/7238?fr=category</id>
-        <link href="https://publy.co/content/7238?fr=category"/>
-        <updated>2023-05-12T06:14:14.597Z</updated>
-        <content type="html"><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7238?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/05/10/1683705059_09Rsn3wAirmDvrw1bpcC8MRBj5rokqvEEYM6Q04L.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 2분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#777"></path></svg></button></div></div><div><a href="/content/7238?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">챗GPT 업무에 가장 빠르고 쉽게 활용하는 방법 모음.zip - 기본편</h6></a></div></div></div></div>]]></content>
+        <id>https://publy.co/content/7226?fr=category</id>
+        <link href="https://publy.co/content/7226?fr=category"/>
+        <updated>2023-05-12T07:10:42.063Z</updated>
+        <content type="html"><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7226?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/05/12/1683862757_mooHARibetFMKPxI5KYgvHmTFdQdgdKor0431xAn.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 11분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#777"></path></svg></button></div></div><div><a href="/content/7226?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">10년의 미래를 알고 싶다면: 2023 MWC 박람회-2. AI를 찾아보니</h6></a></div></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
