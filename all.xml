@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 06:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 08:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[undefined (퍼블리)]]></title>
+            <link>https://publy.co/content/7223?fr=category</link>
+            <guid>https://publy.co/content/7223?fr=category</guid>
+            <pubDate>Wed, 17 May 2023 08:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7223?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/05/17/1684297281_O7CtlKo0WxXEWsKS6HmnmBENzgiHbyrOEHUZNmsZ.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 12분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#777"></path></svg></button></div></div><div><a href="/content/7223?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">챗GPT로 문서 업무 더 편하게 하는 법(엑셀, PPT 등)</h6></a></div></div></div></div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[undefined (퍼블리)]]></title>
             <link>https://publy.co/content/7196?fr=category</link>
@@ -71,11 +78,12 @@
             <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7215?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/05/03/1683084842_tKtCXldBytzwLibnJR1iUQUatDy3RBLHm5GozASL.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 15분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#777"></path></svg></button></div></div><div><a href="/content/7215?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">챗GPT로 프로덕트 매니징 하는 14가지 방법 (프롬프트 템플릿 제공)</h6></a></div></div></div></div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[undefined (퍼블리)]]></title>
-            <link>https://publy.co/content/7083?fr=category</link>
-            <guid>https://publy.co/content/7083?fr=category</guid>
-            <pubDate>Tue, 02 May 2023 07:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[<div><div class="position-relative" style="z-index: 1;"><div class="overflow-hidden"><a class="d-block position-relative" href="/content/7083?fr=category"><img class="rounded bg-slate-50" style="width: 100%; height: 0px; padding-top: 52.3%; background-image: url(&quot;https://publy.imgix.net/images/2023/05/02/1682998692_ol7rMDNVi3SdhUWWiNsdvp1KszHLnJ3kwoQ82DLr.jpeg?fm=pjpg&amp;w=800&quot;); background-size: cover;" alt=""></a></div><div><div class="d-flex py-1"><div class="my-auto py-1"><p class="font-size-xsmall text-slate-400">아티클 · 9분 분량</p></div><div class="ml-auto d-inline-flex my-auto"><button class="p-0 border-0 ml-2"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M21 3a1 1 0 00-1-1H4a1 1 0 00-1 1v17.122a1 1 0 001.558.83l6.884-4.633a1 1 0 011.116 0l6.884 4.632a1 1 0 001.558-.83V3zM5 4h14v14.243l-5.325-3.584-.182-.113a3 3 0 00-3.168.113L5 18.242V4z" fill="#777"></path></svg></button></div></div><div><a href="/content/7083?fr=category"><h6 class="text-slate-900 font-weight-normal font-size-medium text-truncate-2 leading-tight mb-0">'이 가격이면 못 참지!', 결국 사게 만드는 13가지 글쓰기 노하우</h6></a></div></div></div></div>]]></content:encoded>
+            <title><![CDATA[요즘 초등학생은 용돈 어디에 쓸까? 학교 끝나고 뭐 할까? (캐릿)]]></title>
+            <link>https://www.careet.net/1083</link>
+            <guid>https://www.careet.net/1083</guid>
+            <pubDate>Wed, 17 May 2023 08:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[무인문구점 굿즈부터 모바일 피파까지, 초등학교 인기 아이템을 모았습니다.]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202305/a4389223-94ab-4a35-8eb1-79794224a08d_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Z세대가 요즘 뜨는 행사·이벤트·핫플 찾을 때 참고하는 계정 13 (캐릿)]]></title>
@@ -325,6 +333,14 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;여러분이 기억하는 제주는 어떤가요? 1월 1일 성산일출봉에서 바라본 태양, 우도에서 먹은 땅콩 아이스크림, 애월 바다에서 즐긴 카약까지. 많은 분이 ‘여행의 설렘<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[38억 년 전, 태양계에는 엄청난 격변이 있었다. 지금도 그 안에는 엄청나게 많은 소행성이 존재한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/62254</link>
+            <guid>https://www.bookjournalism.com/books/62254</guid>
+            <pubDate>Wed, 17 May 2023 08:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[지구를 지켜라]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/539556/w/646/eb230517.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[청년층이 태국의 개혁을 이끌었다. 입헌군주제의 그늘 아래 있던 태국이 변하고 있다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/62273</link>
             <guid>https://www.bookjournalism.com/books/62273</guid>
@@ -411,14 +427,6 @@
             <pubDate>Mon, 08 May 2023 15:12:34 GMT</pubDate>
             <content:encoded><![CDATA[감염병 재난의 종료]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/538558/w/646/e230509.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인공지능은 어느새 노동하는 존재가 되었다. 이 합의 없는 움직임에, 인간의 노동은 위기를 맞았다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61928</link>
-            <guid>https://www.bookjournalism.com/books/61928</guid>
-            <pubDate>Sun, 07 May 2023 15:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[AI가 바꿀 노동의 모습]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/535729/w/646/e230508.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
