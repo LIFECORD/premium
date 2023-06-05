@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-06-05T15:12:45.709Z</updated>
+    <updated>2023-06-05T16:15:19.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/706</id>
         <link href="https://www.longblack.co/note/706"/>
         <updated>2023-06-05T15:12:02.017Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 C글 쓰는 거 좋아하세요? 전 점점 어렵게 느껴져요! 모레까지 광고 카피 뽑아야 하는데, 이것저것 써봐도 꽂히는 게 없네요. 흠, 이상해요. 친구랑 카톡하고 인스타 <span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 C&nbsp;글 쓰는 거 좋아하세요? 전 점점 어렵게 느껴져요! 모레까지 광고 카피 뽑아야 하는데, 이것저것 써봐도 꽂히는 게 없네요. 흠, 이상해요. 친구랑 카톡하고 인스타<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
