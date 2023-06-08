@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 15:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 16:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -290,7 +290,7 @@
             <link>https://www.longblack.co/note/709</link>
             <guid>https://www.longblack.co/note/709</guid>
             <pubDate>Thu, 08 Jun 2023 15:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;매일 새 이벤트가 열리는 성수동. 최근엔 ‘국내 최대 규모’의 도심 속 양조장이 들어섰대요. 약 100평 부지, 350평 건물에 지하 1층, 지상 6층 높이의 콘<span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;매일 새 이벤트가 열리는 성수동. 최근엔 ‘국내 최대 규모’의 도심 속 양조장이 들어섰대요. 약 100평 부지, 350평 건물에 지하 1층, 지상 6층 높이의 공<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[브랜드 아파트는 한국 사회 불평등의 상징이 되었다. 우리가 사는 곳이 정말로 우리 자신을 말해줄까. (북저널리즘)]]></title>
