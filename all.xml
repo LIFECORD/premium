@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 17:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 18:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,12 +294,19 @@
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202304/ed6a9f4a-5001-492f-8971-702760273a27_770x426.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[수박빈티지 : 비즈니스맨이 된 목사, 브랜딩에 뻘짓을 더하다 (롱블랙)]]></title>
+            <link>https://www.longblack.co/note/710</link>
+            <guid>https://www.longblack.co/note/710</guid>
+            <pubDate>Fri, 09 Jun 2023 18:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;요즘 빈티지 패션에 관심이 생겼어요. 처음엔 환경에 좋을 거라고 생각해서 입었죠. 한 옷을 오래도록 입는 데 동참하는 거니까요. 입다 보니 편하고, 디자인도 흔치<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[모빌리티는 시대정신이다. 가장 빠르고 편한 것을 위해, 산업 간 경계는 무너지고 있다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/63118</link>
             <guid>https://www.bookjournalism.com/books/63118</guid>
             <pubDate>Fri, 09 Jun 2023 16:14:32 GMT</pubDate>
             <content:encoded><![CDATA[미래, 모빌리티]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/548936/w/646/94_mobility.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/548939/w/646/94_mobility.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[북저널리즘 위크엔드, 열세 번째 에피소드에서는 사우디아라비아의 스포츠 워싱과 사라지는 러시앤캐시, 트랜스젠더의 스포츠 권리에 관해 이야기합니다. (북저널리즘)]]></title>
