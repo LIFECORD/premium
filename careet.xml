@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 23:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 02:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SNS 콘텐츠 제작할 때 참고하세요! Z세대는 다 아는 전단지 밈]]></title>
+            <link>https://www.careet.net/1103</link>
+            <guid>https://www.careet.net/1103</guid>
+            <pubDate>Wed, 21 Jun 2023 02:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[“치악산 복숭아 당도최고”가 왜 밈이야?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/8a2db368-6256-4a96-b3ca-f39324144210_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Z세대 100명에게 물었습니다. 2023년 상반기 트렌드는 무엇이었나요?]]></title>
             <link>https://www.careet.net/1100</link>
