@@ -4,9 +4,17 @@
         <title>캐릿</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 23:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 01:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨이팅만 30분, 향수 뿌린 책으로 MZ 불러 모은 ‘문학 마케팅’]]></title>
+            <link>https://www.careet.net/1112</link>
+            <guid>https://www.careet.net/1112</guid>
+            <pubDate>Mon, 26 Jun 2023 01:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[책 안 읽을 것 같은 MZ세대가 소설가와 브랜드의 콜라보를 반기는 이유는?]]></content:encoded>
+            <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202306/185e3436-0f76-428c-bc6c-cf2f21be9a55_770x426.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[취준생 에디션] 현직 마케터 18인이 이야기하는 ‘마케터 되는 법’]]></title>
             <link>https://www.careet.net/1108</link>
