@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 07:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 08:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -405,6 +405,14 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;셰프가 나오는 방송을 즐겨 봐요. 솟구치는 불과 땀 흘리며 씨름하는 모습이 멋있거든요. 각양각색의 조리복을 보는 재미도 있고요. 이연복 셰프는 흰 차이나 카라, <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[대마초는 전 세계에서 이미지 변신을 시도하고 있다. 약물이 아니라, 마치 약품처럼. 여기에는 근거가 있을까. 대마초는 정말 괜찮을까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/63659</link>
+            <guid>https://www.bookjournalism.com/books/63659</guid>
+            <pubDate>Wed, 28 Jun 2023 08:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[대마, 악 혹은 약?]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/553762/w/646/IMG_0967.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[셀프 스토리지가 새로운 트렌드가 됐다.  도시에 필요한 공간은 무엇인지 묻는다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/63647</link>
             <guid>https://www.bookjournalism.com/books/63647</guid>
@@ -491,14 +499,6 @@
             <pubDate>Mon, 19 Jun 2023 16:19:36 GMT</pubDate>
             <content:encoded><![CDATA[돈이 되고 싶은 커뮤니티, 레딧]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/551056/w/646/ex230619.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거부권 정국이다. 대통령에게 절충이 없다. 여당이 없다. 정치가 없다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/63386</link>
-            <guid>https://www.bookjournalism.com/books/63386</guid>
-            <pubDate>Sun, 18 Jun 2023 15:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[대통령이 정치를 하지 않는다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/551036/w/646/ex230619.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
