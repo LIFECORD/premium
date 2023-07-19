@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 20:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 21:10:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -357,6 +357,14 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;어느덧 &lt;사유, 한 주&gt; 네 번째 노트입니다. 한 달 전, 롱블랙은 다섯 가지의 사유 주제를 꼽으며 죽음을 빼놓을 순 없겠다고 생각했습니다. 인간이라면 누구나, <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[친환경 스니커즈 스타트업 올버즈가 위기다. 혁신의 문제는 좋은 가치가 아니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/64433</link>
+            <guid>https://www.bookjournalism.com/books/64433</guid>
+            <pubDate>Wed, 19 Jul 2023 21:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[길 잃은 혁신의 운동화]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/562277/w/646/ex230719.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[남태평양 위 작은 섬에서의 전쟁이 지금의 영국과 아르헨티나를 만들었다. 전쟁은 외교로 얼굴을 바꾸어 지금도 진행 중이다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/64297</link>
             <guid>https://www.bookjournalism.com/books/64297</guid>
@@ -443,14 +451,6 @@
             <pubDate>Tue, 11 Jul 2023 16:17:02 GMT</pubDate>
             <content:encoded><![CDATA[뉴욕타임스식 혁신의 부작용]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/558707/w/646/ex230711.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알츠하이머 치매 치료제가 시장에 풀린다. 1년에 3500만 원이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/64067</link>
-            <guid>https://www.bookjournalism.com/books/64067</guid>
-            <pubDate>Mon, 10 Jul 2023 17:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[치매의 비용]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/558113/w/646/ex230710.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
