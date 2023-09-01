@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 00:50:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 01:52:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -429,6 +429,14 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;“나도 일 관두고 크리에이터나 할까 봐.”직장인이라면 습관적으로 뱉는 말이죠. 크리에이터는 분명 매력적인 직업입니다. 경제적 성공, 자아실현을 동시에 이룬 것처럼<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 26 Apr 2023 03:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/577504/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[쏟아지는 업무 툴은 디지털 부채와 스크린 무호흡증을 부른다. 생산성의 시대에서 기술은 왜 리스크가 되는가? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/65826</link>
             <guid>https://www.bookjournalism.com/books/65826</guid>
@@ -443,14 +451,6 @@
             <pubDate>Thu, 31 Aug 2023 15:11:40 GMT</pubDate>
             <content:encoded><![CDATA[ISSUE 16. FOUNDERS]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/575010/w/646/bkjnthread16_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Wed, 26 Apr 2023 03:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/577245/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[트럼프가 돌아온다. 세계의 운명을 쥔 미국 유권자들은 어떤 선택을 할까. (북저널리즘)]]></title>
