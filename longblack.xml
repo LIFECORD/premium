@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-09-08T15:10:15.062Z</updated>
+    <updated>2023-09-08T16:14:34.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/809</id>
         <link href="https://www.longblack.co/note/809"/>
         <updated>2023-09-08T15:09:46.009Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B &nbsp;아침저녁으로 바람이 선선합니다. 하반기에 들어섰다는 게 실감 나요. ‘올 초에 결심했던 일들을 얼마큼 이루었나’ 생각하니, 마음이 조금 무겁네요.책을 한 권 집<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;아침저녁으로 바람이 선선합니다. 하반기에 들어섰다는 게 실감 나요. ‘올 초에 결심했던 일들을 얼마큼 이루었나’ 생각하니, 마음이 조금 무겁네요.책을 한 권 집어<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
