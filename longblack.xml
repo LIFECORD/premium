@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-09-13T15:11:55.229Z</updated>
+    <updated>2023-09-13T16:14:43.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/831</id>
         <link href="https://www.longblack.co/note/831"/>
         <updated>2023-09-13T15:11:29.016Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 B도쿄의 나카메구로. 낮은 담장과 아기자기한 가게가 즐비한 골목여행 명소예요. 그중 오래된 목조 가옥 한 채가 눈에 띕니다. 주말이면 수백 명씩 다녀가요. 오니버스 <span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 B&nbsp;도쿄의 나카메구로. 낮은 담장과 아기자기한 가게가 즐비한 골목여행 명소예요. 그중 오래된 목조 가옥 한 채가 눈에 띕니다. 주말이면 수백 명씩 다녀가요. 오니버스<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
