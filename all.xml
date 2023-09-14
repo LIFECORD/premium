@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 02:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 03:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -341,6 +341,14 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;도쿄의 나카메구로. 낮은 담장과 아기자기한 가게가 즐비한 골목여행 명소예요. 그중 오래된 목조 가옥 한 채가 눈에 띕니다. 주말이면 수백 명씩 다녀가요. 오니버스<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 26 Apr 2023 03:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/580891/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[공채 문은 좁아진다. 청년은 취업하지 않는다. 새로운 사다리가 필요하다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/66139</link>
             <guid>https://www.bookjournalism.com/books/66139</guid>
@@ -355,14 +363,6 @@
             <pubDate>Wed, 13 Sep 2023 08:15:02 GMT</pubDate>
             <content:encoded><![CDATA[굿바이, 오피스]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/579795/w/646/eb230913.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Wed, 26 Apr 2023 03:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/580297/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[애플과 화웨이가 신제품을 놓고 격돌한다. 그 이면엔 시진핑 정부의 불안이 읽힌다. (북저널리즘)]]></title>
