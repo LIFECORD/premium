@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 00:47:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 01:45:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -349,6 +349,14 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;여러분, 그거 아세요? 롱블랙이 어느덧 2주년을 앞두고 있어요! 지난 2년간 600여 개 노트, 580만여 글자로 비즈니스 리더들의 남다른 감각을 전해왔죠.2주년<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 26 Apr 2023 03:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/581649/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[이 회사의 행보를 따라가면, 전 세계의 취향과 경제적 고민의 흐름이 보인다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/66238</link>
             <guid>https://www.bookjournalism.com/books/66238</guid>
@@ -363,14 +371,6 @@
             <pubDate>Fri, 15 Sep 2023 08:14:25 GMT</pubDate>
             <content:encoded><![CDATA[2023년 9월 16일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/581329/w/646/thumb_apple.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Wed, 26 Apr 2023 03:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/581309/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[구글은 검색의 표준을 만들었다. 반독점법이 새로운 상상력을 위해 나섰다. (북저널리즘)]]></title>
