@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 02:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 03:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -381,6 +381,14 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;아디다스 액티베이션 엑스퍼트, 스투시 한국 지사장, 슈프림 글로벌 브랜드 팀 소속 디렉터. 이 타이틀을 모두 거머쥔 사람이 있어요. &lt;감각의 설계자들 3&gt;의 네 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 26 Apr 2023 03:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/582304/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[기술은 건강함이라는 신화를 개인의 몫으로 만든다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/66297</link>
             <guid>https://www.bookjournalism.com/books/66297</guid>
@@ -395,14 +403,6 @@
             <pubDate>Wed, 20 Sep 2023 08:15:03 GMT</pubDate>
             <content:encoded><![CDATA[세상을 날씬하게]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/582069/w/646/eb230920.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Wed, 26 Apr 2023 03:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/582020/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[모두가 아마존의 성장은 끝났다고 말한다. 제시의 생각은 다르다. (북저널리즘)]]></title>
