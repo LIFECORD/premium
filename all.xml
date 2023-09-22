@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 00:48:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 01:45:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -381,20 +381,20 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;강릉 가는 기차에 몸을 실었습니다. 바다를 보러 가는 건 아닙니다. 커피를 맛보고 싶어서죠. 경포대 안목해변 해안가는 유난히 카페가 많습니다. 1세대 바리스타 박<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 26 Apr 2023 03:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/582989/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[옥토버 페스트에서 워키즘(wokeism)이 논란의 도마에 올랐다. 축제는 어떻게 변해가고 있는가. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/66339</link>
             <guid>https://www.bookjournalism.com/books/66339</guid>
             <pubDate>Thu, 21 Sep 2023 17:10:44 GMT</pubDate>
             <content:encoded><![CDATA[축제는 계속되어야 한다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/582471/w/646/ex230921.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Wed, 26 Apr 2023 03:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/582304/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[기술은 건강함이라는 신화를 개인의 몫으로 만든다. (북저널리즘)]]></title>
