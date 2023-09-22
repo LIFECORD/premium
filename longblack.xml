@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2023-09-22T15:12:07.008Z</updated>
+    <updated>2023-09-22T16:14:26.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/841</id>
         <link href="https://www.longblack.co/note/841"/>
         <updated>2023-09-22T15:11:43.287Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 L&nbsp;지난 주말에 열렸던 2주년 롱블랙 마켓! 정말 멋지게 끝났어. 비가 오는 날씨에도 정말 많은 롱블랙 피플이 성수로 와 줬지.&nbsp;1주년 팝업보다 풍성했어. 녹기전에,<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 L&nbsp;지난 주말에 열렸던 2주년 롱블랙 마켓! 정말 멋지게 끝났어. 비가 오는 날씨에도 정말 많은 롱블랙 피플이 성수로 와 줬지.&nbsp;1주년 팝업보다 풍성했어. 녹기 전에<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
