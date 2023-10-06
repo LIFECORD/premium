@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 07:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 08:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -261,6 +261,14 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;감동적인 캠페인을 하나 봤어. 6.25 참전용사들이 새로운 제복을 입고 찍은 화보였지. 허름한 작업 조끼를 벗고, 멀끔한 베이지색 제복 재킷을 입은 참전용사들. <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[롱코비드와 탕후루, 북저널리즘 시리즈 《노동 4.0》에 관해 이야기합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/66696</link>
+            <guid>https://www.bookjournalism.com/audio/66696</guid>
+            <pubDate>Fri, 06 Oct 2023 08:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 10월 6일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/586802/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -347,14 +355,6 @@
             <pubDate>Mon, 25 Sep 2023 18:15:02 GMT</pubDate>
             <content:encoded><![CDATA[지배하려는 당원, 개딸]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/583792/w/646/ex230925.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[월터 아이작슨이 쓴 일론 머스크 전기가 화제다. 아이작슨의 글쓰기 비결은 뭘까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/66370</link>
-            <guid>https://www.bookjournalism.com/books/66370</guid>
-            <pubDate>Wed, 04 Oct 2023 09:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[월터 아이작슨처럼 쓰려면]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/583290/w/646/IMG_5775.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
