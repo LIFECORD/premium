@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 01:48:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 02:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -317,20 +317,20 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;얼마 전 용산에 갔다가 엄청 고민했어요. 디저트로 도넛 크루아상을 먹을지, 바닐라 찹쌀 약과를 먹을지요! 크루아상 맛집 ‘테디뵈르하우스’와 약과 전문점 ‘골든피스<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 26 Apr 2023 03:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/589548/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[서울 지하철이 총파업을 준비한다. 지하철이 멈추면 보이는 게 있다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/66913</link>
             <guid>https://www.bookjournalism.com/books/66913</guid>
             <pubDate>Tue, 17 Oct 2023 21:11:51 GMT</pubDate>
             <content:encoded><![CDATA[서울 지하철이 멈추면 보이는 것]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/589230/w/646/ex231017.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Wed, 26 Apr 2023 03:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/589004/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[승부사, 구영배 대표가 돌아왔다. 이번에는 보따리상의 디지털화다. (북저널리즘)]]></title>
