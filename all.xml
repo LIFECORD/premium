@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 02:26:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 03:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -324,13 +324,6 @@
             <pubDate>Wed, 01 Nov 2023 01:53:30 GMT</pubDate>
             <content:encoded><![CDATA[Z세대 따라 유용한 오픈채팅방 입장하고 싶은 분, 주목!]]></content:encoded>
             <enclosure url="https://s3.ap-northeast-2.amazonaws.com/univ-careet/FileData/Picture/202310/cbb2d3e3-2cb7-4939-88c3-5f99c07032c7_770x426.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[난로회 최정윤 : 한식을 주인공으로, 세상에 없던 힙한 풍경을 만들다 (롱블랙)]]></title>
-            <link>https://www.longblack.co/note/917</link>
-            <guid>https://www.longblack.co/note/917</guid>
-            <pubDate>Tue, 12 Dec 2023 15:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;몽탄·고도식·카린지 등을 기획한 정동우 대표, 금토일샴페인빠의 한충희 대표, 청기와타운의 양지삼 대표, 벽제갈비의 김태현 부회장… 내로라하는 국내 F&amp;B 업계 인<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
