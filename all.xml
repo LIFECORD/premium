@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 08:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 09:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -389,6 +389,14 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;겨울에만 파는 책을 득템했어요! 지난달 열렸던 언리미티드 에디션에서요. 무려 1843년 출간된 찰스 디킨스Charles Dickens의 『크리스마스 캐롤』 초판본<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[개인 제트기와 애플의 건강 관리, 요양에 대해 다룹니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/68561</link>
+            <guid>https://www.bookjournalism.com/audio/68561</guid>
+            <pubDate>Fri, 22 Dec 2023 09:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 12월 23일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/607761/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -475,14 +483,6 @@
             <pubDate>Wed, 13 Dec 2023 08:14:37 GMT</pubDate>
             <content:encoded><![CDATA[도시의 미래는 모빌리티를 타고 온다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/606369/w/646/f231213thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불안한 혁신이 미래를 만든다. 반면 코스맥스는 맥도날드의 편안한 과거다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/68373</link>
-            <guid>https://www.bookjournalism.com/books/68373</guid>
-            <pubDate>Tue, 12 Dec 2023 15:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[노스탤지어에 빠진 맥도날드]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/605015/w/646/231213_exp_th.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
