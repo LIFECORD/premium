@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 18:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 19:09:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -341,6 +341,14 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;토끼의 목을 고정하고, 안구*에 수백 번 넘게 마스카라를 바릅니다. 등에 상처를 내고 화장품을 바른 다음, 염증이 생기는지 테스트해요. 화장품 제조 단계에서 이뤄<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[정치 혐오가 혐오 정치를 만든다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/68931</link>
+            <guid>https://www.bookjournalism.com/books/68931</guid>
+            <pubDate>Wed, 17 Jan 2024 19:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[동료 시민에 대한 예의]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/612330/w/646/ex240118thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -427,14 +435,6 @@
             <pubDate>Fri, 05 Jan 2024 08:15:02 GMT</pubDate>
             <content:encoded><![CDATA[2024년 1월 6일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/609890/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태영건설이 빚에 몰렸다. 발등에 불이 떨어진 이는 따로 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/68750</link>
-            <guid>https://www.bookjournalism.com/books/68750</guid>
-            <pubDate>Thu, 04 Jan 2024 15:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[PF 도미노를 이해하려면]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/609771/w/646/ex240105thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
