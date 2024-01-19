@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 07:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 08:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -357,6 +357,14 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;‘Bold’는 ‘용감하다’는 뜻을 지녔어요. 용감한 사람은 행동합니다. &lt;Be Bold&gt; 위크의 마지막 주인공, 션(본명 노승환) 대표처럼요. 힙합 가수이자 승일<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[앨라배마주의 지역 언론과 기후 대응 콘트롤타워, 반려견 복제를 다룹니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/69025</link>
+            <guid>https://www.bookjournalism.com/audio/69025</guid>
+            <pubDate>Fri, 19 Jan 2024 08:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 1월 20일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/612849/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
             <guid>https://www.bookjournalism.com/books/61753</guid>
@@ -443,14 +451,6 @@
             <pubDate>Tue, 09 Jan 2024 15:12:35 GMT</pubDate>
             <content:encoded><![CDATA[모두를 위한 뉴스페이스]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/610740/w/646/240110_exp_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해도 산천어 축제는 성공이다. 매년 질문이 쌓여 간다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/68796</link>
-            <guid>https://www.bookjournalism.com/books/68796</guid>
-            <pubDate>Mon, 08 Jan 2024 23:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[우리는 왜 손맛을 사랑하나]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/611106/w/646/ex240109thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
