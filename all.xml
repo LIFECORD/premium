@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 07:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 08:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/960</guid>
             <pubDate>Thu, 25 Jan 2024 15:12:26 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;친구가 공감 간다며, 책 한 구절을 캡처해 보내줬어요. 웃긴 글은 아닌데, 웃겼어요. 저도 가끔 이런 생각을 하거든요. 제 심정이 글로 차지게 표현되다니, 반가운<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[애플의 비전프로와 기후 위기 시대의 맥주, 자살 위기에 몰린 청년 여성을 다룹니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/69184</link>
+            <guid>https://www.bookjournalism.com/audio/69184</guid>
+            <pubDate>Fri, 26 Jan 2024 08:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 1월 27일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/614433/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Tue, 16 Jan 2024 15:12:12 GMT</pubDate>
             <content:encoded><![CDATA[쿠키가 사라진 자리]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/612165/w/646/240117_exp_thumb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[독립 영화사 A24는 마블의 홍수 속에서 어떻게 할리우드의 독보적인 제작사가 됐을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/68891</link>
-            <guid>https://www.bookjournalism.com/books/68891</guid>
-            <pubDate>Mon, 15 Jan 2024 18:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[A24는 어떻게 할리우드 최고의 제작사가 됐을까?]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/611881/w/646/ex240116thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
