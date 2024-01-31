@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 00:48:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 01:44:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/963</guid>
             <pubDate>Tue, 30 Jan 2024 15:10:48 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;“음악은 영화의 심장 박동이다.”「아바타」 시리즈를 연출한 제임스 카메론 감독의 말입니다. 여기 한국 영화의 심장 박동을 만든 사람이 있어요. 달파란 음악 감독입<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 31 Jan 2024 01:44:27 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/614955/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[총선을 앞두고 전화가 쏟아진다. 어쩌다 여론 조사는 공해가 되었나. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Thu, 18 Jan 2024 23:12:31 GMT</pubDate>
             <content:encoded><![CDATA[홍해의 총성]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/612665/w/646/e240119_thm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[프랑스에서 34세 총리가 등장했다. 총리직을 맡기엔 인생 경험이 부족하다는 지적이 나온다. 역사학자 가이 월터스는 결코 그렇지 않다고 말한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/68974</link>
-            <guid>https://www.bookjournalism.com/books/68974</guid>
-            <pubDate>Wed, 31 Jan 2024 00:48:03 GMT</pubDate>
-            <content:encoded><![CDATA[34세의 프랑스 총리, 가브리엘 아탈]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/612606/w/646/f240118thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
