@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 07:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 08:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/967</guid>
             <pubDate>Thu, 01 Feb 2024 15:10:21 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;“루저들 중에서 1등을 하고 싶은 거다.” 이렇게 말하던 인디밴드가 있어요. 그런데 대세가 되었죠. 2017년 한국대중음악상에서 올해의 신인상을 받더니, 2022<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스와팅과 화곡동 전세 사기, 벚꽂과 기후위기에 대해 다룹니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/69314</link>
+            <guid>https://www.bookjournalism.com/audio/69314</guid>
+            <pubDate>Fri, 02 Feb 2024 08:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 2월 3일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/615591/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Tue, 23 Jan 2024 15:12:39 GMT</pubDate>
             <content:encoded><![CDATA[피치포크의 종말]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/613823/w/646/240124_exp_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[G 대리가 점점 똑똑해진다. 김 대리의 자리는 무사할까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/69063</link>
-            <guid>https://www.bookjournalism.com/books/69063</guid>
-            <pubDate>Mon, 22 Jan 2024 16:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[당신이 필요 없는 세상]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/613512/w/646/e240122_thm.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
