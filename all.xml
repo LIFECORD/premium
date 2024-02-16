@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 07:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 08:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/979</guid>
             <pubDate>Thu, 15 Feb 2024 15:11:11 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;‘나이키’ 하면 뭐가 떠오르세요? 맞아요, 혁신! 저는 유독 이 두 개가 인상 깊더라고요. 나이키의 체험형 매장 ‘하우스 오브 이노베이션House of Innov<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한국의 커피 사랑과 미국의 슈퍼볼, 인도네시아 대선을 다룹니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/69477</link>
+            <guid>https://www.bookjournalism.com/audio/69477</guid>
+            <pubDate>Fri, 16 Feb 2024 08:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 2월 17일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/617279/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Mon, 05 Feb 2024 01:49:54 GMT</pubDate>
             <content:encoded><![CDATA[ISSUE 20. 혁신, 스포트라이트, 금융]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/615327/w/646/thread20_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스와팅과 화곡동 전세 사기, 벚꽂과 기후위기에 대해 다룹니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/69314</link>
-            <guid>https://www.bookjournalism.com/audio/69314</guid>
-            <pubDate>Fri, 02 Feb 2024 08:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 2월 3일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/615591/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
