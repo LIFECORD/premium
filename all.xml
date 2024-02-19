@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 00:49:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 01:45:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,6 +85,14 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 K &nbsp;우리는 ‘스토리의 시대’를 살고 있어요. K 콘텐츠 시장 규모는 어느덧 148조원에 달하고, 이제는 기업들까지 자기만의 세계관 만들기에 나서고 있죠. 롱블랙이 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 14 Feb 2024 01:44:16 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/617484/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[생성 AI가 이제 2막에 들어섰다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/69488</link>
             <guid>https://www.bookjournalism.com/books/69488</guid>
@@ -99,14 +107,6 @@
             <pubDate>Fri, 16 Feb 2024 08:14:25 GMT</pubDate>
             <content:encoded><![CDATA[2024년 2월 17일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/617279/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Wed, 14 Feb 2024 01:44:16 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/617275/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[돈이 영향력이 된다. 그래도 괜찮을까? (북저널리즘)]]></title>
