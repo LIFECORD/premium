@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 00:47:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 01:42:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,20 +85,20 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;스토리가 있는 브랜드가 사랑받아요. 나이키가 파는 것이 과연 운동화일까요? 도전정신이란 스토리예요. 애플이 파는 것은? 창조적 다양성이란 스토리죠. 매력적인 브랜<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 14 Feb 2024 01:44:16 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/617964/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[봄철이면 고로쇠 수액이 인기다. 불법 채취꾼들도 이때를 노린다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/69551</link>
             <guid>https://www.bookjournalism.com/books/69551</guid>
             <pubDate>Wed, 21 Feb 2024 15:11:45 GMT</pubDate>
             <content:encoded><![CDATA[고로쇠도 아프다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/617696/w/646/ex240222thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Wed, 14 Feb 2024 01:44:16 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/617634/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[문제는 나이가 아니다. 낡은 정치로 채워진 선택지가 핵심이다. (북저널리즘)]]></title>
