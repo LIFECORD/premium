@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 08:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 09:11:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/986</guid>
             <pubDate>Thu, 22 Feb 2024 15:11:27 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;“아기상어 뚜루루뚜루~” 이 노래 모르는 사람 없지? 전 세계 유튜브 조회수 1위 영상이 바로 이 ‘핑크퐁 아기상어 체조(Baby Shark Dance)’영상이야<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[난장이가 쏘아올린 작은 공과 변화하는 스프링캠프, 엔비디아와 AI에 대해 다룹니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/69583</link>
+            <guid>https://www.bookjournalism.com/audio/69583</guid>
+            <pubDate>Fri, 23 Feb 2024 09:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 2월 24일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/618128/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Mon, 12 Feb 2024 15:12:12 GMT</pubDate>
             <content:encoded><![CDATA[TV가 된 소셜 미디어]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/616284/w/646/e240213_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명절 선물과 플라스틱 조화, 의대 쏠림 현상을 다룹니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/69394</link>
-            <guid>https://www.bookjournalism.com/audio/69394</guid>
-            <pubDate>Fri, 09 Feb 2024 00:46:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 2월 10일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/616261/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
