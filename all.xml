@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 01:46:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 02:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,6 +85,14 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;지난 주말 충남 아산에 있는 온양민속박물관*을 다녀왔어요. 이곳에는 50미터 길이의 박물관 부속 건물이 있습니다. ‘일자집’이라 불리는 곳으로, 박물관의 허드레 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 14 Feb 2024 01:44:16 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/618230/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[러시아와 우크라이나의 전쟁이 2년을 맞았다. 전쟁은 교착 상태에 빠졌다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/69600</link>
             <guid>https://www.bookjournalism.com/books/69600</guid>
@@ -99,14 +107,6 @@
             <pubDate>Fri, 23 Feb 2024 09:11:05 GMT</pubDate>
             <content:encoded><![CDATA[2024년 2월 24일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/618128/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Wed, 14 Feb 2024 01:44:16 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/618041/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[기술에 따라잡히기 전에 알아야 한다. (북저널리즘)]]></title>
