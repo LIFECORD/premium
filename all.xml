@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 00:46:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 01:42:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,20 +85,20 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;여기, 제품 출시 1년 만에 빅 브랜드들의 아성을 위협한 당찬 스타트업이 있어요. 미국의 분유 브랜드 바비Bobbie. 잠깐, 분유에는 관심이 없다고요? 오늘 들<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 14 Feb 2024 01:44:16 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/618307/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[코리아 디스카운트의 원인을 명확히 해야 해결책도 보인다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/69609</link>
             <guid>https://www.bookjournalism.com/books/69609</guid>
             <pubDate>Mon, 26 Feb 2024 16:14:22 GMT</pubDate>
             <content:encoded><![CDATA[밸류업이 안되는 진짜 이유]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/618242/w/646/e240227_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Wed, 14 Feb 2024 01:44:16 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/618230/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[러시아와 우크라이나의 전쟁이 2년을 맞았다. 전쟁은 교착 상태에 빠졌다. (북저널리즘)]]></title>
