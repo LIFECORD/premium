@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 00:46:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 01:44:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/991</guid>
             <pubDate>Tue, 27 Feb 2024 15:11:49 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 C“저 인간 도대체 왜 저러는 거야?” 솔직히 이번 주에 이 생각, 해본 적 있지 않나요? 일하다 보면 종종 빌런Villain을 만나요. 그중에서도 가장 괴로운 건?<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 28 Feb 2024 01:44:16 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/618345/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[기후 위기 시대의 대기 오염은 메이드 인 꼬리표를 넘어선다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Thu, 15 Feb 2024 15:11:34 GMT</pubDate>
             <content:encoded><![CDATA[기부금의 정치학]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/617208/w/646/e240216_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네덜란드는 세계 최초로 안락사를 합법화했다. 어떤 논의를 거쳐 왔을까? (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/69436</link>
-            <guid>https://www.bookjournalism.com/books/69436</guid>
-            <pubDate>Wed, 28 Feb 2024 00:46:34 GMT</pubDate>
-            <content:encoded><![CDATA[죽을 권리가 인정받기까지]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/617100/w/646/ex240215thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
