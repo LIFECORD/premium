@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 00:48:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 02:00:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,6 +85,14 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;일을 하다 보면 온갖 고민이 들 때가 있습니다. 누구를 위해서 이 제품을 만드는가. 어떻게 서비스를 개선해야 할까. 이 제품으로 나는 어떤 세상을 만들고 싶은가.<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 28 Feb 2024 01:44:16 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/618980/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[애플이 애플카 프로젝트를 중단한다. 애플은 왜 실패했을까? (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/69660</link>
             <guid>https://www.bookjournalism.com/books/69660</guid>
@@ -99,14 +107,6 @@
             <pubDate>Fri, 01 Mar 2024 04:14:34 GMT</pubDate>
             <content:encoded><![CDATA[2024년 3월 1일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/618567/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Wed, 28 Feb 2024 01:44:16 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/618505/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[개혁신당 이준석 대표는 스타트업 하듯 정치를 한다. (북저널리즘)]]></title>
