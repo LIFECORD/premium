@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 00:47:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 01:43:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/997</guid>
             <pubDate>Tue, 05 Mar 2024 15:11:01 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;1월에 나온 스타벅스 굿즈 봤어요? 도도새 그림이 그려진 텀블러와 토트백이에요. 텀블러에는 뭉툭한 부리를 가진 순진무구한 얼굴의 도도새 피규어가 달려 있어요. 진<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 06 Mar 2024 01:43:18 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/619320/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[AI 시대의 전쟁은 조용하다. 우리는 조용한 전쟁을 마주할 준비가 됐을까? (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Wed, 21 Feb 2024 15:11:45 GMT</pubDate>
             <content:encoded><![CDATA[고로쇠도 아프다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/617696/w/646/ex240222thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문제는 나이가 아니다. 낡은 정치로 채워진 선택지가 핵심이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/69532</link>
-            <guid>https://www.bookjournalism.com/books/69532</guid>
-            <pubDate>Wed, 06 Mar 2024 00:47:45 GMT</pubDate>
-            <content:encoded><![CDATA[늙은 정치인과 낡은 정치판]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/617619/w/646/240221_exp_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
