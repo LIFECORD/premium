@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Mar 2024 00:47:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 01:42:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,20 +85,20 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;롱블랙 피플, 새로운 소식이 있어요. 금요일마다* 하나의 주제를 깊이 있게 파고들 거예요. 이른바, 롱블랙 클래스!*3~6월, 9~12월 학기제로 발행됩니다.20<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 06 Mar 2024 01:43:18 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/619585/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[종이 신문의 문제는 ‘종이’가 아닐지도 모른다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/69736</link>
             <guid>https://www.bookjournalism.com/books/69736</guid>
             <pubDate>Thu, 07 Mar 2024 15:11:25 GMT</pubDate>
             <content:encoded><![CDATA[4년에 한 번 발행되는 신문]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/619513/w/646/e240308_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Wed, 06 Mar 2024 01:43:18 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/619503/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[새어 나가는 메탄을 잡아야 지구가 산다. (북저널리즘)]]></title>
