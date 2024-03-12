@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 00:47:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 01:43:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,20 +85,20 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;킴 카다시안Kim Kardarsian이라는 이름, 다들 한 번쯤 들어봤을 거야. 할리우드의 이슈 메이커! 롱블랙에서 웬 가십 이야기냐고? 당연히 아니지. 비즈니스<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 06 Mar 2024 01:43:18 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/619939/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[AI시대, 돌봄과 교감은 상품이 된다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/69778</link>
             <guid>https://www.bookjournalism.com/books/69778</guid>
             <pubDate>Mon, 11 Mar 2024 15:12:29 GMT</pubDate>
             <content:encoded><![CDATA[소셜 로봇이 온다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/619859/w/646/e240312_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Wed, 06 Mar 2024 01:43:18 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/619848/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2026년부터 기업의 기후 대응 정보가 재무적 요소처럼 취급된다. (북저널리즘)]]></title>
