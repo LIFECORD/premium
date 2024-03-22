@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 08:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 09:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1011</guid>
             <pubDate>Thu, 21 Mar 2024 15:12:30 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;롱블랙 클래스 &lt;나이키 딥다이브 시리즈&gt;, 마지막 시간이에요! 첫 번째 시간엔 나이키가 팬을 만드는 전략인 ‘스파이크’를, 두 번째 시간엔 나이키의 혁신 비결인 <span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[기후 위기 시대의 투자와 미국 IPO 경향, WSJ가 주목한 반려돌 트렌드를 다룹니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/69905</link>
+            <guid>https://www.bookjournalism.com/audio/69905</guid>
+            <pubDate>Fri, 22 Mar 2024 09:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 3월 23일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620955/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Tue, 12 Mar 2024 15:12:47 GMT</pubDate>
             <content:encoded><![CDATA[프리미엄 육아와 요즘 부모]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620008/w/646/240313_exp_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI시대, 돌봄과 교감은 상품이 된다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/69778</link>
-            <guid>https://www.bookjournalism.com/books/69778</guid>
-            <pubDate>Mon, 11 Mar 2024 15:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[소셜 로봇이 온다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/619859/w/646/e240312_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
