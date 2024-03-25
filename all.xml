@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 00:50:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 01:47:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1020</guid>
             <pubDate>Sun, 24 Mar 2024 15:10:06 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 L봄옷을 살 겸 오랜만에 백화점에 갔어. 랄프 로렌Ralph Lauren 매장에서 케이블 니트 카디건을 집었다가 금방 내려놨잖아. 한 벌에 27만9000원인 거야! <span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Mon, 25 Mar 2024 01:47:39 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/621124/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[푸틴의 5선 확정 5일 만에 최악의 테러가 발생했다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Thu, 14 Mar 2024 01:43:25 GMT</pubDate>
             <content:encoded><![CDATA[ISSUE 21. 종말, 변화, 시작]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620139/w/646/thread21_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아동 프리미엄 시장이 성장한다. 요즘 부모의 불안함 때문이다 (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/69789</link>
-            <guid>https://www.bookjournalism.com/books/69789</guid>
-            <pubDate>Mon, 25 Mar 2024 00:49:59 GMT</pubDate>
-            <content:encoded><![CDATA[프리미엄 육아와 요즘 부모]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620008/w/646/240313_exp_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
