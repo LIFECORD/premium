@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 00:48:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 01:44:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,20 +85,20 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;사우나 하면 어떤 이미지가 떠오르세요? 땀을 뻘뻘 흘리는 아저씨들이 생각나지 않나요. 몇 년 전만 해도 일본에서도 그랬어요. 하지만 지금은 달라요. 많은 20대가<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Mon, 25 Mar 2024 01:47:39 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/621285/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[K-콘텐츠가 N-콘텐츠의 꿈을 꾼다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/69944</link>
             <guid>https://www.bookjournalism.com/books/69944</guid>
             <pubDate>Tue, 26 Mar 2024 15:11:23 GMT</pubDate>
             <content:encoded><![CDATA[K-드라마가 사라진다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/621223/w/646/240327_exp_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Mon, 25 Mar 2024 01:47:39 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/621194/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[버려진 기계는 가난한 마을에 모인다. (북저널리즘)]]></title>
