@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 15:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 16:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1028</guid>
             <pubDate>Mon, 01 Apr 2024 15:11:54 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 L &nbsp;아보카도 샐러드, 아보카도 오일, 아보카도 스무디에 과카몰리까지. 아보카도는 어느새 한국인에게도 익숙한 식재료가 됐지. 그런데 십 년 전만 해도 미국에서조차 낯<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이제 자동차는 가전제품이며 전자 기기다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/70036</link>
+            <guid>https://www.bookjournalism.com/books/70036</guid>
+            <pubDate>Mon, 01 Apr 2024 16:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[샤오미의 전기차가 선언한 것]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/621814/w/646/e240402_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Wed, 20 Mar 2024 20:12:47 GMT</pubDate>
             <content:encoded><![CDATA[틱톡틱톡, 180일 남았다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620560/w/646/ex240321thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대의 고기 소비는 조직적이다. 우리의 눈은 더 위쪽을 향해야 한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/69855</link>
-            <guid>https://www.bookjournalism.com/books/69855</guid>
-            <pubDate>Tue, 19 Mar 2024 15:13:55 GMT</pubDate>
-            <content:encoded><![CDATA[금융이 시키는 육식]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620504/w/646/240320_exp_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
