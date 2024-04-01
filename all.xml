@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 00:54:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 01:57:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1027</guid>
             <pubDate>Sun, 31 Mar 2024 15:10:29 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;범상치 않은 채용 공고를 봤어요. 회사에 들어오고 싶으면 인스타그램 아이디를 적으래요. 선택이 아닌 필수예요! 실제 채용 공고에도 이렇게 돼 있어요.&nbsp;“인스타그램<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Mon, 01 Apr 2024 01:57:24 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/621735/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[음모론이 양적으로도, 질적으로도 확장하고 있다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Tue, 19 Mar 2024 15:13:55 GMT</pubDate>
             <content:encoded><![CDATA[금융이 시키는 육식]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620504/w/646/240320_exp_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대기업 간 싸움이 났다. 7.8조 원짜리 싸움, 혹은 그 이상이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/69846</link>
-            <guid>https://www.bookjournalism.com/books/69846</guid>
-            <pubDate>Mon, 01 Apr 2024 00:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국형 차기 구축함 사업의 의미]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/620421/w/646/e240319_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
