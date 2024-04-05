@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 00:49:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 01:45:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,6 +85,14 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;아마 여러분이 이 노트를 읽을 때쯤이면, 한가득 벚꽃이 피어 있겠죠. 저는 지금 선유도공원에서 이 원고를 쓰고 있어요. 빛바랜 콘크리트 기둥을 파릇한 담쟁이덩굴이<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Mon, 01 Apr 2024 01:57:24 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/622146/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[시대의 아이콘이었던 사진 잡지가 돌아온다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/70075</link>
             <guid>https://www.bookjournalism.com/books/70075</guid>
@@ -98,7 +106,7 @@
             <guid>https://www.bookjournalism.com/books/70011</guid>
             <pubDate>Thu, 04 Apr 2024 15:11:40 GMT</pubDate>
             <content:encoded><![CDATA[진격의 비야디]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/622124/w/646/106_thm.png" length="0" type="image/png"/>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/622147/w/646/106_thm.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[정신 건강과 자연환경은 밀접한 관련이 있다. (북저널리즘)]]></title>
@@ -107,14 +115,6 @@
             <pubDate>Wed, 03 Apr 2024 15:11:42 GMT</pubDate>
             <content:encoded><![CDATA[자연은 무겁다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/622007/w/646/ex240404thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Mon, 01 Apr 2024 01:57:24 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/621989/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[윤석열 정부의 세 번째 대국민 담화는 단호했지만, 효과적이지는 않았다. (북저널리즘)]]></title>
