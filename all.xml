@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Apr 2024 09:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Apr 2024 10:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1038</guid>
             <pubDate>Thu, 11 Apr 2024 15:12:33 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;안녕하세요, 롱블랙 피플! 4월을 맞이해 ‘롱블랙 클래스’가 돌아왔어요. 이번 학기의 주제는 사물학! 뒤에 ‘학學’이 들어가니 부담스럽다고요? 걱정 마세요, 이 <span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[목맥경화와 독일 대마초 합법화를 다룹니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/70142</link>
+            <guid>https://www.bookjournalism.com/audio/70142</guid>
+            <pubDate>Fri, 12 Apr 2024 10:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 4월 13일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/622530/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Mon, 01 Apr 2024 16:15:01 GMT</pubDate>
             <content:encoded><![CDATA[샤오미의 전기차가 선언한 것]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/621814/w/646/e240402_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음모론이 양적으로도, 질적으로도 확장하고 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/70002</link>
-            <guid>https://www.bookjournalism.com/books/70002</guid>
-            <pubDate>Sun, 31 Mar 2024 15:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[틱톡 시대의 음모론]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/621686/w/646/240401_exp_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
