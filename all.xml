@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Apr 2024 00:48:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 01:46:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1041</guid>
             <pubDate>Mon, 15 Apr 2024 15:12:28 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;욕실 세제, 립밤, 치약. 평범한 생활용품들이죠? 그런데 이 아이템들로 내놓는 사업마다 돌풍을 일으킨 사업가가 있어요. 2024년 1월에는 할리우드 배우 로버트 <span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Tue, 16 Apr 2024 01:46:44 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/622812/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[국제 사회가 원칙을 지켰다면, 전쟁을 막을 수 있었을지도 모른다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Wed, 03 Apr 2024 15:11:42 GMT</pubDate>
             <content:encoded><![CDATA[자연은 무겁다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/622007/w/646/ex240404thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 정부의 세 번째 대국민 담화는 단호했지만, 효과적이지는 않았다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/70045</link>
-            <guid>https://www.bookjournalism.com/books/70045</guid>
-            <pubDate>Tue, 16 Apr 2024 00:48:42 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정부의 골든 타임]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/621876/w/646/240403_exp_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
