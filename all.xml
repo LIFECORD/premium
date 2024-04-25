@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Apr 2024 00:52:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 01:52:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,20 +85,20 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;지난주에 국립현대미술관 서울관을 다녀왔어요. B가 만난 정영선 조경가의 발자취가 궁금해, 그의 개인전*을 보러 갔죠.*&lt;조경가 정영선: 이 땅에 숨 쉬는 모든 것<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Thu, 18 Apr 2024 01:45:15 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/623527/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[미국이 우크라이나에 608억 달러를 지원한다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/70242</link>
             <guid>https://www.bookjournalism.com/books/70242</guid>
             <pubDate>Wed, 24 Apr 2024 15:14:02 GMT</pubDate>
             <content:encoded><![CDATA[미국의 대외 안보 패키지 법안]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/623473/w/646/ex240425thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Thu, 18 Apr 2024 01:45:15 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/623460/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[도구론과 낙관론 위에서 태어난 멸종 동물은 기후 위기의 메시아가 될 수 있을까. (북저널리즘)]]></title>
