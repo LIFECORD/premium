@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 00:50:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 01:51:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1057</guid>
             <pubDate>Wed, 01 May 2024 15:11:21 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;악플보다 무서운 게 무플이라고 하죠. 여기, 아예 악플을 마케팅 소스로 삼은 과감한 브랜드가 있어요. 바로 영국의 스프레드* 브랜드 마마이트Marmite.*빵이나<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Thu, 02 May 2024 01:51:07 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624355/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[지금의 아이돌은 자신의 삶과 마음을 상품화한다. K팝 산업이 풀어야 할 숙제다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Thu, 18 Apr 2024 15:12:40 GMT</pubDate>
             <content:encoded><![CDATA[두바이가 물에 잠겼다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/622978/w/646/ex240419thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아기 기후 소송의 헌법 소원 공개 변론이 열린다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/70173</link>
-            <guid>https://www.bookjournalism.com/books/70173</guid>
-            <pubDate>Thu, 02 May 2024 00:50:07 GMT</pubDate>
-            <content:encoded><![CDATA[기후의 사법화]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/622869/w/646/ex240418thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
