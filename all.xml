@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 07:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 08:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1058</guid>
             <pubDate>Thu, 02 May 2024 15:12:33 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;요즘 출근길이 즐겁습니다. 날이 좋아서인지 소풍 나온 어린이집 아이들을 종종 마주치거든요. 병아리처럼 아장아장 걸어가는 모습이 어찌나 귀엽던지요. 미소가 절로 지<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[공공기관 연봉 1위와 경기북부, 틱톡 퇴출법을 다룹니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/70332</link>
+            <guid>https://www.bookjournalism.com/audio/70332</guid>
+            <pubDate>Fri, 03 May 2024 08:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 5월 4일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624437/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Mon, 22 Apr 2024 15:12:50 GMT</pubDate>
             <content:encoded><![CDATA[ISSUE 22. 상품, 규제, 생명]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/623140/w/646/thread22_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모디 총리가 3선을 앞두고 있다. 힌두 신정 일치 국가가 오고 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/70198</link>
-            <guid>https://www.bookjournalism.com/books/70198</guid>
-            <pubDate>Sun, 21 Apr 2024 15:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[힌두 대제사장의 3연임]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/623079/w/646/ex240422thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
