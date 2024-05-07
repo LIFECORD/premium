@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 May 2024 00:51:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2024 01:54:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,6 +85,14 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;‘자세히 보아야/예쁘다/오래 보아야/사랑스럽다/너도 그렇다.’한국인이라면 모를 수 없는 시, 나태주 시인의 「풀꽃」입니다. 최근 서점에서 그의 이름을 발견했어요.<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Thu, 02 May 2024 01:51:07 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624600/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[유럽이 사망할 수도 있다. 프랑스 대통령의 진단이다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/70345</link>
             <guid>https://www.bookjournalism.com/books/70345</guid>
@@ -107,14 +115,6 @@
             <pubDate>Fri, 03 May 2024 08:14:36 GMT</pubDate>
             <content:encoded><![CDATA[2024년 5월 4일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624437/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Thu, 02 May 2024 01:51:07 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624423/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[대한극장이 문을 닫는다. 영화는 가까워졌고 극장은 멀어진다. (북저널리즘)]]></title>
