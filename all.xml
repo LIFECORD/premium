@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 May 2024 00:41:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 May 2024 01:32:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1064</guid>
             <pubDate>Tue, 07 May 2024 15:11:15 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;1년 중 한 달을 길에서 보냅니다. 출근이 1시간 반 걸리거든요. 1년이면 720시간. 퇴근하고 운동을 가는 것도 큰 다짐이 필요해요.괴로워하는 저에게 이원제 교<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 08 May 2024 01:32:23 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624699/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[애플다운 인공지능은 기술이 아닌 경험이다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Wed, 24 Apr 2024 15:14:02 GMT</pubDate>
             <content:encoded><![CDATA[미국의 대외 안보 패키지 법안]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/623473/w/646/ex240425thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도구론과 낙관론 위에서 태어난 멸종 동물은 기후 위기의 메시아가 될 수 있을까. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/70225</link>
-            <guid>https://www.bookjournalism.com/books/70225</guid>
-            <pubDate>Wed, 08 May 2024 00:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[복제된 멸종 동물이 해결할 수 없는 문제]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/623434/w/646/240424_exp_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
