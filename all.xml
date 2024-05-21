@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 May 2024 07:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 08:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1076</guid>
             <pubDate>Mon, 20 May 2024 15:12:29 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 L룰루레몬은 ‘자신의 아파트를 소유하고 여행과 운동을 좋아하는 31세 전문직 여성’, 모노클은 ‘1년에 10회 이상 해외 출장을 다니는 C레벨’, 나이키는 ‘프로 운<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[진화는 기회주의적이고, 생명의 가능성은 종종 우리의 상상을 넘어선다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/70462</link>
+            <guid>https://www.bookjournalism.com/books/70462</guid>
+            <pubDate>Tue, 21 May 2024 08:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[굶주림의 기억은 유전된다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/625663/w/646/f240521_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[젤렌스키가 삼중고를 겪고 있다. 외부 공격만큼 내부 분열도 위험하다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Wed, 08 May 2024 15:12:10 GMT</pubDate>
             <content:encoded><![CDATA[바이든의 베트남]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624707/w/646/ex240509thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플다운 인공지능은 기술이 아닌 경험이다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/70355</link>
-            <guid>https://www.bookjournalism.com/books/70355</guid>
-            <pubDate>Tue, 07 May 2024 15:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 만들 AI 시대]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624660/w/646/240508_exp_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
