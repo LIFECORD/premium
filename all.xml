@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 00:52:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 01:54:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1078</guid>
             <pubDate>Wed, 22 May 2024 15:13:11 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 K &nbsp;방글라데시는 H&amp;M, 갭(GAP), 자라 같은 세계 의류 대기업들의 생산공장으로 통해요. 1983년 180개에 불과했던 봉제공장은 2023년 기준 3500여 개<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Thu, 23 May 2024 01:54:26 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/625840/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[불닭볶음면은 리믹스 시대를 영리하게 활용했다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Fri, 10 May 2024 08:15:04 GMT</pubDate>
             <content:encoded><![CDATA[2024년 5월 11일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624852/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리의 식문화는 비극을 품고 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/70382</link>
-            <guid>https://www.bookjournalism.com/books/70382</guid>
-            <pubDate>Thu, 23 May 2024 00:52:16 GMT</pubDate>
-            <content:encoded><![CDATA[바나나, 두리안, 커피]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624797/w/646/e240510_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
