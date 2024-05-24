@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 09:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 10:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1079</guid>
             <pubDate>Thu, 23 May 2024 15:13:32 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;경기 포천시 일동면 한나무봉 자락. 차 한 대가 간신히 지나가는 좁은 꼬불길을 지나자, 매끄러운 회색빛 콘크리트 건물이 나타납니다. 삼각뿔 지붕을 얹은 세련된 외<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[아까시나무와 딥페이크 성범죄, 네슬레의 비만 치료제 대응을 다룹니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/audio/70516</link>
+            <guid>https://www.bookjournalism.com/audio/70516</guid>
+            <pubDate>Fri, 24 May 2024 10:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 5월 25일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/626043/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Mon, 13 May 2024 15:13:24 GMT</pubDate>
             <content:encoded><![CDATA[담배의 시간]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624962/w/646/e240514_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트럼프 진영이 주한 미군 철수 가능성을 시사하고 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/70397</link>
-            <guid>https://www.bookjournalism.com/books/70397</guid>
-            <pubDate>Sun, 12 May 2024 15:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[주한 미군에 일어날 일]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624903/w/646/ex240513thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
