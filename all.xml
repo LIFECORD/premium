@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jul 2024 02:33:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jul 2024 03:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,20 +85,20 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;“시영 선배 같은 분이 각 분야에 한 명씩만 있어도 한국 청년들이 더 살 만해질 것 같다.”SBS 유튜브 채널 &lt;문명특급&gt; 69회에 달린 댓글이에요. 해당 회차에<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 03 Jul 2024 01:59:20 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/630527/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[일본 경제가 신권에 장래 희망을 담았다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/71121</link>
             <guid>https://www.bookjournalism.com/books/71121</guid>
             <pubDate>Thu, 04 Jul 2024 15:12:52 GMT</pubDate>
             <content:encoded><![CDATA[1만 엔 지폐의 얼굴]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/630473/w/646/e240705_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Wed, 03 Jul 2024 01:59:20 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/630325/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[키보드 워리어가 나타났다. (북저널리즘)]]></title>
