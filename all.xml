@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jul 2024 00:55:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 02:02:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,20 +85,20 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;‘불교 또 나 빼고 재밌는 거 하네’, ‘힙한 불교’. 지난 4월 열린 서울국제불교박람회를 두고 나온 말들이에요. 13만 명이 찾으며 역대 최다 관객 수를 기록했<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 03 Jul 2024 01:59:20 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/630735/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[온라인 서점이 AI 시대의 지배자가 된 이유 (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/71172</link>
             <guid>https://www.bookjournalism.com/books/71172</guid>
             <pubDate>Mon, 08 Jul 2024 15:13:46 GMT</pubDate>
             <content:encoded><![CDATA[서른 살, 아마존]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/630700/w/646/e240709_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Wed, 03 Jul 2024 01:59:20 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/630657/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[노동당의 승리가 아니라 보수당의 패배다. (북저널리즘)]]></title>
