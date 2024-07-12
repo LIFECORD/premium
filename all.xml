@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jul 2024 00:55:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jul 2024 02:00:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,20 +85,20 @@
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;자기 안의 이야기로 창작하는 것. 창작자의 기본기이죠. 스스로 영감받지 않고서는 타인을 감동시킬 수 없어요. 다만, 말처럼 쉽진 않죠. 내 마음대로 했다가 망할 <span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Thu, 11 Jul 2024 02:02:21 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/631045/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[PC통신 1세대 천리안이 문을 닫는다. (북저널리즘)]]></title>
             <link>https://www.bookjournalism.com/books/71210</link>
             <guid>https://www.bookjournalism.com/books/71210</guid>
             <pubDate>Thu, 11 Jul 2024 15:13:42 GMT</pubDate>
             <content:encoded><![CDATA[한 시대의 서비스 종료]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/630967/w/646/e240712_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Thu, 11 Jul 2024 02:02:21 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/630955/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[이제 유럽은 유럽이 지켜야 한다. (북저널리즘)]]></title>
