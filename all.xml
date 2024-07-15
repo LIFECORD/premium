@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jul 2024 22:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jul 2024 23:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1126</guid>
             <pubDate>Mon, 15 Jul 2024 15:15:15 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;2022년 11월 러시아의 폭격으로 폐허가 된 우크라이나의 도시 호스토멜. 어느 날 이곳의 한 건물 외벽에 그래피티graffiti가 새겨졌어요. 목욕 가운 차림의<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[도널드 트럼프 전 미국 대통령이 J.D. 밴스 상원의원을 부통령 후보로 결정했다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/71339</link>
+            <guid>https://www.bookjournalism.com/books/71339</guid>
+            <pubDate>Mon, 15 Jul 2024 23:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[힐빌리의 부통령]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/631726/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[중도 좌파 노동당이 어떻게 영국 사회를 우경화하는가. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Wed, 03 Jul 2024 15:13:57 GMT</pubDate>
             <content:encoded><![CDATA[케냐의 디지털 액티비즘]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/630311/w/646/ex240704thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국의 반일 감정은 우리의 정치와 멀지 않다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/71016</link>
-            <guid>https://www.bookjournalism.com/books/71016</guid>
-            <pubDate>Tue, 02 Jul 2024 15:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[중국 반일 정서의 실체]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/630079/w/646/240703_exp_thumb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
