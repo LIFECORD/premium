@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jul 2024 07:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jul 2024 08:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1132</guid>
             <pubDate>Sun, 21 Jul 2024 15:13:32 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;오늘부터 5일간 롱블랙은 여러분과 사유의 세계로 떠나려 합니다. &lt;사유로, 떠나다&gt; 위크를 준비했어요. 다섯 가지 생각에 잠시 머물며 쉬어가세요.&nbsp;사유 여행을 함<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[해리스가 민주당 대선 후보로 나오면 진다. 실패한 이민 정책 때문이다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/71515</link>
+            <guid>https://www.bookjournalism.com/books/71515</guid>
+            <pubDate>Mon, 22 Jul 2024 08:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[장벽이 할 수 없는 것]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632322/w/646/greatgame_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조 바이든 미국 대통령이 대선 후보직에서 사퇴했다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Thu, 11 Jul 2024 15:13:42 GMT</pubDate>
             <content:encoded><![CDATA[한 시대의 서비스 종료]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/630967/w/646/e240712_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 유럽은 유럽이 지켜야 한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/71195</link>
-            <guid>https://www.bookjournalism.com/books/71195</guid>
-            <pubDate>Wed, 10 Jul 2024 15:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[미국이 없는 유럽]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/630905/w/646/ex240711thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
