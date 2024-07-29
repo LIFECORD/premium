@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jul 2024 22:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jul 2024 23:13:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1146</guid>
             <pubDate>Mon, 29 Jul 2024 15:13:26 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;“무슨 일 하세요”라고 누가 물어보면, 뭐라고 대답할 것 같아? 대부분 직장과 직업을 말할 거야. “A 기업의 마케터입니다.” 대답하는 데 1초도 안 걸리지.가끔<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[티몬과 위메프가 기업회생을 신청했다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/71651</link>
+            <guid>https://www.bookjournalism.com/books/71651</guid>
+            <pubDate>Mon, 29 Jul 2024 23:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[밀린 대금이 1조 원]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632493/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이들은 좌파도 우파도 아니다. 기술 낙관주의자다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Fri, 19 Jul 2024 05:14:06 GMT</pubDate>
             <content:encoded><![CDATA[사다리 걷어차기 법]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632316/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실험실에서 만든 고기가 반려동물의 사료로 사용된다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/71387</link>
-            <guid>https://www.bookjournalism.com/books/71387</guid>
-            <pubDate>Fri, 19 Jul 2024 02:31:56 GMT</pubDate>
-            <content:encoded><![CDATA[배양육을 식탁에]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/631967/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
