@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jul 2024 22:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 23:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1145</guid>
             <pubDate>Tue, 30 Jul 2024 15:13:30 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;이상하리만치 길었던 장마도, 이번 주면 끝난다고 해요. 비 내리는 날은 싫어도, 비가 와야만 신을 수 있는 아이템이 있죠. 바로 레인부츠! 장마철만 되면, 가지각<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정부가 기후변화에 대응하기 위해 신규 댐 건설을 추진한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/71661</link>
+            <guid>https://www.bookjournalism.com/books/71661</guid>
+            <pubDate>Tue, 30 Jul 2024 23:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[수해와 수몰 사이]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632508/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[티몬과 위메프가 기업회생을 신청했다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Fri, 19 Jul 2024 09:13:49 GMT</pubDate>
             <content:encoded><![CDATA[2024년 7월 20일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632280/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생성형 AI 업계의 판을 뒤집을 새로운 스타트업이 나오기 어려워진다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/71201</link>
-            <guid>https://www.bookjournalism.com/books/71201</guid>
-            <pubDate>Fri, 19 Jul 2024 05:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[사다리 걷어차기 법]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632316/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
