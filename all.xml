@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Aug 2024 23:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2024 00:56:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1144</guid>
             <pubDate>Fri, 02 Aug 2024 15:14:21 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;우린 변화에 민감합니다. 나도 모르는 사이 ‘새 트렌드’가 생겼다면? 그 물결에 얼른 올라타려 하죠. 그곳에 왠지 모를 ‘기회’가 있을 것 같다고 생각하니까요.이<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한국을 비롯한 아시아 증시가 대폭락했다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/71780</link>
+            <guid>https://www.bookjournalism.com/books/71780</guid>
+            <pubDate>Tue, 06 Aug 2024 00:56:50 GMT</pubDate>
+            <content:encoded><![CDATA[블랙 먼데이]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632791/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인텔은 전략적 변곡점을 놓쳤다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Fri, 26 Jul 2024 08:16:10 GMT</pubDate>
             <content:encoded><![CDATA[AI 정전 경보]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632428/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정부가 25년 만에 상속세를 개편한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/71584</link>
-            <guid>https://www.bookjournalism.com/books/71584</guid>
-            <pubDate>Thu, 25 Jul 2024 23:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[상속세 최고세율 40퍼센트]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632417/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
