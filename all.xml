@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Aug 2024 03:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 04:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1167</guid>
             <pubDate>Thu, 22 Aug 2024 15:15:32 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;요즘 뮤지컬 인기가 심상치 않아. &lt;하데스타운Hades Town&gt;부터 &lt;시카고Chicago&gt;, &lt;킹키부츠Kinky Boots&gt;까지. 세계적인 뮤지컬 세 편이 모두<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AI는 선과 악을 초월한 존재일까. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/72010</link>
+            <guid>https://www.bookjournalism.com/books/72010</guid>
+            <pubDate>Fri, 23 Aug 2024 04:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[과학자의 면죄부]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633241/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동물원에 갇힌 동물에서만 보이는 행동이 있다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Mon, 12 Aug 2024 23:14:22 GMT</pubDate>
             <content:encoded><![CDATA[안보의 시대]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632944/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방글라데시가 두 번째 독립을 맞았다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/71859</link>
-            <guid>https://www.bookjournalism.com/books/71859</guid>
-            <pubDate>Mon, 12 Aug 2024 08:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[두 번째 독립]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632933/w/646/greatgame_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
