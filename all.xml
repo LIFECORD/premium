@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Sep 2024 22:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Sep 2024 23:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1182</guid>
             <pubDate>Thu, 05 Sep 2024 15:13:48 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;북촌 설화수의 집, 더현대 서울 식품관, 오설록 티하우스… 컨셉이 확실한 공간 경험으로 유명한 곳들이죠. 이들 공간의 분위기를 만든 스타일링 스튜디오가 있어요. <span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[성산에 제주공항 1.5배 크기로 2공항을 짓는다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/72226</link>
+            <guid>https://www.bookjournalism.com/books/72226</guid>
+            <pubDate>Thu, 05 Sep 2024 23:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[2034 제주2공항]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633733/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마지막 연금 개혁이 2007년이었다. 더는 미룰 수 없다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Mon, 26 Aug 2024 23:14:52 GMT</pubDate>
             <content:encoded><![CDATA[기후 부채를 갚을 시간]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633410/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배터리가 지배하는 세상에서 배터리를 지배하는 기업이 있다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/72051</link>
-            <guid>https://www.bookjournalism.com/books/72051</guid>
-            <pubDate>Mon, 26 Aug 2024 12:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[CATL은 어떻게 세계 1위가 됐나]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633428/w/646/greatgame_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
