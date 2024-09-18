@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Sep 2024 22:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Sep 2024 23:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1195</guid>
             <pubDate>Wed, 18 Sep 2024 15:14:48 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;우린 일하면서 수많은 사람과 이야길 주고받아요. 늘 좋은 결과를 낳진 않죠. 잘못 꺼낸 말 한마디에 분위기가 살얼음판이 될 때도 있잖아요. 상사나 클라이언트처럼 <span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[레바논 전역에서 호출기 폭발 공격이 일어났다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/72333</link>
+            <guid>https://www.bookjournalism.com/books/72333</guid>
+            <pubDate>Wed, 18 Sep 2024 23:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[삐삐가 폭발했다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633990/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI가 인터넷을 죽이고 있다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Wed, 04 Sep 2024 23:14:41 GMT</pubDate>
             <content:encoded><![CDATA[4%p 더 내고 2%p 더 받는 연금 개혁]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633727/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폭스바겐이 경영난으로 독일 내 공장 문을 닫는다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/72210</link>
-            <guid>https://www.bookjournalism.com/books/72210</guid>
-            <pubDate>Tue, 03 Sep 2024 23:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[진격의 중국차]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633696/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
