@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Sep 2024 08:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 09:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1196</guid>
             <pubDate>Thu, 19 Sep 2024 15:14:46 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈&nbsp;C&nbsp;잠실을 지나가다가 한 건물의 유리 벽을 가득 채운 일러스트를 봤어요. 분홍색 정장을 입은 여성이 금발을 휘날리며 경쾌하게 걷고 있어요.&nbsp;그런데 자세히 보니, 정장<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AI가 신기함을 넘어 유용함으로 나아가기 위해서는 패러다임을 바꿔야 한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/72364</link>
+            <guid>https://www.bookjournalism.com/books/72364</guid>
+            <pubDate>Fri, 20 Sep 2024 09:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[AI 에이전트의 조건]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634097/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기후 행동을 돕는 수사법, 숏폼 드라마 열풍을 다룹니다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Fri, 06 Sep 2024 12:24:56 GMT</pubDate>
             <content:encoded><![CDATA[오리온, 스트로베리]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633849/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 최초의 뉴스 기반 데이팅 앱, 오아시스 티켓값의 비밀을 다룹니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/72234</link>
-            <guid>https://www.bookjournalism.com/audio/72234</guid>
-            <pubDate>Fri, 06 Sep 2024 14:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 9월 7일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633743/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
