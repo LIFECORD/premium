@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Oct 2024 21:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Oct 2024 22:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1213</guid>
             <pubDate>Tue, 01 Oct 2024 15:14:38 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;최근 구글이 투자한 회사들을 보다가, 흥미로운 이름을 발견했어.&nbsp;이름은 몬조Monzo. 영국의 디지털 은행이야. 토스뱅크와 카카오뱅크 같은 곳이지. 구글은 202<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이란이 이스라엘을 향해 대규모 미사일 공격을 감행했다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/72498</link>
+            <guid>https://www.bookjournalism.com/books/72498</guid>
+            <pubDate>Tue, 01 Oct 2024 22:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[더 위험한 중동]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634415/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이스라엘과 ‘저항의 축’의 충돌했다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Fri, 20 Sep 2024 09:18:19 GMT</pubDate>
             <content:encoded><![CDATA[AI 에이전트의 조건]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634097/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기후 행동을 돕는 수사법, 숏폼 드라마 열풍을 다룹니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/72350</link>
-            <guid>https://www.bookjournalism.com/audio/72350</guid>
-            <pubDate>Fri, 20 Sep 2024 08:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 9월 21일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634076/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
