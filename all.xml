@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Oct 2024 23:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 01:03:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1220</guid>
             <pubDate>Wed, 09 Oct 2024 15:14:10 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 K지금 살고 있는 집에 대해 얼마나 알고 계신가요? 혹시 이런 질문부터 낯설지는 않으신가요?&nbsp;사람들이 집에서 보내는 시간은 하루 평균 14시간. 가장 익숙한 이 공간<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AI 연구자가 노벨 물리학상과 노벨 화학상을 받게 됐다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/72568</link>
+            <guid>https://www.bookjournalism.com/books/72568</guid>
+            <pubDate>Thu, 10 Oct 2024 01:03:14 GMT</pubDate>
+            <content:encoded><![CDATA[노벨상 휩쓰는 AI]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634612/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기후 대응의 방향과 속도를 결정할 미국 대선, 해리스와 트럼프의 입장은 무엇인가. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Fri, 27 Sep 2024 08:18:43 GMT</pubDate>
             <content:encoded><![CDATA[2024년 9월 28일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634234/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[딥페이크 특별법이 국회를 통과했다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/72435</link>
-            <guid>https://www.bookjournalism.com/books/72435</guid>
-            <pubDate>Thu, 26 Sep 2024 23:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[딥페이크 성 착취물 시청하면 최대 3년형]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634381/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
