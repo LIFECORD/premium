@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Oct 2024 22:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 23:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1233</guid>
             <pubDate>Wed, 23 Oct 2024 15:14:47 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 K&nbsp;2주 전 실패박물관 창립자를 L과 인터뷰할 때였어요. 창립자는 “실패를 대하는 태도가 멋진 사람을 알고 있다”며 이름 하나를 말하더라고요. 사라 블레이클리Sara<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ARM과 퀄컴의 반도체 전쟁이 시작됐다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/72760</link>
+            <guid>https://www.bookjournalism.com/books/72760</guid>
+            <pubDate>Wed, 23 Oct 2024 23:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[AI 시대의 생존 전략]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635260/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일론 머스크의 트럼프 선거 운동 지원이 사업에 영향을 줄 수 있다는 우려가 나온다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Mon, 14 Oct 2024 08:19:23 GMT</pubDate>
             <content:encoded><![CDATA[구글 없는 세상]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634675/w/646/greatgame_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화석 연료 연소로 인한 이산화탄소 배출량이 올해부터 감소할 것이라는 전망이 나왔다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/72594</link>
-            <guid>https://www.bookjournalism.com/books/72594</guid>
-            <pubDate>Sun, 13 Oct 2024 22:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[이제 줄어든다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634651/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
