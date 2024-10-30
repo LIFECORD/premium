@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Oct 2024 22:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 23:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1241</guid>
             <pubDate>Wed, 30 Oct 2024 15:14:54 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 B여러분은 ‘내 일’을 얼마나 안다고 생각하시나요? 전 10년 넘게 에디터로 일했지만, 여전히 모르겠습니다. 신입 때는 이쯤 되면 원고를 눈감고도 쓸 줄 알았어요. <span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[전국 학교 절반의 반경 1킬로미터 이내에 성범죄자가 거주한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/72848</link>
+            <guid>https://www.bookjournalism.com/books/72848</guid>
+            <pubDate>Wed, 30 Oct 2024 23:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[학교 근처 성범죄자]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635401/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이스라엘이 유엔 팔레스타인 난민 구호 기구의 활동을 금지시켰다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Sun, 20 Oct 2024 23:14:50 GMT</pubDate>
             <content:encoded><![CDATA[샘 올트먼의 ‘월드’ 프로젝트]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635213/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이탈리아의 위조 와인 사기단, 앤트로픽 CEO의 AI 전망을 다룹니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/72715</link>
-            <guid>https://www.bookjournalism.com/audio/72715</guid>
-            <pubDate>Sun, 20 Oct 2024 23:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 10월 19일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635114/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
