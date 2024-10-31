@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Oct 2024 22:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Oct 2024 23:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1242</guid>
             <pubDate>Thu, 31 Oct 2024 15:15:48 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;11월의 첫날입니다. 10월에서 숫자 하나만 바뀌었을 뿐인데, 왠지 더 쓸쓸한 기분이에요. 그런 제 마음을 보이고 싶어, 오늘은 검은색 옷을 꺼냈습니다. 실제로 <span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 대통령과 명태균 씨의 통화 녹음 파일이 공개됐다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/72863</link>
+            <guid>https://www.bookjournalism.com/books/72863</guid>
+            <pubDate>Thu, 31 Oct 2024 23:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[대통령의 육성]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635428/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전국 학교 절반의 반경 1킬로미터 이내에 성범죄자가 거주한다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Mon, 21 Oct 2024 08:19:38 GMT</pubDate>
             <content:encoded><![CDATA[신와르의 죽음]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635223/w/646/greatgame_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기본소득 프로젝트, ‘월드 네트워크’가 신원 증명에 여권을 도입한다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/72734</link>
-            <guid>https://www.bookjournalism.com/books/72734</guid>
-            <pubDate>Sun, 20 Oct 2024 23:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[샘 올트먼의 ‘월드’ 프로젝트]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635213/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
