@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Nov 2024 22:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Nov 2024 23:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1247</guid>
             <pubDate>Tue, 05 Nov 2024 15:15:19 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 B손가락만 한 숯 조각 수만 개가 공중에 떠 있어요. 가까이서 들여다보면 투명한 낚싯줄에 매달려 있죠. 공중에 점이 가득 찍힌 것 같아요. 한발 한발 뒤로 물러서면 <span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미국 대선 투표가 5일 0시부터 미국 뉴햄프셔주 딕스빌 노치를 시작으로 미국 전역에서 시작됐다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/72910</link>
+            <guid>https://www.bookjournalism.com/books/72910</guid>
+            <pubDate>Tue, 05 Nov 2024 23:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[첫 개표 결과는 3 대 3]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635508/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[7개 경합주가 승패를 가른다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Fri, 25 Oct 2024 08:19:00 GMT</pubDate>
             <content:encoded><![CDATA[퀄컴과 ARM의 팹리스 전쟁]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635305/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK하이닉스가 올해 3분기에 사상 최대 실적을 냈다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/72767</link>
-            <guid>https://www.bookjournalism.com/books/72767</guid>
-            <pubDate>Thu, 24 Oct 2024 23:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[SK하이닉스가 삼성을 제쳤다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635294/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
