@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Nov 2024 01:04:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 02:43:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,7 +82,7 @@
             <link>https://www.longblack.co/note/1247</link>
             <guid>https://www.longblack.co/note/1247</guid>
             <pubDate>Tue, 05 Nov 2024 15:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[롱블랙 프렌즈 B손가락만 한 숯 조각 수만 개가 공중에 떠 있어요. 가까이서 들여다보면 투명한 낚싯줄에 매달려 있죠. 공중에 점이 가득 찍힌 것 같아요. 한발 한발 뒤로 물러서면 <span class="circle-punctuation"></span>]]></content:encoded>
+            <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;손가락만 한 숯 조각 수만 개가 공중에 떠 있어요. 가까이서 들여다보면 투명한 낚싯줄에 매달려 있죠. 공중에 점이 가득 찍힌 것 같아요. 한발 한발 뒤로 물러서면<span class="circle-punctuation"></span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[미국 대선 투표가 5일 0시부터 미국 뉴햄프셔주 딕스빌 노치를 시작으로 미국 전역에서 시작됐다. (북저널리즘)]]></title>
