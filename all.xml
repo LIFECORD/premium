@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Nov 2024 09:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Nov 2024 10:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1250</guid>
             <pubDate>Sun, 10 Nov 2024 15:13:41 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;몇 주 전 강화도에서 밤하늘을 올려다봤습니다. 쏟아질 것 같이 많은 별들이, 촘촘히 박혀 있었습니다. 너무 선명해서 어떤 별자리인지도 알아볼 정도였어요. 왜인지 <span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트럼프가 승리한 까닭은 인플레이션이다. 이걸 해결하기 위해 트럼프는 무엇이든 한다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/72960</link>
+            <guid>https://www.bookjournalism.com/books/72960</guid>
+            <pubDate>Mon, 11 Nov 2024 10:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[더 강한 달러의 도래]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635572/w/646/greatgame_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트럼프 2기를 앞두고 우리나라 경제의 3대 변수인 환율, 금리, 물가가 모두 상승할 수 있다는 우려가 나온다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Wed, 30 Oct 2024 23:14:31 GMT</pubDate>
             <content:encoded><![CDATA[학교 근처 성범죄자]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635401/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이스라엘이 유엔 팔레스타인 난민 구호 기구의 활동을 금지시켰다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/72835</link>
-            <guid>https://www.bookjournalism.com/books/72835</guid>
-            <pubDate>Tue, 29 Oct 2024 23:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[국제기구도 내쫓는 이스라엘]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635388/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
