@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Nov 2024 22:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2024 23:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1266</guid>
             <pubDate>Thu, 28 Nov 2024 15:15:20 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;11월 27일 아침의 서울은 온통 새하얬어. &lt;롱블랙 컨퍼런스 2025 : 경험과 공감&gt; 둘째 날 행사가 열린 서울 삼성동 코엑스. 3층 창밖엔 한 폭의 그림이 <span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한국은행이 내년 성장률 전망치를 1.9퍼센트로 0.2퍼센트포인트 낮췄다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/73187</link>
+            <guid>https://www.bookjournalism.com/books/73187</guid>
+            <pubDate>Thu, 28 Nov 2024 23:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[내년 경제 1퍼센트대 성장]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/636019/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이스라엘과 레바논 무장 단체 헤즈볼라가 휴전에 합의했다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Mon, 18 Nov 2024 23:14:33 GMT</pubDate>
             <content:encoded><![CDATA[3차 세계 대전의 전조]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635739/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올겨울 역대급 한파가 찾아온다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/73013</link>
-            <guid>https://www.bookjournalism.com/books/73013</guid>
-            <pubDate>Sun, 17 Nov 2024 23:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[갑자기 겨울]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/635682/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
