@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Dec 2024 22:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Dec 2024 23:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1278</guid>
             <pubDate>Wed, 11 Dec 2024 15:15:57 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;부루마블 해보신 분? 1982년 한국에 처음 나와 지금까지 2000만 개가 팔린 ‘국민 보드게임’이에요. 지금도 매년 약 20만 개씩 팔리고 있고요. 플레이 방법<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[12월 3일 밤 윤석열 대통령의 비상계엄 선포 전후 국무회의 상황이 드러났다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/73383</link>
+            <guid>https://www.bookjournalism.com/books/73383</guid>
+            <pubDate>Wed, 11 Dec 2024 23:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[5분짜리 국무회의]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/636783/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[673조 3000억 원 규모의 내년도 예산안이 10일 국회 본회의를 통과했다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Fri, 29 Nov 2024 08:20:23 GMT</pubDate>
             <content:encoded><![CDATA[AI의 성장이 멈춘다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/636140/w/646/aiwontsaveus.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러-우 전쟁 1000일, 덴마크의 방귀세를 다룹니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/audio/73194</link>
-            <guid>https://www.bookjournalism.com/audio/73194</guid>
-            <pubDate>Fri, 29 Nov 2024 08:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 11월 30일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/636030/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
