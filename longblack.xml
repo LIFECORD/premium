@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2024-12-31T15:14:13.809Z</updated>
+    <updated>2024-12-31T16:16:56.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/1299</id>
         <link href="https://www.longblack.co/note/1299"/>
         <updated>2024-12-31T15:13:44.490Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 K2025년 새해가 밝았어요. 1월 1일은 새로운 다짐을 하기 좋은 날이죠. 롱블랙 피플에게 어떤 이야길 전할까 고심하다, 무라카미 하루키村上春樹의 ‘달리기’를 떠올<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;2025년 새해가 밝았어요. 1월 1일은 새로운 다짐을 하기 좋은 날이죠. 롱블랙 피플에게 어떤 이야길 전할까 고심하다, 무라카미 하루키村上春樹의 ‘달리기’를 떠<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
