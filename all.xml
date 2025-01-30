@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jan 2025 06:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jan 2025 07:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1327</guid>
             <pubDate>Wed, 29 Jan 2025 15:14:25 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 C&nbsp;달콤했던 연휴가 끝나가요! 다들 원 없이 쉬셨나요? 아, 도파민에 절여져 있었다고요?&nbsp;사실 제가 그랬어요. 고향 집에 가자마자 침대에 누워 쇼츠shorts를 잔뜩<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[중국의 한 스타트업이 증명했습니다. AI는 돈의 문제가 아니라 과학의 문제라는 것을 말이죠. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/74538</link>
+            <guid>https://www.bookjournalism.com/books/74538</guid>
+            <pubDate>Thu, 30 Jan 2025 07:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[AI의 아하! 모멘트]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/643135/w/646/r2401302.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[트럼프가 이번 대선에서 틱톡 덕을 톡톡히 봤으니, 틱톡에 유리하게 움직일 것이라는 전망은 순진한 정도가 아니라 무지합니다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Tue, 07 Jan 2025 11:12:19 GMT</pubDate>
             <content:encoded><![CDATA[러시아 천연가스와 독일 정치의 50년사 ②]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/642282/w/646/r250107.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올라프 숄츠 연립 정부가 무너졌습니다. 독일이 직면한 정치 위기의 연원을 따라가면 러시아산 천연가스가 있습니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/73873</link>
-            <guid>https://www.bookjournalism.com/books/73873</guid>
-            <pubDate>Mon, 06 Jan 2025 11:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[러시아 천연가스와 독일 정치의 50년사 ①]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/640575/w/646/r241231.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
