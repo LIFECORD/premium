@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.longblack.co/</id>
     <title>롱블랙</title>
-    <updated>2025-02-17T15:15:44.688Z</updated>
+    <updated>2025-02-17T16:18:05.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.longblack.co/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.longblack.co/note/1347</id>
         <link href="https://www.longblack.co/note/1347"/>
         <updated>2025-02-17T15:15:09.647Z</updated>
-        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;2024년 11월, 한국에 진출한 프랑스산 커뮤니티 서비스가 있어요. 이름은 타임레프트Timeleft. 낯선 사람들과의 저녁 식사를 주선하는 앱이에요.&nbsp;이 서비스<span class="circle-punctuation"></span>]]></content>
+        <content type="html"><![CDATA[롱블랙 프렌즈 K&nbsp;2024년 8월, 한국에 진출한 프랑스산 커뮤니티 서비스가 있어요. 이름은 타임레프트Timeleft. 낯선 사람들과의 저녁 식사를 주선하는 앱이에요.&nbsp;이 서비스,<span class="circle-punctuation"></span>]]></content>
     </entry>
 </feed>
