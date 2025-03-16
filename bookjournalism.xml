@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.bookjournalism.com/books</id>
-    <title>북저널리즘</title>
-    <updated>2025-03-15T23:13:35.252Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.bookjournalism.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>북저널리즘</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 16 Mar 2025 01:13:08 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국과 러시아가 밀착하고 있습니다. 80년간 이어져 온 세계 질서가 붕괴하고 있습니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74776</link>
+            <guid>https://www.bookjournalism.com/books/74776</guid>
+            <pubDate>Sun, 16 Mar 2025 01:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[미국의 편이 바뀌면]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/645595/w/646/r250313.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미세 먼지는 환경 의제라기 보다는 안전 의제에 가까웠습니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74769</link>
+            <guid>https://www.bookjournalism.com/books/74769</guid>
+            <pubDate>Sun, 16 Mar 2025 01:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[공기 청정기로는 거를 수 없는 것]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/645474/w/646/r250312.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[뇌세포를 이용한 컴퓨터가 상용화됩니다. 5000만 원입니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74761</link>
+            <guid>https://www.bookjournalism.com/books/74761</guid>
+            <pubDate>Sun, 16 Mar 2025 01:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[지속 가능한 컴퓨터의 정의]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/645461/w/646/r250311.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[5년 만기 대출을 상환해야 할 시점이 도래하면서 자영업자들이 넘어지기 시작했습니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74755</link>
+            <guid>https://www.bookjournalism.com/books/74755</guid>
+            <pubDate>Sun, 16 Mar 2025 01:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[지급 불능]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/645341/w/646/r250310.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[언론사는 신뢰를 잃고 새롭게 등장한 뉴스 크리에이터는 신뢰를 얻었습니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74749</link>
+            <guid>https://www.bookjournalism.com/books/74749</guid>
+            <pubDate>Sun, 16 Mar 2025 01:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[언론 불신의 이유]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/645270/w/646/r240306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[홈플러스에 문제가 생겼습니다. 쿠팡 때문만은 아닙니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74736</link>
+            <guid>https://www.bookjournalism.com/books/74736</guid>
+            <pubDate>Sun, 16 Mar 2025 01:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[숫자를 보는 리더십]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/645165/w/646/r240305.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시대에 따라 결혼과 사랑 간의 관계도, 결혼이 개인에게 갖는 의미도 달라집니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74726</link>
+            <guid>https://www.bookjournalism.com/books/74726</guid>
+            <pubDate>Sun, 16 Mar 2025 01:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[아파트에서 만나요]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/645090/w/646/r250304.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[지도는 돈이 됩니다. 구글이 한국에 지도를 요구합니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74716</link>
+            <guid>https://www.bookjournalism.com/books/74716</guid>
+            <pubDate>Sun, 16 Mar 2025 01:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[고정밀 지도 반출 작전]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/644964/w/646/r250227.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[스타벅스는 비싸져서 실패한 것이 아닙니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74707</link>
+            <guid>https://www.bookjournalism.com/books/74707</guid>
+            <pubDate>Sun, 16 Mar 2025 01:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[대화의 가치]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/644831/w/646/r250226b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인간이 넘어서는 안될 선을 넘는 것처럼 느껴지지만, 우리는 그 선을 진작에 넘어섰을지도 모릅니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74692</link>
+            <guid>https://www.bookjournalism.com/books/74692</guid>
+            <pubDate>Sun, 16 Mar 2025 01:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[형광 토끼를 팝니다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/644812/w/646/r250225.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[니콜라는 10년 동안 실체도 없는 회사의 미래 가치를 팔아 회사를 운영해 왔습니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74677</link>
+            <guid>https://www.bookjournalism.com/books/74677</guid>
+            <pubDate>Sun, 16 Mar 2025 01:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[언덕을 굴러 내려간 트럭]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/644661/w/646/r250225.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[서울은 비싼 도시가 되었습니다. 그래서 쓰레기를 버릴 곳이 더는 없습니다.]]></title>
+            <link>https://www.bookjournalism.com/books/74666</link>
+            <guid>https://www.bookjournalism.com/books/74666</guid>
+            <pubDate>Sun, 16 Mar 2025 01:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[쓰레기의 비용]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/644454/w/646/r250220.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
