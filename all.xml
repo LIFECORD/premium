@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Mar 2025 08:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 09:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1386</guid>
             <pubDate>Tue, 25 Mar 2025 15:16:24 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 B&nbsp;일하다 보면 유독 ‘번뜩이는 아이디어’를 가져오는 동료들이 있습니다. 비결을 물으니 다들 비슷한 대답을 내놓죠. “평소 주변을 관찰하는 게 습관이다.”이들은 특별<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이제 산불은 사건이 아니라 일상이 된 겁니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/74906</link>
+            <guid>https://www.bookjournalism.com/books/74906</guid>
+            <pubDate>Wed, 26 Mar 2025 09:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[주저앉은 불곰]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/646873/w/646/r250326.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국민연금이라는 제도 자체에 결함이 있기 때문일지도 모릅니다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Sun, 16 Mar 2025 01:13:00 GMT</pubDate>
             <content:encoded><![CDATA[지급 불능]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/645341/w/646/r250310.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[언론사는 신뢰를 잃고 새롭게 등장한 뉴스 크리에이터는 신뢰를 얻었습니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/74749</link>
-            <guid>https://www.bookjournalism.com/books/74749</guid>
-            <pubDate>Sun, 16 Mar 2025 01:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[언론 불신의 이유]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/645270/w/646/r240306.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
