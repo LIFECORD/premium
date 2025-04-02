@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Apr 2025 08:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 10:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,6 +83,14 @@
             <guid>https://www.longblack.co/note/1394</guid>
             <pubDate>Tue, 01 Apr 2025 15:16:36 GMT</pubDate>
             <content:encoded><![CDATA[롱블랙 프렌즈 L&nbsp;혹시 좋아하는 커머스가 있어? 난 컬리. 내 입맛을 완전히 바꿔놨거든. 그릭 요거트도 감바스도, 난 컬리 덕에 눈 떴어. 주말 아침은 컬리가 배달한 누들 샐러드와<span class="circle-punctuation"></span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[샘 올트먼에게는 ‘한방’이 필요했습니다. (북저널리즘)]]></title>
+            <link>https://www.bookjournalism.com/books/74972</link>
+            <guid>https://www.bookjournalism.com/books/74972</guid>
+            <pubDate>Wed, 02 Apr 2025 10:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[호모 파베르의 다음 도구]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/647293/w/646/r250402.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[망가진 권력의 민낯은 재해 앞에서 폭로됩니다. (북저널리즘)]]></title>
@@ -171,14 +179,6 @@
             <pubDate>Mon, 17 Mar 2025 09:17:53 GMT</pubDate>
             <content:encoded><![CDATA[예외적인 어린이]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/645748/w/646/r250317.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국과 러시아가 밀착하고 있습니다. 80년간 이어져 온 세계 질서가 붕괴하고 있습니다. (북저널리즘)]]></title>
-            <link>https://www.bookjournalism.com/books/74776</link>
-            <guid>https://www.bookjournalism.com/books/74776</guid>
-            <pubDate>Sun, 16 Mar 2025 01:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[미국의 편이 바뀌면]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/645595/w/646/r250313.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
